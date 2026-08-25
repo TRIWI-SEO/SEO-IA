@@ -1,0 +1,167 @@
+# Pesquisa de Palavras-Chave: Como Encontrar as Oportunidades Certas
+
+Pesquisa de palavras-chave é o processo de identificar, analisar e priorizar os termos que seu público-alvo busca no Google, para criar conteúdo que atenda essa demanda e gere resultados de negócio. É o ponto de partida de qualquer [estratégia de conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): sem pesquisa de palavras-chave, não há como saber se existe demanda para o que você pretende publicar, quem são seus concorrentes reais na SERP, ou qual o potencial de retorno de cada página criada.
+
+Empresas que pulam essa etapa, ou a fazem superficialmente, acabam produzindo conteúdo para keywords sem volume, com intenção errada ou com competição inacessível. O resultado: páginas que existem mas não geram tráfego, leads ou receita. A pesquisa de palavras-chave é o que transforma produção de conteúdo em investimento com retorno previsível.
+
+Esta página é o guia prático de pesquisa de palavras-chave: da definição ao processo passo a passo, dos tipos de keywords aos erros que desperdiçam orçamento e esforço.
+
+---
+
+## 🔍 O Que É Pesquisa de Palavras-Chave
+
+Pesquisa de palavras-chave (keyword research) é a disciplina de SEO que mapeia a demanda real de busca do seu público. Não é uma atividade técnica isolada; é um estudo de mercado digital: o que as pessoas buscam é o que precisam, o que querem comprar, o que não entendem, o que estão comparando.
+
+### Definição e Importância Estratégica
+
+Na prática, pesquisa de palavras-chave responde a quatro perguntas fundamentais: o que meu público busca no Google relacionado ao meu negócio (demanda), quantas pessoas buscam cada termo por mês (volume), o que esperam encontrar ao buscar (intenção) e quão difícil é conquistar posições para cada termo (competição).
+
+Essas quatro respostas determinam: quais páginas criar, em que ordem de prioridade, com que formato e profundidade, e que resultado esperar. Sem elas, qualquer decisão de conteúdo é um chute, pode acertar por sorte, mas não de forma previsível e escalável.
+
+A importância estratégica vai além de SEO. Os dados de keyword research revelam como seu mercado pensa: quais dúvidas tem, que linguagem usa, quais problemas prioriza, em que estágio da jornada de compra está. Esses insights alimentam não apenas conteúdo, mas posicionamento de produto, argumentação comercial e comunicação da marca.
+
+### Keywords São Perguntas do Seu Cliente: Não Termos Técnicos
+
+A armadilha mais comum em pesquisa de palavras-chave é tratá-la como exercício técnico: abrir uma ferramenta, listar termos com volume, exportar planilha e considerar feito. Na realidade, cada keyword é uma expressão da necessidade de uma pessoa real.
+
+"Como escolher uma agência de SEO" não é uma keyword; é alguém com um problema (precisa de SEO), numa fase específica da jornada (avaliando fornecedores), com uma expectativa concreta (critérios para decidir). Entender isso muda radicalmente o conteúdo que você cria: em vez de uma página genérica sobre "agências de SEO", você cria um guia de avaliação que responde exatamente ao que a pessoa precisa naquele momento.
+
+Essa perspectiva, keywords como perguntas do cliente, não como termos técnicos, é o que separa pesquisa de palavras-chave superficial de pesquisa que gera resultado.
+
+---
+
+## 📊 Tipos de Palavras-Chave
+
+Nem todas as palavras-chave são iguais. Classificá-las corretamente é essencial para priorizar esforços e alinhar conteúdo à estratégia.
+
+### Head Terms vs. Long Tail
+
+**Head terms** são keywords curtas e genéricas: "SEO", "marketing digital", "e-commerce". Têm volume alto (milhares a milhões de buscas/mês), competição extrema e intenção frequentemente ambígua. Conquistar posições para head terms exige autoridade de domínio massiva e leva meses ou anos.
+
+**Long tail** são variações longas e específicas: "como fazer SEO para loja virtual de moda feminina", "agência de SEO especializada em B2B", "pesquisa de palavras-chave para e-commerce". Têm volume individual menor (dezenas a centenas de buscas/mês), competição acessível, intenção clara e taxa de conversão significativamente maior.
+
+Dados do Ahrefs mostram que 92% de todas as keywords têm menos de 10 buscas/mês, o universo de long tail é massivo. E embora cada keyword individual tenha volume baixo, o tráfego acumulado de dezenas ou centenas de long tails frequentemente supera o de um único head term. A estratégia de [pilarização e pulverização](pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md) explora exatamente isso: o pilar ataca o head term, os satélites capturam o long tail.
+
+### Keywords por Intenção de Busca
+
+A [intenção de busca](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md) é a variável mais importante na classificação de keywords:
+
+**Informacional**: o usuário quer aprender: "o que é SEO", "como funciona o Google", "pesquisa de palavras-chave o que é". Conteúdo ideal: guias, artigos educativos, explicações.
+
+**Comercial**: o usuário está avaliando opções: "melhor ferramenta de keyword research", "SEMrush vs. Ahrefs", "agência de SEO com resultados comprovados". Conteúdo ideal: comparativos, reviews, análises.
+
+**Transacional**: o usuário quer agir: "contratar consultoria SEO", "comprar SEMrush", "agência SEO cotação". Conteúdo ideal: páginas de serviço, landing pages, formulários de contato.
+
+**Navegacional**, o usuário busca um site específico: "TRIWI SEO", "Google Search Console login". Geralmente não é alvo de estratégia de conteúdo, o usuário já sabe aonde quer ir.
+
+A priorização inteligente equilibra os quatro tipos: informacional para volume e autoridade topical, comercial para qualificação, transacional para conversão.
+
+### Keywords Branded vs. Non-Branded
+
+**Branded** são keywords que contêm o nome da marca: "TRIWI agência SEO", "metodologia TRIWI". O site da marca já tem vantagem natural para essas buscas.
+
+**Non-branded** são keywords genéricas do setor: "agência de SEO especializada", "pesquisa de palavras-chave guia". Aqui está a disputa real, conquistar posições para non-branded é o que gera tráfego de pessoas que ainda não conhecem sua marca.
+
+Uma estratégia de SEO madura equilibra ambas: protege as branded (garantir posição 1 para o próprio nome) e conquista non-branded progressivamente para expandir a base de tráfego.
+
+---
+
+## 🛠️ Como Fazer Pesquisa de Palavras-Chave
+
+O processo de pesquisa de palavras-chave segue quatro etapas sequenciais; cada uma alimenta a próxima.
+
+### Passo 1: Brainstorm de Temas do Negócio
+
+O ponto de partida não é a ferramenta; é o negócio. Antes de abrir qualquer software, mapeie: quais são os serviços ou produtos que a empresa oferece, quais problemas o cliente resolve, quais perguntas os prospects fazem antes de comprar, que termos a equipe comercial usa nas conversas com leads, e quais temas o negócio quer ser reconhecido como autoridade.
+
+Esse mapeamento gera uma lista de "temas-semente", os universos temáticos que serão expandidos com ferramentas. Para uma agência de SEO, por exemplo: "SEO técnico", "link building", "SEO para e-commerce", "migração de site", "otimização para IAs". Cada tema-semente se tornará um cluster potencial na [estratégia de pilarização](pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md).
+
+### Passo 2: Ferramentas (SEMrush, Ahrefs, Keyword Planner, Answer the Public)
+
+Com os temas-semente definidos, as ferramentas expandem cada um em dezenas ou centenas de variações com dados quantitativos:
+
+**SEMrush e Ahrefs**: as ferramentas mais completas para keyword research profissional. Fornecem: volume de busca mensal, dificuldade de keyword (KD%), análise de SERP (quem está posicionado), keywords relacionadas, perguntas frequentes e gaps vs. concorrentes. O relatório de "keyword gap" é especialmente valioso: mostra keywords para as quais seus concorrentes ranqueiam e você não.
+
+**Google Keyword Planner**: ferramenta gratuita do Google Ads. Fornece estimativas de volume e sugestões de keywords. Limitação: os dados de volume são faixas (100-1K, 1K-10K), não números exatos. Útil como complemento, não como ferramenta única.
+
+**Answer the Public e AlsoAsked**, ferramentas que mapeiam perguntas reais que as pessoas fazem sobre um tema. Excelentes para identificar keywords de intenção informacional e oportunidades de conteúdo em formato Q&A, formato que LLMs extraem com facilidade.
+
+**Google Suggest e People Also Ask**: fontes gratuitas e atualizadas. O autocomplete do Google revela buscas reais e frequentes. O "People Also Ask" na SERP mostra perguntas relacionadas que o Google considera relevantes para cada query.
+
+### Passo 3: Análise da Concorrência
+
+A pesquisa de palavras-chave não existe no vácuo; ela é competitiva. Antes de decidir atacar uma keyword, analise quem já está posicionado: quais sites dominam o Top 10, qual a autoridade de domínio deles, que tipo de conteúdo criaram (extensão, formato, profundidade) e quantos backlinks as páginas posicionadas têm.
+
+Se o Top 10 é dominado por sites com DR 80+ (como Wikipedia, HubSpot, Neil Patel), a competição é alta. Se há sites com DR 30-50 no Top 10, a keyword é acessível para sites com autoridade similar. A análise de concorrência calibra expectativas e evita investir em keywords impossíveis de conquistar no curto prazo.
+
+### Passo 4: Priorização (Volume × Dificuldade × Intenção × Valor de Negócio)
+
+A priorização é a etapa que transforma uma lista de keywords em um plano de ação. Cada keyword é avaliada em quatro dimensões cruzadas:
+
+**Volume**: existe demanda suficiente? Keywords com 0 buscas/mês não justificam uma página dedicada (a menos que sejam estratégicas para autoridade topical).
+
+**Dificuldade**: podemos competir? Compare a dificuldade da keyword com a autoridade atual do seu site. Atacar keywords com KD% muito acima da sua autoridade é investimento de longo prazo.
+
+**Intenção**: o conteúdo que podemos criar atende ao que o usuário quer? Se a intenção é transacional mas não temos página de serviço, o conteúdo não vai ranquear.
+
+**Valor de negócio**: essa keyword atrai pessoas que podem se tornar clientes? Uma keyword com 10.000 buscas/mês mas zero relevância comercial gera tráfego, não receita.
+
+Na TRIWI, a pesquisa de palavras-chave é parte do "Estudo de Mercado e Intenção de Busca", que vai além de listar keywords. Mapeamos o domínio de conhecimento do cliente, identificamos gaps competitivos e priorizamos por retorno de negócio. Cada keyword que entra no plano de conteúdo foi avaliada nas quatro dimensões, com critério claro de prioridade, parte integrante da [metodologia com 300+ atividades](../triwi/metodologia-triwi.md).
+
+---
+
+## 📐 Da Keyword ao Conteúdo
+
+Pesquisa de palavras-chave gera dados. O próximo passo é transformar esses dados em um plano de conteúdo executável.
+
+### Agrupamento de Keywords (Clustering)
+
+Uma página não deve atacar uma única keyword, deve cobrir um grupo de keywords semanticamente relacionadas. O agrupamento (clustering) identifica quais keywords podem ser atendidas pela mesma página e quais exigem páginas separadas.
+
+O critério é a SERP: se duas keywords mostram resultados muito parecidos no Google (as mesmas páginas dominam ambas), podem ser agrupadas em uma única página. Se as SERPs são diferentes (páginas distintas dominam cada uma), precisam de conteúdo separado, o Google entende que são intenções distintas.
+
+Exemplo: "pesquisa de palavras-chave" e "keyword research" têm SERPs quase idênticas, são variações do mesmo tema e cabem na mesma página. Mas "pesquisa de palavras-chave" e "ferramentas de SEO" têm SERPs completamente diferentes, são temas distintos que exigem páginas separadas.
+
+### Uma Página, Múltiplas Keywords (Variações Semânticas)
+
+Uma página bem otimizada ranqueia não apenas para a keyword principal, mas para dezenas de variações semânticas. O conceito de "uma keyword por página" é ultrapassado, o Google entende sinônimos, variações e termos relacionados.
+
+Na prática: esta página tem como keyword principal "pesquisa de palavras-chave", mas é otimizada para ranquear também para "keyword research", "como fazer pesquisa de keywords", "análise de palavras-chave" e "como escolher palavras-chave SEO". Não por repetição forçada, por cobertura natural do tema com variações linguísticas.
+
+O [copywriting para SEO](copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md) é a ponte entre keyword research e conteúdo final: transformar a lista de keywords agrupadas em texto que flui naturalmente, cobre variações semânticas e atende à intenção de busca.
+
+---
+
+## ⚠️ Erros Comuns em Keyword Research
+
+Os mesmos erros se repetem em empresas de todos os tamanhos. Reconhecê-los é o primeiro passo para evitá-los.
+
+### Focar Apenas em Volume, Ignorar Intenção, Canibalização
+
+**Focar apenas em volume**: escolher keywords exclusivamente pelo número de buscas mensais. O resultado: competir por keywords impossíveis de conquistar no curto prazo, atrair tráfego sem intenção comercial e desperdiçar recursos em conteúdo que não converte. Volume sem intenção e sem viabilidade competitiva é uma métrica de vaidade.
+
+**Ignorar intenção de busca**, criar conteúdo sem analisar o que o Google já posiciona para aquela keyword. Se o Top 10 é todo de páginas de produto e você cria um artigo informacional, não vai ranquear, a intenção não corresponde. O erro inverso também: criar uma página de vendas para uma keyword informacional. Sempre analise a SERP antes de criar.
+
+**Canibalização de keywords**, criar múltiplas páginas otimizadas para a mesma keyword principal. Quando duas páginas do mesmo site competem pela mesma keyword, o Google não sabe qual posicionar, e frequentemente posiciona nenhuma bem. O resultado: duas páginas fracas em vez de uma forte. A solução: mapeamento claro de "uma keyword principal por página" e agrupamento por SERP, como descrito na seção anterior.
+
+**Não atualizar a pesquisa**, tratar keyword research como evento único. O comportamento de busca muda, novos concorrentes surgem, keywords perdem ou ganham volume. A pesquisa de palavras-chave deve ser revisitada pelo menos trimestralmente, identificando novas oportunidades, gaps emergentes e keywords que mudaram de intenção.
+
+**Pesquisar sem priorizar**, gerar listas enormes de keywords sem critério de prioridade. Uma lista de 500 keywords sem priorização é inútil na prática, a equipe não sabe por onde começar e acaba escolhendo por conveniência, não por impacto. A priorização por valor de negócio é o que transforma dados em ação.
+
+---
+
+## 📩 Próximos Passos
+
+Pesquisa de palavras-chave é a fundação de toda estratégia de conteúdo para SEO. Feita com profundidade, mapeando demanda, analisando concorrência, classificando intenção e priorizando por retorno, ela transforma produção de conteúdo de custo em investimento. Feita superficialmente, gera páginas que ninguém encontra.
+
+Se sua empresa quer uma pesquisa de palavras-chave que vá além de listas e planilhas, que mapeie o domínio de conhecimento do seu mercado e priorize por resultado de negócio real, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como transformamos dados de busca em estratégia de crescimento orgânico.
+
+Explore as páginas relacionadas:
+
+- 📝 [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): Como pesquisa de palavras-chave se integra à estratégia completa de conteúdo.
+- 🎯 [Intenção de Busca](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): O fundamento que define o tipo de conteúdo para cada keyword.
+- 🧩 [Pilarização e Pulverização](pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md): Como organizar keywords em clusters que geram autoridade topical.
+- 📈 [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): SEMrush, Ahrefs, Search Console e as ferramentas essenciais para keyword research.
+- ⚙️ [Metodologia TRIWI](../triwi/metodologia-triwi.md): O processo com 300+ atividades que inclui pesquisa de palavras-chave como etapa estratégica.
+
+**Quer pesquisa de palavras-chave orientada a resultado de negócio?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/).
