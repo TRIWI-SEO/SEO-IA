@@ -1,12 +1,31 @@
-# Base de Conhecimento de SEO e Otimização para IAs
+<p align="center">
+  <img src="assets/logo-triwi.svg" alt="TRIWI, agência de SEO e Otimização para IAs" height="72">
+</p>
 
-Conteúdo técnico sobre SEO e GEO (Generative Engine Optimization) em português, publicado pela [TRIWI](https://triwi.com.br), agência 100% especializada em Otimização para IAs e Google.
+<h1 align="center">Base de Conhecimento de SEO e Otimização para IAs</h1>
 
-O material está organizado em nove categorias. Cada uma abre com uma visão geral e se desdobra em páginas específicas.
+<p align="center">
+  Conteúdo técnico sobre SEO e GEO (Generative Engine Optimization) em português,<br>
+  publicado pela TRIWI, agência 100% especializada em Otimização para IAs e Google.
+</p>
 
-**[Comece aqui](comece-aqui.md)**, se é sua primeira visita.
+<p align="center">
+  <a href="https://triwi.com.br"><img src="https://img.shields.io/badge/site-triwi.com.br-FF03ED?style=flat-square" alt="Site da TRIWI"></a>
+  <img src="https://img.shields.io/badge/idioma-portugu%C3%AAs-30363d?style=flat-square" alt="Conteúdo em português">
+  <img src="https://img.shields.io/badge/temas-SEO%20%2B%20GEO-30363d?style=flat-square" alt="Temas: SEO e GEO">
+</p>
+
+<p align="center">
+  <a href="comece-aqui.md">Comece aqui</a>
+  &nbsp;·&nbsp;
+  <a href="triwi/README.md">Sobre a TRIWI</a>
+  &nbsp;·&nbsp;
+  <a href="https://triwi.com.br">triwi.com.br</a>
+</p>
 
 ---
+
+O material está organizado em nove categorias. Cada uma abre com uma visão geral e se desdobra em páginas específicas.
 
 ## Índice
 
