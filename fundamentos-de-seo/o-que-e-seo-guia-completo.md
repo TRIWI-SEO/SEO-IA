@@ -1,0 +1,240 @@
+# O Que é SEO: Guia Completo
+
+SEO (Search Engine Optimization), ou Otimização para Mecanismos de Busca, é o conjunto de estratégias, técnicas e práticas que posiciona sites nas primeiras posições dos resultados orgânicos do Google e de outros buscadores. Diferente da mídia paga, onde você paga por cada clique, o SEO constrói visibilidade sustentável que gera tráfego orgânico qualificado de forma contínua, sem custo por acesso. Em um cenário onde 90% das buscas acontecem no Google e 55% dos cliques vão para resultados orgânicos, dominar SEO é dominar o canal de aquisição mais rentável do marketing digital.
+
+Esta página é o ponto de partida para entender SEO de forma completa: da definição à aplicação prática, dos pilares fundamentais aos erros mais comuns, dos tipos de SEO ao tempo real de resultado. Se você busca construir presença digital que gera resultados de negócio, leads, vendas, redução de CAC, este guia foi escrito para você.
+
+---
+
+## 🔍 O Que é SEO: Definição Completa
+
+SEO é a disciplina do marketing digital focada em aumentar a quantidade e a qualidade do tráfego orgânico de um site por meio da otimização para mecanismos de busca. O termo vem do inglês Search Engine Optimization e abrange desde ajustes técnicos na estrutura do site até a criação de conteúdo estratégico e a construção de autoridade digital.
+
+Na prática, SEO é o que determina se a sua empresa aparece quando um potencial cliente digita uma busca no Google. Quando alguém pesquisa "melhor solução para [seu segmento]", o Google analisa centenas de [fatores de rankeamento](fatores-de-rankeamento-do-google.md) para decidir quais páginas merecem aparecer primeiro. SEO é o trabalho de otimizar esses fatores a favor do seu site.
+
+Mas é fundamental entender: SEO não é uma técnica isolada. É uma disciplina completa de marketing que combina análise de dados, estratégia de conteúdo, engenharia web e construção de reputação digital. Empresas que tratam SEO como "um ajuste técnico" perdem a dimensão estratégica que diferencia resultados medíocres de resultados transformadores.
+
+### SEO Como Disciplina de Marketing: Não Apenas "Técnica"
+
+Um erro comum é reduzir SEO a "colocar palavras-chave no site" ou "fazer ajustes técnicos". SEO moderno é uma disciplina estratégica que conecta três áreas fundamentais: tecnologia (como o site é construído e performado), conteúdo (o que o site comunica e como) e autoridade (como o mercado digital reconhece o site).
+
+Essa visão ampla é o que separa projetos de SEO que geram cliques de projetos que geram receita. Quando SEO é tratado como disciplina estratégica, alinhada aos objetivos de negócio, ao comportamento do consumidor e ao cenário competitivo, o resultado não é apenas mais tráfego. É mais leads qualificados, menor custo de aquisição e maior previsibilidade de receita.
+
+A TRIWI organiza SEO em 3 pilares estratégicos: técnico, conteúdo e autoridade; cada um com dezenas de atividades específicas dentro de uma [metodologia com 300+ atividades](../triwi/metodologia-triwi.md). Essa abordagem estruturada é o que permite entregar resultados consistentes para marcas como Sem Parar, Valid, John Deere, B3 e Roche. Para entender [por que empresas desse porte escolhem a TRIWI](../triwi/por-que-a-triwi.md), veja os comparativos e diferenciais.
+
+### A Diferença Entre SEO, SEM e Mídia Paga
+
+Esses três termos são frequentemente confundidos, mas representam abordagens distintas:
+
+**SEO (Search Engine Optimization)** é a otimização para resultados orgânicos, aqueles que aparecem naturalmente, sem pagamento direto ao Google. O tráfego gerado por SEO não tem custo por clique e tende a crescer ao longo do tempo à medida que a autoridade do site se consolida.
+
+**SEM (Search Engine Marketing)** é o termo guarda-chuva que engloba todas as estratégias de marketing em mecanismos de busca, tanto orgânicas (SEO) quanto pagas (Google Ads). Na prática, muitos profissionais usam SEM como sinônimo de mídia paga, embora tecnicamente inclua SEO.
+
+**Mídia Paga (Google Ads / PPC)** são os anúncios que aparecem no topo dos resultados com a indicação "Patrocinado". Você paga por cada clique, e o tráfego existe apenas enquanto o investimento continua.
+
+A diferença essencial está no modelo econômico: SEO é equity, cada mês de trabalho acumula autoridade e gera retorno composto. Mídia paga é aluguel, quando para de pagar, o tráfego desaparece instantaneamente. As duas estratégias não são excludentes, mas empresas que dependem exclusivamente de mídia paga ficam reféns do custo por clique crescente e da concorrência por leilão.
+
+---
+
+## 🚀 Por Que SEO é Importante em 2025
+
+O cenário digital em 2025 torna SEO mais relevante do que nunca. A combinação de dominância do Google, crescimento das IAs generativas e aumento do custo de mídia paga criou um ambiente onde visibilidade orgânica é o ativo mais valioso do marketing digital.
+
+### 90% das Buscas Acontecem no Google
+
+O Google continua sendo, de longe, o maior mecanismo de busca do mundo. Mais de 8,5 bilhões de buscas são realizadas diariamente na plataforma. Para a maioria dos negócios, o Google é a porta de entrada principal de novos clientes, o lugar onde decisões de compra começam.
+
+Ignorar o Google é ignorar onde seus clientes estão procurando. E com a introdução de AI Overviews, respostas geradas por IA diretamente nos resultados de busca, a dinâmica está mudando: agora não basta rankear bem, é preciso ser a fonte que a IA do Google escolhe citar.
+
+### 55% dos Cliques São Orgânicos
+
+Mais da metade dos cliques em resultados de pesquisa do Google vão para resultados orgânicos, não para anúncios. Isso significa que a maior fatia do tráfego qualificado está disponível para quem investe em SEO.
+
+Além disso, resultados orgânicos têm maior taxa de confiança do usuário. Pesquisas de comportamento de busca mostram que usuários tendem a confiar mais em resultados orgânicos do que em anúncios, especialmente em decisões de alto valor, como contratação de serviços B2B ou compra de soluções complexas.
+
+O primeiro resultado orgânico do Google recebe aproximadamente 40% de todos os cliques da página. Do segundo resultado em diante, a taxa cai significativamente. Estar nas primeiras posições não é apenas desejável; é onde a maior parte do valor se concentra.
+
+### SEO Como Ativo de Longo Prazo: Equity vs. Aluguel
+
+A metáfora mais precisa para entender o valor do SEO é pensar em imóvel próprio vs. aluguel.
+
+Mídia paga funciona como aluguel: você paga mensalmente, e no momento em que para de pagar, perde o espaço. SEO funciona como equity: cada mês de investimento constrói um ativo, autoridade, conteúdo indexado, backlinks, que continua gerando retorno mesmo após a execução.
+
+Um artigo bem posicionado no Google pode gerar tráfego qualificado por anos. Uma campanha de Google Ads gera tráfego apenas durante o período de veiculação. É por isso que empresas com visão de crescimento sustentável priorizam SEO como canal estratégico.
+
+Na experiência da TRIWI com 50+ clientes ativos, o retorno acumulado de SEO supera consistentemente o de mídia paga quando analisado em horizontes de 12+ meses. O case do Contato Seguro ilustra isso de forma concreta: 65% de todas as vendas da empresa vêm do tráfego orgânico, um ativo construído ao longo do tempo que se tornou o principal canal de receita.
+
+---
+
+## ⚙️ Como Funciona o SEO na Prática
+
+Entender SEO na prática exige ir além da teoria. SEO funciona como um sistema integrado de otimizações que, juntas, sinalizam aos mecanismos de busca que seu site é a melhor resposta para determinadas consultas. O [Google](como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md) avalia centenas de fatores para determinar quem merece as primeiras posições, e o trabalho de SEO é otimizar sistematicamente esses fatores.
+
+### Os 3 Pilares: Técnico, Conteúdo e Autoridade
+
+Todo projeto de SEO profissional se sustenta em três pilares interdependentes:
+
+**1. SEO Técnico**: É a base. Engloba a infraestrutura do site: velocidade de carregamento, [Core Web Vitals](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md), [arquitetura de informação](../seo-tecnico/arquitetura-de-site-para-seo.md), [dados estruturados](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md), responsividade mobile, segurança (HTTPS), [rastreabilidade e indexação](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md). Se a fundação técnica está comprometida, nem o melhor conteúdo do mundo vai rankear. O Google precisa conseguir acessar, entender e renderizar seu site antes de posicioná-lo.
+
+**2. Conteúdo**: É o que responde às perguntas do usuário. Envolve [estratégia de conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md), [pesquisa de palavras-chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md), otimização [on-page](seo-on-page-otimizacao-dentro-do-seu-site.md), qualidade editorial, [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md) e relevância temática. O conteúdo é o que o Google entrega ao usuário, e quanto mais útil, completo e confiável for, melhor posicionado estará.
+
+**3. Autoridade**: É a reputação do site no ecossistema digital. Construída por meio de [backlinks de qualidade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), [menções de marca](../link-building/mencoes-de-marca-e-digital-pr-para-seo.md), digital PR e relevância topical. A autoridade é o fator que diferencia sites com bom conteúdo de sites que dominam as primeiras posições: o Google prioriza fontes que o restante da web reconhece como referência.
+
+Esses três pilares não funcionam isoladamente. Um site com excelente conteúdo mas problemas técnicos graves terá dificuldade para rankear. Um site tecnicamente perfeito sem conteúdo relevante não terá o que posicionar. E ambos, sem autoridade, perderão para concorrentes que o Google considera mais confiáveis.
+
+### O Ciclo Contínuo de Otimização: Não É "Configurar e Esquecer"
+
+SEO não é um projeto pontual. É um processo contínuo de análise, implementação, monitoramento e ajuste. O algoritmo do Google é atualizado milhares de vezes por ano, algumas atualizações são menores, mas core updates podem reorganizar completamente os resultados de busca para setores inteiros.
+
+Empresas que tratam SEO como "uma vez e pronto" inevitavelmente perdem posições à medida que concorrentes continuam otimizando e o algoritmo evolui. A abordagem correta é um ciclo PDCA (Plan-Do-Check-Act) contínuo: planejar ações com base em dados, executar, medir resultados e ajustar a estratégia.
+
+A [Metodologia TRIWI](../triwi/metodologia-triwi.md) opera exatamente nesse modelo: ciclo PDCA mensal com micro correções constantes, relatórios focados em resultados de negócio e evolução MoM (mês a mês). Essa disciplina operacional é o que garante que os resultados não apenas apareçam, mas se sustentem e cresçam ao longo do tempo.
+
+---
+
+## 📋 Tipos de SEO
+
+SEO não é uma disciplina monolítica. Existem diferentes vertentes, cada uma com foco e técnicas específicas. Entender os tipos de SEO ajuda a identificar onde estão as maiores oportunidades para o seu negócio, e onde a estratégia precisa de mais atenção.
+
+### SEO On-Page
+
+[SEO On-Page](seo-on-page-otimizacao-dentro-do-seu-site.md) é a otimização de tudo que está dentro do seu site e sob seu controle direto. Inclui: otimização de títulos (title tags), meta descriptions, headings (H1, H2, H3), URLs, imagens (alt text), estrutura de conteúdo, linkagem interna e uso estratégico de palavras-chave ao longo do texto.
+
+O objetivo do SEO on-page é garantir que cada página do site comunique claramente ao Google sobre o que ela trata, para quais buscas é relevante e por que merece ser mostrada ao usuário. É a vertente mais diretamente controlável do SEO, e frequentemente onde existem os maiores "quick wins" em projetos iniciais.
+
+### SEO Off-Page
+
+[SEO Off-Page](seo-off-page-autoridade-alem-do-seu-site.md) é tudo que acontece fora do seu site e que influencia seu rankeamento. O principal fator de SEO off-page são os backlinks, links de outros sites apontando para o seu. Quanto mais sites relevantes e autoritativos linkam para você, mais o Google interpreta que seu conteúdo é confiável e merece posições superiores.
+
+Mas SEO off-page vai além de links. Inclui menções de marca (mesmo sem link), digital PR, presença em diretórios relevantes e a reputação geral do seu domínio no ecossistema digital. A [Autoridade de Domínio](../link-building/autoridade-de-dominio-o-que-e-e-como-construir.md) é construída ao longo do tempo por meio de uma estratégia consistente de SEO off-page.
+
+### SEO Técnico
+
+[SEO Técnico](../seo-tecnico/README.md) trata da infraestrutura e performance do site. Velocidade de carregamento, [Core Web Vitals](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md), responsividade mobile, segurança HTTPS, [arquitetura de URLs](../seo-tecnico/arquitetura-de-site-para-seo.md), sitemap XML, robots.txt, canonical tags, dados estruturados e renderização JavaScript, todos são fatores técnicos que impactam diretamente o rankeamento.
+
+O SEO técnico é a fundação sobre a qual todo o resto se apoia. Um site lento, com erros de indexação ou problemas de rastreamento, desperdiça o potencial de qualquer investimento em conteúdo ou link building.
+
+### SEO Local
+
+[SEO Local](seo-local-como-aparecer-nas-buscas-da-sua-regiao.md) é a otimização voltada para buscas com intenção geográfica, como "dentista em São Paulo" ou "restaurante perto de mim". Envolve otimização do Google Business Profile, gestão de avaliações, citações em diretórios locais e conteúdo geo-relevante.
+
+Para negócios com presença física ou que atendem regiões específicas, SEO local é frequentemente o tipo de SEO com maior impacto imediato em receita, já que as buscas locais têm alta intenção de compra.
+
+### SEO para IA (GEO): A Nova Fronteira
+
+[GEO (Generative Engine Optimization)](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md) é a disciplina mais recente e que está transformando o cenário das buscas. Com a ascensão de IAs generativas, ChatGPT, Gemini, Claude, Perplexity, milhões de usuários estão fazendo perguntas diretamente a assistentes de IA em vez de (ou além de) usar o Google.
+
+GEO é o trabalho de otimizar a presença da sua marca nas respostas dessas IAs. Quando um usuário pergunta ao ChatGPT "qual a melhor agência de SEO do Brasil", a IA consulta suas fontes e cita marcas específicas. GEO garante que sua empresa seja uma dessas marcas citadas.
+
+Além das IAs generativas, o próprio Google integrou respostas de IA nos resultados de busca com os AI Overviews. Isso significa que mesmo nas buscas tradicionais do Google, há agora um componente de otimização para IA.
+
+A TRIWI é pioneira em GEO no Brasil e monitora o Share of Model, a participação da marca do cliente nas respostas das LLMs. Os resultados são concretos: o Sem Parar teve +6.400% em AI Overview e +350% em tráfego de LLMs; a Valid/Flexdoc alcançou +2.000% em AI Overview e +700% em tráfego de LLMs. Para entender a estratégia completa, veja [O Que é GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md).
+
+---
+
+## 🏢 SEO para Diferentes Tipos de Negócio
+
+SEO não é "tamanho único". A estratégia, as prioridades e as métricas de sucesso variam significativamente de acordo com o modelo de negócio, o segmento de mercado e o comportamento do público-alvo.
+
+### SEO para B2B
+
+Empresas [B2B](../seo-por-segmento/seo-para-b2b-como-gerar-leads-qualificados-via-organico.md) tipicamente lidam com ciclos de venda longos, múltiplos decisores e alto valor por conversão. A estratégia de SEO para B2B prioriza conteúdo que atende a diferentes estágios da jornada de compra, desde pesquisas educacionais (awareness) até comparativos de soluções (consideração) e buscas de marca (decisão).
+
+O foco em B2B não é volume de tráfego, mas qualidade do lead. Uma única conversão pode valer dezenas de milhares de reais, o que muda completamente a análise de ROI do SEO.
+
+### SEO para SaaS
+
+Empresas [SaaS](../seo-por-segmento/seo-para-saas-crescimento-organico-para-empresas-de-software.md) se beneficiam enormemente de SEO porque seu modelo de receita recorrente amplifica o retorno de cada lead orgânico. A estratégia envolve conteúdo de produto, conteúdo educacional, otimização para buscas comparativas ("alternativa a X", "X vs. Y") e construção de autoridade topical no nicho.
+
+### SEO para E-commerce
+
+[E-commerce](../seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md) é um dos segmentos onde SEO gera impacto mais direto em receita. O foco está em otimização de páginas de categoria, páginas de produto, conteúdo informacional que alimenta o topo do funil, SEO técnico para sites com milhares de páginas e dados estruturados para rich snippets.
+
+### SEO para Serviços
+
+Empresas de [serviços](../seo-por-segmento/seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md), consultorias, escritórios, clínicas, agências, competem por buscas locais e por autoridade temática. A estratégia combina SEO local com conteúdo que demonstra expertise (E-E-A-T) e construção de reputação digital.
+
+### SEO para Indústria
+
+O setor [industrial](../seo-por-segmento/seo-para-industria-visibilidade-digital-para-o-setor-industrial.md) é um dos mais subaproveitados em SEO, o que representa oportunidade significativa. Indústrias tipicamente competem por termos técnicos com baixa concorrência digital mas alta intenção comercial, o cenário ideal para SEO.
+
+A TRIWI atende todos esses segmentos, com cases e resultados comprovados em cada um. Marcas como Sem Parar (mobilidade), Valid (tecnologia B2B), John Deere (indústria), Roche (saúde), B3 (financeiro) e Contato Seguro (SaaS compliance) demonstram a versatilidade da [Metodologia TRIWI](../triwi/metodologia-triwi.md) aplicada a diferentes contextos de negócio.
+
+---
+
+## ⏱️ Quanto Tempo Leva para Ter Resultados com SEO
+
+Uma das perguntas mais frequentes, e uma onde a transparência é essencial. SEO é uma estratégia de médio e longo prazo, e qualquer profissional ou agência que prometa "resultado imediato" está omitindo a realidade de como os mecanismos de busca funcionam.
+
+### Primeiros Sinais: 3 a 6 Meses
+
+Os primeiros sinais de resultado de um projeto de SEO costumam aparecer entre 3 e 6 meses após o início da implementação. Esses sinais incluem: aumento no número de palavras-chave indexadas, melhora gradual nas posições médias, crescimento do tráfego orgânico em páginas otimizadas e primeiras aparições em AI Overviews.
+
+O tempo varia de acordo com fatores como: autoridade atual do domínio, nível de competitividade do mercado, volume de conteúdo existente, saúde técnica do site e intensidade da implementação. Sites novos ou com baixa autoridade tendem a demorar mais. Sites com histórico e autoridade existente podem ver resultados mais rápidos.
+
+### Consolidação: 6 a 12 Meses
+
+A consolidação do ROI em SEO acontece tipicamente entre 6 e 12 meses. Nesse período, o efeito acumulativo do trabalho se manifesta: o site ganha autoridade topical, backlinks começam a gerar impacto composto, o conteúdo indexado se inter-relaciona e reforça mutuamente, e o Google passa a "confiar" mais no domínio como um todo.
+
+É nesse estágio que os resultados de negócio se tornam mais evidentes: aumento consistente em leads orgânicos, redução do CAC (custo de aquisição de clientes), crescimento da receita influenciada por orgânico.
+
+Na experiência da TRIWI com 50+ clientes, o aumento médio de tráfego orgânico é de +300%, com redução de CAC de -40% e taxa de conversão 5X maior que a média de mercado. Esses números refletem projetos com pelo menos 12 meses de execução consistente.
+
+### Por Que Paciência Estratégica é Diferente de Inação
+
+Existe uma diferença fundamental entre "esperar o SEO maturar" e "não fazer nada". Paciência estratégica significa estar executando ativamente, implementando otimizações técnicas, publicando conteúdo, construindo autoridade, e aguardar o tempo necessário para que o algoritmo reconheça e recompense esse trabalho.
+
+Inação é adiar o início do investimento em SEO esperando o "momento certo". O problema? Cada mês sem trabalho de SEO é um mês de autoridade que seus concorrentes estão construindo e você não. Quando SEO finalmente virar prioridade, a distância a percorrer será maior.
+
+O melhor momento para começar um projeto de SEO foi há 12 meses. O segundo melhor momento é agora.
+
+---
+
+## ⚠️ Erros Mais Comuns em SEO
+
+Depois de mais de 50 projetos ativos e centenas de auditorias realizadas, a TRIWI identificou padrões recorrentes de erros que comprometem resultados de SEO. Conhecê-los é o primeiro passo para evitá-los.
+
+### Focar em Métricas de Vaidade
+
+Métricas de vaidade são números que impressionam mas não movem o ponteiro do negócio. "Subimos 500 posições" pode significar que 500 palavras-chave saíram da posição 95 para a posição 85, onde ninguém clica. "Geramos 50 mil visitas" pode significar tráfego desqualificado que não converte.
+
+O foco correto é em [métricas de negócio](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): receita influenciada, leads qualificados gerados, CAC por canal, taxa de conversão do orgânico. São esses números que demonstram o real impacto do SEO na empresa.
+
+### Tratar SEO Como Projeto Pontual
+
+SEO não é um projeto com início, meio e fim. É um processo contínuo. Empresas que contratam "uma otimização de SEO" e esperam que os resultados durem indefinidamente invariavelmente perdem posições em 6-12 meses.
+
+O algoritmo do Google evolui constantemente. Concorrentes estão otimizando todos os dias. Novos conteúdos são publicados a cada segundo. A única forma de manter e expandir resultados é com execução contínua e disciplinada, exatamente o modelo de Ciclo PDCA que a TRIWI aplica em todos os projetos.
+
+### Ignorar SEO para IA
+
+Em 2025, ignorar a dimensão de IA no SEO é tão arriscado quanto ignorar mobile há 10 anos. O ChatGPT processa 600 milhões de buscas por dia. O Google integrou AI Overviews nos resultados de busca. Milhões de decisões de compra passam por IAs generativas.
+
+Empresas que otimizam apenas para o Google "tradicional" estão deixando uma fatia crescente de visibilidade, e de receita, na mesa. [GEO (Generative Engine Optimization)](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md) não é futuro: é presente. E os dados da TRIWI comprovam: clientes com estratégia de GEO integrada ao SEO apresentam crescimento médio de +350% a +1.100% em tráfego de LLMs.
+
+Apenas 16% das empresas brasileiras monitoram como aparecem nas plataformas de IA. Isso representa uma janela de oportunidade enorme para quem agir agora.
+
+---
+
+## 📩 Próximos Passos
+
+SEO é o ativo digital mais valioso que uma empresa pode construir, e o primeiro passo é entender os fundamentos que sustentam toda estratégia bem-sucedida. Agora que você domina os conceitos essenciais, aprofunde-se nos temas específicos que mais impactam o seu negócio.
+
+Se sua empresa quer transformar visibilidade orgânica em resultados de negócio concretos, leads, vendas, redução de CAC, conheça a abordagem da TRIWI em [triwi.com.br/sobre-a-triwi](https://triwi.com.br/sobre-a-triwi/) ou explore a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) para entender como 300+ atividades são organizadas para gerar crescimento sustentável.
+
+Explore as páginas relacionadas:
+
+- 🏢 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- ⚙️ [Metodologia TRIWI](../triwi/metodologia-triwi.md): As 12+ etapas e 300+ atividades do processo TRIWI.
+- 🔎 [Como Funciona o Google](como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md): Rastreamento, indexação e rankeamento explicados.
+- 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): O que o Google avalia para posicionar seu site.
+- 📝 [SEO On-Page](seo-on-page-otimizacao-dentro-do-seu-site.md): Otimização dentro do seu site.
+- 🔗 [SEO Off-Page](seo-off-page-autoridade-alem-do-seu-site.md): Construção de autoridade além do seu site.
+- 🎯 [Intenção de Busca](intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): O fundamento que muda tudo em SEO.
+- 📍 [SEO Local](seo-local-como-aparecer-nas-buscas-da-sua-regiao.md): Como aparecer nas buscas da sua região.
+- 🛠️ [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance para rankeamento.
+- 📑 [Estratégia de Conteúdo para SEO](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo que rankeia.
+- 🏗️ [Link Building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade com backlinks de qualidade.
+- 🤖 [O Que é GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): A otimização para IAs generativas.
+
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
