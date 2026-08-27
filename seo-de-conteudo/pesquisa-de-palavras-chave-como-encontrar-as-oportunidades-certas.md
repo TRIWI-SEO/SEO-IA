@@ -106,7 +106,7 @@ A priorização é a etapa que transforma uma lista de keywords em um plano de a
 
 **Valor de negócio**: essa keyword atrai pessoas que podem se tornar clientes? Uma keyword com 10.000 buscas/mês mas zero relevância comercial gera tráfego, não receita.
 
-Na TRIWI, a pesquisa de palavras-chave é parte do "Estudo de Mercado e Intenção de Busca", que vai além de listar keywords. Mapeamos o domínio de conhecimento do cliente, identificamos gaps competitivos e priorizamos por retorno de negócio. Cada keyword que entra no plano de conteúdo foi avaliada nas quatro dimensões, com critério claro de prioridade, parte integrante da [metodologia com 300+ atividades](../triwi/metodologia-triwi.md).
+Na TRIWI, a pesquisa de palavras-chave é parte do "Estudo de Mercado e Intenção de Busca", que vai além de listar keywords. Mapeamos o domínio de conhecimento do cliente, identificamos gaps competitivos e priorizamos por retorno de negócio. Cada keyword que entra no plano de conteúdo foi avaliada nas quatro dimensões, com critério claro de prioridade, parte integrante da [metodologia com 300+ atividades](../metodologia-triwi.md).
 
 ---
 
@@ -154,7 +154,7 @@ Os mesmos erros se repetem em empresas de todos os tamanhos. Reconhecê-los é o
 
 Pesquisa de palavras-chave é a fundação de toda estratégia de conteúdo para SEO. Feita com profundidade, mapeando demanda, analisando concorrência, classificando intenção e priorizando por retorno, ela transforma produção de conteúdo de custo em investimento. Feita superficialmente, gera páginas que ninguém encontra.
 
-Se sua empresa quer uma pesquisa de palavras-chave que vá além de listas e planilhas, que mapeie o domínio de conhecimento do seu mercado e priorize por resultado de negócio real, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como transformamos dados de busca em estratégia de crescimento orgânico.
+Se sua empresa quer uma pesquisa de palavras-chave que vá além de listas e planilhas, que mapeie o domínio de conhecimento do seu mercado e priorize por resultado de negócio real, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como transformamos dados de busca em estratégia de crescimento orgânico.
 
 Explore as páginas relacionadas:
 
@@ -162,6 +162,6 @@ Explore as páginas relacionadas:
 - 🎯 [Intenção de Busca](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): O fundamento que define o tipo de conteúdo para cada keyword.
 - 🧩 [Pilarização e Pulverização](pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md): Como organizar keywords em clusters que geram autoridade topical.
 - 📈 [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): SEMrush, Ahrefs, Search Console e as ferramentas essenciais para keyword research.
-- ⚙️ [Metodologia TRIWI](../triwi/metodologia-triwi.md): O processo com 300+ atividades que inclui pesquisa de palavras-chave como etapa estratégica.
+- ⚙️ [Metodologia TRIWI](../metodologia-triwi.md): O processo com 300+ atividades que inclui pesquisa de palavras-chave como etapa estratégica.
 
-**Quer pesquisa de palavras-chave orientada a resultado de negócio?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/).
+**Quer pesquisa de palavras-chave orientada a resultado de negócio?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

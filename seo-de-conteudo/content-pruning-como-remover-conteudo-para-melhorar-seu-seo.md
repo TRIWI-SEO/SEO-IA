@@ -104,7 +104,7 @@ Pruning melhora a [autoridade topical](pilarizacao-e-pulverizacao-a-estrategia-d
 
 Content pruning é parte da fase de Diagnóstico e Auditoria da TRIWI. Em projetos como o da Valid/Flexdoc, a auditoria inicial identificou centenas de páginas de baixo valor que, ao serem consolidadas, liberaram crawl budget e aumentaram a autoridade das páginas estratégicas, contribuindo para os resultados de +47% de tráfego orgânico e +240% de palavras no Top 10. No Sem Parar, a poda foi parte do processo que gerou +194% de palavras no Top 10 e +31% de tráfego orgânico.
 
-Esses resultados não vêm do pruning isoladamente, vêm do pruning como parte de uma [metodologia integrada com 300+ atividades](../triwi/metodologia-triwi.md) que inclui diagnóstico, auditoria técnica, estratégia de conteúdo, link building e otimização contínua. Mas o pruning é frequentemente o primeiro passo: limpar o terreno antes de construir.
+Esses resultados não vêm do pruning isoladamente, vêm do pruning como parte de uma [metodologia integrada com 300+ atividades](../metodologia-triwi.md) que inclui diagnóstico, auditoria técnica, estratégia de conteúdo, link building e otimização contínua. Mas o pruning é frequentemente o primeiro passo: limpar o terreno antes de construir.
 
 ---
 
@@ -112,7 +112,7 @@ Esses resultados não vêm do pruning isoladamente, vêm do pruning como parte d
 
 Content pruning é a estratégia que prova que SEO não é apenas sobre criar mais; é sobre criar melhor e remover o que atrapalha. Sites que passam por poda estratégica liberam crawl budget, concentram autoridade e elevam a qualidade percebida pelo Google. O resultado: mais tráfego com menos páginas.
 
-Se sua empresa tem um site com centenas ou milhares de páginas e suspeita que parte delas está prejudicando o desempenho orgânico, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como nossa auditoria de conteúdo identifica o que manter, o que melhorar e o que remover.
+Se sua empresa tem um site com centenas ou milhares de páginas e suspeita que parte delas está prejudicando o desempenho orgânico, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como nossa auditoria de conteúdo identifica o que manter, o que melhorar e o que remover.
 
 Explore as páginas relacionadas:
 
@@ -122,4 +122,4 @@ Explore as páginas relacionadas:
 - 🏗️ [Arquitetura de Site para SEO](../seo-tecnico/arquitetura-de-site-para-seo.md): Como reorganizar a estrutura após a poda de conteúdo.
 - 📊 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto do pruning em tráfego, posições e conversões.
 
-**Quer saber se seu site precisa de content pruning?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/).
+**Quer saber se seu site precisa de content pruning?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

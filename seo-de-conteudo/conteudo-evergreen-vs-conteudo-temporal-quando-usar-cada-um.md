@@ -76,7 +76,7 @@ Os sinais de que uma página precisa de atualização: queda progressiva de trá
 
 A atualização pode incluir: revisar e atualizar dados, estatísticas e exemplos, expandir seções que estão superficiais comparadas à concorrência, melhorar a estrutura de headings e a distribuição de keywords, adicionar links internos para conteúdo novo do cluster, otimizar title tag e meta description para melhorar CTR, e adicionar seções que cobrem sub-temas que o conteúdo original não abordou.
 
-Na metodologia TRIWI, a otimização de conteúdo existente é tão importante quanto a criação de conteúdo novo. O Ciclo PDCA mensal inclui análise de performance de conteúdo com micro correções contínuas, parte integrante da [metodologia com 300+ atividades](../triwi/metodologia-triwi.md). O resultado: páginas que melhoram continuamente em vez de estagnarem após a publicação.
+Na metodologia TRIWI, a otimização de conteúdo existente é tão importante quanto a criação de conteúdo novo. O Ciclo PDCA mensal inclui análise de performance de conteúdo com micro correções contínuas, parte integrante da [metodologia com 300+ atividades](../metodologia-triwi.md). O resultado: páginas que melhoram continuamente em vez de estagnarem após a publicação.
 
 ### Content Pruning: Remover para Crescer
 
@@ -98,7 +98,7 @@ Empresas que implementam ciclos regulares de atualização, mensais ou trimestra
 
 Conteúdo evergreen e temporal são complementares, não concorrentes. Evergreen constrói o ativo de longo prazo, tráfego previsível, autoridade topical, posições sustentáveis. Temporal amplifica em momentos-chave, capturando atenção, backlinks e sinais de atualidade. E a atualização contínua é o que mantém o evergreen performando ano após ano.
 
-Se sua empresa quer uma estratégia de conteúdo que equilibre fundação e oportunidade, com ciclos de criação, atualização e otimização que mantêm o ativo orgânico sempre performando, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como gerenciamos conteúdo como ativo de negócio, não como atividade de marketing.
+Se sua empresa quer uma estratégia de conteúdo que equilibre fundação e oportunidade, com ciclos de criação, atualização e otimização que mantêm o ativo orgânico sempre performando, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como gerenciamos conteúdo como ativo de negócio, não como atividade de marketing.
 
 Explore as páginas relacionadas:
 
@@ -109,4 +109,4 @@ Explore as páginas relacionadas:
 - 🔮 [Tendências de SEO e Buscas](../tendencias-e-futuro/tendencias-de-seo-o-que-esperar-nos-proximos-anos.md): O conteúdo temporal que complementa a base evergreen.
 - ✂️ [Content Pruning](content-pruning-como-remover-conteudo-para-melhorar-seu-seo.md): Como remover conteúdo para melhorar o SEO do site inteiro.
 
-**Quer conteúdo que gera resultado ano após ano?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/).
+**Quer conteúdo que gera resultado ano após ano?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

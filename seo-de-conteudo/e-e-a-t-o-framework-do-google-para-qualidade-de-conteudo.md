@@ -150,7 +150,7 @@ Na prática, conteúdo com alto E-E-A-T é citado com mais frequência por IAs g
 
 ### Como Otimizar E-E-A-T para Ser Citado por ChatGPT, Gemini, etc.
 
-A [otimização para IAs generativas (GEO)](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md) passa diretamente por E-E-A-T. As práticas que aumentam a citabilidade incluem:
+A [otimização para IAs generativas (GEO)](../o-que-e-geo-generative-engine-optimization-guia-completo.md) passa diretamente por E-E-A-T. As práticas que aumentam a citabilidade incluem:
 
 **Definições citáveis:** abrir seções com definições claras e objetivas que LLMs possam extrair como resposta direta. "E-E-A-T é o framework que o Google usa para avaliar a qualidade de conteúdo na web", uma frase que pode ser citada tal qual.
 
@@ -170,7 +170,7 @@ Essa convergência entre [SEO de conteúdo](copywriting-para-seo-como-escrever-c
 
 E-E-A-T é o framework que define o padrão de qualidade de conteúdo para o Google e, cada vez mais, para as IAs generativas. Não é um checklist técnico; é um modelo de construção de credibilidade que permeia conteúdo, autoria, site e reputação. Empresas que investem em E-E-A-T constroem um ativo durável: visibilidade orgânica sustentável e citabilidade crescente no ecossistema de IAs.
 
-Se sua empresa quer implementar E-E-A-T de forma sistemática, não como superficialidade, mas como diferencial competitivo real, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e veja como transformamos sinais de qualidade em resultado de negócio. Saiba também [por que empresas como Sem Parar, Roche e MAPFRE escolhem a TRIWI](https://triwi.com.br/porque-a-triwi/).
+Se sua empresa quer implementar E-E-A-T de forma sistemática, não como superficialidade, mas como diferencial competitivo real, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e veja como transformamos sinais de qualidade em resultado de negócio. Saiba também [por que empresas como Sem Parar, Roche e MAPFRE escolhem a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 Explore as páginas relacionadas:
 
@@ -178,8 +178,8 @@ Explore as páginas relacionadas:
 - 📝 [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo orientado a resultados, com E-E-A-T desde a concepção.
 - ✍️ [Copywriting para SEO](copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md): Como escrever conteúdo que demonstra expertise e converte.
 - 🔗 [Link Building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade externa: backlinks, menções e digital PR.
-- 🌐 [O Que É GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: como E-E-A-T influencia citação por LLMs.
+- 🌐 [O Que É GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: como E-E-A-T influencia citação por LLMs.
 - 🧠 [Conteúdo Citável para IAs](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md): Como criar conteúdo que LLMs extraem e recomendam.
-- ⚙️ [Metodologia TRIWI](../triwi/metodologia-triwi.md): O processo com 300+ atividades, incluindo implementação sistemática de E-E-A-T.
+- ⚙️ [Metodologia TRIWI](../metodologia-triwi.md): O processo com 300+ atividades, incluindo implementação sistemática de E-E-A-T.
 
-**Quer E-E-A-T implementado de forma real, não cosmética?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer E-E-A-T implementado de forma real, não cosmética?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

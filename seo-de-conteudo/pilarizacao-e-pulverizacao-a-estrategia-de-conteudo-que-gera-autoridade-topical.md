@@ -120,7 +120,7 @@ Essa dinâmica explica por que sites com clusters completos tendem a dominar SER
 
 ## ⚙️ Pilarização na Prática: Como a TRIWI Implementa
 
-Pilarização e pulverização não é um conceito teórico na TRIWI; é uma metodologia operacional implementada em cada projeto, parte central do processo com [300+ atividades](../triwi/metodologia-triwi.md) que cobre do diagnóstico à execução contínua.
+Pilarização e pulverização não é um conceito teórico na TRIWI; é uma metodologia operacional implementada em cada projeto, parte central do processo com [300+ atividades](../metodologia-triwi.md) que cobre do diagnóstico à execução contínua.
 
 ### Mapeamento do Domínio de Conhecimento do Cliente
 
@@ -150,7 +150,7 @@ Os resultados dessa abordagem sistemática são consistentes. No case da Contato
 
 Pilarização e pulverização é a estratégia que transforma conteúdo disperso em autoridade topical construída. Não é publicar mais; é publicar com arquitetura, hierarquia e propósito. Cada página serve ao cluster, cada cluster serve ao negócio, e o resultado composto supera qualquer abordagem de conteúdo baseada em volume sem estratégia.
 
-Se sua empresa quer sair da produção de conteúdo avulso e implementar uma estratégia de pilarização que gera posições, tráfego e receita, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como organizamos o conhecimento dos nossos clientes para dominar temas inteiros no Google e nas IAs.
+Se sua empresa quer sair da produção de conteúdo avulso e implementar uma estratégia de pilarização que gera posições, tráfego e receita, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como organizamos o conhecimento dos nossos clientes para dominar temas inteiros no Google e nas IAs.
 
 Explore as páginas relacionadas:
 
@@ -158,7 +158,7 @@ Explore as páginas relacionadas:
 - 🏗️ [Arquitetura de Site para SEO](../seo-tecnico/arquitetura-de-site-para-seo.md): Como a estrutura do site sustenta a estratégia de clusters.
 - 🎯 [Intenção de Busca](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): O fundamento que define que tipo de conteúdo cada página deve ter.
 - 🗝️ [Pesquisa de Palavras-Chave](pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md): Como identificar as oportunidades que alimentam cada cluster.
-- 🌐 [O Que É GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): Como pilarização fortalece a citabilidade do conteúdo por IAs generativas.
-- ⚙️ [Metodologia TRIWI](../triwi/metodologia-triwi.md): O processo com 300+ atividades que inclui pilarização como pilar central.
+- 🌐 [O Que É GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Como pilarização fortalece a citabilidade do conteúdo por IAs generativas.
+- ⚙️ [Metodologia TRIWI](../metodologia-triwi.md): O processo com 300+ atividades que inclui pilarização como pilar central.
 
-**Quer pilarização e pulverização implementada no seu negócio?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/).
+**Quer pilarização e pulverização implementada no seu negócio?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

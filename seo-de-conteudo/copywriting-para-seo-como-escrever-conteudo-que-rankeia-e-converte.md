@@ -134,7 +134,7 @@ Incorporar formato Q&A não significa transformar todo o conteúdo em FAQ. Signi
 
 Copywriting para SEO é a ponte entre estratégia e resultado. A [pesquisa de palavras-chave](pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md) identifica a oportunidade, a [pilarização](pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md) define a arquitetura, mas é o copywriting que transforma dados em conteúdo que o Google posiciona, o leitor confia e as IAs citam.
 
-Se sua empresa quer conteúdo que não apenas rankeia, mas converte e constrói autoridade, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como nossa equipe de conteúdo transforma estratégia em páginas que performam.
+Se sua empresa quer conteúdo que não apenas rankeia, mas converte e constrói autoridade, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como nossa equipe de conteúdo transforma estratégia em páginas que performam.
 
 Explore as páginas relacionadas:
 
@@ -145,4 +145,4 @@ Explore as páginas relacionadas:
 - 🎯 [Intenção de Busca](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): Como alinhar a escrita ao que o usuário realmente espera encontrar.
 - 🌐 [Conteúdo Citável para IAs](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md): Como escrever para ser extraído e recomendado por LLMs.
 
-**Quer copywriting que rankeia, converte e é citado por IAs?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/).
+**Quer copywriting que rankeia, converte e é citado por IAs?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

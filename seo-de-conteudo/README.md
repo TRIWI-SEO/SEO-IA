@@ -50,13 +50,13 @@ Comece pela [estratégia de conteúdo](estrategia-de-conteudo-para-seo-guia-comp
 
 Na sequência prática: [pesquisa de palavras-chave](pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md) (encontrar oportunidades) → [copywriting](copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md) (executar) → [evergreen vs. temporal](conteudo-evergreen-vs-conteudo-temporal-quando-usar-cada-um.md) (equilibrar) → [content pruning](content-pruning-como-remover-conteudo-para-melhorar-seu-seo.md) (otimizar o que já existe).
 
-Para os fundamentos que sustentam esta categoria, veja [Fundamentos de SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md). Para a dimensão técnica, [SEO Técnico](../seo-tecnico/README.md). E para o futuro do conteúdo, [GEO, otimização para IAs generativas](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md).
+Para os fundamentos que sustentam esta categoria, veja [Fundamentos de SEO](../o-que-e-seo-guia-completo.md). Para a dimensão técnica, [SEO Técnico](../seo-tecnico/README.md). E para o futuro do conteúdo, [GEO, otimização para IAs generativas](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
 ---
 
 ## 📩 Fale com a TRIWI
 
-Precisa de uma estratégia de conteúdo que gere resultados, não apenas volume de publicações? [Entre em contato com a TRIWI](https://triwi.com.br/), a equipe com time dedicado de conteúdo SEO, onde cada peça é planejada para rankear, converter e ser citada por IAs.
+Precisa de uma estratégia de conteúdo que gere resultados, não apenas volume de publicações? [Entre em contato com a TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia), a equipe com time dedicado de conteúdo SEO, onde cada peça é planejada para rankear, converter e ser citada por IAs.
 
 ---
 

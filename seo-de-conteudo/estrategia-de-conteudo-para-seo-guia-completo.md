@@ -152,7 +152,7 @@ A estratégia ideal combina os dois:
 
 A proporção recomendada: 60-70% de quick wins nos primeiros 3 meses (gerar tração), migrando gradualmente para 40-50% de investimentos de longo prazo conforme a autoridade cresce. Essa abordagem mantém o pipeline de resultados enquanto constrói fundação para crescimento exponencial.
 
-A TRIWI aplica essa lógica de priorização em cada projeto, alinhada à [metodologia com 300+ atividades](../triwi/metodologia-triwi.md). O planejamento de conteúdo é parte central do processo; cada página é produzida com propósito, sequência e meta definidos antes de uma única linha ser escrita.
+A TRIWI aplica essa lógica de priorização em cada projeto, alinhada à [metodologia com 300+ atividades](../metodologia-triwi.md). O planejamento de conteúdo é parte central do processo; cada página é produzida com propósito, sequência e meta definidos antes de uma única linha ser escrita.
 
 ---
 
@@ -180,11 +180,11 @@ Essas métricas, monitoradas mensalmente e cruzadas com objetivos de negócio, t
 
 Estratégia de conteúdo para SEO é o que separa empresas que publicam conteúdo de empresas que geram resultados com conteúdo. Pesquisa de palavras-chave, pilarização, mapeamento de jornada, calendário priorizado e métricas de negócio; cada etapa compõe um sistema que, bem executado, se torna o ativo de marketing mais valioso da empresa: tráfego orgânico qualificado, previsível e escalável.
 
-Se sua empresa quer sair da produção de conteúdo sem retorno e implementar uma estratégia que gera posições, tráfego e receita, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como transformamos conteúdo em resultado de negócio.
+Se sua empresa quer sair da produção de conteúdo sem retorno e implementar uma estratégia que gera posições, tráfego e receita, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como transformamos conteúdo em resultado de negócio.
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): O guia definitivo sobre SEO: conceitos, pilares e como funciona na prática.
+- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia definitivo sobre SEO: conceitos, pilares e como funciona na prática.
 - 🎯 [Intenção de Busca](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): O fundamento que muda tudo em SEO: entenda o que o Google realmente quer.
 - 🏅 [E-E-A-T](e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework do Google para qualidade de conteúdo e como demonstrar autoridade.
 - 🧩 [Pilarização e Pulverização](pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md): A estratégia de conteúdo da TRIWI: clusters, pilares e satélites.
@@ -192,6 +192,6 @@ Explore as páginas relacionadas:
 - ✍️ [Copywriting para SEO](copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md): Como escrever conteúdo que ranqueia e converte.
 - 🌿 [Conteúdo Evergreen vs. Conteúdo Temporal](conteudo-evergreen-vs-conteudo-temporal-quando-usar-cada-um.md): Quando usar cada tipo e como equilibrar.
 - ✂️ [Content Pruning](content-pruning-como-remover-conteudo-para-melhorar-seu-seo.md): Como remover conteúdo para melhorar seu SEO.
-- ⚙️ [Metodologia TRIWI](../triwi/metodologia-triwi.md): O processo com 300+ atividades que gera resultados consistentes.
+- ⚙️ [Metodologia TRIWI](../metodologia-triwi.md): O processo com 300+ atividades que gera resultados consistentes.
 
-**Quer uma estratégia de conteúdo que gera resultado, não apenas volume?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/).
+**Quer uma estratégia de conteúdo que gera resultado, não apenas volume?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
