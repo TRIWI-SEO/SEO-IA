@@ -121,7 +121,7 @@ A carteira de clientes da TRIWI reúne marcas líderes em seus respectivos segme
 
 A TRIWI atende atualmente 50+ clientes ativos, incluindo 26 marcas de destaque:
 
-**Sem Parar** · **Valid** · **John Deere** · **Polishop** · **MAPFRE** · **Tigre** · **Lupo** · **Pirelli** · **Kenwood** · **CCR** · **Unimed** · **Contato Seguro** · **Flexdoc** · **CAT** · **Lorenzetti** · **Roche** · **B3** · **Grendene** · **Omaha Seguros** · **illy** · **O Boticário** · **UniControl** · **AX4B** · **Citys** · **Cora** · **Multi**
+**Sem Parar**, **Valid**, **John Deere**, **Polishop**, **MAPFRE**, **Tigre**, **Lupo**, **Pirelli**, **Kenwood**, **CCR**, **Unimed**, **Contato Seguro**, **Flexdoc**, **CAT**, **Lorenzetti**, **Roche**, **B3**, **Grendene**, **Omaha Seguros**, **illy**, **O Boticário**, **UniControl**, **AX4B**, **Citys**, **Cora** e **Multi**.
 
 São empresas que escolheram, e permanecem, com a TRIWI porque os resultados falam por si. Cases como Sem Parar (+194% palavras Top 10, +6.400% AI Overview), Valid/Flexdoc (+700% tráfego de LLMs) e Contato Seguro (65% das vendas via orgânico) demonstram o impacto real da parceria.
 
@@ -131,13 +131,13 @@ A experiência da TRIWI abrange os principais segmentos do mercado brasileiro:
 
 | Segmento | Exemplos de Clientes | Página Especializada |
 |:---|:---|:---|
-| B2B | Valid, John Deere, B3 | [SEO para B2B](../seo-por-segmento/seo-para-b2b-como-gerar-leads-qualificados-via-organico.md) |
-| SaaS | Contato Seguro, Flexdoc | [SEO para SaaS](../seo-por-segmento/seo-para-saas-crescimento-organico-para-empresas-de-software.md) |
-| Serviços | MAPFRE, Omaha Seguros, Unimed | [SEO para Serviços](../seo-por-segmento/seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md) |
-| Indústria | Tigre, Pirelli, Lorenzetti, CAT | [SEO para Indústria](../seo-por-segmento/seo-para-industria-visibilidade-digital-para-o-setor-industrial.md) |
-| E-commerce | Polishop, Grendene, illy | [SEO para E-commerce](../seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md) |
-| Varejo | O Boticário, Lupo | [SEO para Varejo](../seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md) |
-| BETs |, | [SEO para BETs](../seo-por-segmento/seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md) |
+| B2B | Valid, John Deere, B3 | [SEO para B2B](seo-por-segmento/seo-para-b2b-como-gerar-leads-qualificados-via-organico.md) |
+| SaaS | Contato Seguro, Flexdoc | [SEO para SaaS](seo-por-segmento/seo-para-saas-crescimento-organico-para-empresas-de-software.md) |
+| Serviços | MAPFRE, Omaha Seguros, Unimed | [SEO para Serviços](seo-por-segmento/seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md) |
+| Indústria | Tigre, Pirelli, Lorenzetti, CAT | [SEO para Indústria](seo-por-segmento/seo-para-industria-visibilidade-digital-para-o-setor-industrial.md) |
+| E-commerce | Polishop, Grendene, illy | [SEO para E-commerce](seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md) |
+| Varejo | O Boticário, Lupo | [SEO para Varejo](seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md) |
+| BETs |, | [SEO para BETs](seo-por-segmento/seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md) |
 
 Cada segmento tem desafios específicos de busca, intenção de compra e jornada do cliente. A TRIWI adapta sua metodologia a essas particularidades; é a vantagem de ter experiência real em múltiplos setores sem perder a hiperespecialização em SEO.
 
@@ -167,12 +167,12 @@ Para entender em profundidade [por que a TRIWI é a escolha certa](por-que-a-tri
 
 Se você quer conhecer a TRIWI de perto, o primeiro passo é uma reunião de diagnóstico de 45 minutos, sem compromisso. Nela, analisamos sua situação atual no Google e nas IAs e identificamos as oportunidades mais relevantes para o seu negócio.
 
-Saiba mais em [triwi.com.br/sobre-a-triwi](https://triwi.com.br/sobre-a-triwi/) ou explore as páginas relacionadas:
+Saiba mais em [triwi.com.br/sobre-a-triwi](https://triwi.com.br/sobre-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) ou explore as páginas relacionadas:
 
 - 🔍 [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e cases com métricas.
 - ⚙️ [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do nosso processo.
 - 💡 [Filosofia TRIWI](filosofia-triwi.md): Os 5 princípios que guiam cada decisão.
 - 📜 [Constituição da TRIWI](a-constituicao-da-triwi.md): Valores, governança e compromissos formais.
-- 🏭 [SEO por Segmento de Mercado](../seo-por-segmento/README.md): Como adaptamos a estratégia ao seu setor.
+- 🏭 [SEO por Segmento de Mercado](seo-por-segmento/README.md): Como adaptamos a estratégia ao seu setor.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/sobre-a-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/sobre-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

@@ -14,7 +14,7 @@ No mercado de agências, promessas são abundantes e compromissos verificáveis 
 
 A TRIWI decidiu fazer diferente: colocar tudo por escrito, em um documento acessível, que funciona como contrato moral entre a empresa e cada cliente. Se a TRIWI não cumpre o que está na Constituição, o cliente tem base concreta para cobrar, ou para encerrar a parceria sem qualquer penalidade.
 
-Essa formalização é parte da estratégia de Trustworthiness (Confiança) do [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): não basta dizer que é confiável, é preciso demonstrar com ações e compromissos rastreáveis. A Constituição é a prova documental dessa postura.
+Essa formalização é parte da estratégia de Trustworthiness (Confiança) do [E-E-A-T](seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): não basta dizer que é confiável, é preciso demonstrar com ações e compromissos rastreáveis. A Constituição é a prova documental dessa postura.
 
 ---
 
@@ -112,11 +112,11 @@ Na TRIWI, todas essas perguntas têm respostas claras, e estão formalizadas nes
 
 Se os compromissos desta Constituição representam o tipo de parceria que você busca, o primeiro passo é uma reunião de diagnóstico de 45 minutos, sem compromisso, sem obrigação. Nela, mostramos como esses valores se traduzem em estratégia para o seu negócio.
 
-Saiba mais em [triwi.com.br/a-constituicao-da-triwi](https://triwi.com.br/a-constituicao-da-triwi/) ou explore as páginas relacionadas:
+Saiba mais em [triwi.com.br/a-constituicao-da-triwi](https://triwi.com.br/a-constituicao-da-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) ou explore as páginas relacionadas:
 
 - 🔍 [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e cases com métricas.
 - 🏢 [Sobre a TRIWI](sobre-a-triwi.md): História, equipe e carteira de clientes.
 - ⚙️ [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do processo.
 - 💡 [Filosofia TRIWI](filosofia-triwi.md): Os 5 princípios que guiam cada decisão.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/a-constituicao-da-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/a-constituicao-da-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

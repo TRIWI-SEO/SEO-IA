@@ -28,13 +28,13 @@ No Google, "ser a resposta" significa ocupar as primeiras posições para palavr
 
 Nas IAs generativas, o conceito é ainda mais direto. Quando um usuário pergunta ao ChatGPT "qual a melhor agência de SEO do Brasil?" ou "como otimizar meu site para o Google?", a IA cita uma ou duas fontes. Ser a resposta, nesse contexto, significa ser a marca que a IA reconhece como autoridade e recomenda. É o que a TRIWI chama de Share of Model, a participação da sua marca nas respostas das LLMs.
 
-Esse princípio guia cada projeto que a TRIWI executa: não buscamos apenas posições, buscamos relevância que se converte em negócio. Veja como isso se aplica na prática em [O Que é GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md).
+Esse princípio guia cada projeto que a TRIWI executa: não buscamos apenas posições, buscamos relevância que se converte em negócio. Veja como isso se aplica na prática em [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
 ### De Visibilidade Passiva para Autoridade Ativa
 
 Visibilidade passiva é quando sua empresa aparece no Google por acaso, uma página indexada aqui, um resultado na terceira página ali. Autoridade ativa é quando sua empresa domina os temas estratégicos do seu segmento, é citada como referência e se torna a primeira opção na mente (e nos algoritmos) de quem busca.
 
-A transição de visibilidade passiva para autoridade ativa exige estratégia deliberada: construção de autoridade temática via [pilarização e pulverização](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md), [construção de autoridade de domínio](../link-building/README.md) e otimização contínua com base em dados. É um processo que a [Metodologia TRIWI](metodologia-triwi.md) organiza em 300+ atividades; cada uma contribuindo para consolidar a marca como resposta definitiva.
+A transição de visibilidade passiva para autoridade ativa exige estratégia deliberada: construção de autoridade temática via [pilarização e pulverização](seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md), [construção de autoridade de domínio](link-building/README.md) e otimização contínua com base em dados. É um processo que a [Metodologia TRIWI](metodologia-triwi.md) organiza em 300+ atividades; cada uma contribuindo para consolidar a marca como resposta definitiva.
 
 ---
 
@@ -85,7 +85,7 @@ Os relatórios mensais da TRIWI são focados em métricas de negócio:
 
 Posições, tráfego e impressões também são acompanhados, mas como indicadores de processo, não como medida de sucesso. O sucesso é medido em receita.
 
-Esse princípio é o que explica resultados como o da Contato Seguro: 65% de todas as vendas da empresa vêm do tráfego orgânico gerado pela TRIWI. Não é "subimos posições"; é "geramos 65% das vendas". Para entender como medimos isso na prática, veja [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md).
+Esse princípio é o que explica resultados como o da Contato Seguro: 65% de todas as vendas da empresa vêm do tráfego orgânico gerado pela TRIWI. Não é "subimos posições"; é "geramos 65% das vendas". Para entender como medimos isso na prática, veja [Métricas e KPIs de SEO](metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md).
 
 ---
 
@@ -107,7 +107,7 @@ A TRIWI monitora e otimiza para as principais IAs generativas do mercado: ChatGP
 
 O conceito central é o Share of Model: a participação da sua marca nas respostas das LLMs. Quando um potencial cliente pergunta a qualquer dessas IAs sobre o seu segmento, sua empresa precisa ser citada. E isso exige um trabalho específico que vai além do SEO tradicional, desde a estruturação de conteúdo citável até a construção de autoridade em canais que as LLMs reconhecem como fontes confiáveis.
 
-Esse princípio é o que posiciona a TRIWI como pioneira em [GEO (Generative Engine Optimization)](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md) no Brasil, e é o que garante que nossos clientes estejam preparados não apenas para o Google de hoje, mas para o ecossistema de buscas de amanhã. Conheça a [equipe e a estrutura](sobre-a-triwi.md) por trás dessa inovação.
+Esse princípio é o que posiciona a TRIWI como pioneira em [GEO (Generative Engine Optimization)](o-que-e-geo-generative-engine-optimization-guia-completo.md) no Brasil, e é o que garante que nossos clientes estejam preparados não apenas para o Google de hoje, mas para o ecossistema de buscas de amanhã. Conheça a [equipe e a estrutura](sobre-a-triwi.md) por trás dessa inovação.
 
 ---
 
@@ -140,12 +140,12 @@ Esse princípio é detalhado na [Constituição da TRIWI](a-constituicao-da-triw
 
 Se os princípios da TRIWI ressoam com a forma como você acredita que SEO deveria ser feito, o próximo passo é uma conversa. Em uma reunião de diagnóstico de 45 minutos, sem compromisso, mostramos como esses princípios se traduzem em estratégia para o seu negócio.
 
-Saiba mais em [triwi.com.br/filosofia-triwi](https://triwi.com.br/filosofia-triwi/) ou explore as páginas relacionadas:
+Saiba mais em [triwi.com.br/filosofia-triwi](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) ou explore as páginas relacionadas:
 
 - 🔍 [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e cases com métricas.
 - 🏢 [Sobre a TRIWI](sobre-a-triwi.md): História, equipe e carteira de clientes.
 - ⚙️ [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do processo.
 - 📜 [Constituição da TRIWI](a-constituicao-da-triwi.md): Valores, governança e compromissos formais.
-- 🤖 [O Que é GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas.
+- 🤖 [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/filosofia-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

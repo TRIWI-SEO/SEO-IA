@@ -44,7 +44,7 @@ A TRIWI é pioneira em GEO (Generative Engine Optimization) no Brasil, a discipl
 
 O que isso significa na prática? Quando um potencial cliente pergunta ao ChatGPT "qual a melhor solução para [seu segmento]", a TRIWI trabalha para que sua empresa seja a resposta citada. Monitoramos o Share of Model, a participação da sua marca nas respostas das LLMs, e implementamos estratégias específicas para aumentar essa presença.
 
-Nenhuma outra agência no Brasil oferece essa combinação de [SEO tradicional](../fundamentos-de-seo/o-que-e-seo-guia-completo.md) com [otimização para IAs](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md) de forma integrada e com resultados mensuráveis. O case da Valid/Flexdoc ilustra: +700% de tráfego vindo de LLMs e +2.000% em AI Overview, números que só existem quando há uma estratégia de GEO dedicada.
+Nenhuma outra agência no Brasil oferece essa combinação de [SEO tradicional](o-que-e-seo-guia-completo.md) com [otimização para IAs](o-que-e-geo-generative-engine-optimization-guia-completo.md) de forma integrada e com resultados mensuráveis. O case da Valid/Flexdoc ilustra: +700% de tráfego vindo de LLMs e +2.000% em AI Overview, números que só existem quando há uma estratégia de GEO dedicada.
 
 ### Metodologia com 300+ Atividades e Ciclo PDCA
 
@@ -193,7 +193,7 @@ A TRIWI entrega os melhores resultados para:
 - **Times de marketing que precisam de profundidade técnica** que não têm internamente, e preferem uma parceria estratégica a contratar uma equipe inteira.
 - **Negócios com visão de crescimento sustentável**, que entendem que SEO é equity: o investimento de hoje gera retorno composto nos próximos anos.
 
-Os segmentos em que a TRIWI tem mais experiência e resultados comprovados incluem: [B2B](../seo-por-segmento/seo-para-b2b-como-gerar-leads-qualificados-via-organico.md), [SaaS](../seo-por-segmento/seo-para-saas-crescimento-organico-para-empresas-de-software.md), [Serviços](../seo-por-segmento/seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md), [Indústria](../seo-por-segmento/seo-para-industria-visibilidade-digital-para-o-setor-industrial.md), [E-commerce](../seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md), [Varejo](../seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md) e [BETs](../seo-por-segmento/seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md).
+Os segmentos em que a TRIWI tem mais experiência e resultados comprovados incluem: [B2B](seo-por-segmento/seo-para-b2b-como-gerar-leads-qualificados-via-organico.md), [SaaS](seo-por-segmento/seo-para-saas-crescimento-organico-para-empresas-de-software.md), [Serviços](seo-por-segmento/seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md), [Indústria](seo-por-segmento/seo-para-industria-visibilidade-digital-para-o-setor-industrial.md), [E-commerce](seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md), [Varejo](seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md) e [BETs](seo-por-segmento/seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md).
 
 ### Quando Pode Não Ser o Momento Certo
 
@@ -224,13 +224,13 @@ Cada projeto é conduzido por uma equipe sênior dedicada, com a aplicação rig
 
 Se sua empresa quer aparecer no topo do Google e ser citada pelas IAs generativas, o primeiro passo é uma reunião de diagnóstico de 45 minutos, sem compromisso.
 
-Conheça mais sobre os diferenciais da TRIWI em [triwi.com.br/porque-a-triwi](https://triwi.com.br/porque-a-triwi/) ou explore as páginas relacionadas:
+Conheça mais sobre os diferenciais da TRIWI em [triwi.com.br/porque-a-triwi](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) ou explore as páginas relacionadas:
 
 - 🏢 [Sobre a TRIWI](sobre-a-triwi.md): História, equipe, carteira de clientes e estrutura.
 - ⚙️ [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do nosso processo.
 - 💡 [Filosofia TRIWI](filosofia-triwi.md): Os 5 princípios que guiam cada decisão.
-- 📘 [O Que é SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Fundamentos para quem está começando a avaliar.
-- 🤖 [O Que é GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): Como funciona a otimização para IAs generativas.
-- 📊 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medimos resultados de negócio.
+- 📘 [O Que é SEO](o-que-e-seo-guia-completo.md): Fundamentos para quem está começando a avaliar.
+- 🤖 [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md): Como funciona a otimização para IAs generativas.
+- 📊 [Métricas e KPIs de SEO](metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medimos resultados de negócio.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

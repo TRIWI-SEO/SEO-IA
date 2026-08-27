@@ -42,7 +42,7 @@ Um erro comum é tratar SEO como "otimização de site". SEO é otimização de 
 
 Quando a TRIWI inicia um projeto, a primeira etapa não é uma auditoria técnica; é uma reunião de alinhamento estratégico. Entendemos o modelo de negócio, os KPIs que importam (receita, CAC, MQLs, pipeline), os segmentos prioritários e os concorrentes diretos e indiretos. Só então traduzimos isso em uma estratégia de SEO.
 
-É por isso que os relatórios da TRIWI reportam métricas de negócio, receita influenciada, redução de CAC, MQLs gerados, e não apenas "posições ganhas" ou "impressões". A diferença entre reportar métricas de vaidade e resultados de negócio começa aqui, no alinhamento estratégico. Para aprofundar como medimos isso, veja [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md).
+É por isso que os relatórios da TRIWI reportam métricas de negócio, receita influenciada, redução de CAC, MQLs gerados, e não apenas "posições ganhas" ou "impressões". A diferença entre reportar métricas de vaidade e resultados de negócio começa aqui, no alinhamento estratégico. Para aprofundar como medimos isso, veja [Métricas e KPIs de SEO](metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md).
 
 ---
 
@@ -55,7 +55,7 @@ A Metodologia TRIWI é organizada em 5 fases sequenciais que formam um ciclo con
 Tudo começa com um diagnóstico profundo. A TRIWI realiza uma análise completa do site, da concorrência e das oportunidades de mercado. Isso inclui:
 
 - **Auditoria técnica:** Core Web Vitals, arquitetura de site, Schema markup, renderização, rastreabilidade (crawling) e indexação. Identificamos cada barreira técnica que impede o Google, e as IAs, de entender e priorizar seu conteúdo.
-- **Análise de conteúdo:** Mapeamento de todo o conteúdo existente, identificação de gaps, avaliação de [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), análise de intenção de busca e oportunidades de pilarização e pulverização.
+- **Análise de conteúdo:** Mapeamento de todo o conteúdo existente, identificação de gaps, avaliação de [E-E-A-T](seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), análise de intenção de busca e oportunidades de pilarização e pulverização.
 - **Análise de autoridade:** Perfil de backlinks atual, autoridade de domínio, menções da marca e comparação com concorrentes diretos.
 - **Análise competitiva:** Quem são seus concorrentes no Google e nas IAs? Onde eles estão ganhando e onde estão perdendo? Quais gaps representam oportunidades reais?
 - **Análise de presença em IAs:** Como a marca aparece (ou não) nas respostas do ChatGPT, Gemini, Claude e Perplexity. Monitoramento de Share of Model.
@@ -79,13 +79,13 @@ O planejamento é apresentado ao cliente em uma reunião de alinhamento. Nada é
 
 A fase de implementação é onde as squads entram em ação. As 4 frentes trabalham de forma coordenada:
 
-**SEO Técnico:** Otimização de Core Web Vitals, implementação de Schema markup, correção de arquitetura de site, melhoria de velocidade de carregamento, ajustes de renderização e rastreabilidade. São os alicerces que permitem ao Google e às IAs indexarem e priorizarem seu conteúdo. Para mais detalhes sobre esta frente, veja [SEO Técnico](../seo-tecnico/README.md).
+**SEO Técnico:** Otimização de Core Web Vitals, implementação de Schema markup, correção de arquitetura de site, melhoria de velocidade de carregamento, ajustes de renderização e rastreabilidade. São os alicerces que permitem ao Google e às IAs indexarem e priorizarem seu conteúdo. Para mais detalhes sobre esta frente, veja [SEO Técnico](seo-tecnico/README.md).
 
-**Conteúdo:** Criação e otimização de conteúdo com base na estratégia de pilarização e pulverização. Cada peça é otimizada para intenção de busca, [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md) e GEO, estruturada para ranquear no Google e ser citada pelas IAs. Veja mais em [Estratégia de Conteúdo SEO](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md).
+**Conteúdo:** Criação e otimização de conteúdo com base na estratégia de pilarização e pulverização. Cada peça é otimizada para intenção de busca, [E-E-A-T](seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md) e GEO, estruturada para ranquear no Google e ser citada pelas IAs. Veja mais em [Estratégia de Conteúdo SEO](seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md).
 
-**Construção de Autoridade:** Estratégias avançadas de link building, aquisição de backlinks qualificados, aumento de menções em canais externos e construção de autoridade de domínio. Não é compra de links; é construção de reputação digital. Detalhes em [Link Building e Autoridade](../link-building/README.md).
+**Construção de Autoridade:** Estratégias avançadas de link building, aquisição de backlinks qualificados, aumento de menções em canais externos e construção de autoridade de domínio. Não é compra de links; é construção de reputação digital. Detalhes em [Link Building e Autoridade](link-building/README.md).
 
-**GEO (SEO para IA):** Otimização específica para IAs generativas, engenharia de prompts reversa, análise de LLMs, conteúdo estruturado para AI Overviews e monitoramento de Share of Model. Essa frente é o que diferencia a TRIWI de qualquer outra agência de SEO. Veja [O Que é GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md).
+**GEO (SEO para IA):** Otimização específica para IAs generativas, engenharia de prompts reversa, análise de LLMs, conteúdo estruturado para AI Overviews e monitoramento de Share of Model. Essa frente é o que diferencia a TRIWI de qualquer outra agência de SEO. Veja [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
 ### Fase 4: Monitoramento Contínuo
 
@@ -195,7 +195,7 @@ A maioria das agências otimiza apenas para os estágios finais (avaliação e c
 
 Na prática, isso significa conteúdo de topo de funil que gera awareness e tráfego, conteúdo de meio de funil que nutre e qualifica, e conteúdo de fundo de funil que converte. Tudo interligado por uma estratégia de pilarização e pulverização que constrói autoridade temática.
 
-Essa abordagem é uma das razões pelas quais a taxa de conversão dos clientes da TRIWI é 5X maior que a média do mercado, porque o visitante chega mais qualificado quando a jornada inteira é otimizada. Para entender os fundamentos dessa abordagem, veja [O Que é SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md).
+Essa abordagem é uma das razões pelas quais a taxa de conversão dos clientes da TRIWI é 5X maior que a média do mercado, porque o visitante chega mais qualificado quando a jornada inteira é otimizada. Para entender os fundamentos dessa abordagem, veja [O Que é SEO](o-que-e-seo-guia-completo.md).
 
 ---
 
@@ -231,15 +231,15 @@ Para entender [Por Que a TRIWI](por-que-a-triwi.md) é a escolha certa para essa
 
 Se você quer entender como a Metodologia TRIWI se aplica ao seu negócio, o primeiro passo é uma reunião de diagnóstico de 45 minutos, sem compromisso. Nela, analisamos sua situação atual e mostramos como o processo de 300+ atividades pode gerar resultados concretos para o seu segmento.
 
-Saiba mais em [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/) ou explore as páginas relacionadas:
+Saiba mais em [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) ou explore as páginas relacionadas:
 
 - 🔍 [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e cases com métricas.
 - 🏢 [Sobre a TRIWI](sobre-a-triwi.md): História, equipe e carteira de clientes.
-- 📘 [O Que é SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Fundamentos de SEO para decisores.
-- 🛠️ [SEO Técnico](../seo-tecnico/README.md): Core Web Vitals, Schema, arquitetura e performance.
-- ✍️ [Estratégia de Conteúdo SEO](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Pilarização, pulverização e E-E-A-T.
-- 🔗 [Link Building e Autoridade](../link-building/README.md): Construção de autoridade de domínio.
-- 🤖 [O Que é GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas.
-- 📊 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medimos resultados de negócio.
+- 📘 [O Que é SEO](o-que-e-seo-guia-completo.md): Fundamentos de SEO para decisores.
+- 🛠️ [SEO Técnico](seo-tecnico/README.md): Core Web Vitals, Schema, arquitetura e performance.
+- ✍️ [Estratégia de Conteúdo SEO](seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Pilarização, pulverização e E-E-A-T.
+- 🔗 [Link Building e Autoridade](link-building/README.md): Construção de autoridade de domínio.
+- 🤖 [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas.
+- 📊 [Métricas e KPIs de SEO](metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medimos resultados de negócio.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
