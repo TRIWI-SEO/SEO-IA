@@ -1,6 +1,6 @@
 # SEO On-Page: Otimização Dentro do Seu Site
 
-SEO on-page é o conjunto de otimizações aplicadas diretamente dentro das páginas do seu site para melhorar seu posicionamento nos resultados de busca. Diferente do [SEO off-page](seo-off-page-autoridade-alem-do-seu-site.md) (que depende de fatores externos) e do [SEO técnico](../seo-tecnico/README.md) (que trata da infraestrutura), o SEO on-page está inteiramente sob seu controle: títulos, headings, conteúdo, URLs, imagens e links internos. É onde a maioria dos projetos de [SEO](o-que-e-seo-guia-completo.md) encontra os primeiros quick wins, e onde erros básicos custam posições que deveriam ser suas.
+SEO on-page é o conjunto de otimizações aplicadas diretamente dentro das páginas do seu site para melhorar seu posicionamento nos resultados de busca. Diferente do [SEO off-page](seo-off-page-autoridade-alem-do-seu-site.md) (que depende de fatores externos) e do [SEO técnico](../seo-tecnico/README.md) (que trata da infraestrutura), o SEO on-page está inteiramente sob seu controle: títulos, headings, conteúdo, URLs, imagens e links internos. É onde a maioria dos projetos de [SEO](../o-que-e-seo-guia-completo.md) encontra os primeiros quick wins, e onde erros básicos custam posições que deveriam ser suas.
 
 Este guia cobre as técnicas fundamentais de otimização on-page: do title tag ao link interno, da hierarquia de headings ao uso estratégico de keywords. Cada elemento é explicado com foco prático, o que fazer, por que funciona e quais erros evitar.
 
@@ -142,7 +142,7 @@ Mesmo profissionais experientes cometem erros de SEO on-page que custam posiçõ
 
 **Canibalização de keywords** acontece quando múltiplas páginas do site competem pela mesma keyword. Em vez de ter uma página forte, o site fica com várias páginas medianas disputando entre si. A solução envolve definir uma página principal para cada keyword-alvo e consolidar ou redirecionar as demais, uma análise que faz parte do escopo de [pesquisa de palavras-chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md) profissional.
 
-Na TRIWI, a otimização on-page é uma das 12 entregas do escopo, não uma ação pontual, mas um processo contínuo com revisões mensais dentro do Ciclo PDCA. Cada página é analisada individualmente, com checklist completo de elementos on-page, e as otimizações são priorizadas por impacto potencial em tráfego e conversão. Essa disciplina operacional, aplicada sistematicamente com a [Metodologia TRIWI](../triwi/metodologia-triwi.md), é o que transforma SEO on-page de "ajuste técnico" em motor de resultados de negócio.
+Na TRIWI, a otimização on-page é uma das 12 entregas do escopo, não uma ação pontual, mas um processo contínuo com revisões mensais dentro do Ciclo PDCA. Cada página é analisada individualmente, com checklist completo de elementos on-page, e as otimizações são priorizadas por impacto potencial em tráfego e conversão. Essa disciplina operacional, aplicada sistematicamente com a [Metodologia TRIWI](../metodologia-triwi.md), é o que transforma SEO on-page de "ajuste técnico" em motor de resultados de negócio.
 
 ---
 
@@ -150,11 +150,11 @@ Na TRIWI, a otimização on-page é uma das 12 entregas do escopo, não uma aç�
 
 SEO on-page é o ponto de partida mais acessível e controlável de qualquer estratégia de SEO. Cada otimização aplicada dentro da página é um sinal a mais para o Google, e a soma desses sinais define se o seu site aparece ou desaparece nos resultados.
 
-Conheça como a TRIWI aplica otimizações on-page de forma integrada à estratégia completa: [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/).
+Conheça como a TRIWI aplica otimizações on-page de forma integrada à estratégia completa: [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
 - 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Todos os critérios que o Google avalia.
 - 🔗 [SEO Off-Page](seo-off-page-autoridade-alem-do-seu-site.md): Construção de autoridade além do seu site.
 - 🛠️ [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance que sustentam o on-page.
@@ -162,4 +162,4 @@ Explore as páginas relacionadas:
 - 📘 [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework de qualidade do Google.
 - 🔑 [Pesquisa de Palavras-Chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md): Como encontrar as oportunidades certas.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

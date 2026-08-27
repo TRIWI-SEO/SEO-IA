@@ -20,7 +20,7 @@ A lógica do Google é simples: se outros sites relevantes e confiáveis linkam 
 
 O Google percebeu desde cedo que sinais internos (o que o site diz sobre si mesmo) são facilmente manipuláveis. Sinais externos (o que outros dizem sobre o site) são muito mais difíceis de fabricar de forma legítima. Por isso, backlinks e menções externas continuam sendo pilares do algoritmo de rankeamento; são "votos de confiança" que o site não pode dar a si mesmo.
 
-Na prática, isso significa que um [projeto de SEO](o-que-e-seo-guia-completo.md) completo precisa investir tanto em construção de autoridade externa quanto em otimização interna. Um sem o outro entrega resultados limitados.
+Na prática, isso significa que um [projeto de SEO](../o-que-e-seo-guia-completo.md) completo precisa investir tanto em construção de autoridade externa quanto em otimização interna. Um sem o outro entrega resultados limitados.
 
 ---
 
@@ -78,7 +78,7 @@ A fronteira mais recente do SEO off-page é a presença em IAs generativas. Quan
 
 Monitorar o [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), a participação da marca nas respostas das LLMs, é a forma de medir essa nova dimensão de autoridade. Marcas que aparecem consistentemente nas respostas de IAs generativas tendem a acumular sinais de autoridade que se retroalimentam: mais citações geram mais visitas, mais visitas geram mais conteúdo compartilhado, mais conteúdo compartilhado gera mais citações.
 
-Essa dimensão é o que conecta SEO off-page com [GEO (Generative Engine Optimization)](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md), a otimização para IAs generativas não é uma disciplina separada, mas uma extensão natural do trabalho de construção de autoridade.
+Essa dimensão é o que conecta SEO off-page com [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md), a otimização para IAs generativas não é uma disciplina separada, mas uma extensão natural do trabalho de construção de autoridade.
 
 ---
 
@@ -102,7 +102,7 @@ Táticas de volume, submissão em milhares de diretórios, comentários automati
 
 Link building estratégico envolve: identificar sites de alta autoridade e relevância temática, criar conteúdo que esses sites queiram referenciar, fazer outreach personalizado, cultivar relacionamentos editoriais e monitorar continuamente o perfil de backlinks. É um trabalho de médio e longo prazo, consistente com a natureza do SEO como um todo.
 
-A [Metodologia TRIWI](../triwi/metodologia-triwi.md) integra construção de autoridade a cada fase do processo, do diagnóstico inicial (análise do perfil de backlinks) à otimização contínua (monitoramento e ações mensais). Essa integração é o que garante que o off-page não seja uma ação isolada, mas parte de uma estratégia coerente que potencializa os resultados de conteúdo e técnico.
+A [Metodologia TRIWI](../metodologia-triwi.md) integra construção de autoridade a cada fase do processo, do diagnóstico inicial (análise do perfil de backlinks) à otimização contínua (monitoramento e ações mensais). Essa integração é o que garante que o off-page não seja uma ação isolada, mas parte de uma estratégia coerente que potencializa os resultados de conteúdo e técnico.
 
 ---
 
@@ -110,11 +110,11 @@ A [Metodologia TRIWI](../triwi/metodologia-triwi.md) integra construção de aut
 
 SEO off-page é o pilar que transforma um site bem otimizado em uma referência reconhecida pelo mercado. Construir autoridade exige tempo, consistência e estratégia, mas é o investimento que gera o retorno mais duradouro em SEO.
 
-Conheça como a TRIWI integra construção de autoridade à estratégia completa: [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/).
+Conheça como a TRIWI integra construção de autoridade à estratégia completa: [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
 - 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que o Google avalia.
 - 📝 [SEO On-Page](seo-on-page-otimizacao-dentro-do-seu-site.md): Otimização dentro do seu site.
 - 🔗 [Link Building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Guia completo de construção de autoridade com backlinks.
@@ -122,4 +122,4 @@ Explore as páginas relacionadas:
 - 📣 [Menções de Marca e Digital PR](../link-building/mencoes-de-marca-e-digital-pr-para-seo.md): Como menções sem link impactam o SEO.
 - 📈 [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md): Como medir a presença da sua marca nas IAs.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

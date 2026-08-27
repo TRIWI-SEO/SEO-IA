@@ -12,7 +12,7 @@ O Google funciona em três etapas sequenciais e interdependentes. Cada uma preci
 2. **Indexação (Indexing):** As páginas rastreadas são analisadas, processadas e armazenadas no índice do Google, um banco de dados massivo de conteúdo web.
 3. **Rankeamento (Ranking):** Quando um usuário faz uma busca, o algoritmo do Google consulta o índice e ordena os resultados por relevância, qualidade e autoridade.
 
-Se o Google não consegue rastrear seu site, ele não será indexado. Se não for indexado, não existe para o algoritmo de rankeamento. E sem rankeamento, nenhum usuário encontrará sua página via busca orgânica. Cada etapa é pré-requisito para a seguinte, e falhas em qualquer uma delas comprometem todo o resultado de [SEO](o-que-e-seo-guia-completo.md).
+Se o Google não consegue rastrear seu site, ele não será indexado. Se não for indexado, não existe para o algoritmo de rankeamento. E sem rankeamento, nenhum usuário encontrará sua página via busca orgânica. Cada etapa é pré-requisito para a seguinte, e falhas em qualquer uma delas comprometem todo o resultado de [SEO](../o-que-e-seo-guia-completo.md).
 
 ---
 
@@ -38,7 +38,7 @@ O Google descobre novas páginas de três formas principais:
 
 **Submissão manual:** Através do Google Search Console, é possível solicitar que o Google rastreie uma URL específica. Útil para páginas novas ou recém-atualizadas que precisam ser descobertas rapidamente.
 
-A TRIWI monitora o crawl behavior de todos os sites de clientes como parte da Fase 4 (Monitoramento) da sua [metodologia](../triwi/metodologia-triwi.md). Isso inclui análise de logs de servidor para entender quais páginas o Googlebot está visitando, com que frequência e quais está ignorando, dados que orientam otimizações técnicas específicas para maximizar a cobertura de rastreamento.
+A TRIWI monitora o crawl behavior de todos os sites de clientes como parte da Fase 4 (Monitoramento) da sua [metodologia](../metodologia-triwi.md). Isso inclui análise de logs de servidor para entender quais páginas o Googlebot está visitando, com que frequência e quais está ignorando, dados que orientam otimizações técnicas específicas para maximizar a cobertura de rastreamento.
 
 ### Crawl Budget: Por Que Importa para Sites Grandes
 
@@ -148,7 +148,7 @@ A página de resultados do Google mudou radicalmente. O que antes era uma lista 
 
 Essa evolução significa que a competição por visibilidade no Google vai muito além de "subir posições". É preciso entender quais formatos de resultado aparecem para cada tipo de busca e otimizar para eles. Uma busca sobre "como funciona SEO" pode ter um AI Overview, um featured snippet, vídeos e a seção de perguntas; cada um desses é uma oportunidade de visibilidade.
 
-Paralelamente, IAs generativas como ChatGPT, Gemini, Claude e Perplexity estão criando um novo canal de busca. O ChatGPT processa 600 milhões de buscas diárias. Milhões de usuários estão fazendo perguntas a assistentes de IA para descobrir produtos, comparar soluções e tomar decisões. A otimização para esses ambientes, conhecida como [GEO (Generative Engine Optimization)](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md), é a evolução natural do SEO que empresas com visão de futuro já estão implementando.
+Paralelamente, IAs generativas como ChatGPT, Gemini, Claude e Perplexity estão criando um novo canal de busca. O ChatGPT processa 600 milhões de buscas diárias. Milhões de usuários estão fazendo perguntas a assistentes de IA para descobrir produtos, comparar soluções e tomar decisões. A otimização para esses ambientes, conhecida como [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md), é a evolução natural do SEO que empresas com visão de futuro já estão implementando.
 
 ---
 
@@ -156,11 +156,11 @@ Paralelamente, IAs generativas como ChatGPT, Gemini, Claude e Perplexity estão 
 
 O Google é um sistema em constante evolução, de crawlers simples a algoritmos de IA que entendem contexto, intenção e qualidade. Para quem investe em SEO, entender esses mecanismos é a base que sustenta todas as decisões estratégicas.
 
-Aprofunde-se nos fundamentos técnicos que impactam diretamente como o Google trata seu site e explore a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) para entender como monitoramento contínuo de rastreamento e indexação gera vantagem competitiva real.
+Aprofunde-se nos fundamentos técnicos que impactam diretamente como o Google trata seu site e explore a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) para entender como monitoramento contínuo de rastreamento e indexação gera vantagem competitiva real.
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
 - 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que definem a ordem dos resultados.
 - 🛠️ [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance que impactam rastreamento e indexação.
 - ⚡ [Core Web Vitals](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md): As métricas de experiência que o Google mede.
@@ -168,4 +168,4 @@ Explore as páginas relacionadas:
 - 🔍 [Crawling e Indexação](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Guia aprofundado para garantir que o Google encontre seu site.
 - 🤖 [AI Overviews](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md): Como otimizar para as respostas de IA do Google.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

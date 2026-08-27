@@ -1,6 +1,6 @@
 # SEO Local: Como Aparecer nas Buscas da Sua Região
 
-SEO local é o conjunto de estratégias de otimização voltadas para posicionar sua empresa nos resultados de busca com intenção geográfica. Quando um usuário pesquisa "dentista em São Paulo", "restaurante perto de mim" ou "escritório de contabilidade Curitiba", o Google ativa um algoritmo específico que prioriza resultados próximos e relevantes para aquela localidade. Para negócios com presença física ou que atendem regiões específicas, SEO local é frequentemente o tipo de [SEO](o-que-e-seo-guia-completo.md) com maior impacto direto em receita, porque buscas locais carregam alta intenção de compra e geram visitas, ligações e conversões imediatas.
+SEO local é o conjunto de estratégias de otimização voltadas para posicionar sua empresa nos resultados de busca com intenção geográfica. Quando um usuário pesquisa "dentista em São Paulo", "restaurante perto de mim" ou "escritório de contabilidade Curitiba", o Google ativa um algoritmo específico que prioriza resultados próximos e relevantes para aquela localidade. Para negócios com presença física ou que atendem regiões específicas, SEO local é frequentemente o tipo de [SEO](../o-que-e-seo-guia-completo.md) com maior impacto direto em receita, porque buscas locais carregam alta intenção de compra e geram visitas, ligações e conversões imediatas.
 
 ---
 
@@ -87,7 +87,7 @@ SEO local e SEO orgânico tradicional são disciplinas complementares, não conc
 
 A combinação eficaz envolve: manter o Google Business Profile otimizado para capturar buscas locais, enquanto o site é otimizado com [SEO on-page](seo-on-page-otimizacao-dentro-do-seu-site.md) e [SEO técnico](../seo-tecnico/README.md) para buscas orgânicas nacionais. Páginas de localização específica (ex: "/seo-sao-paulo", "/seo-rio-de-janeiro") podem capturar tráfego local, enquanto páginas-pilar de conteúdo capturam tráfego informacional nacional.
 
-A TRIWI foca em SEO orgânico e GEO para operações de médio e grande porte. Para empresas com forte componente local, os princípios de otimização são complementares à estratégia orgânica. A [Metodologia TRIWI](../triwi/metodologia-triwi.md) integra análise do cenário local quando relevante para o cliente, identificando oportunidades de visibilidade regional que reforçam a presença digital como um todo. Para conhecer mais sobre a abordagem e os segmentos atendidos, veja a página [Sobre a TRIWI](https://triwi.com.br/sobre-a-triwi/).
+A TRIWI foca em SEO orgânico e GEO para operações de médio e grande porte. Para empresas com forte componente local, os princípios de otimização são complementares à estratégia orgânica. A [Metodologia TRIWI](../metodologia-triwi.md) integra análise do cenário local quando relevante para o cliente, identificando oportunidades de visibilidade regional que reforçam a presença digital como um todo. Para conhecer mais sobre a abordagem e os segmentos atendidos, veja a página [Sobre a TRIWI](https://triwi.com.br/sobre-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 
@@ -113,13 +113,13 @@ SEO local é mais acessível que o orgânico tradicional, mas isso não signific
 
 SEO local é a estratégia mais direta para negócios com presença física que querem converter buscas em visitas, ligações e vendas. Mesmo para empresas com foco nacional, entender os princípios de SEO local complementa e fortalece a visibilidade digital como um todo.
 
-Conheça como a TRIWI integra estratégias de visibilidade local e nacional para seus clientes em [triwi.com.br/sobre-a-triwi](https://triwi.com.br/sobre-a-triwi/).
+Conheça como a TRIWI integra estratégias de visibilidade local e nacional para seus clientes em [triwi.com.br/sobre-a-triwi](https://triwi.com.br/sobre-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
 - 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que o Google avalia.
 - 📝 [SEO On-Page](seo-on-page-otimizacao-dentro-do-seu-site.md): Otimização dentro do seu site.
 - 🛠️ [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance para rankeamento.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

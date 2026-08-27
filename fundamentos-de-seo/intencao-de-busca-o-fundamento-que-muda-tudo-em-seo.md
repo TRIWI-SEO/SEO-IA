@@ -1,6 +1,6 @@
 # Intenção de Busca: O Fundamento Que Muda Tudo em SEO
 
-Intenção de busca (search intent) é o objetivo real por trás de cada pesquisa que um usuário faz no Google. Não é a palavra-chave digitada; é o que o usuário espera encontrar ao digitá-la. Entender a intenção de busca é o fundamento que separa conteúdo que rankeia de conteúdo que o Google ignora. Você pode ter a keyword certa, o site mais rápido e dezenas de backlinks, mas se o conteúdo não corresponde ao que o usuário realmente quer, não vai rankear. É por isso que intenção de busca é considerada o [fator de rankeamento](fatores-de-rankeamento-do-google.md) mais importante do [SEO](o-que-e-seo-guia-completo.md) moderno.
+Intenção de busca (search intent) é o objetivo real por trás de cada pesquisa que um usuário faz no Google. Não é a palavra-chave digitada; é o que o usuário espera encontrar ao digitá-la. Entender a intenção de busca é o fundamento que separa conteúdo que rankeia de conteúdo que o Google ignora. Você pode ter a keyword certa, o site mais rápido e dezenas de backlinks, mas se o conteúdo não corresponde ao que o usuário realmente quer, não vai rankear. É por isso que intenção de busca é considerada o [fator de rankeamento](fatores-de-rankeamento-do-google.md) mais importante do [SEO](../o-que-e-seo-guia-completo.md) moderno.
 
 ---
 
@@ -136,7 +136,7 @@ A estratégia de conteúdo eficaz mapeia keywords para cada estágio do funil, g
 
 Na TRIWI, toda estratégia de conteúdo começa pelo Estudo de Mercado e Intenção de Busca, uma das 12 entregas do escopo. Não criamos conteúdo sem antes entender o que o usuário realmente quer encontrar. Esse mapeamento conecta cada peça de conteúdo a um estágio da jornada e a uma intenção de busca específica, garantindo que o investimento em conteúdo gere resultados de negócio em cada fase, não apenas tráfego genérico.
 
-A [Metodologia TRIWI](../triwi/metodologia-triwi.md) integra a análise de intenção de busca ao ciclo PDCA mensal: as intenções evoluem, o comportamento do usuário muda e os resultados da SERP se atualizam. Revisar e ajustar o mapeamento de intenções é parte da otimização contínua que sustenta os [KPIs de resultado](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md).
+A [Metodologia TRIWI](../metodologia-triwi.md) integra a análise de intenção de busca ao ciclo PDCA mensal: as intenções evoluem, o comportamento do usuário muda e os resultados da SERP se atualizam. Revisar e ajustar o mapeamento de intenções é parte da otimização contínua que sustenta os [KPIs de resultado](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md).
 
 ---
 
@@ -144,15 +144,15 @@ A [Metodologia TRIWI](../triwi/metodologia-triwi.md) integra a análise de inten
 
 Intenção de busca é o fundamento que conecta keywords, conteúdo, formato e conversão. Dominar esse conceito transforma a forma como você planeja, cria e otimiza cada página do seu site, do topo ao fundo do funil.
 
-Conheça como a TRIWI mapeia intenções de busca para gerar resultados de negócio: [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/).
+Conheça como a TRIWI mapeia intenções de busca para gerar resultados de negócio: [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
 - 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que o Google avalia.
 - 📑 [Estratégia de Conteúdo para SEO](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo que rankeia e converte.
 - 📘 [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework de qualidade do Google.
 - 🔑 [Pesquisa de Palavras-Chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md): Como encontrar as oportunidades certas.
 - 📈 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir resultados que importam.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

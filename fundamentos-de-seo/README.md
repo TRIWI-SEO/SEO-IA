@@ -1,8 +1,8 @@
 # Fundamentos de SEO: Tudo Que Você Precisa Saber para Começar
 
-Fundamentos de SEO são os conceitos essenciais que sustentam qualquer estratégia de otimização para mecanismos de busca. Antes de mergulhar em técnicas avançadas, é preciso dominar a base: o que é SEO, como o Google funciona, quais fatores determinam o rankeamento, o que otimizar dentro e fora do site, como a intenção de busca direciona tudo e como aplicar SEO em contextos locais e internacionais. Esta categoria reúne 8 páginas que formam a fundação completa do conhecimento em SEO, do conceito à aplicação prática, da teoria ao que funciona em 2025.
+Fundamentos de SEO são os conceitos essenciais que sustentam qualquer estratégia de otimização para mecanismos de busca. Antes de mergulhar em técnicas avançadas, é preciso dominar a base: o que é SEO, como o Google funciona, quais fatores determinam o rankeamento, o que otimizar dentro e fora do site, como a intenção de busca direciona tudo e como aplicar SEO em contextos locais e internacionais. Esta categoria reúne 8 páginas que formam a fundação completa do conhecimento em SEO, do conceito à aplicação prática, da teoria ao que funciona em 2026.
 
-Se você está começando a entender SEO ou quer consolidar conceitos antes de avançar para temas como [SEO técnico](../seo-tecnico/README.md), [conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) ou [GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md), este é o ponto de partida.
+Se você está começando a entender SEO ou quer consolidar conceitos antes de avançar para temas como [SEO técnico](../seo-tecnico/README.md), [conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) ou [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md), este é o ponto de partida.
 
 ---
 
@@ -16,7 +16,7 @@ Cada página foi escrita com profundidade técnica e linguagem acessível, o pad
 
 ## 📄 Páginas da Categoria
 
-### 🔍 [1.1, O Que é SEO: Guia Completo](o-que-e-seo-guia-completo.md)
+### 🔍 [1.1, O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md)
 
 O ponto de partida absoluto. Define SEO como disciplina estratégica de marketing, não apenas "técnica", diferencia SEO de SEM e mídia paga, explica os 3 pilares (técnico, conteúdo e autoridade) e apresenta por que 55% dos cliques vão para resultados orgânicos. Cobre desde o conceito até os tipos de SEO, o tempo real de resultado e os erros mais comuns que empresas cometem ao iniciar.
 
@@ -52,21 +52,21 @@ A disciplina de SEO para empresas com atuação global. Explica a diferença ent
 
 ## 🎯 Por Onde Começar
 
-A sequência recomendada é a ordem natural das páginas. Comece pelo [guia completo de SEO](o-que-e-seo-guia-completo.md) para dominar o conceito, entenda [como o Google funciona por dentro](como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md), aprofunde nos [fatores de rankeamento](fatores-de-rankeamento-do-google.md) e depois explore as frentes de otimização: [on-page](seo-on-page-otimizacao-dentro-do-seu-site.md) e [off-page](seo-off-page-autoridade-alem-do-seu-site.md). A página sobre [intenção de busca](intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md) é leitura obrigatória para qualquer profissional; é o fundamento que conecta tudo. As páginas de [SEO local](seo-local-como-aparecer-nas-buscas-da-sua-regiao.md) e [SEO internacional](seo-internacional-otimizacao-para-multiplos-paises-e-idiomas.md) são complementos para cenários específicos.
+A sequência recomendada é a ordem natural das páginas. Comece pelo [guia completo de SEO](../o-que-e-seo-guia-completo.md) para dominar o conceito, entenda [como o Google funciona por dentro](como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md), aprofunde nos [fatores de rankeamento](fatores-de-rankeamento-do-google.md) e depois explore as frentes de otimização: [on-page](seo-on-page-otimizacao-dentro-do-seu-site.md) e [off-page](seo-off-page-autoridade-alem-do-seu-site.md). A página sobre [intenção de busca](intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md) é leitura obrigatória para qualquer profissional; é o fundamento que conecta tudo. As páginas de [SEO local](seo-local-como-aparecer-nas-buscas-da-sua-regiao.md) e [SEO internacional](seo-internacional-otimizacao-para-multiplos-paises-e-idiomas.md) são complementos para cenários específicos.
 
-Com os fundamentos dominados, avance para as categorias de [SEO Técnico](../seo-tecnico/README.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [GEO, otimização para IAs generativas](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md).
+Com os fundamentos dominados, avance para as categorias de [SEO Técnico](../seo-tecnico/README.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [GEO, otimização para IAs generativas](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
 ---
 
 ## 📩 Fale com a TRIWI
 
-Quer uma estratégia de SEO completa, dos fundamentos à execução, com uma equipe que vive SEO todos os dias? [Entre em contato com a TRIWI](https://triwi.com.br/) e descubra como posicionar sua empresa no topo do Google e nas IAs.
+Quer uma estratégia de SEO completa, dos fundamentos à execução, com uma equipe que vive SEO todos os dias? [Entre em contato com a TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e descubra como posicionar sua empresa no topo do Google e nas IAs.
 
 ---
 
 ## Páginas desta categoria
 
-- [O Que é SEO: Guia Completo](o-que-e-seo-guia-completo.md)
+- [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md)
 - [Como Funciona o Google: Rastreamento, Indexação e Rankeamento](como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md)
 - [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md)
 - [SEO On-Page: Otimização Dentro do Seu Site](seo-on-page-otimizacao-dentro-do-seu-site.md)

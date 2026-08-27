@@ -6,7 +6,7 @@ SEO internacional é a disciplina de otimização que garante que o Google exiba
 
 ## 🌍 O Que é SEO Internacional
 
-SEO internacional abrange o conjunto de estratégias técnicas, de conteúdo e de autoridade necessárias para posicionar um site em resultados de busca de múltiplos países ou idiomas. É uma extensão do [SEO](o-que-e-seo-guia-completo.md) tradicional que adiciona camadas de complexidade: estrutura de domínio, tags hreflang, localização de conteúdo e construção de autoridade por mercado.
+SEO internacional abrange o conjunto de estratégias técnicas, de conteúdo e de autoridade necessárias para posicionar um site em resultados de busca de múltiplos países ou idiomas. É uma extensão do [SEO](../o-que-e-seo-guia-completo.md) tradicional que adiciona camadas de complexidade: estrutura de domínio, tags hreflang, localização de conteúdo e construção de autoridade por mercado.
 
 ### Quando Sua Empresa Precisa de SEO Internacional
 
@@ -124,7 +124,7 @@ O Google avalia a relevância geográfica dos backlinks. Links de sites `.com.br
 
 Estratégias eficazes para link building internacional incluem: digital PR em publicações locais de cada mercado, parcerias com entidades e associações regionais, guest posting em blogs e portais relevantes de cada país e criação de conteúdo com dados e pesquisas específicos para cada mercado.
 
-A TRIWI atende clientes com operação internacional como John Deere e Pirelli, onde a estratégia de SEO precisa considerar múltiplos mercados, idiomas e intenções de busca regionais. A [Metodologia TRIWI](../triwi/metodologia-triwi.md) adapta cada fase do processo, do diagnóstico à otimização contínua, ao contexto específico de cada mercado, garantindo que a construção de autoridade e a estratégia de conteúdo respeitem as particularidades locais. Conheça mais em [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/).
+A TRIWI atende clientes com operação internacional como John Deere e Pirelli, onde a estratégia de SEO precisa considerar múltiplos mercados, idiomas e intenções de busca regionais. A [Metodologia TRIWI](../metodologia-triwi.md) adapta cada fase do processo, do diagnóstico à otimização contínua, ao contexto específico de cada mercado, garantindo que a construção de autoridade e a estratégia de conteúdo respeitem as particularidades locais. Conheça mais em [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 
@@ -134,10 +134,10 @@ SEO internacional é a disciplina que transforma presença global em visibilidad
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
 - 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que o Google avalia.
 - 🛠️ [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance para rankeamento.
 - 🔍 [Crawling e Indexação](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Garantindo que o Google encontre e indexe todas as versões.
 - 🔗 [Link Building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade com backlinks de qualidade.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

@@ -2,7 +2,7 @@
 
 Os fatores de rankeamento do Google são os critérios que o algoritmo utiliza para decidir a ordem dos resultados de busca. O Google confirma que centenas de fatores são avaliados a cada consulta, desde a relevância do conteúdo e a qualidade técnica do site até a autoridade do domínio e a experiência do usuário. Entender esses fatores é o que separa estratégias de SEO que geram resultados de negócio de ações aleatórias que desperdiçam tempo e investimento. Em 2025, esses fatores ganharam uma dimensão adicional: a presença em IAs generativas está se tornando um diferencial competitivo que impacta diretamente a visibilidade orgânica.
 
-Esta página detalha os principais fatores de rankeamento organizados em cinco categorias: conteúdo, técnico, autoridade, experiência do usuário e o novo fator emergente, presença em IAs. Se você quer entender [o que é SEO](o-que-e-seo-guia-completo.md) em profundidade, dominar os fatores de rankeamento é obrigatório.
+Esta página detalha os principais fatores de rankeamento organizados em cinco categorias: conteúdo, técnico, autoridade, experiência do usuário e o novo fator emergente, presença em IAs. Se você quer entender [o que é SEO](../o-que-e-seo-guia-completo.md) em profundidade, dominar os fatores de rankeamento é obrigatório.
 
 ---
 
@@ -50,7 +50,7 @@ A [estratégia de pilarização e pulverização](../seo-de-conteudo/estrategia-
 
 **Trustworthiness (Confiabilidade):** O conteúdo é transparente, preciso e honesto? O site identifica claramente seus autores, apresenta fontes e mantém informações atualizadas? Transparência é o alicerce de toda a estrutura de E-E-A-T.
 
-Para a TRIWI, E-E-A-T não é um conceito abstrato; é uma das 12 entregas do escopo de trabalho. A implementação sistemática de E-E-A-T em cada site de cliente é parte da [Metodologia TRIWI](../triwi/metodologia-triwi.md) e se reflete em resultados como o da Contato Seguro: 65% das vendas via tráfego orgânico, construídas sobre uma base de conteúdo com autoridade e confiabilidade demonstradas.
+Para a TRIWI, E-E-A-T não é um conceito abstrato; é uma das 12 entregas do escopo de trabalho. A implementação sistemática de E-E-A-T em cada site de cliente é parte da [Metodologia TRIWI](../metodologia-triwi.md) e se reflete em resultados como o da Contato Seguro: 65% das vendas via tráfego orgânico, construídas sobre uma base de conteúdo com autoridade e confiabilidade demonstradas.
 
 ### Freshness: Conteúdo Atualizado
 
@@ -180,7 +180,7 @@ O case do Sem Parar com a TRIWI ilustra o impacto: +6.400% em AI Overview, um cr
 
 Além dos AI Overviews do próprio Google, IAs generativas externas, ChatGPT, Gemini, Claude, Perplexity, estão se tornando um canal de busca paralelo. O ChatGPT processa 600 milhões de buscas diárias. Quando um usuário pergunta a uma IA "qual a melhor agência de SEO do Brasil" ou "como escolher uma solução de [seu segmento]", a IA consulta suas fontes e cita marcas específicas.
 
-Empresas que investem em [GEO (Generative Engine Optimization)](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md), otimização para aparecer nas respostas de IAs, estão construindo uma vantagem competitiva que a maioria do mercado ainda não reconhece. Apenas 16% das empresas brasileiras monitoram sua presença em plataformas de IA.
+Empresas que investem em [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md), otimização para aparecer nas respostas de IAs, estão construindo uma vantagem competitiva que a maioria do mercado ainda não reconhece. Apenas 16% das empresas brasileiras monitoram sua presença em plataformas de IA.
 
 Os fatores que favorecem citação em LLMs incluem: conteúdo com definições citáveis, dados quantitativos verificáveis, autoridade topical demonstrada, menções consistentes em múltiplas fontes da web e dados estruturados que facilitam a extração de informações.
 
@@ -192,18 +192,18 @@ A TRIWI monitora o Share of Model, a participação da marca do cliente nas resp
 
 Os fatores de rankeamento do Google não são estáticos, evoluem a cada atualização do algoritmo. O que permanece constante é o princípio: o Google quer entregar a melhor resposta, da melhor fonte, com a melhor experiência. Alinhar seu site a esse princípio, com conteúdo denso, infraestrutura técnica sólida e autoridade reconhecida; é a estratégia que resiste ao tempo.
 
-Conheça como a TRIWI aplica esses fatores de forma integrada em cada projeto: [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/).
+Conheça como a TRIWI aplica esses fatores de forma integrada em cada projeto: [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
 - 🔄 [Como Funciona o Google](como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md): Rastreamento, indexação e rankeamento explicados.
 - 🛠️ [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance para rankeamento.
 - 📊 [Schema Markup e Dados Estruturados](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): Como ajudar o Google a entender seu conteúdo.
 - 🔍 [Crawling e Indexação](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Garantindo que o Google encontre e armazene suas páginas.
 - 📑 [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework de qualidade do Google.
 - 🔗 [Link Building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade com backlinks de qualidade.
-- 🤖 [O Que é GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas.
+- 🤖 [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas.
 - 🌐 [AI Overviews](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md): Como otimizar para as respostas de IA do Google.
 
-**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
