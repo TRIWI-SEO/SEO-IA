@@ -4,7 +4,7 @@ SEO para indústria é a estratégia de otimização para buscadores aplicada a 
 
 O comprador industrial mudou. O engenheiro que especifica um equipamento, o gerente de compras que avalia fornecedores e o diretor de operações que aprova orçamentos, todos pesquisam online antes de falar com o time comercial. Buscam especificações técnicas, comparam fornecedores, consultam fichas de produto e leem aplicações de caso. Se sua empresa não aparece nessa busca, o lead vai para quem aparece.
 
-A TRIWI atende indústrias como John Deere, Tigre, Pirelli, CAT e Lorenzetti, onde cada lead orgânico pode valer milhares de reais. A estratégia de [SEO segmentado](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md) para indústria foca em autoridade técnica e conteúdo que atende à intenção de busca específica do comprador industrial. Com [metodologia de 300+ atividades](../triwi/metodologia-triwi.md) e 100% dos clientes no Top 3 do Google, os resultados demonstram que SEO industrial gera pipeline de alto valor quando a estratégia entende as dinâmicas do setor.
+A TRIWI atende indústrias como John Deere, Tigre, Pirelli, CAT e Lorenzetti, onde cada lead orgânico pode valer milhares de reais. A estratégia de [SEO segmentado](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md) para indústria foca em autoridade técnica e conteúdo que atende à intenção de busca específica do comprador industrial. Com [metodologia de 300+ atividades](../metodologia-triwi.md) e 100% dos clientes no Top 3 do Google, os resultados demonstram que SEO industrial gera pipeline de alto valor quando a estratégia entende as dinâmicas do setor.
 
 ---
 
@@ -16,7 +16,7 @@ O setor industrial brasileiro vive um paradoxo digital: o comprador já é digit
 
 A maioria das empresas industriais brasileiras tem sites institucionais desatualizados, sem otimização para buscadores e com conteúdo técnico preso em PDFs não indexáveis. O resultado: quando o comprador busca por um produto ou especificação, encontra distribuidores, portais de terceiros ou concorrentes internacionais, não o fabricante.
 
-Essa realidade é uma oportunidade. Em setores onde poucos competem bem no SEO, conquistar posições no Google é significativamente mais fácil e mais rápido do que em mercados saturados como e-commerce ou SaaS. Uma indústria que investe em [SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md) com profundidade pode dominar as buscas do seu nicho em 6 a 12 meses, um prazo impensável em segmentos mais competitivos.
+Essa realidade é uma oportunidade. Em setores onde poucos competem bem no SEO, conquistar posições no Google é significativamente mais fácil e mais rápido do que em mercados saturados como e-commerce ou SaaS. Uma indústria que investe em [SEO](../o-que-e-seo-guia-completo.md) com profundidade pode dominar as buscas do seu nicho em 6 a 12 meses, um prazo impensável em segmentos mais competitivos.
 
 A TRIWI identifica essa dinâmica em cada projeto industrial: o gap entre a maturidade digital do comprador e a presença digital do fornecedor é onde mora o ROI mais expressivo do SEO.
 
@@ -134,7 +134,7 @@ O [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-su
 
 Para ser recomendado pelas IAs, a indústria precisa de: [conteúdo citável](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) com especificações claras e dados de performance, presença em fontes que LLMs consultam (publicações técnicas, Wikipedia, portais de engenharia), [dados estruturados](../geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-generativa.md) de Product com especificações técnicas detalhadas e autoridade construída por menções consistentes em veículos do setor.
 
-A [estratégia de GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md) para indústria é particularmente eficaz porque a concorrência é mínima, pouquíssimas empresas industriais otimizam para IAs. Quem começa agora constrói uma vantagem competitiva que será exponencialmente mais cara de replicar quando o mercado amadurecer.
+A [estratégia de GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) para indústria é particularmente eficaz porque a concorrência é mínima, pouquíssimas empresas industriais otimizam para IAs. Quem começa agora constrói uma vantagem competitiva que será exponencialmente mais cara de replicar quando o mercado amadurecer.
 
 ---
 
@@ -142,16 +142,16 @@ A [estratégia de GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimiza
 
 SEO para indústria é a estratégia que coloca fabricantes e fornecedores onde o comprador técnico já está buscando, no Google e nas IAs. Em um setor onde poucos competem bem no digital, a oportunidade é desproporcional: keywords menos disputadas, autoridade mais fácil de construir e leads de altíssimo valor esperando para serem capturados.
 
-A TRIWI atende indústrias como John Deere, Tigre, Pirelli, CAT e Lorenzetti com uma estratégia de SEO construída para as dinâmicas do comprador industrial. Com 100% dos clientes no Top 3 do Google e resultados como R$ 2 bilhões+ em influência de receita, a expertise vem de entender tanto de SEO quanto do negócio do cliente. Se sua indústria quer gerar leads qualificados via orgânico, no Google e nas IAs, conheça [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a escolha de indústrias que entendem que visibilidade digital gera pipeline.
+A TRIWI atende indústrias como John Deere, Tigre, Pirelli, CAT e Lorenzetti com uma estratégia de SEO construída para as dinâmicas do comprador industrial. Com 100% dos clientes no Top 3 do Google e resultados como R$ 2 bilhões+ em influência de receita, a expertise vem de entender tanto de SEO quanto do negócio do cliente. Se sua indústria quer gerar leads qualificados via orgânico, no Google e nas IAs, conheça [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de indústrias que entendem que visibilidade digital gera pipeline.
 
 Explore as páginas relacionadas:
 
 - 🏢 [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
 - 💼 [SEO para B2B: Como Gerar Leads Qualificados via Orgânico](seo-para-b2b-como-gerar-leads-qualificados-via-organico.md), Fundamentos de SEO B2B aplicáveis à indústria.
-- 📖 [O Que é SEO: Guia Completo](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Os fundamentos de SEO.
+- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO.
 - 🏅 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), Autoridade técnica como pilar de rankeamento.
 - 🔗 [Link Building: Guia Completo de Construção de Autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Construção de autoridade para o setor industrial.
 - 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado à indústria.
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
+- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
 
-**Quer que sua indústria gere leads qualificados via orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer que sua indústria gere leads qualificados via orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

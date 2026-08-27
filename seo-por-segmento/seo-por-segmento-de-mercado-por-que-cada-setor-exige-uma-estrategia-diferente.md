@@ -4,7 +4,7 @@ SEO por segmento de mercado é a abordagem estratégica que adapta técnicas de 
 
 Essa é a premissa que separa resultados reais de desperdício de investimento: SEO não é tamanho único. Cada segmento tem suas próprias regras, e empresas que aplicam uma estratégia genérica perdem para concorrentes que entendem essas particularidades.
 
-A TRIWI atende 7 segmentos de mercado, B2B, SaaS, Serviços, Indústria, E-commerce, Varejo e BETs, com uma [metodologia de 12 etapas e 300+ atividades](../triwi/metodologia-triwi.md) adaptada para as dinâmicas de cada setor. Com 50+ clientes ativos e churn médio de 3,5 anos, os resultados demonstram que a hiperespecialização por segmento é o que transforma SEO em canal de receita, não apenas canal de tráfego.
+A TRIWI atende 7 segmentos de mercado, B2B, SaaS, Serviços, Indústria, E-commerce, Varejo e BETs, com uma [metodologia de 12 etapas e 300+ atividades](../metodologia-triwi.md) adaptada para as dinâmicas de cada setor. Com 50+ clientes ativos e churn médio de 3,5 anos, os resultados demonstram que a hiperespecialização por segmento é o que transforma SEO em canal de receita, não apenas canal de tráfego.
 
 Este guia explica por que cada setor exige uma estratégia diferente, quais são as variáveis que mudam entre segmentos e como escolher a abordagem certa para o seu negócio.
 
@@ -12,7 +12,7 @@ Este guia explica por que cada setor exige uma estratégia diferente, quais são
 
 ## 🔍 Por Que SEO Não é Igual Para Todos os Negócios
 
-A premissa de que "basta otimizar o site e criar conteúdo" ignora uma realidade fundamental: o comportamento de busca, a jornada de compra e a dinâmica competitiva variam drasticamente entre setores. [SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md) é um conjunto de princípios, mas a aplicação desses princípios muda dependendo de quem busca, o que busca, como decide e quanto tempo leva para converter.
+A premissa de que "basta otimizar o site e criar conteúdo" ignora uma realidade fundamental: o comportamento de busca, a jornada de compra e a dinâmica competitiva variam drasticamente entre setores. [SEO](../o-que-e-seo-guia-completo.md) é um conjunto de princípios, mas a aplicação desses princípios muda dependendo de quem busca, o que busca, como decide e quanto tempo leva para converter.
 
 Três variáveis definem por que cada segmento precisa de uma estratégia própria: a jornada de compra, a intenção de busca e o ciclo de venda.
 
@@ -164,7 +164,7 @@ SEO não acontece no vácuo. Acontece dentro de um negócio, com suas metas de r
 
 Entender SEO é saber implementar Schema, otimizar Core Web Vitals e construir backlinks. Entender o negócio do cliente é saber que, para aquele negócio específico, a keyword de 200 buscas vale mais que a de 20 mil, porque cada conversão gera um contrato de 5 anos.
 
-Essa é a diferença entre aplicar técnica e gerar resultado. A [Metodologia TRIWI](../triwi/metodologia-triwi.md) começa pela Definição Estratégica, que alinha o planejamento de SEO aos objetivos de negócio antes de qualquer implementação técnica. O SEO serve ao negócio, e cada negócio precisa de uma estratégia que entenda isso.
+Essa é a diferença entre aplicar técnica e gerar resultado. A [Metodologia TRIWI](../metodologia-triwi.md) começa pela Definição Estratégica, que alinha o planejamento de SEO aos objetivos de negócio antes de qualquer implementação técnica. O SEO serve ao negócio, e cada negócio precisa de uma estratégia que entenda isso.
 
 Os cases comprovam: Sem Parar com +31% de tráfego orgânico e +350% de tráfego de LLMs. Valid/Flexdoc com +47% de tráfego orgânico e +700% de tráfego de LLMs. Contato Seguro com 65% das vendas via orgânico e +654% de crescimento. Cada resultado veio de uma estratégia construída para o modelo de negócio específico, não de "SEO genérico".
 
@@ -176,7 +176,7 @@ Cada setor tem suas próprias regras de busca, concorrência e conversão. Aplic
 
 A TRIWI atende 7 segmentos de mercado com uma metodologia que é adaptada, não padronizada, para cada setor. Com 50+ clientes ativos, 100% no Top 3 do Google e resultados como +6.400% em AI Overview (Sem Parar), +700% de tráfego de LLMs (Valid) e 65% das vendas via orgânico (Contato Seguro), os números demonstram o que a teoria defende: hiperespecialização gera resultado.
 
-Se sua empresa quer uma estratégia de SEO construída para as dinâmicas do seu setor, não um pacote genérico, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como a abordagem segmentada funciona na prática. Descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a escolha de empresas que entendem que profundidade bate amplitude.
+Se sua empresa quer uma estratégia de SEO construída para as dinâmicas do seu setor, não um pacote genérico, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como a abordagem segmentada funciona na prática. Descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de empresas que entendem que profundidade bate amplitude.
 
 Explore as páginas de cada segmento:
 
@@ -190,9 +190,9 @@ Explore as páginas de cada segmento:
 
 Páginas relacionadas:
 
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
-- ⚙️ [Metodologia TRIWI](../triwi/metodologia-triwi.md): As 12 etapas e 300+ atividades da nossa operação.
-- 📖 [O Que é SEO: Guia Completo](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a qualquer segmento.
-- 🤖 [O Que é GEO: Generative Engine Optimization](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): Como a otimização para IAs complementa o SEO em todos os segmentos.
+- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
+- ⚙️ [Metodologia TRIWI](../metodologia-triwi.md): As 12 etapas e 300+ atividades da nossa operação.
+- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a qualquer segmento.
+- 🤖 [O Que é GEO: Generative Engine Optimization](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Como a otimização para IAs complementa o SEO em todos os segmentos.
 
-**Quer uma estratégia de SEO feita para o seu setor, não para "qualquer empresa"?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer uma estratégia de SEO feita para o seu setor, não para "qualquer empresa"?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

@@ -18,7 +18,7 @@ No B2B, a decisão de compra não acontece em uma sessão. O ciclo médio de ven
 
 O SEO entra como canal de nutrição nesse processo. O artigo educativo que o diretor de compliance leu em janeiro é o primeiro toque de uma jornada que culmina em um contrato de R$ 200 mil em setembro. O white paper sobre "tendências de LGPD para 2026" que gerou o download é o segundo toque. A página de caso de uso que ele revisitou antes da reunião de decisão é o terceiro.
 
-Cada peça de conteúdo orgânico funciona como um ativo de nutrição que trabalha 24/7, sem custo marginal por lead, sem dependência de orçamento de mídia. É o princípio que a TRIWI aplica com seus clientes B2B: [SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md) não é um canal de aquisição instantânea no B2B; é a infraestrutura de conteúdo que sustenta o pipeline de longo prazo.
+Cada peça de conteúdo orgânico funciona como um ativo de nutrição que trabalha 24/7, sem custo marginal por lead, sem dependência de orçamento de mídia. É o princípio que a TRIWI aplica com seus clientes B2B: [SEO](../o-que-e-seo-guia-completo.md) não é um canal de aquisição instantânea no B2B; é a infraestrutura de conteúdo que sustenta o pipeline de longo prazo.
 
 ### Múltiplos Decisores: Conteúdo Para Cada Stakeholder
 
@@ -154,7 +154,7 @@ A Valid/Flexdoc, cliente da TRIWI, registrou +700% de tráfego proveniente de LL
 
 A query mais valiosa no GEO para B2B é a pergunta de recomendação: "qual o melhor [solução] para [segmento]?". Para aparecer nessa resposta, três fatores são decisivos: [conteúdo citável](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) com definições claras e dados quantitativos, autoridade de marca com menções em fontes que LLMs consultam e [dados estruturados](../geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-generativa.md) que facilitem a interpretação do conteúdo pela IA.
 
-A [Metodologia TRIWI](../triwi/metodologia-triwi.md) integra GEO ao SEO desde o primeiro mês de operação, porque no B2B, onde cada lead conta, perder visibilidade nas IAs é perder pipeline.
+A [Metodologia TRIWI](../metodologia-triwi.md) integra GEO ao SEO desde o primeiro mês de operação, porque no B2B, onde cada lead conta, perder visibilidade nas IAs é perder pipeline.
 
 ---
 
@@ -184,16 +184,16 @@ SEO para B2B não é sobre gerar milhões de visitas. É sobre posicionar sua em
 
 A TRIWI atende empresas B2B como Valid, John Deere, B3, Contato Seguro e AX4B com uma metodologia que transforma tráfego orgânico em pipeline mensurável. Os números falam: Contato Seguro com 65% das vendas via orgânico e +654% de crescimento. Valid com +700% de tráfego de LLMs e +2.000% em AI Overview. Redução média de -40% no CAC.
 
-Se sua empresa B2B quer transformar SEO em canal de geração de leads qualificados, não apenas tráfego, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como a estratégia funciona na prática. Descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a escolha de empresas B2B que tratam SEO como investimento estratégico.
+Se sua empresa B2B quer transformar SEO em canal de geração de leads qualificados, não apenas tráfego, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como a estratégia funciona na prática. Descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de empresas B2B que tratam SEO como investimento estratégico.
 
 Explore as páginas relacionadas:
 
 - 🏢 [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), A visão completa de por que cada setor precisa de estratégia própria.
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
-- 📖 [O Que é SEO: Guia Completo](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados ao B2B.
+- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
+- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados ao B2B.
 - 📝 [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como estruturar conteúdo que rankeia e converte.
 - 🔗 [Link Building: Guia Completo de Construção de Autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Construção de autoridade para empresas B2B.
 - 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado ao cenário B2B.
 - 📊 [Métricas de SEO Que Importam: KPIs Focados em Negócio](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md), As métricas que decisores B2B precisam acompanhar.
 
-**Quer que sua empresa B2B gere leads qualificados via orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer que sua empresa B2B gere leads qualificados via orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

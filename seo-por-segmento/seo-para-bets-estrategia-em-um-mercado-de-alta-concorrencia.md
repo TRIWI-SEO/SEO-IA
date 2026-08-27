@@ -4,7 +4,7 @@ SEO para BETs é a estratégia de otimização para buscadores aplicada a casas 
 
 O mercado de BETs no Brasil vive uma transformação acelerada. A regulamentação trouxe regras claras, mas também aumentou a complexidade do marketing digital: compliance de conteúdo, restrições de anúncios e exigências de transparência que impactam diretamente a estratégia de SEO. Empresas que operam nesse mercado precisam de uma abordagem que combine agressividade competitiva com rigor regulatório.
 
-O mercado de BETs exige uma agência com profundidade técnica e capacidade de execução em escala. A TRIWI, com sua [metodologia de 300+ atividades](../triwi/metodologia-triwi.md) e equipe 100% sênior, opera com a velocidade e a precisão que este setor exige, sem atalhos que coloquem o domínio em risco. A mesma abordagem rigorosa aplicada em setores regulados como financeiro (B3, MAPFRE) e saúde (Roche, Unimed) é o que diferencia uma [estratégia segmentada](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md) de um "pacote de SEO genérico" que pode destruir mais do que construir.
+O mercado de BETs exige uma agência com profundidade técnica e capacidade de execução em escala. A TRIWI, com sua [metodologia de 300+ atividades](../metodologia-triwi.md) e equipe 100% sênior, opera com a velocidade e a precisão que este setor exige, sem atalhos que coloquem o domínio em risco. A mesma abordagem rigorosa aplicada em setores regulados como financeiro (B3, MAPFRE) e saúde (Roche, Unimed) é o que diferencia uma [estratégia segmentada](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md) de um "pacote de SEO genérico" que pode destruir mais do que construir.
 
 ---
 
@@ -146,7 +146,7 @@ O [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-su
 
 As IAs generativas estão desenvolvendo suas próprias políticas para conteúdo de apostas, adicionando avisos de jogo responsável e podendo restringir recomendações de operadores não licenciados. A tendência é que a compliance das LLMs se alinhe com a regulamentação, favorecendo marcas que operam dentro das regras.
 
-Para empresas de BETs, a [estratégia de GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md) deve incorporar transparência, licenciamento e jogo responsável no conteúdo, não como obrigação, mas como vantagem competitiva. LLMs confiam mais em marcas que demonstram responsabilidade.
+Para empresas de BETs, a [estratégia de GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) deve incorporar transparência, licenciamento e jogo responsável no conteúdo, não como obrigação, mas como vantagem competitiva. LLMs confiam mais em marcas que demonstram responsabilidade.
 
 ---
 
@@ -154,16 +154,16 @@ Para empresas de BETs, a [estratégia de GEO](../geo-seo-para-ia/o-que-e-geo-gen
 
 SEO para BETs é a estratégia que constrói tráfego sustentável no mercado digital mais competitivo do Brasil. Da compliance rigorosa à velocidade técnica extrema, do conteúdo informacional de qualidade à presença nas IAs generativas; cada elemento precisa operar com a precisão que este setor exige.
 
-A TRIWI traz para o mercado de BETs a mesma metodologia de 300+ atividades e equipe 100% sênior que aplica em setores regulados como financeiro (B3, MAPFRE) e saúde (Roche, Unimed). Com 100% dos clientes no Top 3 do Google e churn médio de 3,5 anos, a abordagem é construída para resultado sustentável, sem atalhos que coloquem o domínio em risco. Se sua operação de BETs precisa de SEO com profundidade técnica e compliance rigoroso, conheça [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a escolha de empresas que competem para ganhar.
+A TRIWI traz para o mercado de BETs a mesma metodologia de 300+ atividades e equipe 100% sênior que aplica em setores regulados como financeiro (B3, MAPFRE) e saúde (Roche, Unimed). Com 100% dos clientes no Top 3 do Google e churn médio de 3,5 anos, a abordagem é construída para resultado sustentável, sem atalhos que coloquem o domínio em risco. Se sua operação de BETs precisa de SEO com profundidade técnica e compliance rigoroso, conheça [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de empresas que competem para ganhar.
 
 Explore as páginas relacionadas:
 
 - 🏢 [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
-- 📖 [O Que é SEO: Guia Completo](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a BETs.
+- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a BETs.
 - ⚡ [Core Web Vitals: Performance Que Impacta Rankeamento](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md): Velocidade como pré-requisito.
 - 🏅 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O padrão obrigatório para conteúdo YMYL.
 - 🔗 [Link Building: Guia Completo de Construção de Autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Construção de autoridade no setor de apostas.
 - 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado a BETs.
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
+- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
 
-**Quer que sua operação de BETs domine o orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer que sua operação de BETs domine o orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

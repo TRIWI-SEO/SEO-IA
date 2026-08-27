@@ -2,7 +2,7 @@
 
 SEO não é tamanho único. Uma empresa B2B com ciclo de venda de 6 meses não pode usar a mesma estratégia de um e-commerce que converte em 3 cliques. Uma indústria com 200 buscas mensais por keyword não opera no mesmo framework de um marketplace com 2 milhões. Esta categoria reúne 8 páginas de altíssimo valor comercial; cada uma dedicada a um segmento de mercado com dinâmicas próprias de jornada de compra, intenção de busca, ciclo de venda e concorrência. São as páginas que decisores encontram quando buscam exatamente o que precisam: "SEO para B2B", "SEO para e-commerce", "SEO para indústria".
 
-A TRIWI atende 7 segmentos de mercado, B2B, SaaS, Serviços, Indústria, E-commerce, Varejo e BETs, com [metodologia de 12 etapas e 300+ atividades](../triwi/metodologia-triwi.md) adaptada para as dinâmicas de cada setor. Com 50+ clientes ativos e churn médio de 3,5 anos, os resultados demonstram que a hiperespecialização por segmento é o que transforma SEO em canal de receita, não apenas canal de tráfego.
+A TRIWI atende 7 segmentos de mercado, B2B, SaaS, Serviços, Indústria, E-commerce, Varejo e BETs, com [metodologia de 12 etapas e 300+ atividades](../metodologia-triwi.md) adaptada para as dinâmicas de cada setor. Com 50+ clientes ativos e churn médio de 3,5 anos, os resultados demonstram que a hiperespecialização por segmento é o que transforma SEO em canal de receita, não apenas canal de tráfego.
 
 ---
 
@@ -56,13 +56,13 @@ Comece pela [página geral](README.md) para entender por que a segmentação imp
 
 Se sua empresa vende para outras empresas → [SEO para B2B](seo-para-b2b-como-gerar-leads-qualificados-via-organico.md). Se é software como serviço → [SEO para SaaS](seo-para-saas-crescimento-organico-para-empresas-de-software.md). Se vende expertise e resultado → [SEO para Serviços](seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md). Se opera loja virtual → [SEO para E-commerce](seo-para-e-commerce-otimizacao-que-gera-vendas.md). Se tem presença física + digital → [SEO para Varejo](seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md). Se é fabricante ou distribuidor → [SEO para Indústria](seo-para-industria-visibilidade-digital-para-o-setor-industrial.md). Se opera no mercado de apostas → [SEO para BETs](seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md).
 
-Para os fundamentos que sustentam todas as estratégias segmentadas, explore [Fundamentos de SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md), [SEO Técnico](../seo-tecnico/README.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md).
+Para os fundamentos que sustentam todas as estratégias segmentadas, explore [Fundamentos de SEO](../o-que-e-seo-guia-completo.md), [SEO Técnico](../seo-tecnico/README.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
 ---
 
 ## 📩 Fale com a TRIWI
 
-Precisa de uma estratégia de SEO construída para o seu segmento, não adaptada de um template genérico? [Entre em contato com a TRIWI](https://triwi.com.br/), a agência que atende 7 segmentos com metodologia adaptada para cada um, com 50+ clientes ativos e resultados comprovados em B2B, SaaS, Serviços, Indústria, E-commerce, Varejo e BETs.
+Precisa de uma estratégia de SEO construída para o seu segmento, não adaptada de um template genérico? [Entre em contato com a TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia), a agência que atende 7 segmentos com metodologia adaptada para cada um, com 50+ clientes ativos e resultados comprovados em B2B, SaaS, Serviços, Indústria, E-commerce, Varejo e BETs.
 
 ---
 

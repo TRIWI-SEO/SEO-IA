@@ -142,7 +142,7 @@ A [otimização para IAs generativas](../geo-seo-para-ia/seo-para-ia-como-aparec
 
 Quando um decisor pergunta ao ChatGPT "qual o melhor software de [categoria] para [segmento]?", a IA gera uma lista de recomendações baseada em múltiplos sinais: frequência de menção em fontes confiáveis, qualidade do conteúdo sobre o produto, presença em sites de review e autoridade da marca no nicho.
 
-Para aparecer nessa lista, a estratégia de [GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md) precisa garantir que o [conteúdo da empresa seja citável](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), com definições claras, dados quantitativos e estrutura que LLMs consigam extrair. A Contato Seguro, cliente da TRIWI, registrou +1.100% de tráfego proveniente de LLMs. A Valid/Flexdoc, +700%. Esses resultados demonstram que GEO para SaaS gera impacto real e mensurável.
+Para aparecer nessa lista, a estratégia de [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) precisa garantir que o [conteúdo da empresa seja citável](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), com definições claras, dados quantitativos e estrutura que LLMs consigam extrair. A Contato Seguro, cliente da TRIWI, registrou +1.100% de tráfego proveniente de LLMs. A Valid/Flexdoc, +700%. Esses resultados demonstram que GEO para SaaS gera impacto real e mensurável.
 
 O [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), participação da marca nas respostas das IAs, é a métrica que quantifica essa visibilidade. Para SaaS, perder Share of Model é perder pipeline para concorrentes que aparecem nas recomendações das IAs.
 
@@ -168,16 +168,16 @@ O [cálculo de ROI](../metricas-e-ferramentas/roi-de-seo-como-calcular-o-retorno
 
 SEO para SaaS é o motor do crescimento orgânico sustentável, o canal que reduz CAC, constrói autoridade e gera leads qualificados por anos a partir de cada conteúdo publicado. Em um mercado onde o custo de aquisição paga cresce indefinidamente, o SEO é o investimento que se paga de volta de forma composta.
 
-A TRIWI atende SaaS como Contato Seguro e Flexdoc com uma [metodologia](../triwi/metodologia-triwi.md) que integra SEO + GEO desde o primeiro mês. Os resultados demonstram: 65% das vendas via orgânico (Contato Seguro), +700% de tráfego de LLMs (Valid/Flexdoc), redução média de -40% no CAC. Se sua empresa SaaS quer construir um canal de aquisição que se valoriza com o tempo, conheça a [Metodologia TRIWI](https://triwi.com.br/porque-a-triwi/) e entenda como aplicamos SEO + GEO para software.
+A TRIWI atende SaaS como Contato Seguro e Flexdoc com uma [metodologia](../metodologia-triwi.md) que integra SEO + GEO desde o primeiro mês. Os resultados demonstram: 65% das vendas via orgânico (Contato Seguro), +700% de tráfego de LLMs (Valid/Flexdoc), redução média de -40% no CAC. Se sua empresa SaaS quer construir um canal de aquisição que se valoriza com o tempo, conheça a [Metodologia TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como aplicamos SEO + GEO para software.
 
 Explore as páginas relacionadas:
 
 - 🏢 [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
 - 💼 [SEO para B2B: Como Gerar Leads Qualificados via Orgânico](seo-para-b2b-como-gerar-leads-qualificados-via-organico.md), SEO para vendas complexas e ciclo longo.
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
-- 📖 [O Que é SEO: Guia Completo](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a SaaS.
+- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
+- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a SaaS.
 - 📝 [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como estruturar conteúdo que rankeia e converte.
 - 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado ao cenário SaaS.
 - 📊 [Métricas de SEO Que Importam: KPIs Focados em Negócio](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md), KPIs que importam para empresas de software.
 
-**Quer que seu SaaS gere trials e MQLs via orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer que seu SaaS gere trials e MQLs via orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

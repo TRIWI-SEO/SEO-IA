@@ -28,7 +28,7 @@ O efeito composto é o que torna o SEO especialmente poderoso para e-commerce. Q
 
 ### O Volume de Buscas Transacionais por Produto
 
-[SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md) para e-commerce captura o tráfego de maior valor no funil: buscas transacionais. Quando alguém busca "geladeira frost free 400 litros inox preço", a [intenção](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md) é clara, quer comprar. Essas queries representam um volume massivo no Brasil: milhões de buscas diárias por produtos específicos, marcas e categorias.
+[SEO](../o-que-e-seo-guia-completo.md) para e-commerce captura o tráfego de maior valor no funil: buscas transacionais. Quando alguém busca "geladeira frost free 400 litros inox preço", a [intenção](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md) é clara, quer comprar. Essas queries representam um volume massivo no Brasil: milhões de buscas diárias por produtos específicos, marcas e categorias.
 
 O e-commerce que captura 1% a mais desse tráfego transacional pode adicionar milhões em receita anual. A otimização de páginas de produto e categoria para essas queries é, possivelmente, o investimento de maior ROI em marketing digital para lojas virtuais.
 
@@ -110,7 +110,7 @@ Páginas de categoria são, frequentemente, as páginas mais valiosas de um e-co
 
 O erro mais comum é tratar páginas de categoria como simples listas de produtos sem conteúdo editorial. O Google precisa de contexto para entender a relevância da página. Um bloco de 200-500 palavras no topo ou no rodapé da categoria, explicando o que o consumidor encontra ali, critérios de escolha e diferenciais, transforma uma lista de produtos em uma página de conteúdo ranqueável.
 
-Esse conteúdo editorial também é valioso para [GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): LLMs podem extrair trechos dessas páginas como recomendação quando o usuário pergunta "quais os melhores [produtos da categoria]?".
+Esse conteúdo editorial também é valioso para [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): LLMs podem extrair trechos dessas páginas como recomendação quando o usuário pergunta "quais os melhores [produtos da categoria]?".
 
 ### Links Internos Entre Categorias Relacionadas
 
@@ -172,7 +172,7 @@ O [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-su
 
 Dados estruturados são a ponte entre SEO técnico e GEO para e-commerce. Schema Product com preço, disponibilidade, avaliação e especificações técnicas facilita a interpretação do conteúdo tanto pelo Google quanto pelas LLMs. Um produto com Schema completo tem maior probabilidade de ser citado na resposta da IA, porque a estrutura reduz a ambiguidade e aumenta a confiança do sistema na informação.
 
-A [Metodologia TRIWI](../triwi/metodologia-triwi.md) implementa dados estruturados avançados como parte da otimização técnica nos primeiros meses, com esquemas específicos para e-commerce que cobrem Product, Offer, Review, FAQ e BreadcrumbList em escala automatizada.
+A [Metodologia TRIWI](../metodologia-triwi.md) implementa dados estruturados avançados como parte da otimização técnica nos primeiros meses, com esquemas específicos para e-commerce que cobrem Product, Offer, Review, FAQ e BreadcrumbList em escala automatizada.
 
 ---
 
@@ -180,17 +180,17 @@ A [Metodologia TRIWI](../triwi/metodologia-triwi.md) implementa dados estruturad
 
 SEO para e-commerce é o canal que transforma visibilidade orgânica em vendas, com CAC decrescente, margem superior e efeito composto que se acumula mês a mês. Da arquitetura técnica às páginas de produto, do conteúdo editorial à presença nas IAs, cada elemento da estratégia contribui para um e-commerce que vende mais sem depender exclusivamente de mídia paga.
 
-A TRIWI atende e-commerces como Polishop, Lupo e Grendene com uma [Metodologia](https://triwi.com.br/metodologia-triwi/) que vai da otimização técnica em escala ao GEO para produtos. Taxa de conversão 5X maior que a média do mercado, redução de -40% no CAC e 100% dos clientes no Top 3 do Google. Se seu e-commerce quer gerar vendas via orgânico, no Google e nas IAs, descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a escolha de lojas virtuais que tratam SEO como motor de receita.
+A TRIWI atende e-commerces como Polishop, Lupo e Grendene com uma [Metodologia](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) que vai da otimização técnica em escala ao GEO para produtos. Taxa de conversão 5X maior que a média do mercado, redução de -40% no CAC e 100% dos clientes no Top 3 do Google. Se seu e-commerce quer gerar vendas via orgânico, no Google e nas IAs, descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de lojas virtuais que tratam SEO como motor de receita.
 
 Explore as páginas relacionadas:
 
 - 🏢 [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
-- 📖 [O Que é SEO: Guia Completo](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a e-commerce.
+- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a e-commerce.
 - ⚙️ [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): A base técnica que sustenta e-commerces de alta performance.
 - ⚡ [Core Web Vitals: Performance Que Impacta Rankeamento](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md): Velocidade que vende.
 - 🏗️ [Schema Markup e Dados Estruturados para SEO](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): Dados estruturados essenciais para lojas virtuais.
 - 🛒 [GEO para E-commerce: Otimização de Produtos para IAs Generativas](../geo-seo-para-ia/geo-para-e-commerce-otimizacao-de-produtos-para-ias-generativas.md), Como seus produtos aparecem nas recomendações das IAs.
 - 📊 [Métricas de SEO Que Importam: KPIs Focados em Negócio](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md), KPIs que fazem sentido para e-commerce.
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
+- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
 
-**Quer que seu e-commerce venda mais via orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer que seu e-commerce venda mais via orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
