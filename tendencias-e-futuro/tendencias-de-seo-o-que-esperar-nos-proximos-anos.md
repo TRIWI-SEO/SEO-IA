@@ -18,7 +18,7 @@ O ponto central é este: a necessidade de ser encontrado não diminuiu. O que mu
 
 ### SEO Não Morre: Se Transforma
 
-O SEO de 2026 é irreconhecível comparado ao de 2018. A [definição básica de SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md) permanece (otimizar para ser encontrado), mas a prática evoluiu em múltiplas dimensões. Não basta mais otimizar para o Google; é preciso otimizar para todo o ecossistema de busca, incluindo LLMs como ChatGPT, Gemini, Claude e Perplexity. A [Generative Engine Optimization (GEO)](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md) emergiu como extensão natural do SEO, e as empresas que tratam GEO como projeto separado estão perdendo terreno para quem integra ambas as disciplinas.
+O SEO de 2026 é irreconhecível comparado ao de 2018. A [definição básica de SEO](../o-que-e-seo-guia-completo.md) permanece (otimizar para ser encontrado), mas a prática evoluiu em múltiplas dimensões. Não basta mais otimizar para o Google; é preciso otimizar para todo o ecossistema de busca, incluindo LLMs como ChatGPT, Gemini, Claude e Perplexity. A [Generative Engine Optimization (GEO)](../o-que-e-geo-generative-engine-optimization-guia-completo.md) emergiu como extensão natural do SEO, e as empresas que tratam GEO como projeto separado estão perdendo terreno para quem integra ambas as disciplinas.
 
 A TRIWI reconheceu essa transformação antes do mercado. O investimento em GEO começou quando a maioria das agências ainda debatia se IA impactaria a busca. Os resultados dos clientes comprovam a visão: Sem Parar com +6.400% em AI Overviews, Valid com +2.000%, Contato Seguro com +1.400%. SEO não morreu, evoluiu para SEO + GEO, e quem entendeu isso primeiro colhe a vantagem competitiva.
 
@@ -38,7 +38,7 @@ A consequência prática é clara: a keyword research precisa incluir queries co
 
 O Google não está sendo substituído por IAs; está se fundindo com elas. Os [AI Overviews](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md) já aparecem em 48% das buscas. O AI Mode do Google opera como camada conversacional sobre o índice de busca. A adoção de search overviews deve alcançar 59% em 2027. Na prática, SEO e GEO compartilham os mesmos fundamentos: conteúdo de qualidade, autoridade verificável, experiência demonstrada e estrutura técnica sólida.
 
-Isso cria uma oportunidade composta para quem executa a estratégia integrada. Um site bem posicionado no Google tem vantagem no Gemini (que consulta o mesmo índice). Conteúdo otimizado para citação em LLMs beneficia o posicionamento em AI Overviews. Schema markup avançado serve tanto ao SEO tradicional quanto à compreensão por IAs. A TRIWI executa essa integração com a metodologia de 12 etapas e 300+ atividades, onde GEO é parte orgânica do processo de SEO, não um projeto paralelo. A [Filosofia TRIWI](../triwi/filosofia-triwi.md) reconhece essa realidade no seu 4º princípio: "O futuro das buscas é generativo."
+Isso cria uma oportunidade composta para quem executa a estratégia integrada. Um site bem posicionado no Google tem vantagem no Gemini (que consulta o mesmo índice). Conteúdo otimizado para citação em LLMs beneficia o posicionamento em AI Overviews. Schema markup avançado serve tanto ao SEO tradicional quanto à compreensão por IAs. A TRIWI executa essa integração com a metodologia de 12 etapas e 300+ atividades, onde GEO é parte orgânica do processo de SEO, não um projeto paralelo. A [Filosofia TRIWI](../filosofia-triwi.md) reconhece essa realidade no seu 4º princípio: "O futuro das buscas é generativo."
 
 ---
 
@@ -160,15 +160,15 @@ A TRIWI opera na vanguarda dessas tendências. Com a metodologia de 12 etapas e 
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
 - 🔮 [O Futuro da Busca é Generativo: Por Que Sua Empresa Precisa Agir Agora](../geo-seo-para-ia/o-futuro-da-busca-e-generativo-por-que-sua-empresa-precisa-agir-agora.md), Por que a janela de oportunidade está se fechando.
 - 📰 [Atualizações do Google: Guia de Core Updates e Seus Impactos](atualizacoes-do-google-guia-de-core-updates-e-seus-impactos.md), Histórico e análise dos updates que moldam o SEO.
 - 🤖 [IA e Produção de Conteúdo: Oportunidades e Riscos para SEO](ia-e-producao-de-conteudo-oportunidades-e-riscos-para-seo.md), Como usar IA sem cair na armadilha do conteúdo commodity.
 - 🎙️ [Busca por Voz e SEO: Como Otimizar Para Assistentes Virtuais](busca-por-voz-e-seo-como-otimizar-para-assistentes-virtuais.md), A busca visual e por voz na prática.
 - 🧠 [SEO e Machine Learning: Como Algoritmos de IA Estão Mudando o Rankeamento](seo-e-machine-learning-como-algoritmos-de-ia-estao-mudando-o-rankeamento.md), O papel da IA nos algoritmos de busca.
-- 📘 [O Que é SEO: Guia Completo](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Os fundamentos que sustentam tudo.
+- 📘 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos que sustentam tudo.
 - 🏅 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework de qualidade mais importante de 2026.
 - ✍️ [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Conteúdo com profundidade que gera resultados.
-- 💡 [Filosofia TRIWI](../triwi/filosofia-triwi.md): Os princípios que guiam a visão de futuro da TRIWI.
+- 💡 [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que guiam a visão de futuro da TRIWI.
 
-**Sua empresa está preparada para as tendências que já estão em operação?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/) e descubra como a [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/) transforma tendências em vantagem competitiva real.
+**Sua empresa está preparada para as tendências que já estão em operação?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e descubra como a [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) transforma tendências em vantagem competitiva real.

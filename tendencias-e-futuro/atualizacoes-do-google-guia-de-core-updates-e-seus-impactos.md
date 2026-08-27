@@ -126,7 +126,7 @@ Sites que dependem excessivamente de um único pilar, só conteúdo, ou só link
 
 A proteção real vem da diversificação: SEO técnico impecável (velocidade, estrutura, acessibilidade), conteúdo de qualidade com E-E-A-T demonstrado, autoridade construída com [link building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md) legítimo e presença em fontes diversificadas, e experiência do usuário que respeita as métricas de [desempenho que importam](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md). Quando os três pilares estão sólidos, um update que recalibra um deles não derruba o todo.
 
-A metodologia TRIWI com 300+ atividades é projetada para ser resistente a updates, porque foca em qualidade real (conteúdo, técnica, autoridade), não em atalhos que funcionam temporariamente. Quando um Core Update chega, clientes TRIWI tipicamente mantêm ou melhoram posições. Os resultados do Sem Parar (+194% palavras no Top 10), Valid (+240%) e Contato Seguro (+430%) foram construídos durante um período de múltiplos Core Updates, e se sustentaram ou cresceram após cada atualização. A [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) não é à prova de updates porque prevê cada mudança, é resiliente porque os fundamentos que ela constrói são os mesmos que o Google valoriza a cada atualização.
+A metodologia TRIWI com 300+ atividades é projetada para ser resistente a updates, porque foca em qualidade real (conteúdo, técnica, autoridade), não em atalhos que funcionam temporariamente. Quando um Core Update chega, clientes TRIWI tipicamente mantêm ou melhoram posições. Os resultados do Sem Parar (+194% palavras no Top 10), Valid (+240%) e Contato Seguro (+430%) foram construídos durante um período de múltiplos Core Updates, e se sustentaram ou cresceram após cada atualização. A [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) não é à prova de updates porque prevê cada mudança, é resiliente porque os fundamentos que ela constrói são os mesmos que o Google valoriza a cada atualização.
 
 ---
 
@@ -146,6 +146,6 @@ Explore as páginas relacionadas:
 - 🚫 [Backlinks Tóxicos: Como Identificar e Remover](../link-building/backlinks-toxicos-como-identificar-e-remover.md): Como limpar o perfil de links sem prejudicar o site.
 - 📏 [Métricas de SEO Que Importam: KPIs Focados em Negócio](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md), As métricas corretas para monitorar impacto de updates.
 - ✍️ [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Conteúdo que o Google valoriza em qualquer update.
-- 💡 [Filosofia TRIWI](../triwi/filosofia-triwi.md): Os princípios que fundamentam a resiliência da metodologia TRIWI.
+- 💡 [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que fundamentam a resiliência da metodologia TRIWI.
 
-**Seu site está preparado para o próximo Core Update?** [Conheça a Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e descubra como construir uma presença orgânica que cresce a cada atualização do Google, não apesar delas.
+**Seu site está preparado para o próximo Core Update?** [Conheça a Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e descubra como construir uma presença orgânica que cresce a cada atualização do Google, não apesar delas.

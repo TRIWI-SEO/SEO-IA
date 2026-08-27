@@ -116,7 +116,7 @@ O debate "IA vs. humanos" é um falso dilema. O modelo que funciona, e que gera 
 
 O processo que entrega resultado é claro em suas responsabilidades. A IA faz o que faz melhor: pesquisa em escala, estruturação de rascunhos, análise de gaps, otimização de variações semânticas e verificação de cobertura temática. O humano faz o que só humano pode: enriquecer com experiência prática, validar dados e informações, adicionar cases e exemplos reais, ajustar tom de voz, garantir originalidade e exercer julgamento editorial.
 
-Na TRIWI, LLMs são ferramentas de apoio, não substituem a equipe sênior de 30+ profissionais. Todo conteúdo passa por revisão e aprimoramento de especialistas com conhecimento técnico real. O diferencial não está na ferramenta, está na expertise aplicada. A [Filosofia TRIWI](../triwi/filosofia-triwi.md) materializa esse princípio: profundidade bate amplitude, e profundidade exige experiência humana que nenhuma IA replica.
+Na TRIWI, LLMs são ferramentas de apoio, não substituem a equipe sênior de 30+ profissionais. Todo conteúdo passa por revisão e aprimoramento de especialistas com conhecimento técnico real. O diferencial não está na ferramenta, está na expertise aplicada. A [Filosofia TRIWI](../filosofia-triwi.md) materializa esse princípio: profundidade bate amplitude, e profundidade exige experiência humana que nenhuma IA replica.
 
 ### O Diferencial É a Expertise, Não a Ferramenta
 
@@ -128,7 +128,7 @@ O paralelo é direto: Photoshop é a mesma ferramenta para um amador e para um d
 
 O conceito de "augmented content", conteúdo aumentado, captura a evolução em curso. Não é conteúdo de IA e não é conteúdo "sem IA." É conteúdo onde a expertise humana é amplificada por IA em velocidade, escala e análise, mas onde a originalidade, a experiência e o julgamento permanecem humanos. É a diferença entre delegar para IA e colaborar com IA.
 
-Empresas que adotam o modelo de augmented content conseguem produzir em escala sem perder qualidade, atualizar conteúdo com frequência sem sobrecarregar a equipe, e competir em volume sem sacrificar a profundidade que o Google e as IAs recompensam. O futuro do conteúdo SEO não é "sem IA"; é "com IA e com expertise." E quem dominar essa combinação domina a [visibilidade em IAs](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md) e nos [resultados de busca](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md) simultaneamente.
+Empresas que adotam o modelo de augmented content conseguem produzir em escala sem perder qualidade, atualizar conteúdo com frequência sem sobrecarregar a equipe, e competir em volume sem sacrificar a profundidade que o Google e as IAs recompensam. O futuro do conteúdo SEO não é "sem IA"; é "com IA e com expertise." E quem dominar essa combinação domina a [visibilidade em IAs](../o-que-e-geo-generative-engine-optimization-guia-completo.md) e nos [resultados de busca](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md) simultaneamente.
 
 ---
 
@@ -144,8 +144,8 @@ Explore as páginas relacionadas:
 - 🏅 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework que separa conteúdo valioso de genérico.
 - ✍️ [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como estruturar uma estratégia que integra IA com expertise.
 - ✏️ [Copywriting para SEO: Como Escrever Conteúdo Que Rankeia e Converte](../seo-de-conteudo/copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md), A arte de transformar rascunhos em conteúdo que converte.
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md), Otimização para IAs: onde conteúdo de qualidade é ainda mais decisivo.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), Otimização para IAs: onde conteúdo de qualidade é ainda mais decisivo.
 - 📰 [Atualizações do Google: Guia de Core Updates e Seus Impactos](atualizacoes-do-google-guia-de-core-updates-e-seus-impactos.md), Como Core Updates penalizam conteúdo commodity.
-- 💡 [Filosofia TRIWI](../triwi/filosofia-triwi.md): Os princípios que guiam o modelo de augmented content da TRIWI.
+- 💡 [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que guiam o modelo de augmented content da TRIWI.
 
-**Quer escalar conteúdo sem sacrificar qualidade?** [Conheça a Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/) e descubra como profundidade bate amplitude, mesmo na era da IA generativa.
+**Quer escalar conteúdo sem sacrificar qualidade?** [Conheça a Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e descubra como profundidade bate amplitude, mesmo na era da IA generativa.

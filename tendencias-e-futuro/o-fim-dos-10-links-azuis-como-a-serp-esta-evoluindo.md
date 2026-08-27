@@ -26,7 +26,7 @@ Cada SERP feature adicionado empurrou os links azuis para baixo. Em 2020, o prim
 
 Em 2024, o Google introduziu os AI Overviews, respostas geradas por IA exibidas no topo da SERP. Em março de 2026, os AI Overviews aparecem em 48% de todas as buscas. No AI Mode, a experiência é inteiramente conversacional. Essa é a mudança mais radical desde a criação do Google: a SERP não apenas exibe resultados; ela gera respostas.
 
-O impacto é estrutural. Os [AI Overviews](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md) citam em média 3 a 5 fontes, sintetizam informações de múltiplas páginas e entregam uma resposta que frequentemente elimina a necessidade de clicar. Para os links azuis, o espaço visual encolheu mais uma vez. Para empresas, uma nova fronteira de otimização se abriu: ser citado no AI Overview como fonte confiável, o que exige uma abordagem que integra SEO tradicional com [GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md).
+O impacto é estrutural. Os [AI Overviews](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md) citam em média 3 a 5 fontes, sintetizam informações de múltiplas páginas e entregam uma resposta que frequentemente elimina a necessidade de clicar. Para os links azuis, o espaço visual encolheu mais uma vez. Para empresas, uma nova fronteira de otimização se abriu: ser citado no AI Overview como fonte confiável, o que exige uma abordagem que integra SEO tradicional com [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
 ---
 
@@ -106,7 +106,7 @@ O Google Lens e a busca multimodal adicionam mais uma camada: resultados que com
 
 Cada evolução da SERP é, simultaneamente, ameaça para quem não se adapta e oportunidade para quem age primeiro. Featured snippets beneficiam quem estrutura conteúdo citável. AI Overviews beneficiam quem tem autoridade verificável. Rich Results beneficiam quem implementa dados estruturados. A complexidade da SERP moderna cria barreiras de entrada, e barreiras de entrada criam vantagem competitiva para quem as supera.
 
-A [tendência](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md) é que a vantagem dos early adopters se amplie. Empresas que investem agora em otimização para múltiplos formatos de SERP, orgânico, snippets, Rich Results, AI Overviews, constroem posições que levam meses ou anos para concorrentes alcançarem. A TRIWI opera nessa vanguarda com a metodologia de 12 etapas e 300+ atividades, integrando SEO tradicional e GEO para garantir presença em todo o ecossistema da SERP moderna. Porque na era generativa, visibilidade parcial é invisibilidade, e [a TRIWI coloca seus clientes onde as decisões de compra acontecem](https://triwi.com.br/porque-a-triwi/).
+A [tendência](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md) é que a vantagem dos early adopters se amplie. Empresas que investem agora em otimização para múltiplos formatos de SERP, orgânico, snippets, Rich Results, AI Overviews, constroem posições que levam meses ou anos para concorrentes alcançarem. A TRIWI opera nessa vanguarda com a metodologia de 12 etapas e 300+ atividades, integrando SEO tradicional e GEO para garantir presença em todo o ecossistema da SERP moderna. Porque na era generativa, visibilidade parcial é invisibilidade, e [a TRIWI coloca seus clientes onde as decisões de compra acontecem](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 
@@ -122,6 +122,6 @@ Explore as páginas relacionadas:
 - 🔧 [Schema Markup e Dados Estruturados para SEO](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): A infraestrutura técnica para Rich Results e Knowledge Panels.
 - 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Os sinais que determinam posição orgânica e conquista de SERP features.
 - ✏️ [Copywriting para SEO: Como Escrever Conteúdo Que Rankeia e Converte](../seo-de-conteudo/copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md), Conteúdo otimizado para múltiplos formatos de resultado.
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md), A otimização que conecta SEO e AI Overviews.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), A otimização que conecta SEO e AI Overviews.
 
-**Sua empresa domina a SERP ou apenas aparece nela?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/) e descubra como a estratégia integrada de SEO + GEO posiciona seus clientes em todos os formatos de resultado, orgânico, snippets, Rich Results e AI Overviews.
+**Sua empresa domina a SERP ou apenas aparece nela?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e descubra como a estratégia integrada de SEO + GEO posiciona seus clientes em todos os formatos de resultado, orgânico, snippets, Rich Results e AI Overviews.

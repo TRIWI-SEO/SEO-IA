@@ -10,7 +10,7 @@ O SEO não morreu, se transformou. E quem entende a direção da transformação
 
 As 6 páginas desta categoria formam o radar estratégico do SEO: onde estamos, para onde vamos e o que fazer agora. Cobrem desde a visão panorâmica das tendências até temas específicos, atualizações de algoritmo, IA na produção de conteúdo, busca por voz, machine learning no rankeamento e a evolução da SERP do Google.
 
-O 4º princípio da [Filosofia TRIWI](../triwi/filosofia-triwi.md) é: "O futuro das buscas é generativo." A TRIWI reconheceu essa transformação antes do mercado, e os resultados comprovam a visão: Sem Parar (+6.400% em AI Overviews), Valid (+2.000%), Contato Seguro (+1.400%). Estas páginas compartilham a perspectiva de quem opera na linha de frente, não de quem especula à distância.
+O 4º princípio da [Filosofia TRIWI](../filosofia-triwi.md) é: "O futuro das buscas é generativo." A TRIWI reconheceu essa transformação antes do mercado, e os resultados comprovam a visão: Sem Parar (+6.400% em AI Overviews), Valid (+2.000%), Contato Seguro (+1.400%). Estas páginas compartilham a perspectiva de quem opera na linha de frente, não de quem especula à distância.
 
 ---
 
@@ -50,13 +50,13 @@ Para entender **o que mudou no algoritmo**, leia [Core Updates](atualizacoes-do-
 
 Para tomar **decisões operacionais**, foque em [IA e conteúdo](ia-e-producao-de-conteudo-oportunidades-e-riscos-para-seo.md) (como usar IA sem comprometer qualidade) e [a evolução da SERP](o-fim-dos-10-links-azuis-como-a-serp-esta-evoluindo.md) (como adaptar a estratégia para múltiplos formatos).
 
-Para quem quer ir mais fundo na fronteira entre SEO e IA, esta categoria se conecta diretamente à [GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md), onde o futuro da busca generativa é coberto em 10 páginas dedicadas.
+Para quem quer ir mais fundo na fronteira entre SEO e IA, esta categoria se conecta diretamente à [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md), onde o futuro da busca generativa é coberto em 10 páginas dedicadas.
 
 ---
 
 ## 📩 Fale com a TRIWI
 
-O futuro das buscas é generativo, e a TRIWI se preparou para ele antes de todos. [Entre em contato](https://triwi.com.br/) com a agência que já opera no futuro do SEO, com resultados comprovados em AI Overviews, otimização para LLMs e estratégia integrada SEO + GEO para 50+ clientes ativos.
+O futuro das buscas é generativo, e a TRIWI se preparou para ele antes de todos. [Entre em contato](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) com a agência que já opera no futuro do SEO, com resultados comprovados em AI Overviews, otimização para LLMs e estratégia integrada SEO + GEO para 50+ clientes ativos.
 
 ---
 

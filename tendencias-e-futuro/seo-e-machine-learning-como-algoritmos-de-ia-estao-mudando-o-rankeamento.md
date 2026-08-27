@@ -80,7 +80,7 @@ O padrão é claro: a janela entre "tática nova" e "tática detectada" está en
 
 Profissionais de SEO que entendem como ML funciona tomam decisões melhores. Não porque vão "hackear" o algoritmo, mas porque entendem a direção em que ele caminha. Saber que o BERT processa contexto bidirecional explica por que linguagem natural é priorizada. Saber que o MUM processa múltiplos formatos explica por que vídeo e imagem ganham espaço na SERP. Saber que modelos de ML aprendem padrões em escala explica por que conteúdo genuíno supera conteúdo fabricado.
 
-A TRIWI investe em entender a tecnologia por trás dos algoritmos, não para manipulá-los, mas para alinhar a estratégia dos clientes com a direção em que o Google e as IAs estão evoluindo. É essa visão técnica que permitiu à TRIWI se antecipar à revolução da busca generativa. Quando o mercado ainda debatia se IA impactaria o SEO, a TRIWI já operava com [GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md), e os resultados dos clientes (Sem Parar +6.400% em AI Overviews, Valid +2.000%, Contato Seguro +1.400%) comprovam que entender a tecnologia gera vantagem competitiva real.
+A TRIWI investe em entender a tecnologia por trás dos algoritmos, não para manipulá-los, mas para alinhar a estratégia dos clientes com a direção em que o Google e as IAs estão evoluindo. É essa visão técnica que permitiu à TRIWI se antecipar à revolução da busca generativa. Quando o mercado ainda debatia se IA impactaria o SEO, a TRIWI já operava com [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md), e os resultados dos clientes (Sem Parar +6.400% em AI Overviews, Valid +2.000%, Contato Seguro +1.400%) comprovam que entender a tecnologia gera vantagem competitiva real.
 
 ---
 
@@ -100,7 +100,7 @@ A IA generativa no ranking consolida a convergência entre SEO e GEO. O Google u
 
 A [tendência](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md) é que IA generativa se torne cada vez mais presente na busca, não substituindo resultados orgânicos, mas coexistindo e interagindo com eles. Para profissionais de SEO, isso significa que entender machine learning e IA generativa deixou de ser diferencial e se tornou requisito. O algoritmo é IA. A busca é IA. A estratégia precisa refletir essa realidade.
 
-A [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/) materializa esse entendimento no 4º princípio: "O futuro das buscas é generativo." Com a metodologia de 12 etapas e 300+ atividades, a TRIWI alinha a estratégia dos clientes não apenas com o algoritmo de hoje, mas com a direção em que ML e IA generativa estão levando a busca amanhã.
+A [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) materializa esse entendimento no 4º princípio: "O futuro das buscas é generativo." Com a metodologia de 12 etapas e 300+ atividades, a TRIWI alinha a estratégia dos clientes não apenas com o algoritmo de hoje, mas com a direção em que ML e IA generativa estão levando a busca amanhã.
 
 ---
 
@@ -114,9 +114,9 @@ Explore as páginas relacionadas:
 - 📰 [Atualizações do Google: Guia de Core Updates e Seus Impactos](atualizacoes-do-google-guia-de-core-updates-e-seus-impactos.md), A história dos updates que refletem a evolução do ML.
 - ⚙️ [Como Funciona o Google: Rastreamento, Indexação e Rankeamento](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md), A mecânica completa do sistema de busca.
 - 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Os sinais que ML pondera no algoritmo.
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md), A otimização para a camada generativa da busca.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), A otimização para a camada generativa da busca.
 - 🧩 [Como as LLMs Decidem o Que Citar: Arquitetura de Informação para IA](../geo-seo-para-ia/como-as-llms-decidem-o-que-citar-arquitetura-de-informacao-para-ia.md), A lógica por trás da seleção de fontes pelas IAs.
 - 🎯 [Intenção de Busca: O Fundamento Que Muda Tudo em SEO](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md), O conceito que ML tornou central no rankeamento.
-- 💡 [Filosofia TRIWI](../triwi/filosofia-triwi.md): Os princípios que alinham estratégia com a evolução tecnológica da busca.
+- 💡 [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que alinham estratégia com a evolução tecnológica da busca.
 
-**Sua estratégia de SEO acompanha a evolução do algoritmo?** [Conheça a Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/) e descubra como alinhar sua presença digital com a direção em que o Google e as IAs estão evoluindo.
+**Sua estratégia de SEO acompanha a evolução do algoritmo?** [Conheça a Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e descubra como alinhar sua presença digital com a direção em que o Google e as IAs estão evoluindo.
