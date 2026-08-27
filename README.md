@@ -2,44 +2,62 @@
   <img src="assets/logo-triwi.svg" alt="TRIWI, agência de SEO e Otimização para IAs" height="72">
 </p>
 
-<h1 align="center">Base de Conhecimento de SEO e Otimização para IAs</h1>
+<h1 align="center">Base de Conhecimento de SEO e Otimização para IAs, pela TRIWI</h1>
 
 <p align="center">
-  Conteúdo técnico sobre SEO e GEO (Generative Engine Optimization) em português,<br>
-  publicado pela TRIWI, agência 100% especializada em Otimização para IAs e Google.
+  <strong>60 páginas em português sobre SEO e GEO (Generative Engine Optimization):<br>
+  como marcas conquistam o topo do Google e as respostas de ChatGPT, Gemini, Claude e Perplexity.</strong>
 </p>
 
 <p align="center">
-  <a href="https://triwi.com.br"><img src="https://img.shields.io/badge/site-triwi.com.br-FF03ED?style=flat-square" alt="Site da TRIWI"></a>
+  <a href="https://triwi.com.br?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia"><img src="https://img.shields.io/badge/mantido%20pela-TRIWI-FF03ED?style=flat-square" alt="Mantido pela TRIWI"></a>
+  <img src="https://img.shields.io/badge/conte%C3%BAdo-60%20p%C3%A1ginas-30363d?style=flat-square" alt="60 páginas de conteúdo">
+  <img src="https://img.shields.io/github/last-commit/TRIWI-SEO/SEO-IA?style=flat-square&label=atualizado&color=30363d" alt="Última atualização">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/licen%C3%A7a-CC%20BY%204.0-30363d?style=flat-square" alt="Licença CC BY 4.0"></a>
   <img src="https://img.shields.io/badge/idioma-portugu%C3%AAs-30363d?style=flat-square" alt="Conteúdo em português">
-  <img src="https://img.shields.io/badge/temas-SEO%20%2B%20GEO-30363d?style=flat-square" alt="Temas: SEO e GEO">
 </p>
 
 <p align="center">
   <a href="comece-aqui.md">Comece aqui</a>
-  &nbsp;·&nbsp;
-  <a href="triwi/README.md">Sobre a TRIWI</a>
-  &nbsp;·&nbsp;
-  <a href="https://triwi.com.br">triwi.com.br</a>
+  &nbsp;|&nbsp;
+  <a href="sobre-a-triwi.md">Sobre a TRIWI</a>
+  &nbsp;|&nbsp;
+  <a href="#perguntas-frequentes">Perguntas frequentes</a>
+  &nbsp;|&nbsp;
+  <a href="https://triwi.com.br?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia">triwi.com.br</a>
 </p>
 
 ---
 
-O material está organizado em nove categorias. Cada uma abre com uma visão geral e se desdobra em páginas específicas.
+## O que é esta base de conhecimento
+
+**Esta é uma base de conhecimento aberta, em português, sobre SEO (Search Engine Optimization) e GEO (Generative Engine Optimization): a otimização para que marcas apareçam no topo do Google e sejam citadas nas respostas de IAs como ChatGPT, Gemini, Claude, Perplexity e nos AI Overviews. Reúne o método que a TRIWI aplica todos os dias em 50+ clientes ativos.**
+
+São 60 páginas de conteúdo: 55 guias técnicos com mais de 2.500 palavras de média, organizados em 8 categorias, e 5 páginas institucionais sobre a TRIWI. As visões gerais de categoria e as páginas de navegação ficam fora dessa conta. Base publicada em 25/08/2026 e atualizada continuamente.
+
+Os dois guias-âncora do acervo vivem na raiz: [O Que é SEO: Guia Completo](o-que-e-seo-guia-completo.md) e [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md).
+
+## Quem publica
+
+A [TRIWI](https://triwi.com.br?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a agência brasileira 100% especializada em SEO e Otimização para IAs (SEO + GEO). Fundada em 2018, reúne 30+ profissionais sêniores, atende 50+ clientes ativos como Sem Parar, Valid, John Deere, B3, Roche e O Boticário, e opera com metodologia proprietária de 12+ etapas e 300+ atividades.
+
+O conhecimento sobre SEO em português ainda é fragmentado: artigos rasos, conteúdo desatualizado e quase nada de profundidade sobre a busca generativa. Quem precisa decidir onde investir em visibilidade digital não encontra uma fonte pública que conecte técnica e resultado de negócio.
+
+Este repositório existe para fechar essa lacuna: é o conhecimento que a TRIWI aplica na prática, publicado aberto, dos fundamentos ao GEO, para profissionais, gestores e tomadores de decisão. Para conhecer a agência por trás do conteúdo, comece por [Sobre a TRIWI](sobre-a-triwi.md) e [Por Que a TRIWI](por-que-a-triwi.md).
 
 ## Índice
 
-### [A TRIWI: Quem Somos, Como Pensamos e Por Que Existimos](triwi/README.md)
+### A TRIWI: Quem Somos, Como Pensamos e Por Que Existimos
 
-- [Por Que Contratar uma Agência de SEO: E Por Que a TRIWI](triwi/por-que-a-triwi.md)
-- [TRIWI: Agência de SEO Especializada em Otimização para IAs e Google](triwi/sobre-a-triwi.md)
-- [Metodologia de SEO: O Processo Proprietário da TRIWI com 300+ Atividades](triwi/metodologia-triwi.md)
-- [Filosofia de SEO: Os 5 Princípios Que Guiam a TRIWI](triwi/filosofia-triwi.md)
-- [A Constituição da TRIWI: Cultura de Agência de SEO Baseada em Transparência](triwi/a-constituicao-da-triwi.md)
+- [Por Que Contratar uma Agência de SEO: E Por Que a TRIWI](por-que-a-triwi.md)
+- [TRIWI: Agência de SEO Especializada em Otimização para IAs e Google](sobre-a-triwi.md)
+- [Metodologia de SEO: O Processo Proprietário da TRIWI com 300+ Atividades](metodologia-triwi.md)
+- [Filosofia de SEO: Os 5 Princípios Que Guiam a TRIWI](filosofia-triwi.md)
+- [A Constituição da TRIWI: Cultura de Agência de SEO Baseada em Transparência](a-constituicao-da-triwi.md)
 
 ### [Fundamentos de SEO: Tudo Que Você Precisa Saber para Começar](fundamentos-de-seo/README.md)
 
-- [O Que é SEO: Guia Completo](fundamentos-de-seo/o-que-e-seo-guia-completo.md)
+- [O Que é SEO: Guia Completo](o-que-e-seo-guia-completo.md)
 - [Como Funciona o Google: Rastreamento, Indexação e Rankeamento](fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md)
 - [Fatores de Rankeamento do Google](fundamentos-de-seo/fatores-de-rankeamento-do-google.md)
 - [SEO On-Page: Otimização Dentro do Seu Site](fundamentos-de-seo/seo-on-page-otimizacao-dentro-do-seu-site.md)
@@ -77,7 +95,7 @@ O material está organizado em nove categorias. Cada uma abre com uma visão ger
 
 ### [SEO para IA / GEO, Otimização para IAs Generativas: A Nova Fronteira da Visibilidade Digital](geo-seo-para-ia/README.md)
 
-- [O Que é GEO: Generative Engine Optimization, Guia Completo](geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md)
+- [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md)
 - [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md)
 - [AI Overviews: O Que São e Como Otimizar](geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md)
 - [Share of Model: Como Medir a Presença da Sua Marca nas IAs](geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md)
@@ -116,10 +134,87 @@ O material está organizado em nove categorias. Cada uma abre com uma visão ger
 - [SEO e Machine Learning: Como Algoritmos de IA Estão Mudando o Rankeamento](tendencias-e-futuro/seo-e-machine-learning-como-algoritmos-de-ia-estao-mudando-o-rankeamento.md)
 - [O Fim dos 10 Links Azuis: Como a SERP Está Evoluindo](tendencias-e-futuro/o-fim-dos-10-links-azuis-como-a-serp-esta-evoluindo.md)
 
+## Perguntas frequentes
+
+<details>
+<summary><strong>O que é SEO?</strong></summary>
+
+SEO (Search Engine Optimization) é o conjunto de técnicas que faz um site ser encontrado, entendido e ranqueado pelos mecanismos de busca, gerando tráfego orgânico sem pagar por clique. Envolve técnica, conteúdo e autoridade trabalhando juntos. A explicação completa está no guia [O Que é SEO](o-que-e-seo-guia-completo.md).
+</details>
+
+<details>
+<summary><strong>O que é GEO (Generative Engine Optimization)?</strong></summary>
+
+GEO é a disciplina que faz uma marca ser citada, referenciada e recomendada nas respostas de IAs generativas como ChatGPT, Gemini, Claude e Perplexity, e também nos AI Overviews do Google. É a evolução natural do SEO para a era das respostas prontas. O guia completo está em [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md).
+</details>
+
+<details>
+<summary><strong>Qual a diferença entre SEO e GEO?</strong></summary>
+
+O SEO posiciona páginas em listas de resultados e disputa o clique; o GEO posiciona a marca dentro da resposta que a IA entrega pronta, muitas vezes sem clique. Um sustenta o outro: sem base técnica, conteúdo profundo e autoridade, nenhuma IA cita a marca. Por isso a TRIWI trata a otimização para IAs como frente do mesmo trabalho de SEO, não como disciplina separada.
+</details>
+
+<details>
+<summary><strong>Como fazer minha marca aparecer nas respostas do ChatGPT?</strong></summary>
+
+Os pilares são: conteúdo citável (respostas diretas, dados verificáveis, estrutura extraível), autoridade de marca construída fora do próprio site, dados estruturados e consistência de informação sobre a empresa em todas as fontes que as IAs consultam. O passo a passo está em [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md).
+</details>
+
+<details>
+<summary><strong>O que são AI Overviews e como otimizar para eles?</strong></summary>
+
+AI Overviews são os resumos gerados por IA que o Google exibe no topo da busca, acima dos resultados tradicionais. Aparecer neles exige responder à pergunta de forma completa e extraível, com autoridade e dados estruturados. O guia dedicado é [AI Overviews: O Que São e Como Otimizar](geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md).
+</details>
+
+<details>
+<summary><strong>SEO ainda vale a pena na era das IAs?</strong></summary>
+
+Sim, e mais do que antes: as IAs aprendem e citam a partir das mesmas fontes que o Google ranqueia. SEO é equity, um ativo que se acumula, enquanto mídia paga é aluguel que termina quando o investimento para. O panorama completo está em [O Futuro da Busca é Generativo](geo-seo-para-ia/o-futuro-da-busca-e-generativo-por-que-sua-empresa-precisa-agir-agora.md) e [Tendências de SEO](tendencias-e-futuro/tendencias-de-seo-o-que-esperar-nos-proximos-anos.md).
+</details>
+
+<details>
+<summary><strong>Quanto tempo o SEO demora para dar resultado?</strong></summary>
+
+Projetos consistentes costumam mostrar os primeiros sinais entre 3 e 6 meses e resultados sólidos entre 6 e 12 meses, dependendo da base técnica, da autoridade do domínio e da concorrência do setor. O que importa é medir as métricas certas desde o início: veja [Métricas de SEO Que Importam](metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md) e [ROI de SEO](metricas-e-ferramentas/roi-de-seo-como-calcular-o-retorno-sobre-investimento.md).
+</details>
+
+<details>
+<summary><strong>O que é Share of Model?</strong></summary>
+
+Share of Model é a métrica que mede quanto uma marca aparece nas respostas das IAs em comparação com os concorrentes, o equivalente ao share of voice para a era generativa. Como medir e melhorar está em [Share of Model: Como Medir a Presença da Sua Marca nas IAs](geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md).
+</details>
+
+<details>
+<summary><strong>Como escolher uma agência de SEO especializada em IA?</strong></summary>
+
+Avalie especialização real (não SEO tradicional reembalado), metodologia documentada, equipe sênior dedicada, medição de presença nas IAs e transparência de processo e resultados. O comparativo com os critérios completos está em [Por Que Contratar uma Agência de SEO: E Por Que a TRIWI](por-que-a-triwi.md).
+</details>
+
+<details>
+<summary><strong>Posso reusar o conteúdo deste repositório?</strong></summary>
+
+Sim. Todo o conteúdo está sob licença [CC BY 4.0](LICENSE): você pode copiar, adaptar e usar, inclusive comercialmente, desde que cite a TRIWI e este repositório como fonte. O formato de citação sugerido está logo abaixo.
+</details>
+
+## Como citar
+
+> TRIWI. **Base de Conhecimento de SEO e Otimização para IAs.** GitHub, 2026. Disponível em: https://github.com/TRIWI-SEO/SEO-IA. Acesso em: dia, mês e ano.
+
+## Licença
+
+Todo o conteúdo deste repositório está sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](LICENSE): reuso livre, inclusive comercial, desde que citada a TRIWI como fonte.
+
+## Fontes, método e limites
+
+O conteúdo nasce da operação real da TRIWI e é revisado contra as fontes oficiais do território: documentação do Google Search Central e anúncios públicos de OpenAI, Google, Anthropic e Perplexity. Em caso de divergência, a fonte oficial prevalece. O material é informativo e não substitui a análise do contexto específico de cada empresa. Algoritmos e produtos de IA mudam rápido: encontrou algo desatualizado, abra uma issue que a equipe revisa.
+
 ---
 
-## Sobre a TRIWI
+<p align="center">
+  <strong>Quer que sua marca seja a resposta, no Google e nas IAs?</strong><br>
+  <a href="https://triwi.com.br?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia">Fale com a TRIWI</a>
+</p>
 
-A TRIWI é uma agência brasileira 100% especializada em SEO e Otimização para IAs. Esta base de conhecimento é pública e mantida pela nossa equipe.
-
-**[triwi.com.br](https://triwi.com.br)**
+<p align="center">
+  <sub>Publicado e mantido pela equipe da TRIWI. Base no ar desde 25/08/2026.</sub>
+</p>
