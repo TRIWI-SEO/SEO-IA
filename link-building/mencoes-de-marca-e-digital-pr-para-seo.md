@@ -100,7 +100,7 @@ Os resultados dessa abordagem integrada são mensuráveis nos cases da TRIWI. O 
 
 Menções de marca e Digital PR representam a evolução do link building para uma disciplina mais ampla de construção de autoridade digital. Backlinks continuam importantes, mas são parte de um ecossistema maior que inclui menções sem link, presença em veículos setoriais, citações como fonte especializada e visibilidade nas respostas das IAs generativas. Empresas que dominam essa estratégia constroem autoridade em dois mundos simultaneamente, o Google de hoje e as IAs de amanhã.
 
-Se sua empresa quer ser mencionada, citada e recomendada, no Google e nas IAs, conheça os diferenciais que fazem da TRIWI a escolha de empresas como Sem Parar, Valid, John Deere e outras 50+ marcas: [Por Que a TRIWI](https://triwi.com.br/porque-a-triwi/).
+Se sua empresa quer ser mencionada, citada e recomendada, no Google e nas IAs, conheça os diferenciais que fazem da TRIWI a escolha de empresas como Sem Parar, Valid, John Deere e outras 50+ marcas: [Por Que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 Explore as páginas relacionadas:
 
@@ -108,6 +108,6 @@ Explore as páginas relacionadas:
 - 🏛️ [Autoridade de Domínio](autoridade-de-dominio-o-que-e-e-como-construir.md): Como menções e backlinks constroem autoridade de domínio.
 - 🤖 [Share of Model: Sua Marca nas Respostas das IAs](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A participação da sua marca nas respostas das IAs.
 - 🌐 [SEO Off-Page](../fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md): O panorama completo de sinais externos de autoridade.
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais da TRIWI em construção de autoridade e presença em IAs.
+- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais da TRIWI em construção de autoridade e presença em IAs.
 
-**Quer que sua marca seja citada pelo Google e pelas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer que sua marca seja citada pelo Google e pelas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

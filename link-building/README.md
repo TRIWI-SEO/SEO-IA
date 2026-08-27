@@ -40,13 +40,13 @@ Comece pelo [guia completo de link building](link-building-guia-completo-de-cons
 
 Se o foco é **construir autoridade moderna**, avance para [Digital PR e menções de marca](mencoes-de-marca-e-digital-pr-para-seo.md), a fronteira onde PR e SEO se encontram, especialmente relevante para visibilidade em IAs. Se o desafio é **limpar um perfil contaminado**, vá direto para [Backlinks Tóxicos](backlinks-toxicos-como-identificar-e-remover.md).
 
-Para o contexto fundamental de como autoridade se encaixa no SEO como um todo, veja [SEO Off-Page (Fundamentos)](../fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md) e [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md). Para entender como autoridade impacta IAs generativas, explore [a GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md).
+Para o contexto fundamental de como autoridade se encaixa no SEO como um todo, veja [SEO Off-Page (Fundamentos)](../fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md) e [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md). Para entender como autoridade impacta IAs generativas, explore [a GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
 ---
 
 ## 📩 Fale com a TRIWI
 
-Precisa de uma estratégia de construção de autoridade que gere resultados, com qualidade e relevância, não volume de links? [Entre em contato com a TRIWI](https://triwi.com.br/), a agência que já gerou 500 mil+ backlinks para seus clientes, com Link Building de Alta Autoridade como uma das 12 entregas do escopo.
+Precisa de uma estratégia de construção de autoridade que gere resultados, com qualidade e relevância, não volume de links? [Entre em contato com a TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia), a agência que já gerou 500 mil+ backlinks para seus clientes, com Link Building de Alta Autoridade como uma das 12 entregas do escopo.
 
 ---
 

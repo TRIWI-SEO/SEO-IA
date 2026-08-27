@@ -118,9 +118,9 @@ Links comprados em massa de redes PBN, diretórios de baixa qualidade e blogs fa
 
 Na TRIWI, não perseguimos números de DA como meta isolada. Construímos autoridade topical, a capacidade de um site ser referência em temas específicos. É essa autoridade que o Google e as IAs reconhecem.
 
-A construção de autoridade é parte de uma [metodologia com 12 etapas e 300+ atividades](../triwi/metodologia-triwi.md) que integra link building estratégico, conteúdo denso e citável, otimização técnica e presença em canais relevantes. Nos cases da TRIWI, os resultados refletem essa abordagem integrada: a Valid/Flexdoc conquistou +70% em backlinks de qualidade, +240% de palavras no Top 10 e +700% de tráfego vindo de LLMs. A Contato Seguro alcançou +150% em backlinks, +430% de palavras no Top 10 e 65% das vendas originadas de tráfego orgânico. A autoridade não é uma métrica; é uma consequência de trabalho estratégico consistente.
+A construção de autoridade é parte de uma [metodologia com 12 etapas e 300+ atividades](../metodologia-triwi.md) que integra link building estratégico, conteúdo denso e citável, otimização técnica e presença em canais relevantes. Nos cases da TRIWI, os resultados refletem essa abordagem integrada: a Valid/Flexdoc conquistou +70% em backlinks de qualidade, +240% de palavras no Top 10 e +700% de tráfego vindo de LLMs. A Contato Seguro alcançou +150% em backlinks, +430% de palavras no Top 10 e 65% das vendas originadas de tráfego orgânico. A autoridade não é uma métrica; é uma consequência de trabalho estratégico consistente.
 
-Para conhecer como a TRIWI constrói autoridade de domínio real para empresas como Sem Parar, Valid, John Deere e outras 50+ marcas, acesse a página [Sobre a TRIWI](https://triwi.com.br/sobre-a-triwi/).
+Para conhecer como a TRIWI constrói autoridade de domínio real para empresas como Sem Parar, Valid, John Deere e outras 50+ marcas, acesse a página [Sobre a TRIWI](https://triwi.com.br/sobre-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 
@@ -134,6 +134,6 @@ Explore as páginas relacionadas:
 - 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que compõem a avaliação do Google, incluindo autoridade.
 - 📰 [Menções de Marca e Digital PR para SEO](mencoes-de-marca-e-digital-pr-para-seo.md), Menções sem link e assessoria de imprensa digital como sinais de autoridade.
 - ⭐ [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework do Google para qualidade e confiança.
-- 🏢 [Sobre a TRIWI](../triwi/sobre-a-triwi.md): Conheça a equipe e a história por trás dos resultados.
+- 🏢 [Sobre a TRIWI](../sobre-a-triwi.md): Conheça a equipe e a história por trás dos resultados.
 
-**Quer construir autoridade de domínio real, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/sobre-a-triwi/).
+**Quer construir autoridade de domínio real, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/sobre-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

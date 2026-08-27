@@ -118,13 +118,13 @@ A melhor defesa contra um perfil de backlinks tóxico é um perfil de backlinks 
 
 ## 🏗️ A Auditoria de Backlinks na TRIWI
 
-A auditoria de perfil de backlinks é parte do Diagnóstico e Auditoria inicial da TRIWI, a primeira fase da [metodologia com 12 etapas e 300+ atividades](../triwi/metodologia-triwi.md). Antes de construir autoridade, é necessário garantir que a base esteja limpa.
+A auditoria de perfil de backlinks é parte do Diagnóstico e Auditoria inicial da TRIWI, a primeira fase da [metodologia com 12 etapas e 300+ atividades](../metodologia-triwi.md). Antes de construir autoridade, é necessário garantir que a base esteja limpa.
 
 O processo envolve: mapeamento completo do perfil de backlinks do cliente usando múltiplas ferramentas, classificação de cada domínio referenciador por qualidade e risco, identificação de links tóxicos e padrões não naturais, recomendação de ações (remoção, disavow ou monitoramento), e limpeza do perfil antes de iniciar a fase de construção de autoridade.
 
 Na experiência da TRIWI com 50+ clientes, é comum encontrar passivos significativos em perfis de links, especialmente em empresas que trabalharam anteriormente com agências que praticavam link building de volume. A limpeza desse passivo, combinada com a construção de um perfil saudável, é parte do processo que gerou resultados como +194% de palavras no Top 10 para o Sem Parar e +240% para a Valid/Flexdoc. Cuidamos da parte técnica do perfil de links para que a construção de autoridade aconteça sobre uma base limpa.
 
-Para entender como a TRIWI diagnostica e trata o perfil de backlinks do seu site, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/).
+Para entender como a TRIWI diagnostica e trata o perfil de backlinks do seu site, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 
@@ -139,4 +139,4 @@ Explore as páginas relacionadas:
 - 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): O peso dos backlinks entre os fatores de rankeamento.
 - 📈 [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): As ferramentas essenciais para monitorar e auditar backlinks.
 
-**Quer saber se o perfil de backlinks do seu site está limpo?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/).
+**Quer saber se o perfil de backlinks do seu site está limpo?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

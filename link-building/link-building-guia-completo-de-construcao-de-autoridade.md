@@ -172,7 +172,7 @@ Nos cases da TRIWI, essa visão integrada gerou resultados concretos: o Sem Para
 
 ## 🏗️ Como a TRIWI Aborda Link Building
 
-Link Building de Alta Autoridade é a 6ª entrega do escopo da TRIWI, parte de uma [metodologia com 12 etapas e 300+ atividades](../triwi/metodologia-triwi.md). Não é um serviço isolado comprado em pacotes: é uma camada estratégica integrada ao diagnóstico, à definição estratégica e à criação de conteúdo.
+Link Building de Alta Autoridade é a 6ª entrega do escopo da TRIWI, parte de uma [metodologia com 12 etapas e 300+ atividades](../metodologia-triwi.md). Não é um serviço isolado comprado em pacotes: é uma camada estratégica integrada ao diagnóstico, à definição estratégica e à criação de conteúdo.
 
 A diferença de abordagem é estrutural:
 
@@ -194,17 +194,17 @@ A TRIWI já gerou 500 mil+ backlinks para seus clientes. Mas o número de backli
 
 Link building é a construção de autoridade externa do seu site, e na era das IAs generativas, essa autoridade transcende o Google. Cada link editorial conquistado, cada menção em veículo relevante, cada citação em uma LLM compõe um ecossistema de confiança que posiciona sua marca como referência no seu mercado. A chave é abordagem estratégica: qualidade sobre quantidade, relevância sobre volume, autoridade real sobre métricas de vaidade.
 
-Se sua empresa quer construir autoridade de forma sustentável, no Google e nas IAs, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como a construção de autoridade se integra a uma estratégia completa de SEO e GEO. E se quer saber [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a escolha de empresas como Sem Parar, Valid, John Deere e outras 50+ marcas, o motivo está nos resultados.
+Se sua empresa quer construir autoridade de forma sustentável, no Google e nas IAs, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como a construção de autoridade se integra a uma estratégia completa de SEO e GEO. E se quer saber [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de empresas como Sem Parar, Valid, John Deere e outras 50+ marcas, o motivo está nos resultados.
 
 Explore as páginas relacionadas:
 
-- 📖 [O Que é SEO: Guia Completo](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Os fundamentos de SEO onde o link building se insere.
+- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO onde o link building se insere.
 - 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores, incluindo o peso dos backlinks.
 - 🌐 [SEO Off-Page](../fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md): O panorama completo de SEO fora do site, incluindo link building.
 - 🏛️ [Autoridade de Domínio](autoridade-de-dominio-o-que-e-e-como-construir.md): DA, DR e como construir autoridade real.
 - 📰 [Menções de Marca e Digital PR para SEO](mencoes-de-marca-e-digital-pr-para-seo.md), Menções sem link e assessoria de imprensa digital.
 - 🛡️ [Análise e Auditoria de Backlinks](backlinks-toxicos-como-identificar-e-remover.md): Como auditar e limpar seu perfil de links.
 - 🤖 [Share of Model: Sua Marca nas Respostas das IAs](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A ponte entre link building e presença em LLMs.
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais que fazem a TRIWI referência em construção de autoridade.
+- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais que fazem a TRIWI referência em construção de autoridade.
 
-**Quer construir autoridade real para sua marca, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer construir autoridade real para sua marca, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
