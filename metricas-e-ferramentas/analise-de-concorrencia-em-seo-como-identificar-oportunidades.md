@@ -4,7 +4,7 @@ Análise de concorrência em SEO é o processo sistemático de mapear, avaliar e
 
 A análise competitiva vai além de "ver quais keywords o concorrente rankeia." Envolve mapear o universo de keywords onde eles têm presença e você não (keyword gap), entender de onde vem a autoridade do domínio deles (perfil de backlinks), avaliar a qualidade e a profundidade do conteúdo que gera tráfego, diagnosticar vantagens técnicas na estrutura do site e, cada vez mais, medir a presença comparativa nas IAs generativas.
 
-"Monitoramento e Descoberta de Concorrentes" é a 7ª entrega do escopo TRIWI. A TRIWI não monitora apenas posições, mapeia estratégias, gaps e movimentos dos concorrentes dos clientes, incluindo presença em LLMs. Essa análise alimenta as decisões de [pesquisa de keywords](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md), [link building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md) e [estratégia de conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) da [metodologia de 300+ atividades](../triwi/metodologia-triwi.md).
+"Monitoramento e Descoberta de Concorrentes" é a 7ª entrega do escopo TRIWI. A TRIWI não monitora apenas posições, mapeia estratégias, gaps e movimentos dos concorrentes dos clientes, incluindo presença em LLMs. Essa análise alimenta as decisões de [pesquisa de keywords](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md), [link building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md) e [estratégia de conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) da [metodologia de 300+ atividades](../metodologia-triwi.md).
 
 ---
 
@@ -70,7 +70,7 @@ Se o concorrente tem Core Web Vitals "bom" em todas as páginas e o seu site tem
 
 A dimensão mais nova da análise competitiva é a presença em IAs generativas. O [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md) comparativo mede: para queries relevantes do setor, quais marcas as LLMs mencionam, recomendam ou citam. É o equivalente do keyword gap aplicado ao contexto das IAs, revelando quem domina a visibilidade nas respostas de ChatGPT, Gemini, Claude e Perplexity.
 
-A análise envolve consultar as principais LLMs com queries estratégicas e rastrear: quais concorrentes são mencionados, em que posição da resposta aparecem, com que frequência e em qual contexto (recomendação, menção informativa, citação de dados). Concorrentes ausentes das respostas de LLMs representam oportunidades, o espaço está aberto para quem investir em [conteúdo citável](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) e otimização para [GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md).
+A análise envolve consultar as principais LLMs com queries estratégicas e rastrear: quais concorrentes são mencionados, em que posição da resposta aparecem, com que frequência e em qual contexto (recomendação, menção informativa, citação de dados). Concorrentes ausentes das respostas de LLMs representam oportunidades, o espaço está aberto para quem investir em [conteúdo citável](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) e otimização para [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
 Na experiência da TRIWI, muitas empresas estão completamente ausentes das respostas de LLMs para queries do seu próprio setor, enquanto concorrentes que investiram em GEO já capturam tráfego significativo. No case da Sem Parar, o tráfego de LLMs cresceu +350%. Na Valid/Flexdoc, +700%. Na Contato Seguro, +1.100%. A análise competitiva de presença em LLMs foi parte da estratégia que gerou esses resultados.
 
@@ -116,7 +116,7 @@ A análise competitiva revela dois tipos de oportunidade com tempos de retorno m
 
 Investimentos estratégicos são gaps que exigem construção: keywords de alta concorrência que requerem autoridade de domínio significativamente maior, temas que exigem produção de conteúdo pilar extenso, e posições dominadas por concorrentes com perfis de backlinks robustos. Essas oportunidades geram resultado em 6 a 12+ meses, mas frequentemente representam o maior volume de tráfego e receita potencial.
 
-A estratégia inteligente combina ambas: quick wins geram resultado visível que sustenta a aprovação de orçamento, enquanto investimentos estratégicos constroem as posições que dominarão o canal a longo prazo. É o equilíbrio que a TRIWI aplica na [metodologia](../triwi/metodologia-triwi.md), resultados de curto prazo que comprovam valor, construindo a base para crescimento de longo prazo.
+A estratégia inteligente combina ambas: quick wins geram resultado visível que sustenta a aprovação de orçamento, enquanto investimentos estratégicos constroem as posições que dominarão o canal a longo prazo. É o equilíbrio que a TRIWI aplica na [metodologia](../metodologia-triwi.md), resultados de curto prazo que comprovam valor, construindo a base para crescimento de longo prazo.
 
 ### Monitoramento Contínuo de Movimentos dos Concorrentes
 
@@ -132,7 +132,7 @@ Ferramentas como SEMrush e Ahrefs oferecem alertas automáticos para movimentos 
 
 Análise de concorrência em SEO é o que transforma uma estratégia genérica em uma estratégia informada. Do keyword gap ao perfil de backlinks, da análise de conteúdo à presença em LLMs; cada dimensão revela oportunidades que só aparecem com investigação sistemática. O mercado não espera, e cada gap não explorado é tráfego e receita que vão para o concorrente.
 
-A TRIWI inclui "Monitoramento e Descoberta de Concorrentes" como entrega fixa do escopo, com análise contínua de keywords, conteúdo, backlinks e presença em IAs generativas. Com 100% dos clientes no Top 3 do Google, redução média de -40% no CAC e R$ 2 Bilhões+ em receita influenciada, os resultados demonstram o que acontece quando análise competitiva se transforma em ação estratégica consistente. Conheça a [metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como o monitoramento competitivo alimenta resultados de negócio.
+A TRIWI inclui "Monitoramento e Descoberta de Concorrentes" como entrega fixa do escopo, com análise contínua de keywords, conteúdo, backlinks e presença em IAs generativas. Com 100% dos clientes no Top 3 do Google, redução média de -40% no CAC e R$ 2 Bilhões+ em receita influenciada, os resultados demonstram o que acontece quando análise competitiva se transforma em ação estratégica consistente. Conheça a [metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como o monitoramento competitivo alimenta resultados de negócio.
 
 Explore as páginas relacionadas:
 
@@ -141,6 +141,6 @@ Explore as páginas relacionadas:
 - 🔑 [Pesquisa de Palavras-Chave: Como Encontrar as Oportunidades Certas](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md), O processo de pesquisa que complementa o keyword gap.
 - 🔗 [Link Building: Guia Completo de Construção de Autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Como explorar os gaps de backlinks identificados.
 - 📈 [Share of Model: Como Medir a Presença da Sua Marca nas IAs](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A nova dimensão competitiva nas IAs generativas.
-- 🏗️ [Metodologia de SEO, O Processo Proprietário da TRIWI com 300+ Atividades](../triwi/metodologia-triwi.md), O processo que inclui monitoramento competitivo contínuo.
+- 🏗️ [Metodologia de SEO, O Processo Proprietário da TRIWI com 300+ Atividades](../metodologia-triwi.md), O processo que inclui monitoramento competitivo contínuo.
 
-**Quer saber exatamente onde seus concorrentes estão ganhando, e como superá-los?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer saber exatamente onde seus concorrentes estão ganhando, e como superá-los?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

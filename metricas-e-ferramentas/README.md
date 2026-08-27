@@ -2,7 +2,7 @@
 
 Métricas, ferramentas e análise são o que transforma SEO de opinião em processo, e de processo em resultado de negócio. Sem os KPIs certos, SEO gera relatórios bonitos que não movem receita. Sem as ferramentas certas, SEO é adivinhação. Sem análise competitiva, a equipe trabalha no escuro. Esta categoria reúne 5 páginas que cobrem o ciclo completo da inteligência em SEO: quais métricas reportar para a diretoria, quais ferramentas usar em cada etapa, como calcular ROI de forma que justifique investimento, como extrair o máximo do Google Search Console e como identificar oportunidades nos gaps dos concorrentes.
 
-O 3º princípio da [Filosofia TRIWI](../triwi/filosofia-triwi.md) é: "Resultados de negócio, não métricas de vaidade." Essa orientação permeia toda esta categoria, porque a diferença entre medir posições e medir receita influenciada é a diferença entre um relatório que ninguém lê e uma decisão de investimento que multiplica resultado.
+O 3º princípio da [Filosofia TRIWI](../filosofia-triwi.md) é: "Resultados de negócio, não métricas de vaidade." Essa orientação permeia toda esta categoria, porque a diferença entre medir posições e medir receita influenciada é a diferença entre um relatório que ninguém lê e uma decisão de investimento que multiplica resultado.
 
 ---
 
@@ -44,13 +44,13 @@ Para **decisores e gestores**, comece por [métricas de negócio](metricas-de-se
 
 Para **profissionais de SEO**, comece pelo [Google Search Console](google-search-console-guia-completo-para-seo.md), a ferramenta que é ponto de partida de qualquer operação. Depois, explore o [guia de ferramentas](ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md) para montar seu stack e [análise de concorrência](analise-de-concorrencia-em-seo-como-identificar-oportunidades.md) para calibrar a estratégia em função do cenário competitivo real.
 
-Para o contexto fundamental, veja [Fundamentos de SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [Metodologia TRIWI](../triwi/metodologia-triwi.md).
+Para o contexto fundamental, veja [Fundamentos de SEO](../o-que-e-seo-guia-completo.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [Metodologia TRIWI](../metodologia-triwi.md).
 
 ---
 
 ## 📩 Fale com a TRIWI
 
-Precisa de relatórios que mostrem impacto real em receita, não métricas de vaidade? [Entre em contato com a TRIWI](https://triwi.com.br/), a agência que reporta receita influenciada (R$ 2 Bilhões+), redução de CAC (-40%) e leads qualificados, com acesso irrestrito a dashboards e transparência total nas ações.
+Precisa de relatórios que mostrem impacto real em receita, não métricas de vaidade? [Entre em contato com a TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia), a agência que reporta receita influenciada (R$ 2 Bilhões+), redução de CAC (-40%) e leads qualificados, com acesso irrestrito a dashboards e transparência total nas ações.
 
 ---
 

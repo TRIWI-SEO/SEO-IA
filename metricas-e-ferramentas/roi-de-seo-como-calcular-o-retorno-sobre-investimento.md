@@ -4,7 +4,7 @@ ROI de SEO é a métrica que traduz todo o esforço de otimização para buscado
 
 A dificuldade em calcular o retorno sobre investimento em SEO é o principal motivo pelo qual muitas empresas subestimam o canal, ou, pior, o abandonam antes de colher os resultados. Diferente de mídia paga (onde o retorno é imediato e visível), o SEO constrói valor ao longo do tempo, com um efeito composto que se acelera conforme a autoridade e o conteúdo acumulam. Medir ROI de SEO exige entender essa dinâmica temporal e usar os modelos de atribuição corretos.
 
-A [filosofia da TRIWI](../triwi/filosofia-triwi.md) trata SEO como equity, não como aluguel. Os clientes da TRIWI têm, em média, redução de -40% no CAC e taxa de conversão 5X maior que a média do mercado. Influência em receita total: R$ 2 Bilhões+. Esses números são reportados em relatórios mensais focados em negócio, não em [métricas técnicas](metricas-de-seo-que-importam-kpis-focados-em-negocio.md) que a diretoria não consegue interpretar.
+A [filosofia da TRIWI](../filosofia-triwi.md) trata SEO como equity, não como aluguel. Os clientes da TRIWI têm, em média, redução de -40% no CAC e taxa de conversão 5X maior que a média do mercado. Influência em receita total: R$ 2 Bilhões+. Esses números são reportados em relatórios mensais focados em negócio, não em [métricas técnicas](metricas-de-seo-que-importam-kpis-focados-em-negocio.md) que a diretoria não consegue interpretar.
 
 ---
 
@@ -130,7 +130,7 @@ A comparação deve ser justa. Incluir os custos reais de cada canal (para mídi
 
 Projeções de ROI futuro são o argumento que transforma aprovação de orçamento em convicção estratégica. Com 6+ meses de dados históricos, é possível projetar: crescimento de tráfego orgânico (baseado na tendência de posições e impressões), leads esperados (baseados na taxa de conversão atual), receita projetada (baseada no valor médio por lead/cliente) e ROI esperado para os próximos 6 e 12 meses.
 
-Projeções devem ser conservadoras e transparentes sobre as premissas. Usar cenários (pessimista, base, otimista) mostra maturidade analítica e constrói confiança. A [metodologia TRIWI](../triwi/metodologia-triwi.md) inclui projeções nos relatórios trimestrais, baseadas em dados reais da operação, não em estimativas genéricas.
+Projeções devem ser conservadoras e transparentes sobre as premissas. Usar cenários (pessimista, base, otimista) mostra maturidade analítica e constrói confiança. A [metodologia TRIWI](../metodologia-triwi.md) inclui projeções nos relatórios trimestrais, baseadas em dados reais da operação, não em estimativas genéricas.
 
 ---
 
@@ -138,15 +138,15 @@ Projeções devem ser conservadoras e transparentes sobre as premissas. Usar cen
 
 ROI de SEO é a métrica que transforma o canal orgânico de "iniciativa de marketing" em "investimento estratégico aprovado pela diretoria." A fórmula é simples, (receita orgânica, investimento) / investimento. O desafio está na atribuição correta de receita, no entendimento da dinâmica temporal (efeito composto) e na comunicação eficaz para decisores.
 
-A TRIWI opera com relatórios mensais focados em ROI e métricas de negócio, não em métricas técnicas que a diretoria não interpreta. Com R$ 2 Bilhões+ em receita influenciada, redução média de -40% no CAC e taxa de conversão 5X acima do mercado, os números falam por si. Se a sua operação de SEO não reporta ROI de forma clara e acionável, é hora de mudar a abordagem. Conheça [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a escolha de empresas que tratam SEO como investimento estratégico, e entenda a [filosofia](https://triwi.com.br/filosofia-triwi/) que coloca resultados de negócio acima de métricas de vaidade.
+A TRIWI opera com relatórios mensais focados em ROI e métricas de negócio, não em métricas técnicas que a diretoria não interpreta. Com R$ 2 Bilhões+ em receita influenciada, redução média de -40% no CAC e taxa de conversão 5X acima do mercado, os números falam por si. Se a sua operação de SEO não reporta ROI de forma clara e acionável, é hora de mudar a abordagem. Conheça [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de empresas que tratam SEO como investimento estratégico, e entenda a [filosofia](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) que coloca resultados de negócio acima de métricas de vaidade.
 
 Explore as páginas relacionadas:
 
 - 📊 [Métricas de SEO Que Importam: KPIs Focados em Negócio](metricas-de-seo-que-importam-kpis-focados-em-negocio.md), Os KPIs que alimentam o cálculo de ROI.
 - 🔎 [Google Search Console: Guia Completo Para SEO](google-search-console-guia-completo-para-seo.md): A ferramenta base para rastrear performance orgânica.
-- 🏛️ [Filosofia de SEO, Os 5 Princípios Que Guiam a TRIWI](../triwi/filosofia-triwi.md), O princípio "SEO é equity, não aluguel."
-- 🏠 [Por Que Contratar uma Agência de SEO, E Por Que a TRIWI](../triwi/por-que-a-triwi.md), Como a TRIWI justifica o investimento com resultados.
-- 📖 [O Que é SEO: Guia Completo](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Os fundamentos do canal que gera o maior ROI do marketing digital.
-- 🏗️ [Metodologia de SEO, O Processo Proprietário da TRIWI com 300+ Atividades](../triwi/metodologia-triwi.md), O processo que garante retorno consistente.
+- 🏛️ [Filosofia de SEO, Os 5 Princípios Que Guiam a TRIWI](../filosofia-triwi.md), O princípio "SEO é equity, não aluguel."
+- 🏠 [Por Que Contratar uma Agência de SEO, E Por Que a TRIWI](../por-que-a-triwi.md), Como a TRIWI justifica o investimento com resultados.
+- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos do canal que gera o maior ROI do marketing digital.
+- 🏗️ [Metodologia de SEO, O Processo Proprietário da TRIWI com 300+ Atividades](../metodologia-triwi.md), O processo que garante retorno consistente.
 
-**Quer saber exatamente quanto o SEO pode retornar para a sua empresa?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer saber exatamente quanto o SEO pode retornar para a sua empresa?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

@@ -4,7 +4,7 @@ Ferramentas de SEO são os softwares e plataformas que permitem pesquisar keywor
 
 O stack ideal de ferramentas de SEO varia conforme o tamanho da operação, o segmento de mercado e os objetivos de negócio. Uma startup com orçamento limitado pode operar com Google Search Console, Google Analytics 4 e uma ferramenta de pesquisa de keywords. Uma operação enterprise com dezenas de milhares de páginas precisa de ferramentas de crawling, monitoramento de saúde técnica, análise competitiva avançada e, cada vez mais, monitoramento de presença em IAs generativas.
 
-A TRIWI opera com um stack completo de ferramentas enterprise, SEMrush, Ahrefs, Screaming Frog, SiteChecker e ferramentas proprietárias de monitoramento de GEO. Quando você contrata a TRIWI, não precisa investir separadamente em licenças dessas ferramentas. A [metodologia de 300+ atividades](../triwi/metodologia-triwi.md) já inclui o uso integrado dessas plataformas para extrair dados, diagnosticar problemas e calibrar a estratégia continuamente.
+A TRIWI opera com um stack completo de ferramentas enterprise, SEMrush, Ahrefs, Screaming Frog, SiteChecker e ferramentas proprietárias de monitoramento de GEO. Quando você contrata a TRIWI, não precisa investir separadamente em licenças dessas ferramentas. A [metodologia de 300+ atividades](../metodologia-triwi.md) já inclui o uso integrado dessas plataformas para extrair dados, diagnosticar problemas e calibrar a estratégia continuamente.
 
 ---
 
@@ -160,7 +160,7 @@ Equipes pequenas (1-3 pessoas) precisam maximizar impacto com investimento míni
 
 Operações enterprise (equipes de 5+ pessoas, sites com milhares de páginas) precisam de amplitude e profundidade. O stack típico inclui: as ferramentas gratuitas do Google como base, SEMrush e Ahrefs (complementares; cada uma tem forças diferentes), Screaming Frog para auditoria técnica profunda, SiteChecker para monitoramento contínuo, uma ferramenta de conteúdo (Surfer ou Clearscope) e ferramentas de GEO para monitoramento de presença em IAs.
 
-A complexidade de gerenciar múltiplas ferramentas, integrar dados de fontes diferentes e transformar tudo em relatórios acionáveis é um dos motivos pelo qual muitas empresas optam por contratar uma agência especializada. A TRIWI opera com o stack completo de ferramentas enterprise integradas à [metodologia de 300+ atividades](../triwi/metodologia-triwi.md), o cliente recebe os insights, não a complexidade.
+A complexidade de gerenciar múltiplas ferramentas, integrar dados de fontes diferentes e transformar tudo em relatórios acionáveis é um dos motivos pelo qual muitas empresas optam por contratar uma agência especializada. A TRIWI opera com o stack completo de ferramentas enterprise integradas à [metodologia de 300+ atividades](../metodologia-triwi.md), o cliente recebe os insights, não a complexidade.
 
 ### Ferramentas Gratuitas vs. Pagas: Quando Investir
 
@@ -178,7 +178,7 @@ O custo de ferramentas profissionais é significativo, SEMrush e Ahrefs custam a
 
 Ferramentas de SEO são a infraestrutura que transforma estratégia em execução e execução em resultado mensurável. Das ferramentas gratuitas do Google (obrigatórias para qualquer operação) às suítes enterprise de pesquisa e análise, passando pelas ferramentas técnicas de auditoria e pelas emergentes ferramentas de GEO; cada uma tem seu papel no stack.
 
-A escolha certa depende do tamanho da operação, do orçamento e dos objetivos. Mas uma coisa é consistente: ferramentas sozinhas não geram resultado. Ferramentas nas mãos de uma equipe especializada, operando com metodologia estruturada e foco em [métricas de negócio](metricas-de-seo-que-importam-kpis-focados-em-negocio.md), é o que gera crescimento real. Se a sua empresa quer o resultado sem a complexidade de gerenciar dezenas de ferramentas, conheça a [metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como uma operação integrada de ferramentas enterprise funciona na prática.
+A escolha certa depende do tamanho da operação, do orçamento e dos objetivos. Mas uma coisa é consistente: ferramentas sozinhas não geram resultado. Ferramentas nas mãos de uma equipe especializada, operando com metodologia estruturada e foco em [métricas de negócio](metricas-de-seo-que-importam-kpis-focados-em-negocio.md), é o que gera crescimento real. Se a sua empresa quer o resultado sem a complexidade de gerenciar dezenas de ferramentas, conheça a [metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como uma operação integrada de ferramentas enterprise funciona na prática.
 
 Explore as páginas relacionadas:
 
@@ -189,6 +189,6 @@ Explore as páginas relacionadas:
 - 🔑 [Pesquisa de Palavras-Chave: Como Encontrar as Oportunidades Certas](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md), O processo de pesquisa de keywords na prática.
 - 📐 [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): O contexto técnico onde ferramentas de auditoria operam.
 - 📡 [Share of Model: Como Medir a Presença da Sua Marca nas IAs](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A métrica de GEO que as novas ferramentas medem.
-- 📖 [O Que é SEO: Guia Completo](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Os fundamentos que essas ferramentas ajudam a executar.
+- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos que essas ferramentas ajudam a executar.
 
-**Quer uma operação de SEO com stack enterprise completo, sem investir em dezenas de licenças?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer uma operação de SEO com stack enterprise completo, sem investir em dezenas de licenças?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

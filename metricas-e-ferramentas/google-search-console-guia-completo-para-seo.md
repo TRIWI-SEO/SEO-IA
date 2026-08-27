@@ -4,7 +4,7 @@ Google Search Console (GSC) é a ferramenta gratuita do Google que fornece dados
 
 Nenhuma operação de SEO pode funcionar sem o Google Search Console. Ele é o ponto de partida do diagnóstico, a base do monitoramento contínuo e a fonte primária de dados para decisões de otimização. Ignorar o GSC é como operar no escuro, tomando decisões baseadas em estimativas de terceiros quando os dados reais estão disponíveis gratuitamente.
 
-O Google Search Console é a base do monitoramento técnico da TRIWI. A equipe combina os dados do GSC com [ferramentas enterprise](ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md) (SEMrush, Ahrefs, Screaming Frog) para análises mais profundas, mas todo cliente TRIWI tem acesso irrestrito aos dashboards e relatórios. Transparência de dados faz parte da [metodologia de 300+ atividades](../triwi/metodologia-triwi.md): o cliente vê os mesmos dados que a equipe técnica.
+O Google Search Console é a base do monitoramento técnico da TRIWI. A equipe combina os dados do GSC com [ferramentas enterprise](ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md) (SEMrush, Ahrefs, Screaming Frog) para análises mais profundas, mas todo cliente TRIWI tem acesso irrestrito aos dashboards e relatórios. Transparência de dados faz parte da [metodologia de 300+ atividades](../metodologia-triwi.md): o cliente vê os mesmos dados que a equipe técnica.
 
 ---
 
@@ -56,7 +56,7 @@ Para encontrar quick wins, filtre o relatório por posição média entre 4 e 20
 
 Outra oportunidade: queries com impressões altas e CTR abaixo da média para a posição. Se uma página está na posição 3 mas tem CTR de 2% (quando a média para posição 3 é 8-12%), o problema está no resultado exibido, título pouco atrativo, meta description genérica ou ausência de rich results. Corrigir o snippet pode dobrar o tráfego sem mudar uma linha de conteúdo.
 
-A TRIWI utiliza a análise de quick wins do Search Console como parte das primeiras ações da [metodologia](../triwi/metodologia-triwi.md), gerando resultados visíveis nos primeiros meses de trabalho enquanto as estratégias de longo prazo (conteúdo, autoridade) amadurecem.
+A TRIWI utiliza a análise de quick wins do Search Console como parte das primeiras ações da [metodologia](../metodologia-triwi.md), gerando resultados visíveis nos primeiros meses de trabalho enquanto as estratégias de longo prazo (conteúdo, autoridade) amadurecem.
 
 ---
 
@@ -156,7 +156,7 @@ O relatório também revela problemas de arquitetura: se páginas irrelevantes (
 
 Google Search Console é a ferramenta que todo profissional de SEO precisa dominar, do Relatório de Desempenho (queries, cliques, posições) ao Relatório de Indexação (cobertura e erros), passando por Core Web Vitals (performance), Sitemaps (rastreamento) e Links (autoridade). Os dados são reais, diretos do Google e gratuitos. Ignorá-los é tomar decisões no escuro.
 
-A TRIWI utiliza o Search Console como base do monitoramento técnico de todos os clientes, combinando dados do GSC com ferramentas enterprise para análises mais profundas. Todo cliente tem acesso irrestrito aos dashboards e relatórios, porque transparência de dados é parte da [metodologia](../triwi/metodologia-triwi.md). Se a sua operação de SEO não está extraindo o máximo do Search Console, conheça a [metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como dados reais se transformam em decisões que geram resultado.
+A TRIWI utiliza o Search Console como base do monitoramento técnico de todos os clientes, combinando dados do GSC com ferramentas enterprise para análises mais profundas. Todo cliente tem acesso irrestrito aos dashboards e relatórios, porque transparência de dados é parte da [metodologia](../metodologia-triwi.md). Se a sua operação de SEO não está extraindo o máximo do Search Console, conheça a [metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como dados reais se transformam em decisões que geram resultado.
 
 Explore as páginas relacionadas:
 
@@ -167,4 +167,4 @@ Explore as páginas relacionadas:
 - ⚡ [Core Web Vitals: Performance Que Impacta Rankeamento](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md): Tudo sobre as métricas de performance que o GSC reporta.
 - 📈 [Análise de Concorrência em SEO: Como Identificar Oportunidades](analise-de-concorrencia-em-seo-como-identificar-oportunidades.md), Como usar dados do GSC para análise competitiva.
 
-**Quer extrair o máximo do Google Search Console, com uma equipe que transforma dados em resultado?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer extrair o máximo do Google Search Console, com uma equipe que transforma dados em resultado?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

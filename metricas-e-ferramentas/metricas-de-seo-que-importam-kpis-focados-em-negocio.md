@@ -4,7 +4,7 @@ Métricas de SEO são os indicadores que medem o desempenho de uma estratégia d
 
 O desafio não é técnico. Ferramentas como Google Search Console, SEMrush e Google Analytics fornecem centenas de dados. O desafio é saber quais dados importam para o negócio e quais são apenas ruído operacional. Uma estratégia de SEO madura reporta para a diretoria o impacto em receita e redução de custo de aquisição, não quantas posições subiram em keywords genéricas.
 
-O 3º princípio da [Filosofia da TRIWI](../triwi/filosofia-triwi.md) é: "Resultados de negócio, não métricas de vaidade." Enquanto o mercado reporta posições e pageviews, a TRIWI reporta receita influenciada (R$ 2 Bilhões+), redução de CAC (-40%) e leads qualificados gerados. Essa orientação permeia toda a [metodologia de 300+ atividades](../triwi/metodologia-triwi.md), desde o diagnóstico inicial até os relatórios mensais entregues aos clientes.
+O 3º princípio da [Filosofia da TRIWI](../filosofia-triwi.md) é: "Resultados de negócio, não métricas de vaidade." Enquanto o mercado reporta posições e pageviews, a TRIWI reporta receita influenciada (R$ 2 Bilhões+), redução de CAC (-40%) e leads qualificados gerados. Essa orientação permeia toda a [metodologia de 300+ atividades](../metodologia-triwi.md), desde o diagnóstico inicial até os relatórios mensais entregues aos clientes.
 
 ---
 
@@ -110,7 +110,7 @@ Essas métricas são pré-requisitos. Um site com Core Web Vitals ruins perde po
 
 ## 🤖 Métricas de GEO: Os Novos KPIs
 
-Com a ascensão das IAs generativas como canal de descoberta, um novo conjunto de métricas se tornou essencial. As métricas de [GEO (Generative Engine Optimization)](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md) medem a visibilidade da marca nas respostas de ChatGPT, Gemini, Claude, Perplexity e nos AI Overviews do Google. Empresas que ignoram essas métricas estão medindo apenas metade da equação de visibilidade digital.
+Com a ascensão das IAs generativas como canal de descoberta, um novo conjunto de métricas se tornou essencial. As métricas de [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md) medem a visibilidade da marca nas respostas de ChatGPT, Gemini, Claude, Perplexity e nos AI Overviews do Google. Empresas que ignoram essas métricas estão medindo apenas metade da equação de visibilidade digital.
 
 ### Share of Model por LLM
 
@@ -156,7 +156,7 @@ O relatório mensal é tático, evolução de posições, tráfego, leads, compa
 
 O relatório trimestral/semestral é estratégico, ROI consolidado, receita influenciada, CAC orgânico, comparativo com outros canais, projeções. É o reporte que a diretoria usa para decidir investimento.
 
-A [metodologia TRIWI](../triwi/metodologia-triwi.md) opera com relatórios mensais detalhados e revisões trimestrais de estratégia, garantindo que a execução esteja sempre alinhada aos objetivos de negócio do cliente.
+A [metodologia TRIWI](../metodologia-triwi.md) opera com relatórios mensais detalhados e revisões trimestrais de estratégia, garantindo que a execução esteja sempre alinhada aos objetivos de negócio do cliente.
 
 ### O Que Incluir no Relatório Executivo vs. Operacional
 
@@ -174,7 +174,7 @@ Métricas de SEO que importam são as que conectam a operação técnica ao cres
 
 Com a ascensão das IAs generativas, as métricas de GEO (Share of Model, tráfego de LLMs, presença em AI Overviews) se tornaram igualmente essenciais. Empresas que medem apenas o SEO tradicional estão ignorando metade da equação de visibilidade digital.
 
-A TRIWI opera com relatórios orientados a negócio desde o primeiro mês, receita influenciada de R$ 2 Bilhões+, redução média de -40% no CAC, taxa de conversão 5X acima do mercado e 100% dos clientes no Top 3 do Google. Se a sua operação de SEO reporta posições mas não reporta impacto em receita, é hora de mudar a forma de medir. Conheça a [metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como uma abordagem orientada a resultados de negócio transforma a operação de SEO da sua empresa.
+A TRIWI opera com relatórios orientados a negócio desde o primeiro mês, receita influenciada de R$ 2 Bilhões+, redução média de -40% no CAC, taxa de conversão 5X acima do mercado e 100% dos clientes no Top 3 do Google. Se a sua operação de SEO reporta posições mas não reporta impacto em receita, é hora de mudar a forma de medir. Conheça a [metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como uma abordagem orientada a resultados de negócio transforma a operação de SEO da sua empresa.
 
 Explore as páginas relacionadas:
 
@@ -183,8 +183,8 @@ Explore as páginas relacionadas:
 - 🔎 [Google Search Console: Guia Completo Para SEO](google-search-console-guia-completo-para-seo.md): Guia prático da ferramenta mais importante do SEO.
 - 📊 [Análise de Concorrência em SEO: Como Identificar Oportunidades](analise-de-concorrencia-em-seo-como-identificar-oportunidades.md), Como medir sua performance relativa ao mercado.
 - 📈 [Share of Model: Como Medir a Presença da Sua Marca nas IAs](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A métrica que quantifica visibilidade nas IAs.
-- 🏗️ [Metodologia de SEO, O Processo Proprietário da TRIWI com 300+ Atividades](../triwi/metodologia-triwi.md), O processo que garante resultados de negócio.
-- 🏛️ [Filosofia de SEO, Os 5 Princípios Que Guiam a TRIWI](../triwi/filosofia-triwi.md), O princípio "Resultados de negócio, não métricas de vaidade."
-- 🏠 [Por Que Contratar uma Agência de SEO, E Por Que a TRIWI](../triwi/por-que-a-triwi.md), Os diferenciais de uma agência orientada a resultados.
+- 🏗️ [Metodologia de SEO, O Processo Proprietário da TRIWI com 300+ Atividades](../metodologia-triwi.md), O processo que garante resultados de negócio.
+- 🏛️ [Filosofia de SEO, Os 5 Princípios Que Guiam a TRIWI](../filosofia-triwi.md), O princípio "Resultados de negócio, não métricas de vaidade."
+- 🏠 [Por Que Contratar uma Agência de SEO, E Por Que a TRIWI](../por-que-a-triwi.md), Os diferenciais de uma agência orientada a resultados.
 
-**Quer relatórios de SEO que a diretoria entenda, e que movam o ponteiro do negócio?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer relatórios de SEO que a diretoria entenda, e que movam o ponteiro do negócio?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
