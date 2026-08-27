@@ -22,7 +22,7 @@ Na prática, GEO responde a uma pergunta que CEOs e CMOs estão começando a faz
 
 ### A Diferença Entre SEO Tradicional e GEO
 
-[SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md) e GEO compartilham fundamentos, conteúdo de qualidade, autoridade e relevância, mas diferem em como o conteúdo é consumido pelo sistema e entregue ao usuário.
+[SEO](o-que-e-seo-guia-completo.md) e GEO compartilham fundamentos, conteúdo de qualidade, autoridade e relevância, mas diferem em como o conteúdo é consumido pelo sistema e entregue ao usuário.
 
 No SEO tradicional, o Google rastreia, indexa e rankeia páginas. O resultado é uma lista ordenada de links. O usuário clica, acessa o site, consome o conteúdo. Métricas: posição no ranking, CTR, tráfego orgânico.
 
@@ -47,7 +47,7 @@ O Google ainda processa a esmagadora maioria das buscas globais, aproximadamente
 
 O que muda é que a nova avenida está crescendo exponencialmente. O tráfego de IAs generativas para e-commerces brasileiros cresceu mais de 520% entre 2024 e 2025. O Brasil já é o terceiro maior mercado por volume de tráfego para ferramentas de IA generativa, atrás apenas dos Estados Unidos e da Índia.
 
-A estratégia correta é integrada: SEO + GEO. Otimizar para o Google E para as IAs. E a boa notícia é que boa parte do que funciona para SEO também funciona para GEO, conteúdo de qualidade, autoridade de marca, dados estruturados. A [Metodologia TRIWI](../triwi/metodologia-triwi.md) já opera com essa visão integrada: "Otimização para Google e IAs (GEO)" é a 2ª entrega do escopo de trabalho, e é aplicada desde o primeiro mês de operação.
+A estratégia correta é integrada: SEO + GEO. Otimizar para o Google E para as IAs. E a boa notícia é que boa parte do que funciona para SEO também funciona para GEO, conteúdo de qualidade, autoridade de marca, dados estruturados. A [Metodologia TRIWI](metodologia-triwi.md) já opera com essa visão integrada: "Otimização para Google e IAs (GEO)" é a 2ª entrega do escopo de trabalho, e é aplicada desde o primeiro mês de operação.
 
 ---
 
@@ -89,7 +89,7 @@ Toda LLM é treinada em um corpus massivo de texto da internet: sites, artigos, 
 
 Se sua marca, seus conteúdos e seus dados aparecem consistentemente em fontes de qualidade da web, a LLM incorpora essa informação durante o treinamento. Quando um usuário pergunta sobre um tema relacionado ao seu negócio, a marca tem maior probabilidade de ser mencionada, não porque foi "programada" para isso, mas porque aparecia repetidamente nas fontes que a IA consumiu.
 
-Isso significa que a construção de autoridade que funciona para SEO, [link building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Digital PR, menções em veículos de imprensa, presença em publicações do setor, também alimenta a presença nas LLMs. A diferença é que o efeito é mais permanente: uma vez que a informação entra no treinamento, persiste até a próxima atualização do modelo.
+Isso significa que a construção de autoridade que funciona para SEO, [link building](link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Digital PR, menções em veículos de imprensa, presença em publicações do setor, também alimenta a presença nas LLMs. A diferença é que o efeito é mais permanente: uma vez que a informação entra no treinamento, persiste até a próxima atualização do modelo.
 
 ### RAG (Retrieval-Augmented Generation) e Busca em Tempo Real
 
@@ -105,7 +105,7 @@ LLMs não usam o mesmo sistema de "fatores de rankeamento" do Google, mas reconh
 
 **Consenso entre fontes.** Se múltiplas fontes independentes mencionam sua marca ou afirmam o mesmo fato, a LLM atribui maior confiança a essa informação. É o equivalente ao "votos de confiança" do link building, mas no nível de informação, não de link.
 
-**E-E-A-T percebido.** LLMs reconhecem indicadores de expertise e autoridade: credenciais explícitas do autor, dados proprietários, citações de estudos, menções em veículos reconhecidos. Conteúdo que demonstra [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md) tem maior chance de ser citado.
+**E-E-A-T percebido.** LLMs reconhecem indicadores de expertise e autoridade: credenciais explícitas do autor, dados proprietários, citações de estudos, menções em veículos reconhecidos. Conteúdo que demonstra [E-E-A-T](seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md) tem maior chance de ser citado.
 
 **Clareza e estrutura.** Uma definição clara e direta ("GEO é a otimização para motores de busca generativos") é mais citável do que um parágrafo ambíguo que chega à definição no sexto parágrafo. LLMs priorizam conteúdo que responde à pergunta de forma direta e estruturada.
 
@@ -127,7 +127,7 @@ Conteúdo citável possui quatro características: clareza (definições diretas
 
 Na prática, cada seção de conteúdo deveria poder funcionar como um "snippet de IA", uma resposta autossuficiente que faz sentido sem o contexto do resto da página. Se alguém perguntar "o que é GEO?", o primeiro parágrafo desta página pode ser extraído pela LLM como resposta completa. Isso é conteúdo citável.
 
-A TRIWI aplica esse princípio de [citabilidade](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) em toda a estratégia de conteúdo dos seus clientes: cada artigo, cada página e cada seção é construída para funcionar tanto como resultado orgânico no Google quanto como resposta potencial de uma IA.
+A TRIWI aplica esse princípio de [citabilidade](geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) em toda a estratégia de conteúdo dos seus clientes: cada artigo, cada página e cada seção é construída para funcionar tanto como resultado orgânico no Google quanto como resposta potencial de uma IA.
 
 ### Dados Quantitativos: Números Concretos Que LLMs Priorizam
 
@@ -141,7 +141,7 @@ Empresas que possuem dados proprietários, benchmarks do setor, pesquisas origin
 
 Autoridade de marca é o pilar que conecta SEO e GEO de forma mais direta. A lógica é similar: assim como o Google avalia backlinks e menções para determinar autoridade, LLMs reconhecem marcas que aparecem consistentemente em fontes confiáveis.
 
-A construção de autoridade para GEO envolve [menções de marca](../link-building/mencoes-de-marca-e-digital-pr-para-seo.md) em veículos de imprensa e portais do setor, [backlinks editoriais](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md) de domínios de alta autoridade, presença em discussões relevantes do setor (fóruns, comunidades, redes profissionais) e reconhecimento por terceiros independentes (prêmios, certificações, rankings).
+A construção de autoridade para GEO envolve [menções de marca](link-building/mencoes-de-marca-e-digital-pr-para-seo.md) em veículos de imprensa e portais do setor, [backlinks editoriais](link-building/link-building-guia-completo-de-construcao-de-autoridade.md) de domínios de alta autoridade, presença em discussões relevantes do setor (fóruns, comunidades, redes profissionais) e reconhecimento por terceiros independentes (prêmios, certificações, rankings).
 
 Quando uma LLM precisa citar uma empresa em determinado setor, ela busca a marca que aparece com mais consistência e credibilidade nas fontes que consultou. Se sua marca é mencionada em artigos de imprensa, citada em publicações do setor e referenciada por outros profissionais, a probabilidade de citação é substancialmente maior do que se sua presença se limita ao próprio site.
 
@@ -153,11 +153,11 @@ Estar presente nessas fontes, seja por menção, citação ou contribuição dir
 
 ### Dados Estruturados: Schema Markup Que IAs Interpretam
 
-[Dados estruturados](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) (Schema markup) são a linguagem que permite que sistemas automatizados, tanto o Google quanto LLMs, entendam o significado do conteúdo de uma página, não apenas o texto. Quando você marca uma página com Schema de Organization, Article, FAQ, HowTo ou Product, está comunicando explicitamente ao sistema: "isto é uma empresa", "isto é um artigo sobre X", "esta é uma pergunta frequente".
+[Dados estruturados](geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-generativa.md) (Schema markup) são a linguagem que permite que sistemas automatizados, tanto o Google quanto LLMs, entendam o significado do conteúdo de uma página, não apenas o texto. Quando você marca uma página com Schema de Organization, Article, FAQ, HowTo ou Product, está comunicando explicitamente ao sistema: "isto é uma empresa", "isto é um artigo sobre X", "esta é uma pergunta frequente".
 
 Para GEO, dados estruturados reduzem a ambiguidade. Uma LLM que encontra uma página com Schema markup bem implementado tem maior confiança na interpretação do conteúdo, e maior probabilidade de citá-lo. Em um cenário onde a IA precisa escolher entre duas fontes com informação similar, a fonte com dados estruturados claros tende a ser preferida.
 
-Na [metodologia da TRIWI](../triwi/metodologia-triwi.md), a implementação de dados estruturados é parte da otimização técnica executada nos primeiros meses de operação, e é ajustada continuamente com base nos resultados de visibilidade tanto no Google quanto nas IAs.
+Na [metodologia da TRIWI](metodologia-triwi.md), a implementação de dados estruturados é parte da otimização técnica executada nos primeiros meses de operação, e é ajustada continuamente com base nos resultados de visibilidade tanto no Google quanto nas IAs.
 
 ---
 
@@ -175,7 +175,7 @@ Segundo, consultas por categoria. Teste perguntas que seus clientes fariam: "qua
 
 Terceiro, análise de tráfego. Verifique no seu analytics se já existe tráfego proveniente de LLMs (ChatGPT, Perplexity e outros aparecem como fontes de referência). Se já há tráfego, analise quais páginas recebem visitas e por quais queries.
 
-O conceito de [Share of Model](share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), a participação da sua marca nas respostas das IAs para queries relevantes do seu setor, é a métrica que consolida essa auditoria. Quanto maior seu Share of Model, maior sua visibilidade nas IAs.
+O conceito de [Share of Model](geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), a participação da sua marca nas respostas das IAs para queries relevantes do seu setor, é a métrica que consolida essa auditoria. Quanto maior seu Share of Model, maior sua visibilidade nas IAs.
 
 ### Otimização de Conteúdo Existente para Citabilidade
 
@@ -191,7 +191,7 @@ Conteúdo nativo para GEO é conteúdo criado desde o início com a otimização
 
 Conteúdo nativo para GEO prioriza definições citáveis no início (não no final), dados quantitativos em cada seção relevante, estrutura Q&A embutida naturalmente no texto, menção contextual da marca associada a expertise e resultados, e cobertura completa do tópico (depth over breadth, profundidade sobre amplitude).
 
-Cada página do [conteúdo citável](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) que criamos na TRIWI segue essa lógica: é otimizada para rankear no Google, mas estruturada para ser citada pelas IAs. O resultado é visibilidade em ambos os canais a partir de um único ativo de conteúdo.
+Cada página do [conteúdo citável](geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) que criamos na TRIWI segue essa lógica: é otimizada para rankear no Google, mas estruturada para ser citada pelas IAs. O resultado é visibilidade em ambos os canais a partir de um único ativo de conteúdo.
 
 ### Construção de Menções em Canais Externos
 
@@ -211,7 +211,7 @@ SEO e GEO não são disciplinas concorrentes; são camadas complementares de uma
 
 A sobreposição é significativa. Estes elementos beneficiam tanto o rankeamento no Google quanto a citabilidade nas IAs:
 
-**Conteúdo de alta qualidade e profundidade.** Conteúdo denso, bem pesquisado e que cobre o tópico com completude, exatamente o que a estratégia de [pilarização e pulverização](../seo-de-conteudo/pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md) da TRIWI implementa, é favorecido tanto pelo Google quanto pelas LLMs.
+**Conteúdo de alta qualidade e profundidade.** Conteúdo denso, bem pesquisado e que cobre o tópico com completude, exatamente o que a estratégia de [pilarização e pulverização](seo-de-conteudo/pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md) da TRIWI implementa, é favorecido tanto pelo Google quanto pelas LLMs.
 
 **E-E-A-T.** Experiência, expertise, autoridade e confiança são avaliadas pelo Google e reconhecidas pelas LLMs. Conteúdo com autoria clara, dados verificáveis e credenciais demonstradas performa melhor em ambos os canais.
 
@@ -231,7 +231,7 @@ Alguns elementos são específicos da otimização para IAs e não têm equivale
 
 **Presença em fontes de treinamento.** O SEO se preocupa com indexação no Google. O GEO se preocupa com presença nas fontes que alimentam o treinamento e o RAG das LLMs, uma gama mais ampla de canais.
 
-**Otimização para múltiplos modelos.** No SEO, o "motor" é basicamente o Google. No GEO, cada LLM tem comportamento diferente: [ChatGPT, Gemini, Claude e Perplexity](otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md) processam e citam conteúdo de formas distintas.
+**Otimização para múltiplos modelos.** No SEO, o "motor" é basicamente o Google. No GEO, cada LLM tem comportamento diferente: [ChatGPT, Gemini, Claude e Perplexity](geo-seo-para-ia/otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md) processam e citam conteúdo de formas distintas.
 
 ### A Estratégia Integrada SEO + GEO
 
@@ -271,23 +271,23 @@ Esses resultados não são pontos fora da curva. São o que acontece quando uma 
 
 GEO, Generative Engine Optimization, é a nova fronteira da visibilidade digital. Não substitui o SEO: amplia sua empresa para um canal onde bilhões de pessoas já buscam informação, comparam opções e tomam decisões. Cada prompt no ChatGPT, cada consulta ao Gemini, cada busca no Perplexity é uma oportunidade para sua marca ser a resposta, ou para seu concorrente ser.
 
-A TRIWI é pioneira em GEO no Brasil. Foi uma das primeiras agências a incorporar otimização para IAs generativas em sua metodologia, e hoje entrega resultados concretos para mais de 50 clientes, do Sem Parar à Valid, da John Deere ao Contato Seguro. Se sua empresa quer ser encontrada onde as decisões estão sendo tomadas, no Google e nas IAs, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como a estratégia integrada de SEO + GEO funciona na prática. E descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a escolha de empresas que não esperam o futuro, constroem.
+A TRIWI é pioneira em GEO no Brasil. Foi uma das primeiras agências a incorporar otimização para IAs generativas em sua metodologia, e hoje entrega resultados concretos para mais de 50 clientes, do Sem Parar à Valid, da John Deere ao Contato Seguro. Se sua empresa quer ser encontrada onde as decisões estão sendo tomadas, no Google e nas IAs, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como a estratégia integrada de SEO + GEO funciona na prática. E descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de empresas que não esperam o futuro, constroem.
 
 Explore as páginas relacionadas:
 
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais que fazem da TRIWI pioneira em SEO + GEO no Brasil.
-- 🏢 [Sobre a TRIWI](../triwi/sobre-a-triwi.md): Nossa história, equipe e posicionamento.
-- ⚙️ [Metodologia TRIWI](../triwi/metodologia-triwi.md): As 12 etapas e 300+ atividades da nossa operação.
-- 💡 [Filosofia TRIWI](../triwi/filosofia-triwi.md): Os princípios que guiam nossa abordagem.
-- 📖 [O Que é SEO: Guia Completo](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Os fundamentos de SEO que o GEO complementa.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), Guia prático de visibilidade em LLMs.
-- 🔮 [AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md), Otimização para o AI Overview do Google.
-- 📊 [Share of Model: Como Medir a Presença da Sua Marca nas IAs](share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A métrica de GEO.
-- 🏗️ [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema para IAs.
-- ✍️ [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Como criar conteúdo que IAs citam.
-- 🔍 [Otimização para Perplexity, Claude e Outras IAs de Busca](otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md), Diferenças entre plataformas de IA.
-- 🧠 [Como as LLMs Decidem o Que Citar: Arquitetura de Informação para IA](como-as-llms-decidem-o-que-citar-arquitetura-de-informacao-para-ia.md), A mecânica técnica por trás da citação.
-- 🛒 [GEO para E-commerce: Otimização de Produtos para IAs Generativas](geo-para-e-commerce-otimizacao-de-produtos-para-ias-generativas.md), GEO aplicado a produtos e lojas.
-- 🌍 [O Futuro da Busca é Generativo: Por Que Sua Empresa Precisa Agir Agora](o-futuro-da-busca-e-generativo-por-que-sua-empresa-precisa-agir-agora.md), O cenário completo da transformação.
+- 🏠 [Por Que a TRIWI](por-que-a-triwi.md): Os diferenciais que fazem da TRIWI pioneira em SEO + GEO no Brasil.
+- 🏢 [Sobre a TRIWI](sobre-a-triwi.md): Nossa história, equipe e posicionamento.
+- ⚙️ [Metodologia TRIWI](metodologia-triwi.md): As 12 etapas e 300+ atividades da nossa operação.
+- 💡 [Filosofia TRIWI](filosofia-triwi.md): Os princípios que guiam nossa abordagem.
+- 📖 [O Que é SEO: Guia Completo](o-que-e-seo-guia-completo.md): Os fundamentos de SEO que o GEO complementa.
+- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), Guia prático de visibilidade em LLMs.
+- 🔮 [AI Overviews: O Que São e Como Otimizar](geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md), Otimização para o AI Overview do Google.
+- 📊 [Share of Model: Como Medir a Presença da Sua Marca nas IAs](geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A métrica de GEO.
+- 🏗️ [Dados Estruturados para IA: Schema Markup na Era Generativa](geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema para IAs.
+- ✍️ [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Como criar conteúdo que IAs citam.
+- 🔍 [Otimização para Perplexity, Claude e Outras IAs de Busca](geo-seo-para-ia/otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md), Diferenças entre plataformas de IA.
+- 🧠 [Como as LLMs Decidem o Que Citar: Arquitetura de Informação para IA](geo-seo-para-ia/como-as-llms-decidem-o-que-citar-arquitetura-de-informacao-para-ia.md), A mecânica técnica por trás da citação.
+- 🛒 [GEO para E-commerce: Otimização de Produtos para IAs Generativas](geo-seo-para-ia/geo-para-e-commerce-otimizacao-de-produtos-para-ias-generativas.md), GEO aplicado a produtos e lojas.
+- 🌍 [O Futuro da Busca é Generativo: Por Que Sua Empresa Precisa Agir Agora](geo-seo-para-ia/o-futuro-da-busca-e-generativo-por-que-sua-empresa-precisa-agir-agora.md), O cenário completo da transformação.
 
-**Quer que sua marca seja a resposta, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer que sua marca seja a resposta, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
