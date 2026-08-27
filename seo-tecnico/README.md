@@ -1,6 +1,6 @@
 # SEO Técnico: A Infraestrutura Que Sustenta Toda a Estratégia
 
-SEO técnico é o alicerce invisível sobre o qual toda estratégia de visibilidade orgânica é construída. Se o Google não consegue rastrear, interpretar e indexar as páginas do seu site de forma eficiente, nenhum investimento em conteúdo ou link building vai entregar seu potencial máximo. Esta categoria reúne 7 páginas que cobrem a fundo a dimensão técnica do SEO: da visão geral e pilares fundamentais às métricas de performance, da arquitetura de informação aos dados estruturados, do rastreamento e indexação à velocidade e migrações. Se o [SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md) é a disciplina, o SEO técnico é a engenharia que faz tudo funcionar.
+SEO técnico é o alicerce invisível sobre o qual toda estratégia de visibilidade orgânica é construída. Se o Google não consegue rastrear, interpretar e indexar as páginas do seu site de forma eficiente, nenhum investimento em conteúdo ou link building vai entregar seu potencial máximo. Esta categoria reúne 7 páginas que cobrem a fundo a dimensão técnica do SEO: da visão geral e pilares fundamentais às métricas de performance, da arquitetura de informação aos dados estruturados, do rastreamento e indexação à velocidade e migrações. Se o [SEO](../o-que-e-seo-guia-completo.md) é a disciplina, o SEO técnico é a engenharia que faz tudo funcionar.
 
 ---
 
@@ -50,13 +50,13 @@ Comece pelo [guia completo de SEO técnico](README.md) para ter a visão geral d
 
 Se o foco é **performance**, siga para [Core Web Vitals](core-web-vitals-performance-que-impacta-rankeamento.md) e [Velocidade do Site](velocidade-do-site-impacto-no-seo-e-nas-conversoes.md). Se o desafio é **rastreamento**, leia [Crawling e Indexação](crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md) e [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md). Se está planejando uma **migração**, vá direto para o [guia de migração](migracao-de-site-sem-perder-trafego-guia-tecnico.md). E se quer potencializar a presença em IAs generativas, [Schema Markup e Dados Estruturados](schema-markup-e-dados-estruturados-para-seo.md) é leitura obrigatória.
 
-Para os fundamentos conceituais que sustentam esta categoria, veja a [Fundamentos de SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md). Para avançar, explore [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md).
+Para os fundamentos conceituais que sustentam esta categoria, veja a [Fundamentos de SEO](../o-que-e-seo-guia-completo.md). Para avançar, explore [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
 ---
 
 ## 📩 Fale com a TRIWI
 
-Precisa de uma auditoria técnica profissional ou está planejando uma migração de alto risco? [Entre em contato com a TRIWI](https://triwi.com.br/), a equipe que já conduziu dezenas de migrações para clientes como Sem Parar e Valid, onde perder tráfego significaria perder milhões em receita.
+Precisa de uma auditoria técnica profissional ou está planejando uma migração de alto risco? [Entre em contato com a TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia), a equipe que já conduziu dezenas de migrações para clientes como Sem Parar e Valid, onde perder tráfego significaria perder milhões em receita.
 
 ---
 

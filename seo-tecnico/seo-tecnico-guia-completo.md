@@ -144,7 +144,7 @@ Migrações de site, redesign, mudança de domínio, mudança de CMS, reestrutur
 
 O protocolo de migração segura inclui: mapeamento completo de URLs (origem → destino), implementação de redirecionamentos 301 para cada URL, preservação da estrutura de links internos, atualização de canonical tags e sitemaps, monitoramento intensivo pós-migração e plano de contingência para correções rápidas.
 
-A TRIWI monitora o crawl behavior de todos os sites de clientes como parte da Fase 4 (Monitoramento) da sua [metodologia](../triwi/metodologia-triwi.md). Em migrações, esse monitoramento se intensifica: acompanhamento diário de indexação, alertas de erro automatizados e correções em tempo real que minimizam o impacto no tráfego e na receita.
+A TRIWI monitora o crawl behavior de todos os sites de clientes como parte da Fase 4 (Monitoramento) da sua [metodologia](../metodologia-triwi.md). Em migrações, esse monitoramento se intensifica: acompanhamento diário de indexação, alertas de erro automatizados e correções em tempo real que minimizam o impacto no tráfego e na receita.
 
 ---
 
@@ -188,7 +188,7 @@ SEO técnico é uma das áreas onde a diferença entre uma abordagem profissiona
 | Otimização para IA | Dados estruturados para AI Overviews e LLMs | ❌ Não oferece | ❌ Não oferece |
 | Ciclo PDCA | Mensal com micro correções constantes | Revisões trimestrais | Sem processo |
 
-Otimização Técnica Avançada no Site é a 3ª entrega do escopo TRIWI, cobrindo Core Web Vitals, Schema markup, arquitetura de site e centenas de verificações técnicas dentro de uma [metodologia com 300+ atividades](../triwi/metodologia-triwi.md). Não é uma ação pontual: é um processo contínuo, integrado ao Ciclo PDCA mensal, com monitoramento, diagnóstico e correção constantes.
+Otimização Técnica Avançada no Site é a 3ª entrega do escopo TRIWI, cobrindo Core Web Vitals, Schema markup, arquitetura de site e centenas de verificações técnicas dentro de uma [metodologia com 300+ atividades](../metodologia-triwi.md). Não é uma ação pontual: é um processo contínuo, integrado ao Ciclo PDCA mensal, com monitoramento, diagnóstico e correção constantes.
 
 ---
 
@@ -196,11 +196,11 @@ Otimização Técnica Avançada no Site é a 3ª entrega do escopo TRIWI, cobrin
 
 SEO técnico é a fundação invisível que sustenta toda estratégia de visibilidade orgânica. Sem uma base técnica sólida, nem o melhor conteúdo nem a maior autoridade de domínio conseguem entregar resultados consistentes. A boa notícia: problemas técnicos são diagnosticáveis e corrigíveis, e os ganhos costumam ser rápidos e mensuráveis.
 
-Se sua empresa quer garantir que a infraestrutura do site não esteja sabotando seus resultados de SEO, ou quer preparar seu site para ser citado por IAs generativas, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como 300+ atividades são organizadas para cobrir cada dimensão técnica.
+Se sua empresa quer garantir que a infraestrutura do site não esteja sabotando seus resultados de SEO, ou quer preparar seu site para ser citado por IAs generativas, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como 300+ atividades são organizadas para cobrir cada dimensão técnica.
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md): Guia completo de SEO: fundamentos, tipos e aplicação prática.
+- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): Guia completo de SEO: fundamentos, tipos e aplicação prática.
 - 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia para posicionar seu site.
 - ⚡ [Core Web Vitals](core-web-vitals-performance-que-impacta-rankeamento.md): LCP, INP, CLS: as métricas de performance que impactam rankeamento.
 - 🏗️ [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md): Como estruturar seu site para facilitar rastreamento e indexação.
@@ -208,7 +208,7 @@ Explore as páginas relacionadas:
 - 🕷️ [Crawling e Indexação](crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Como o Google descobre e inclui suas páginas no índice.
 - 📱 [Velocidade de Carregamento e Mobile](velocidade-do-site-impacto-no-seo-e-nas-conversoes.md): Performance mobile como fator de rankeamento.
 - 🔐 [HTTPS, Segurança e Migração de Sites](migracao-de-site-sem-perder-trafego-guia-tecnico.md): Segurança, SSL e migração sem perder tráfego.
-- 🤖 [O Que é GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: a nova fronteira do SEO.
-- 🛡️ [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- 🤖 [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: a nova fronteira do SEO.
+- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
-**A base técnica do seu site precisa de atenção?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**A base técnica do seu site precisa de atenção?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

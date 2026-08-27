@@ -92,7 +92,7 @@ Pilarização e pulverização é a estratégia de conteúdo e arquitetura que a
 
 A pulverização tem dois benefícios simultâneos: multiplica as oportunidades de rankeamento (cada conteúdo satélite é uma nova "porta de entrada" no Google) e reforça a autoridade do pilar (cada link interno de satélite para pilar é um voto de relevância).
 
-Na [metodologia da TRIWI](../triwi/metodologia-triwi.md), pilarização e pulverização é a 4ª entrega do escopo, Otimização de Conteúdo Avançada. Essa estratégia já foi aplicada em marcas como Sem Parar, Valid, Contato Seguro e dezenas de outros clientes, sempre com o mesmo princípio: cobrir o tópico com profundidade sistêmica para se tornar a referência que o Google (e as IAs) reconhece como autoridade.
+Na [metodologia da TRIWI](../metodologia-triwi.md), pilarização e pulverização é a 4ª entrega do escopo, Otimização de Conteúdo Avançada. Essa estratégia já foi aplicada em marcas como Sem Parar, Valid, Contato Seguro e dezenas de outros clientes, sempre com o mesmo princípio: cobrir o tópico com profundidade sistêmica para se tornar a referência que o Google (e as IAs) reconhece como autoridade.
 
 Para aprofundar a estratégia de conteúdo que sustenta a pilarização, veja [Pilarização e Pulverização de Conteúdo](../seo-de-conteudo/pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md).
 
@@ -148,7 +148,7 @@ Redirecionamentos 301 (permanentes) são o mecanismo que preserva a autoridade a
 
 Regras para redirecionamentos em reestruturação: cada URL antiga deve ter um 301 para a URL nova correspondente (redirecionamento 1:1), nunca redirecionar múltiplas URLs antigas para a homepage (soft 404), evitar cadeias de redirecionamento (301 → 301 → 301), monitorar erros 404 após a migração e corrigir rapidamente.
 
-Na TRIWI, reestruturações e migrações seguem um protocolo com monitoramento intensivo pós-implementação, acompanhamento diário de indexação, rastreamento de erros 404 e 301, verificação de cobertura no Search Console e alertas automatizados de regressão de tráfego. Essa disciplina faz parte da Fase 4 (Monitoramento) da [metodologia com 300+ atividades](../triwi/metodologia-triwi.md), garantindo que a reestruturação gere ganho, não perda.
+Na TRIWI, reestruturações e migrações seguem um protocolo com monitoramento intensivo pós-implementação, acompanhamento diário de indexação, rastreamento de erros 404 e 301, verificação de cobertura no Search Console e alertas automatizados de regressão de tráfego. Essa disciplina faz parte da Fase 4 (Monitoramento) da [metodologia com 300+ atividades](../metodologia-triwi.md), garantindo que a reestruturação gere ganho, não perda.
 
 ---
 
@@ -156,7 +156,7 @@ Na TRIWI, reestruturações e migrações seguem um protocolo com monitoramento 
 
 Arquitetura de site é a decisão estratégica que define os limites do crescimento orgânico. Um site com conteúdo excelente mas estrutura desorganizada desperdiça potencial. Um site com arquitetura planejada multiplica o impacto de cada conteúdo produzido e de cada backlink conquistado, criando um efeito composto que se acumula ao longo do tempo.
 
-Se sua empresa quer organizar (ou reorganizar) o site para maximizar autoridade topical e eficiência de rastreamento, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como pilarização e pulverização se integram a uma estratégia completa de SEO.
+Se sua empresa quer organizar (ou reorganizar) o site para maximizar autoridade topical e eficiência de rastreamento, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como pilarização e pulverização se integram a uma estratégia completa de SEO.
 
 Explore as páginas relacionadas:
 
@@ -166,6 +166,6 @@ Explore as páginas relacionadas:
 - 📑 [Estratégia de Conteúdo para SEO](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo alinhado à arquitetura do site.
 - 🔗 [Pilarização e Pulverização de Conteúdo](../seo-de-conteudo/pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md): A estratégia de conteúdo que transforma arquitetura em autoridade.
 - 🛒 [SEO para E-commerce](../seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md): Arquitetura e navegação facetada para lojas virtuais.
-- 🛡️ [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
-**Sua arquitetura de site está preparada para crescer?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Sua arquitetura de site está preparada para crescer?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

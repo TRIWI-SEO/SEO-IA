@@ -106,7 +106,7 @@ Além do formato: redimensionar imagens para o tamanho real de exibição (não 
 
 **Otimização de servidor**: compressão gzip/brotli (reduz o tamanho dos arquivos transferidos em 60-80%), HTTP/2 ou HTTP/3 (permite múltiplas requisições simultâneas), cache de página no servidor (servir HTML pré-gerado em vez de gerar dinamicamente a cada requisição), e otimização de banco de dados (queries lentas são causa frequente de TTFB alto em sites dinâmicos).
 
-Na experiência da TRIWI com e-commerces e sites enterprise, otimizações de velocidade frequentemente geram ganhos de conversão de 15-30%, antes mesmo de impactar o rankeamento. Essa é uma das áreas onde o retorno é mais rápido e mensurável: diferente de estratégias de conteúdo ou link building (que levam meses para maturar), melhorias de velocidade impactam a conversão imediatamente após a implementação. Por isso, na [metodologia com 300+ atividades](../triwi/metodologia-triwi.md), performance é uma das primeiras frentes atacadas na Fase 3 (Implementação), gerando quick wins que demonstram valor enquanto as estratégias de longo prazo ganham tração.
+Na experiência da TRIWI com e-commerces e sites enterprise, otimizações de velocidade frequentemente geram ganhos de conversão de 15-30%, antes mesmo de impactar o rankeamento. Essa é uma das áreas onde o retorno é mais rápido e mensurável: diferente de estratégias de conteúdo ou link building (que levam meses para maturar), melhorias de velocidade impactam a conversão imediatamente após a implementação. Por isso, na [metodologia com 300+ atividades](../metodologia-triwi.md), performance é uma das primeiras frentes atacadas na Fase 3 (Implementação), gerando quick wins que demonstram valor enquanto as estratégias de longo prazo ganham tração.
 
 ---
 
@@ -114,7 +114,7 @@ Na experiência da TRIWI com e-commerces e sites enterprise, otimizações de ve
 
 Velocidade é o fator de SEO onde técnica e negócio se encontram com mais clareza. Otimizar a performance do site melhora o rankeamento, reduz abandono, aumenta conversões e gera receita incremental, tudo ao mesmo tempo. É a rara otimização que não exige trade-off: site mais rápido é melhor para o Google, melhor para o usuário e melhor para o resultado financeiro.
 
-Se sua empresa quer transformar performance em vantagem competitiva, tanto no rankeamento quanto na conversão, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e veja como otimizações de velocidade se integram a uma estratégia completa de SEO.
+Se sua empresa quer transformar performance em vantagem competitiva, tanto no rankeamento quanto na conversão, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e veja como otimizações de velocidade se integram a uma estratégia completa de SEO.
 
 Explore as páginas relacionadas:
 
@@ -122,6 +122,6 @@ Explore as páginas relacionadas:
 - ⚡ [Core Web Vitals](core-web-vitals-performance-que-impacta-rankeamento.md): LCP, INP, CLS: as métricas de performance que o Google usa para rankeamento.
 - 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia, incluindo velocidade e Page Experience.
 - 📈 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto real do SEO no negócio.
-- 🛡️ [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
-**Seu site está perdendo conversões por causa da velocidade?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Seu site está perdendo conversões por causa da velocidade?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

@@ -182,7 +182,7 @@ Isso ilustra um ponto crucial: otimizar Core Web Vitals não é apenas "satisfaz
 
 Na TRIWI, o monitoramento de Core Web Vitals é contínuo, não uma verificação única. Faz parte do Ciclo PDCA mensal, onde identificamos regressões de performance antes que impactem o rankeamento. Quando uma atualização de CMS, um novo script de terceiro ou uma mudança de template degrada os CWV, a equipe detecta e corrige dentro do mesmo ciclo, não meses depois, quando o impacto no tráfego já se consolidou.
 
-Essa disciplina operacional é parte da [metodologia com 300+ atividades](../triwi/metodologia-triwi.md). Core Web Vitals não são um checklist pontual; são uma métrica viva que precisa de monitoramento contínuo. Empresas como Sem Parar (+31% tráfego orgânico), Valid/Flexdoc (+47% tráfego orgânico) e Contato Seguro (+654% tráfego orgânico) mantêm CWV saudáveis como parte de uma estratégia integrada que combina [performance técnica](README.md), conteúdo estratégico e construção de autoridade.
+Essa disciplina operacional é parte da [metodologia com 300+ atividades](../metodologia-triwi.md). Core Web Vitals não são um checklist pontual; são uma métrica viva que precisa de monitoramento contínuo. Empresas como Sem Parar (+31% tráfego orgânico), Valid/Flexdoc (+47% tráfego orgânico) e Contato Seguro (+654% tráfego orgânico) mantêm CWV saudáveis como parte de uma estratégia integrada que combina [performance técnica](README.md), conteúdo estratégico e construção de autoridade.
 
 ---
 
@@ -190,7 +190,7 @@ Essa disciplina operacional é parte da [metodologia com 300+ atividades](../tri
 
 Core Web Vitals são a dimensão mensurável da experiência do usuário, e o Google recompensa quem investe nessa dimensão. LCP, INP e CLS não são métricas abstratas: são reflexos diretos de como seu site funciona para pessoas reais, com impacto comprovado em rankeamento, retenção e conversão.
 
-Se sua empresa quer garantir que a performance do site esteja trabalhando a favor, e não contra, dos seus resultados orgânicos, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como o monitoramento contínuo de CWV se integra a uma estratégia completa de SEO.
+Se sua empresa quer garantir que a performance do site esteja trabalhando a favor, e não contra, dos seus resultados orgânicos, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como o monitoramento contínuo de CWV se integra a uma estratégia completa de SEO.
 
 Explore as páginas relacionadas:
 
@@ -198,7 +198,7 @@ Explore as páginas relacionadas:
 - 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia, incluindo Page Experience.
 - 🏗️ [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md): Como a estrutura do site impacta rastreamento, indexação e performance.
 - 📈 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto real do SEO no negócio.
-- 🤖 [O Que é GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): A otimização para IAs generativas e AI Overviews.
-- 🛡️ [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- 🤖 [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): A otimização para IAs generativas e AI Overviews.
+- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
-**Seu site está aprovado nos Core Web Vitals?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Seu site está aprovado nos Core Web Vitals?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

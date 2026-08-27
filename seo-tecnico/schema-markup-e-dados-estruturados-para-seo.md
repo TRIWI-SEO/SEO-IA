@@ -158,7 +158,7 @@ A regra de ouro: dados estruturados devem refletir fielmente o conteúdo visíve
 
 **Markup desatualizado**, dados estruturados implementados uma vez e nunca revisados. Preços que mudaram, produtos descontinuados, FAQs que não refletem mais as perguntas atuais. Schema desatualizado é pior que Schema ausente, porque entrega informação errada ao Google e ao usuário.
 
-A implementação de dados estruturados é parte da otimização técnica avançada da TRIWI. Dentro da [metodologia com 300+ atividades](../triwi/metodologia-triwi.md), Schema markup é implementado, validado e monitorado como um processo contínuo, não uma configuração pontual. Conteúdo estruturado para IA é um dos diferenciais que permitiu ao Sem Parar alcançar +6.400% em AI Overviews e à Valid/Flexdoc registrar +2.000% em AI Overviews. Quando a IA do Google monta uma resposta, ela prioriza fontes que falam sua linguagem, e dados estruturados são essa linguagem.
+A implementação de dados estruturados é parte da otimização técnica avançada da TRIWI. Dentro da [metodologia com 300+ atividades](../metodologia-triwi.md), Schema markup é implementado, validado e monitorado como um processo contínuo, não uma configuração pontual. Conteúdo estruturado para IA é um dos diferenciais que permitiu ao Sem Parar alcançar +6.400% em AI Overviews e à Valid/Flexdoc registrar +2.000% em AI Overviews. Quando a IA do Google monta uma resposta, ela prioriza fontes que falam sua linguagem, e dados estruturados são essa linguagem.
 
 ---
 
@@ -166,15 +166,15 @@ A implementação de dados estruturados é parte da otimização técnica avanç
 
 Dados estruturados são a ponte entre o conteúdo do seu site e a compreensão dos mecanismos de busca e IAs generativas. Em 2025, com AI Overviews integrados aos resultados do Google e milhões de decisões passando por ChatGPT, Gemini e Claude, implementar Schema markup não é mais uma otimização avançada; é uma necessidade competitiva.
 
-Se sua empresa quer garantir que o Google e as IAs entendam, destaquem e citem o conteúdo do seu site, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e veja como dados estruturados se integram a uma estratégia completa de [SEO técnico](README.md), [conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [otimização para IAs](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md).
+Se sua empresa quer garantir que o Google e as IAs entendam, destaquem e citem o conteúdo do seu site, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e veja como dados estruturados se integram a uma estratégia completa de [SEO técnico](README.md), [conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [otimização para IAs](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
 Explore as páginas relacionadas:
 
 - 🛠️ [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
 - 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia para posicionar seu site.
 - ⚡ [Core Web Vitals](core-web-vitals-performance-que-impacta-rankeamento.md): As métricas de performance que completam a experiência da página.
-- 🤖 [O Que é GEO](../geo-seo-para-ia/o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: onde dados estruturados ganham nova dimensão.
+- 🤖 [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: onde dados estruturados ganham nova dimensão.
 - 🔎 [Como Aparecer nos AI Overviews do Google](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md): Estratégias para ser citado nas respostas de IA do Google.
-- 🛡️ [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
-**Seu site fala a linguagem das IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Seu site fala a linguagem das IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

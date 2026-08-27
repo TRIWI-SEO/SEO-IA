@@ -129,7 +129,7 @@ Na experiência operacional com dezenas de migrações, os mesmos erros aparecem
 
 **Conteúdo consolidado sem 301**: quando várias páginas antigas são consolidadas em uma nova, cada URL antiga precisa de 301 para a nova página consolidada. Sem isso, o Google trata as URLs antigas como 404 e a nova página começa do zero, sem herdar a autoridade acumulada.
 
-A TRIWI já conduziu dezenas de migrações para clientes como Sem Parar e Valid, onde perder tráfego orgânico significaria perder milhões em receita. O protocolo de migração da TRIWI faz parte da [metodologia com 300+ atividades](../triwi/metodologia-triwi.md) e inclui: inventário automatizado de URLs, mapeamento de redirecionamentos com validação cruzada, teste em staging com auditoria técnica completa, monitoramento intensivo nas primeiras 48 horas, acompanhamento semanal nas primeiras 8 semanas e relatório de recuperação com comparativo contra o baseline pré-migração. Essa disciplina é o que transforma uma migração de "momento de risco" em "oportunidade de reorganização estratégica".
+A TRIWI já conduziu dezenas de migrações para clientes como Sem Parar e Valid, onde perder tráfego orgânico significaria perder milhões em receita. O protocolo de migração da TRIWI faz parte da [metodologia com 300+ atividades](../metodologia-triwi.md) e inclui: inventário automatizado de URLs, mapeamento de redirecionamentos com validação cruzada, teste em staging com auditoria técnica completa, monitoramento intensivo nas primeiras 48 horas, acompanhamento semanal nas primeiras 8 semanas e relatório de recuperação com comparativo contra o baseline pré-migração. Essa disciplina é o que transforma uma migração de "momento de risco" em "oportunidade de reorganização estratégica".
 
 ---
 
@@ -137,7 +137,7 @@ A TRIWI já conduziu dezenas de migrações para clientes como Sem Parar e Valid
 
 Migração de site é uma das decisões técnicas de maior impacto em SEO, para o bem ou para o mal. Bem planejada e executada, é uma oportunidade de corrigir problemas de [arquitetura](arquitetura-de-site-para-seo.md), consolidar autoridade e preparar o site para o futuro. Mal executada, pode apagar meses ou anos de construção orgânica.
 
-Se sua empresa está planejando uma migração, de domínio, plataforma, redesign ou qualquer mudança estrutural, e quer garantir que o tráfego orgânico seja preservado, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como nosso protocolo de migração protege o ativo mais valioso do seu marketing digital.
+Se sua empresa está planejando uma migração, de domínio, plataforma, redesign ou qualquer mudança estrutural, e quer garantir que o tráfego orgânico seja preservado, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como nosso protocolo de migração protege o ativo mais valioso do seu marketing digital.
 
 Explore as páginas relacionadas:
 
@@ -146,6 +146,6 @@ Explore as páginas relacionadas:
 - 🕷️ [Crawling e Indexação](crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Rastreamento, crawl budget e diagnóstico de problemas de indexação.
 - 📈 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto real de uma migração nos resultados.
 - 📊 [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): Search Console e ferramentas essenciais para monitoramento pós-migração.
-- 🛡️ [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
-**Planejando uma migração?** [Fale com a TRIWI antes de começar](https://triwi.com.br/porque-a-triwi/).
+**Planejando uma migração?** [Fale com a TRIWI antes de começar](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

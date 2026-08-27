@@ -148,7 +148,7 @@ Ações para resolver: melhorar a qualidade do conteúdo das páginas afetadas, 
 
 **Soft 404**, páginas que retornam status HTTP 200 (OK) mas exibem conteúdo de "página não encontrada". O Google detecta soft 404s e os trata como erros, a página não é indexada, mas o servidor desperdiçou crawl budget ao servir uma resposta "válida" para uma página sem conteúdo real.
 
-A TRIWI monitora a saúde de indexação como parte do escopo de "Aumento das Palavras Indexadas no Google", a 8ª das 12 entregas da [metodologia](../triwi/metodologia-triwi.md), com acompanhamento mensal. Esse monitoramento contínuo permite identificar regressões de indexação antes que se tornem problemas de rankeamento: uma queda de 500 páginas indexadas em um mês pode significar um robots.txt mal configurado, uma canonical errada em massa ou uma instabilidade de servidor que precisa de correção imediata.
+A TRIWI monitora a saúde de indexação como parte do escopo de "Aumento das Palavras Indexadas no Google", a 8ª das 12 entregas da [metodologia](../metodologia-triwi.md), com acompanhamento mensal. Esse monitoramento contínuo permite identificar regressões de indexação antes que se tornem problemas de rankeamento: uma queda de 500 páginas indexadas em um mês pode significar um robots.txt mal configurado, uma canonical errada em massa ou uma instabilidade de servidor que precisa de correção imediata.
 
 ---
 
@@ -156,7 +156,7 @@ A TRIWI monitora a saúde de indexação como parte do escopo de "Aumento das Pa
 
 Crawling e indexação são os processos invisíveis que determinam se o seu conteúdo sequer participa do jogo do rankeamento. Um site com milhares de páginas bem escritas mas mal indexadas é como uma biblioteca com livros trancados em uma sala sem porta, o conteúdo existe, mas ninguém consegue acessá-lo.
 
-Se sua empresa quer garantir que cada página relevante do site seja rastreada, indexada e elegível para rankear, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como o monitoramento contínuo de indexação se integra às 300+ atividades que sustentam resultados de longo prazo.
+Se sua empresa quer garantir que cada página relevante do site seja rastreada, indexada e elegível para rankear, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como o monitoramento contínuo de indexação se integra às 300+ atividades que sustentam resultados de longo prazo.
 
 Explore as páginas relacionadas:
 
@@ -165,6 +165,6 @@ Explore as páginas relacionadas:
 - 🏗️ [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md): Como a estrutura do site impacta a eficiência do rastreamento.
 - 📱 [Velocidade do Site](velocidade-do-site-impacto-no-seo-e-nas-conversoes.md): Performance de servidor e seu impacto no crawl rate.
 - 📈 [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): Google Search Console e outras ferramentas essenciais para monitoramento.
-- 🛡️ [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
-**Seu conteúdo está chegando ao índice do Google?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Seu conteúdo está chegando ao índice do Google?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
