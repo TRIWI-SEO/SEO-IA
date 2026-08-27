@@ -4,7 +4,7 @@ AI Overviews são respostas geradas por inteligência artificial que aparecem no
 
 Em março de 2026, AI Overviews aparecem em 48% de todas as buscas no Google, acima dos 34,5% em dezembro de 2025 e dos 31% em fevereiro de 2025. A trajetória é clara e ascendente. E o impacto no SEO é profundo: quando um AI Overview aparece, o CTR orgânico da posição 1 cai entre 34% e 61%, dependendo do setor. Para empresas que dependem de tráfego orgânico, ignorar AI Overviews não é uma opção; é um risco operacional.
 
-Este guia cobre o que são AI Overviews, como impactam o SEO, quais estratégias de otimização funcionam e como monitorar sua presença nesse novo formato. A TRIWI tem resultados concretos nesta área: o Sem Parar alcançou +6.400% de crescimento em AI Overviews e a Valid/Flexdoc registrou +2.000%, resultados da estratégia integrada de [GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md) que aplicamos com mais de 50 clientes.
+Este guia cobre o que são AI Overviews, como impactam o SEO, quais estratégias de otimização funcionam e como monitorar sua presença nesse novo formato. A TRIWI tem resultados concretos nesta área: o Sem Parar alcançou +6.400% de crescimento em AI Overviews e a Valid/Flexdoc registrou +2.000%, resultados da estratégia integrada de [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) que aplicamos com mais de 50 clientes.
 
 ---
 
@@ -72,7 +72,7 @@ Para empresas como as que a TRIWI atende, B2B, SaaS, serviços, indústria, a ma
 
 ## 🎯 Como Otimizar para AI Overviews
 
-Otimizar para AI Overviews é aplicar os princípios do [GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md) especificamente ao contexto do Google Gemini. O Gemini, que gera os AI Overviews, busca no índice do Google, interpreta o conteúdo das páginas e seleciona as fontes que serão citadas. Influenciar essa seleção é o objetivo.
+Otimizar para AI Overviews é aplicar os princípios do [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) especificamente ao contexto do Google Gemini. O Gemini, que gera os AI Overviews, busca no índice do Google, interpreta o conteúdo das páginas e seleciona as fontes que serão citadas. Influenciar essa seleção é o objetivo.
 
 ### Conteúdo Estruturado com Definições Claras
 
@@ -148,7 +148,7 @@ A maioria das empresas brasileiras ainda não otimiza especificamente para AI Ov
 
 Isso cria uma janela de oportunidade para empresas que agem agora. Com menos competição na otimização para AI Overviews, o custo de conquistar citações é menor e o impacto relativo é maior. Conforme mais empresas reconheçam a importância desse formato, e inevitavelmente reconhecerão, a competição por citações vai aumentar e a vantagem dos primeiros vai se consolidar.
 
-A TRIWI identificou e explorou essa oportunidade desde o lançamento dos AI Overviews no Brasil. Os resultados falam por si: o Sem Parar alcançou +6.400% de crescimento em AI Overviews com a estratégia GEO da TRIWI. A Valid/Flexdoc registrou +2.000%. Esses resultados vêm da combinação de conteúdo estruturado para citabilidade, dados estruturados avançados e construção de autoridade de entidade, aplicados de forma integrada com a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) de 12 etapas e 300+ atividades.
+A TRIWI identificou e explorou essa oportunidade desde o lançamento dos AI Overviews no Brasil. Os resultados falam por si: o Sem Parar alcançou +6.400% de crescimento em AI Overviews com a estratégia GEO da TRIWI. A Valid/Flexdoc registrou +2.000%. Esses resultados vêm da combinação de conteúdo estruturado para citabilidade, dados estruturados avançados e construção de autoridade de entidade, aplicados de forma integrada com a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) de 12 etapas e 300+ atividades.
 
 ---
 
@@ -158,16 +158,16 @@ AI Overviews são o novo formato dominante do Google, já presentes em quase met
 
 A estratégia é clara: não lamente a queda do CTR, conquiste a citação. Conteúdo estruturado, dados próprios, Schema markup avançado e E-E-A-T demonstrado são os pilares que determinam quais fontes o Gemini escolhe citar. E quanto antes sua empresa começar, maior a vantagem em um mercado brasileiro que ainda está despertando para essa realidade.
 
-Se sua empresa quer ser citada nos AI Overviews, e em todas as IAs generativas, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como a estratégia integrada de SEO + GEO funciona. E descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a agência que empresas como Sem Parar, Valid e John Deere escolheram para dominar o topo do Google e das IAs.
+Se sua empresa quer ser citada nos AI Overviews, e em todas as IAs generativas, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como a estratégia integrada de SEO + GEO funciona. E descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a agência que empresas como Sem Parar, Valid e John Deere escolheram para dominar o topo do Google e das IAs.
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md), A definição completa de GEO e seus pilares.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), A definição completa de GEO e seus pilares.
 - 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), Estratégias para visibilidade em todas as LLMs.
 - 🏗️ [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema markup otimizado para IAs.
 - 📖 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework que sustenta a citação.
 - 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores, incluindo o impacto dos AI Overviews.
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais que geram resultados como +6.400% em AI Overviews.
+- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais que geram resultados como +6.400% em AI Overviews.
 - 📈 Relatórios e Dashboards de SEO: Como monitorar e reportar resultados.
 
-**Quer ser a fonte que o Google cita, nos AI Overviews e nos resultados orgânicos?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer ser a fonte que o Google cita, nos AI Overviews e nos resultados orgânicos?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

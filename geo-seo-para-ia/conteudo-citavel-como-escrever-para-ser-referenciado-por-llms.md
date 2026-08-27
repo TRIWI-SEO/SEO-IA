@@ -4,7 +4,7 @@ Conteúdo citável para IA é aquele que uma LLM, ChatGPT, Gemini, Claude ou Per
 
 A diferença entre ser citado e ser ignorado raramente é a qualidade da informação; é a forma como ela é apresentada. Duas páginas podem conter a mesma informação, mas a IA cita aquela que oferece a resposta de forma mais direta, mais estruturada e mais verificável. Citabilidade não é sobre o que você diz; é sobre como você diz.
 
-Este guia é a interseção entre [copywriting para SEO](../seo-de-conteudo/copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md) e [GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md). Cobre o que torna um conteúdo citável, os princípios práticos de escrita, exemplos de antes e depois, um checklist de auditoria e como integrar citabilidade na produção de conteúdo. A equipe de conteúdo da TRIWI já produz todo conteúdo com dupla otimização, SEO clássico e citabilidade para IAs, usando guidelines específicos de GEO desenvolvidos internamente.
+Este guia é a interseção entre [copywriting para SEO](../seo-de-conteudo/copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md) e [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md). Cobre o que torna um conteúdo citável, os princípios práticos de escrita, exemplos de antes e depois, um checklist de auditoria e como integrar citabilidade na produção de conteúdo. A equipe de conteúdo da TRIWI já produz todo conteúdo com dupla otimização, SEO clássico e citabilidade para IAs, usando guidelines específicos de GEO desenvolvidos internamente.
 
 ---
 
@@ -162,15 +162,15 @@ A TRIWI já opera com esse mindset em toda a produção de conteúdo para seus c
 
 Conteúdo citável é a moeda da visibilidade na era da IA generativa. Não é sobre escrever mais; é sobre escrever de forma que cada trecho possa ser a resposta que a IA entrega a milhões de usuários. Definições claras, dados concretos, estrutura extraível e autoridade verificável: esses são os pilares que transformam conteúdo bom em conteúdo que IAs citam.
 
-Se sua empresa quer produzir conteúdo que rankeia no Google E é citado pelas IAs, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como a dupla otimização SEO + GEO funciona na prática, com guidelines, processos e resultados comprovados.
+Se sua empresa quer produzir conteúdo que rankeia no Google E é citado pelas IAs, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como a dupla otimização SEO + GEO funciona na prática, com guidelines, processos e resultados comprovados.
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
 - 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
 - ✏️ [Copywriting para SEO: Como Escrever Conteúdo Que Rankeia e Converte](../seo-de-conteudo/copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md), Os fundamentos de copywriting para SEO.
 - 📋 [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): A estratégia de conteúdo completa.
 - 📖 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework de qualidade que sustenta a citabilidade.
 - 🏗️ [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema markup que potencializa citação.
 
-**Quer produzir conteúdo que as IAs citam, e que seus clientes encontram?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer produzir conteúdo que as IAs citam, e que seus clientes encontram?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

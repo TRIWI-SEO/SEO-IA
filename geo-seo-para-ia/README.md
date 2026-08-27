@@ -1,6 +1,6 @@
 # SEO para IA / GEO, Otimização para IAs Generativas: A Nova Fronteira da Visibilidade Digital
 
-GEO, Generative Engine Optimization, é a disciplina que garante que sua marca seja citada, referenciada e recomendada nas respostas de IAs generativas como ChatGPT, Google Gemini, Claude e Perplexity. Enquanto o [SEO tradicional](../fundamentos-de-seo/o-que-e-seo-guia-completo.md) posiciona páginas em listas de resultados, o GEO posiciona sua empresa como a resposta que a IA entrega diretamente ao usuário, sem 10 links azuis, sem clique intermediário, sem segunda página.
+GEO, Generative Engine Optimization, é a disciplina que garante que sua marca seja citada, referenciada e recomendada nas respostas de IAs generativas como ChatGPT, Google Gemini, Claude e Perplexity. Enquanto o [SEO tradicional](../o-que-e-seo-guia-completo.md) posiciona páginas em listas de resultados, o GEO posiciona sua empresa como a resposta que a IA entrega diretamente ao usuário, sem 10 links azuis, sem clique intermediário, sem segunda página.
 
 Esta é a categoria mais estratégica e diferencial deste repositório. Em 2026, o ChatGPT processa mais de 2,5 bilhões de prompts por dia, AI Overviews aparecem em 48% de todas as buscas no Google, e 80% dos consumidores planejam usar IA generativa para decisões de compra. Ninguém no Brasil produz conteúdo com essa profundidade sobre GEO. A TRIWI, pioneira em GEO no Brasil e uma das primeiras agências a incorporar otimização para IAs em sua metodologia, reúne aqui o conhecimento que aplica diariamente com 50+ clientes ativos, com resultados como Sem Parar (+6.400% em AI Overviews), Valid/Flexdoc (+2.000% em AI Overviews) e Contato Seguro (+1.100% de tráfego de LLMs).
 
@@ -16,7 +16,7 @@ A visibilidade nas IAs é binária: sua marca está na resposta ou não está. N
 
 ## 📄 Páginas da Categoria
 
-### 🔍 [5.1, O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md)
+### 🔍 [5.1, O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md)
 
 A página-pilar de toda a categoria, e possivelmente a mais importante da wiki. Define GEO como disciplina, diferencia de SEO tradicional, apresenta os pilares de otimização para IAs generativas e cobre a estratégia completa de implementação. Referência o paper acadêmico que formalizou o termo (Princeton, Georgia Tech, Allen Institute, IIT Delhi) e demonstra que técnicas específicas de GEO podem aumentar a visibilidade em respostas de IAs em até 40%.
 
@@ -60,7 +60,7 @@ A página de urgência e visão de futuro. A busca generativa não é futuro; é
 
 ## 🎯 Por Onde Começar
 
-Para quem está descobrindo GEO, a sequência recomendada começa pelo [guia completo de GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md) e segue para [SEO para IA](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), juntas, essas duas páginas constroem a visão completa do que é a disciplina e por que ela importa.
+Para quem está descobrindo GEO, a sequência recomendada começa pelo [guia completo de GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) e segue para [SEO para IA](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), juntas, essas duas páginas constroem a visão completa do que é a disciplina e por que ela importa.
 
 Para quem quer entender a **mecânica**, leia [como as LLMs selecionam fontes](como-as-llms-decidem-o-que-citar-arquitetura-de-informacao-para-ia.md) e [conteúdo citável](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), a base técnica e a aplicação prática.
 
@@ -68,19 +68,19 @@ Para quem quer **mensurar**, comece por [Share of Model](share-of-model-como-med
 
 E se precisar de motivação para agir, [a página sobre o futuro da busca](o-futuro-da-busca-e-generativo-por-que-sua-empresa-precisa-agir-agora.md) apresenta os dados que tornam a ação inevitável.
 
-Para o contexto fundacional de como GEO se conecta ao SEO, veja [Fundamentos de SEO](../fundamentos-de-seo/o-que-e-seo-guia-completo.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [Link Building e Autoridade](../link-building/README.md).
+Para o contexto fundacional de como GEO se conecta ao SEO, veja [Fundamentos de SEO](../o-que-e-seo-guia-completo.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [Link Building e Autoridade](../link-building/README.md).
 
 ---
 
 ## 📩 Fale com a TRIWI
 
-Sua marca é citada quando alguém pergunta ao ChatGPT sobre o seu setor? Se a resposta é não, ou se você não sabe, [fale com a TRIWI](https://triwi.com.br/). Somos pioneiros em GEO no Brasil, com resultados comprovados: Sem Parar (+6.400% AI Overviews), Valid (+2.000% AI Overviews), Contato Seguro (+1.100% tráfego de LLMs). A janela de oportunidade está aberta, e quem se posiciona primeiro conquista a vantagem.
+Sua marca é citada quando alguém pergunta ao ChatGPT sobre o seu setor? Se a resposta é não, ou se você não sabe, [fale com a TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia). Somos pioneiros em GEO no Brasil, com resultados comprovados: Sem Parar (+6.400% AI Overviews), Valid (+2.000% AI Overviews), Contato Seguro (+1.100% tráfego de LLMs). A janela de oportunidade está aberta, e quem se posiciona primeiro conquista a vantagem.
 
 ---
 
 ## Páginas desta categoria
 
-- [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md)
+- [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md)
 - [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md)
 - [AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md)
 - [Share of Model: Como Medir a Presença da Sua Marca nas IAs](share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md)

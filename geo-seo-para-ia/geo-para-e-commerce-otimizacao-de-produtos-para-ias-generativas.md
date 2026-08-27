@@ -1,6 +1,6 @@
 # GEO para E-commerce: Otimização de Produtos para IAs Generativas
 
-GEO para e-commerce é a aplicação de estratégias de [Generative Engine Optimization](o-que-e-geo-generative-engine-optimization-guia-completo.md) especificamente para lojas virtuais, otimizando páginas de produto, descrições, reviews, Schema markup e conteúdo de suporte para que seus produtos sejam recomendados quando consumidores perguntam a ChatGPT, Gemini, Claude ou Perplexity "qual o melhor [produto] para [necessidade]?". Em 2026, essa pergunta acontece centenas de milhões de vezes por dia, e a resposta da IA pode definir se o consumidor descobre sua marca ou a do concorrente.
+GEO para e-commerce é a aplicação de estratégias de [Generative Engine Optimization](../o-que-e-geo-generative-engine-optimization-guia-completo.md) especificamente para lojas virtuais, otimizando páginas de produto, descrições, reviews, Schema markup e conteúdo de suporte para que seus produtos sejam recomendados quando consumidores perguntam a ChatGPT, Gemini, Claude ou Perplexity "qual o melhor [produto] para [necessidade]?". Em 2026, essa pergunta acontece centenas de milhões de vezes por dia, e a resposta da IA pode definir se o consumidor descobre sua marca ou a do concorrente.
 
 Os números deixam a dimensão clara: 80% dos consumidores planejam usar IA generativa para comprar em 2026. O ChatGPT Shopping atende mais de 900 milhões de usuários semanais. O tráfego de referência de plataformas de IA generativa para e-commerces cresceu 693% ano contra ano no final de 2025. No Brasil, o ChatGPT gerou mais de 6,1 milhões de visitas de referência para os 10 maiores varejistas digitais entre janeiro de 2023 e agosto de 2025, e o Brasil é o terceiro maior mercado global para ferramentas de IA generativa.
 
@@ -126,7 +126,7 @@ A TRIWI atende e-commerces como Polishop, Lupo e Grendene, onde a estratégia de
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
 - 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
 - 🔧 [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema markup orientado a GEO.
 - ✍️ [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Princípios de conteúdo citável.
@@ -134,4 +134,4 @@ Explore as páginas relacionadas:
 - 🛒 [SEO para E-commerce: Otimização Que Gera Vendas](../seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md): SEO tradicional para e-commerce.
 - 🏬 [SEO para Varejo: Estratégia Omnichannel e Visibilidade Digital](../seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md), Estratégia omnichannel para varejo.
 
-**Quer que seus produtos sejam recomendados quando consumidores perguntam às IAs "qual o melhor"?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer que seus produtos sejam recomendados quando consumidores perguntam às IAs "qual o melhor"?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

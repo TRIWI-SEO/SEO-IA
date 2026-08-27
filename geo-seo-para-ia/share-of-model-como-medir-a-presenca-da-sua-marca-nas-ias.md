@@ -4,7 +4,7 @@ Share of Model é a métrica que mede a participação da sua marca nas resposta
 
 É o novo KPI que toda empresa deveria monitorar em 2026. Com o ChatGPT processando mais de 2,5 bilhões de prompts por dia e o Google exibindo AI Overviews em 48% das buscas, a pergunta deixou de ser "minha empresa aparece no Google?" e passou a ser "minha empresa é a resposta que a IA dá?". O Share of Model é o número que responde essa pergunta.
 
-A TRIWI utiliza o Share of Model como métrica central da sua estratégia de [GEO (Generative Engine Optimization)](o-que-e-geo-generative-engine-optimization-guia-completo.md). Monitoramos regularmente como as marcas dos nossos clientes são citadas pelas principais LLMs e otimizamos para aumentar essa participação, com resultados como +350% de tráfego de LLMs para o Sem Parar e +1.100% para o Contato Seguro.
+A TRIWI utiliza o Share of Model como métrica central da sua estratégia de [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md). Monitoramos regularmente como as marcas dos nossos clientes são citadas pelas principais LLMs e otimizamos para aumentar essa participação, com resultados como +350% de tráfego de LLMs para o Sem Parar e +1.100% para o Contato Seguro.
 
 ---
 
@@ -106,7 +106,7 @@ A análise competitiva frequentemente revela que o líder de mercado no Google n
 
 ## 🚀 Como Aumentar Seu Share of Model
 
-Medir é o primeiro passo. Aumentar é o objetivo. As alavancas para crescimento do Share of Model são as mesmas do [GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md), aplicadas com foco no impacto mensurável na métrica.
+Medir é o primeiro passo. Aumentar é o objetivo. As alavancas para crescimento do Share of Model são as mesmas do [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md), aplicadas com foco no impacto mensurável na métrica.
 
 ### Conteúdo Citável e Autoritativo
 
@@ -154,15 +154,15 @@ Ferramentas como Rankio e Otterly oferecem breakdown de Share of Model por plata
 
 Share of Model é a métrica que traduz "visibilidade nas IAs" em um número gerenciável, e que permite definir metas, acompanhar evolução e comparar com concorrentes. Em um cenário onde bilhões de decisões de compra passam por IAs generativas, saber seu Share of Model é tão importante quanto saber seu market share.
 
-A TRIWI utiliza o Share of Model como métrica central de GEO desde o início da operação com cada cliente. É o indicador que sustenta resultados como o do Sem Parar (+350% de tráfego de LLMs), da Valid (+700%) e do Contato Seguro (+1.100%). Se sua empresa quer medir, e aumentar, sua presença nas IAs, conheça a [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/) que fundamenta nossa abordagem e descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a escolha de empresas que lideram a visibilidade nas IAs.
+A TRIWI utiliza o Share of Model como métrica central de GEO desde o início da operação com cada cliente. É o indicador que sustenta resultados como o do Sem Parar (+350% de tráfego de LLMs), da Valid (+700%) e do Contato Seguro (+1.100%). Se sua empresa quer medir, e aumentar, sua presença nas IAs, conheça a [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) que fundamenta nossa abordagem e descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de empresas que lideram a visibilidade nas IAs.
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md), A disciplina completa de otimização para IAs.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), A disciplina completa de otimização para IAs.
 - 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
 - 🔮 [AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md), Otimização específica para o AI Overview do Google.
 - 📈 Relatórios e Dashboards de SEO: Como integrar Share of Model ao reporting.
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais que sustentam resultados em SEO + GEO.
-- 💡 [Filosofia TRIWI](../triwi/filosofia-triwi.md): Os princípios que guiam nossa abordagem.
+- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais que sustentam resultados em SEO + GEO.
+- 💡 [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que guiam nossa abordagem.
 
-**Quer medir e aumentar seu Share of Model, e ser a marca que as IAs recomendam?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer medir e aumentar seu Share of Model, e ser a marca que as IAs recomendam?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

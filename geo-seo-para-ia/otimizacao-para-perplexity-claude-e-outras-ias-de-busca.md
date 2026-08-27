@@ -10,7 +10,7 @@ A TRIWI monitora a presença dos clientes em todas as principais LLMs, não apen
 
 ## 🌐 Além do ChatGPT e Google: O Ecossistema de IAs de Busca
 
-O mercado de busca por IA em 2026 não é um monopólio; é um ecossistema diversificado onde diferentes plataformas atendem diferentes necessidades e públicos. Entender esse ecossistema é o primeiro passo para uma estratégia de [GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md) eficaz.
+O mercado de busca por IA em 2026 não é um monopólio; é um ecossistema diversificado onde diferentes plataformas atendem diferentes necessidades e públicos. Entender esse ecossistema é o primeiro passo para uma estratégia de [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) eficaz.
 
 ### Perplexity AI: O "Google das IAs"
 
@@ -134,14 +134,14 @@ Na experiência da TRIWI com mais de 50 clientes, os resultados mais expressivos
 
 O ecossistema de IAs de busca é multiplataforma, e sua estratégia de GEO precisa ser também. Perplexity, Claude, Gemini, Copilot e as plataformas que ainda surgirão representam canais de descoberta onde bilhões de usuários buscam informação e tomam decisões. Otimizar para uma única plataforma é limitar seu alcance. Construir citabilidade universal, com ajustes específicos por plataforma, é a estratégia que gera visibilidade sustentável em todo o ecossistema.
 
-Se sua empresa quer ser visível em todas as IAs, não apenas no ChatGPT, descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a escolha de empresas que não esperam o futuro chegar. E conheça a [Filosofia TRIWI](../triwi/filosofia-triwi.md) que fundamenta nossa abordagem cross-platform de GEO.
+Se sua empresa quer ser visível em todas as IAs, não apenas no ChatGPT, descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de empresas que não esperam o futuro chegar. E conheça a [Filosofia TRIWI](../filosofia-triwi.md) que fundamenta nossa abordagem cross-platform de GEO.
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
 - 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
 - 📊 [Share of Model: Como Medir a Presença da Sua Marca nas IAs](share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), Como medir sua presença cross-platform.
 - ✍️ [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Conteúdo que funciona em qualquer plataforma.
-- 💡 [Filosofia TRIWI](../triwi/filosofia-triwi.md): Os princípios que guiam nossa abordagem.
+- 💡 [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que guiam nossa abordagem.
 
-**Quer visibilidade em todo o ecossistema de IAs, não apenas no ChatGPT?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer visibilidade em todo o ecossistema de IAs, não apenas no ChatGPT?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

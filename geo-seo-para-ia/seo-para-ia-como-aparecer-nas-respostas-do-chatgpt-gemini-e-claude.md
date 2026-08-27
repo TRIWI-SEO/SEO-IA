@@ -4,7 +4,7 @@ SEO para IA é o conjunto de práticas que posiciona sua marca, seus produtos e 
 
 A pergunta que toda empresa deveria fazer em 2026 é simples: "Quando alguém pergunta ao ChatGPT sobre o que fazemos, nossa marca aparece?" Na maioria dos casos, a resposta é não. E isso significa que um canal com mais de 2,5 bilhões de prompts diários está recomendando concorrentes, ou simplesmente ignorando sua existência.
 
-Este guia é focado na ação. Aqui você vai entender como cada LLM escolhe o que citar, quais estratégias colocam sua empresa nas respostas das IAs, quais são as diferenças entre plataformas e como medir sua presença nesse novo canal. A TRIWI, referência em [GEO (Generative Engine Optimization)](o-que-e-geo-generative-engine-optimization-guia-completo.md) no Brasil, compartilha as estratégias que aplicamos com mais de 50 clientes, gerando resultados como +350% de tráfego de LLMs para o Sem Parar e +1.100% para o Contato Seguro.
+Este guia é focado na ação. Aqui você vai entender como cada LLM escolhe o que citar, quais estratégias colocam sua empresa nas respostas das IAs, quais são as diferenças entre plataformas e como medir sua presença nesse novo canal. A TRIWI, referência em [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md) no Brasil, compartilha as estratégias que aplicamos com mais de 50 clientes, gerando resultados como +350% de tráfego de LLMs para o Sem Parar e +1.100% para o Contato Seguro.
 
 ---
 
@@ -181,18 +181,18 @@ SEO para IA não é uma disciplina separada do SEO, é a expansão necessária p
 
 As cinco estratégias apresentadas aqui, conteúdo citável, dados quantitativos, presença em fontes de LLMs, dados estruturados e construção de menções, não são teoria. São as mesmas práticas que a TRIWI aplica com mais de 50 clientes, gerando resultados mensuráveis em tráfego de LLMs, presença em AI Overviews e Share of Model.
 
-Se sua empresa quer ser encontrada onde as decisões estão sendo tomadas, no Google e nas IAs, conheça a [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/) que fundamenta nossa abordagem e descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/) é a escolha de empresas que não esperam o futuro chegar.
+Se sua empresa quer ser encontrada onde as decisões estão sendo tomadas, no Google e nas IAs, conheça a [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) que fundamenta nossa abordagem e descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de empresas que não esperam o futuro chegar.
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md), A definição completa de GEO e seus pilares.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), A definição completa de GEO e seus pilares.
 - 🔮 [AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md), Otimização específica para o AI Overview do Google.
 - 📊 [Share of Model: Como Medir a Presença da Sua Marca nas IAs](share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A métrica de visibilidade nas IAs.
 - 🏗️ [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema markup para IAs generativas.
 - ✍️ [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Como escrever para ser citado pelas IAs.
 - 🔍 [Otimização para Perplexity, Claude e Outras IAs de Busca](otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md), Detalhamento por plataforma.
-- 🏠 [Por Que a TRIWI](../triwi/por-que-a-triwi.md): Os diferenciais que fazem da TRIWI referência em SEO + GEO.
-- 💡 [Filosofia TRIWI](../triwi/filosofia-triwi.md): Os princípios que guiam nossa abordagem.
+- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais que fazem da TRIWI referência em SEO + GEO.
+- 💡 [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que guiam nossa abordagem.
 - 📖 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework de qualidade que LLMs também reconhecem.
 
-**Quer que sua marca seja a resposta, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer que sua marca seja a resposta, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

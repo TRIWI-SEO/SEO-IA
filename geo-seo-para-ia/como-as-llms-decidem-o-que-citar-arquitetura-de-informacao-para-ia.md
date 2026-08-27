@@ -4,7 +4,7 @@ Como LLMs citam informações é o resultado de um processo técnico que combina
 
 Entender esse pipeline é o que separa otimização genérica de otimização estratégica. A maioria das empresas tenta "aparecer nas IAs" sem compreender como as IAs selecionam fontes. É como tentar rankear no Google sem entender [como o Google funciona](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md). O resultado é esforço desperdiçado em táticas que não correspondem à mecânica real do sistema.
 
-Esta página é conteúdo técnico-educativo avançado, a base conceitual que sustenta toda a estratégia de [GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md). Na TRIWI, não otimizamos "para a IA" de forma genérica, estudamos os mecanismos de cada plataforma para posicionar as marcas dos clientes nas fontes que as LLMs consultam. Entender a mecânica é o primeiro passo.
+Esta página é conteúdo técnico-educativo avançado, a base conceitual que sustenta toda a estratégia de [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md). Na TRIWI, não otimizamos "para a IA" de forma genérica, estudamos os mecanismos de cada plataforma para posicionar as marcas dos clientes nas fontes que as LLMs consultam. Entender a mecânica é o primeiro passo.
 
 ---
 
@@ -133,15 +133,15 @@ Consistência é diferente de repetição mecânica. Não é publicar o mesmo te
 
 Entender como LLMs decidem o que citar é a base de toda estratégia de GEO eficaz. O funil de citação, descoberta, avaliação, seleção, citação, revela que a visibilidade nas IAs não é aleatória: é o resultado de presença nas fontes certas, conteúdo estruturado para extração, autoridade construída por consenso e dados verificáveis que a IA confia em citar.
 
-Se sua empresa quer ser a fonte que as IAs selecionam, e não uma entre milhares que são ignoradas, conheça a [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/) que fundamenta nossa abordagem e entenda como estudamos a mecânica de cada plataforma para posicionar as marcas dos clientes nas respostas.
+Se sua empresa quer ser a fonte que as IAs selecionam, e não uma entre milhares que são ignoradas, conheça a [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) que fundamenta nossa abordagem e entenda como estudamos a mecânica de cada plataforma para posicionar as marcas dos clientes nas respostas.
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
 - 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
 - 🏗️ [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema que facilita a extração pelas LLMs.
 - ✍️ [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Como criar conteúdo que o funil de citação seleciona.
 - 🔧 [Como Funciona o Google: Rastreamento, Indexação e Rankeamento](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md), O funil do Google, base de comparação.
 - 📖 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), Sinais de autoridade reconhecidos pelas LLMs.
 
-**Quer entender como posicionar sua marca no funil de citação das IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer entender como posicionar sua marca no funil de citação das IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

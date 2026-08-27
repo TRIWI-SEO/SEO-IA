@@ -4,7 +4,7 @@ Dados estruturados para IA são implementações de Schema markup que comunicam 
 
 Na era da IA generativa, dados estruturados deixaram de ser apenas sobre rich snippets no Google. Análises recentes mostram que 65% das páginas citadas pelo AI Mode do Google e 71% das páginas citadas pelo ChatGPT contêm dados estruturados. Conteúdo com Schema markup bem implementado tem 2,5x mais chances de aparecer em respostas geradas por IA. E páginas com FAQPage schema são 3,2x mais propensas a serem citadas em AI Overviews, o maior multiplicador de citação entre todos os tipos de schema testados.
 
-Esta página conecta dois mundos: o [SEO técnico de dados estruturados](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md) e o [GEO (Generative Engine Optimization)](o-que-e-geo-generative-engine-optimization-guia-completo.md). É a interseção onde a otimização técnica encontra a nova fronteira da visibilidade digital, e onde a implementação correta pode ser a diferença entre ser citado e ser ignorado pelas IAs.
+Esta página conecta dois mundos: o [SEO técnico de dados estruturados](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md) e o [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md). É a interseção onde a otimização técnica encontra a nova fronteira da visibilidade digital, e onde a implementação correta pode ser a diferença entre ser citado e ser ignorado pelas IAs.
 
 ---
 
@@ -34,7 +34,7 @@ IAs generativas processam dados estruturados de três formas complementares.
 
 ## 🏗️ Schemas Prioritários para GEO
 
-Nem todo tipo de Schema tem o mesmo impacto na visibilidade em IAs generativas. A priorização para [GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md) deve considerar quais schemas comunicam os sinais que LLMs mais valorizam: identidade de entidade, autoridade, e conteúdo citável.
+Nem todo tipo de Schema tem o mesmo impacto na visibilidade em IAs generativas. A priorização para [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) deve considerar quais schemas comunicam os sinais que LLMs mais valorizam: identidade de entidade, autoridade, e conteúdo citável.
 
 ### Organization: Identidade da Marca
 
@@ -124,7 +124,7 @@ Com base nos dados de 2026, as best practices para Schema orientado a AI Overvie
 
 **Validação obrigatória.** Sempre valide a implementação com o Rich Results Test do Google e o Schema Markup Validator. Erros de sintaxe no JSON-LD não geram penalização, mas impedem que a IA interprete os dados, anulando o benefício.
 
-A implementação de dados estruturados orientados a IA é parte da otimização técnica avançada da TRIWI, executada nos primeiros meses de operação com cada cliente e ajustada continuamente. É um dos fatores que contribuiu para resultados como +6.400% em AI Overviews para o Sem Parar e +2.000% para a Valid/Flexdoc. Na [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) de 12 etapas e 300+ atividades, dados estruturados não são item opcional; são infraestrutura de visibilidade.
+A implementação de dados estruturados orientados a IA é parte da otimização técnica avançada da TRIWI, executada nos primeiros meses de operação com cada cliente e ajustada continuamente. É um dos fatores que contribuiu para resultados como +6.400% em AI Overviews para o Sem Parar e +2.000% para a Valid/Flexdoc. Na [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) de 12 etapas e 300+ atividades, dados estruturados não são item opcional; são infraestrutura de visibilidade.
 
 ---
 
@@ -132,14 +132,14 @@ A implementação de dados estruturados orientados a IA é parte da otimização
 
 Dados estruturados são a ponte entre o conteúdo do seu site e a compreensão das IAs. Na era generativa, implementar Schema markup bem feito não é otimização cosmética; é infraestrutura que determina se a IA entende, confia e cita seu conteúdo. Cada propriedade preenchida, cada entidade conectada, cada FAQ marcado é um sinal que aumenta a probabilidade de aparecer onde seus clientes estão buscando, no Google e nas IAs.
 
-Se sua empresa quer implementar dados estruturados orientados a GEO, com a profundidade técnica que gera resultados como os do Sem Parar e da Valid, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/) e entenda como a otimização técnica se integra à estratégia completa de SEO + GEO.
+Se sua empresa quer implementar dados estruturados orientados a GEO, com a profundidade técnica que gera resultados como os do Sem Parar e da Valid, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como a otimização técnica se integra à estratégia completa de SEO + GEO.
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
+- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
 - 🔮 [AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md), Onde dados estruturados fazem mais diferença.
 - 🏗️ [Schema Markup e Dados Estruturados para SEO](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): O guia técnico completo de Schema para SEO.
 - 📖 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework que dados estruturados reforçam.
 - ⚙️ [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): O panorama completo de SEO técnico.
 
-**Quer implementar dados estruturados que colocam sua marca nas respostas das IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/).
+**Quer implementar dados estruturados que colocam sua marca nas respostas das IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
