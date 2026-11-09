@@ -10,7 +10,7 @@ A própria TRIWI é uma empresa de serviços que aplica na operação o que impl
 
 ---
 
-## 🔍 O Desafio de SEO para Serviços
+## O Desafio de SEO para Serviços
 
 Empresas de serviços enfrentam um desafio que produtos físicos e softwares não enfrentam: o que vendem é invisível até ser entregue. O SEO precisa superar essa barreira, construindo credibilidade e tangibilizando valor antes da venda.
 
@@ -34,7 +34,7 @@ Do ponto de vista do SEO, prova social também é um ativo de rankeamento. Pági
 
 ---
 
-## 🎯 Estratégia de Keywords para Serviços
+## Estratégia de Keywords para Serviços
 
 A [pesquisa de palavras-chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md) para serviços opera em três camadas que refletem a jornada do prospect: busca pelo serviço, busca pelo problema e busca pela melhor empresa.
 
@@ -58,7 +58,7 @@ Essas keywords são particularmente relevantes para GEO, quando o prospect pergu
 
 ---
 
-## 📝 Conteúdo Que Gera Leads para Serviços
+## Conteúdo Que Gera Leads para Serviços
 
 O conteúdo para empresas de serviços precisa equilibrar quatro funções: ranquear no Google, ser citável por IAs, demonstrar expertise e converter visitantes em leads.
 
@@ -88,7 +88,7 @@ Guias completos ("Como Escolher uma Empresa de [Serviço]") capturam o topo do f
 
 ---
 
-## 🏆 Autoridade e Confiança para Empresas de Serviços
+## Autoridade e Confiança para Empresas de Serviços
 
 A construção de [autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md) para empresas de serviços combina presença em canais do setor, autoria qualificada e otimização local.
 
@@ -112,7 +112,7 @@ Reviews no GBP funcionam como prova social indexável: o volume de avaliações,
 
 ---
 
-## 🤖 GEO para Serviços: Quando o Prospect Pergunta à IA
+## GEO para Serviços: Quando o Prospect Pergunta à IA
 
 A [otimização para IAs generativas](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md) tem impacto crescente para empresas de serviços. A pergunta "qual a melhor empresa de [serviço]?" está migrando do Google para ChatGPT e Perplexity, e a empresa que não aparece nessa resposta perde leads para concorrentes que aparecem.
 
@@ -126,11 +126,13 @@ O [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-su
 
 > **Página completa no site:** a página [SEO para Serviços](https://triwi.com.br/seo-para-servicos/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos) da TRIWI aprofunda este tema e é atualizada continuamente.
 
+**Ver também no Glossário da TRIWI:** [Google Business Profile](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos#seo-google-business-profile), [Autoria](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos#seo-autoria), [E-E-A-T](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos#seo-e-e-a-t), [Prova social](https://triwi.com.br/glossario/marketing/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos#marketing-prova-social).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 SEO para empresas de serviços é a construção de credibilidade digital que transforma buscas orgânicas em leads qualificados. O conteúdo que demonstra expertise, os cases que provam resultado e a autoridade que posiciona a empresa como referência, tudo isso trabalhando 24/7 para gerar agendamentos, orçamentos e contratos sem custo marginal por lead.
 
@@ -138,11 +140,11 @@ A TRIWI é, ela própria, uma empresa de serviços que vive o que ensina. Com [m
 
 Explore as páginas relacionadas:
 
-- 🏢 [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
-- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a serviços.
-- 🏅 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O pilar de confiança para empresas de serviços.
-- 🔗 [Link Building: Guia Completo de Construção de Autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Construção de autoridade para serviços.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado ao setor de serviços.
-- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
+- [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
+- [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a serviços.
+- [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O pilar de confiança para empresas de serviços.
+- [Link Building: Guia Completo de Construção de Autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Construção de autoridade para serviços.
+- [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado ao setor de serviços.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
 
 **Quer que sua empresa de serviços gere leads qualificados via orgânico?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

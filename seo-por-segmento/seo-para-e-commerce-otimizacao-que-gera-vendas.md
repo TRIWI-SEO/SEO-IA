@@ -10,7 +10,7 @@ A TRIWI atende e-commerces como Polishop, Lupo e Grendene, onde SEO precisa gera
 
 ---
 
-## 💰 Por Que SEO é o Canal Mais Rentável para E-commerce
+## Por Que SEO é o Canal Mais Rentável para E-commerce
 
 Em um setor onde margens são apertadas e o CAC de mídia paga cresce ano a ano, o SEO se destaca como o canal de aquisição com melhor relação custo-resultado a médio e longo prazo.
 
@@ -36,7 +36,7 @@ O e-commerce que captura 1% a mais desse tráfego transacional pode adicionar mi
 
 ---
 
-## ⚙️ SEO Técnico para E-commerce
+## SEO Técnico para E-commerce
 
 O [SEO técnico](../seo-tecnico/seo-tecnico-guia-completo.md) é a fundação sobre a qual todo o restante se sustenta em e-commerce. Sites com catálogos extensos enfrentam desafios técnicos que não existem em sites menores, e erros técnicos em escala podem significar milhares de páginas desindexadas.
 
@@ -74,7 +74,7 @@ Para [GEO](../geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-ge
 
 ---
 
-## 🛍️ Otimização de Páginas de Produto
+## Otimização de Páginas de Produto
 
 Páginas de produto são o destino final da jornada de compra orgânica, e, frequentemente, as mais negligenciadas em termos de SEO.
 
@@ -104,7 +104,7 @@ Reviews também geram rich snippets (estrelas de avaliação na SERP), aumentand
 
 ---
 
-## 📂 Otimização de Páginas de Categoria
+## Otimização de Páginas de Categoria
 
 Páginas de categoria são, frequentemente, as páginas mais valiosas de um e-commerce em termos de SEO, ranqueiam para keywords de alto volume e direcionam tráfego para múltiplos produtos.
 
@@ -120,7 +120,7 @@ A [estratégia de linkagem interna](../seo-de-conteudo/estrategia-de-conteudo-pa
 
 ---
 
-## 📝 Conteúdo para E-commerce
+## Conteúdo para E-commerce
 
 Além das páginas de produto e categoria, o conteúdo editorial é o terceiro pilar do SEO para e-commerce, capturando tráfego informacional e diirecionando para conversão.
 
@@ -140,7 +140,7 @@ Nem todo e-commerce precisa de blog. Vale a pena quando: há keywords informacio
 
 ---
 
-## 📅 Sazonalidade e SEO
+## Sazonalidade e SEO
 
 A sazonalidade é uma das dinâmicas mais desafiadoras do SEO para e-commerce. Black Friday, Natal, Dia das Mães, Dia dos Namorados; cada data representa um pico de buscas e vendas que o e-commerce precisa capturar.
 
@@ -158,7 +158,7 @@ Uma URL perene como "sualoja.com.br/black-friday" que é atualizada anualmente c
 
 ---
 
-## 🤖 GEO para E-commerce
+## GEO para E-commerce
 
 A [otimização para IAs generativas](../geo-seo-para-ia/geo-para-e-commerce-otimizacao-de-produtos-para-ias-generativas.md) está transformando como consumidores descobrem e comparam produtos. O ChatGPT, Perplexity e Gemini já são canais de recomendação de compra, e o tráfego de LLMs para e-commerces brasileiros cresceu mais de 520% entre 2024 e 2025.
 
@@ -178,11 +178,13 @@ A [Metodologia TRIWI](../metodologia-triwi.md) implementa dados estruturados ava
 
 > **Página completa no site:** a página [SEO para E-commerce](https://triwi.com.br/seo-para-ecommerce/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-e-commerce-otimizacao-que-gera-vendas) da TRIWI aprofunda este tema e é atualizada continuamente.
 
+**Ver também no Glossário da TRIWI:** [SEO para e-commerce](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-e-commerce-otimizacao-que-gera-vendas#seo-seo-para-e-commerce), [Dados estruturados](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-e-commerce-otimizacao-que-gera-vendas#seo-dados-estruturados), [Navegação facetada](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-e-commerce-otimizacao-que-gera-vendas#seo-navegacao-facetada), [Tráfego orgânico](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-e-commerce-otimizacao-que-gera-vendas#seo-trafego-organico), [SEO técnico](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-e-commerce-otimizacao-que-gera-vendas#seo-seo-tecnico).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 SEO para e-commerce é o canal que transforma visibilidade orgânica em vendas, com CAC decrescente, margem superior e efeito composto que se acumula mês a mês. Da arquitetura técnica às páginas de produto, do conteúdo editorial à presença nas IAs, cada elemento da estratégia contribui para um e-commerce que vende mais sem depender exclusivamente de mídia paga.
 
@@ -190,13 +192,13 @@ A TRIWI atende e-commerces como Polishop, Lupo e Grendene com uma [Metodologia](
 
 Explore as páginas relacionadas:
 
-- 🏢 [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
-- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a e-commerce.
-- ⚙️ [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): A base técnica que sustenta e-commerces de alta performance.
-- ⚡ [Core Web Vitals: Performance Que Impacta Rankeamento](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md): Velocidade que vende.
-- 🏗️ [Schema Markup e Dados Estruturados para SEO](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): Dados estruturados essenciais para lojas virtuais.
-- 🛒 [GEO para E-commerce: Otimização de Produtos para IAs Generativas](../geo-seo-para-ia/geo-para-e-commerce-otimizacao-de-produtos-para-ias-generativas.md), Como seus produtos aparecem nas recomendações das IAs.
-- 📊 [Métricas de SEO Que Importam: KPIs Focados em Negócio](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md), KPIs que fazem sentido para e-commerce.
-- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
+- [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
+- [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados a e-commerce.
+- [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): A base técnica que sustenta e-commerces de alta performance.
+- [Core Web Vitals: Performance Que Impacta Rankeamento](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md): Velocidade que vende.
+- [Schema Markup e Dados Estruturados para SEO](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): Dados estruturados essenciais para lojas virtuais.
+- [GEO para E-commerce: Otimização de Produtos para IAs Generativas](../geo-seo-para-ia/geo-para-e-commerce-otimizacao-de-produtos-para-ias-generativas.md), Como seus produtos aparecem nas recomendações das IAs.
+- [Métricas de SEO Que Importam: KPIs Focados em Negócio](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md), KPIs que fazem sentido para e-commerce.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
 
 **Quer que seu e-commerce venda mais via orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

@@ -10,7 +10,7 @@ A TRIWI atende marcas de varejo como O Boticário, Lupo e Lorenzetti, onde a est
 
 ---
 
-## 🏬 O Varejo na Era da Busca Digital
+## O Varejo na Era da Busca Digital
 
 A transformação digital do varejo não é sobre abandonar a loja física; é sobre garantir que a presença digital direcione consumidores para todos os pontos de venda, físicos e digitais.
 
@@ -28,7 +28,7 @@ A convergência online-offline é o diferencial do varejo. Um consumidor que pes
 
 ---
 
-## ⚖️ SEO para Varejo vs. SEO para E-commerce
+## SEO para Varejo vs. SEO para E-commerce
 
 Varejo e [e-commerce](seo-para-e-commerce-otimizacao-que-gera-vendas.md) compartilham fundamentos, mas as dinâmicas operacionais criam diferenças estratégicas importantes.
 
@@ -50,7 +50,7 @@ A [pesquisa de keywords sazonais](../seo-de-conteudo/pesquisa-de-palavras-chave-
 
 ---
 
-## 📍 SEO Local para Redes de Varejo
+## SEO Local para Redes de Varejo
 
 O SEO local é a camada mais impactante para varejo com lojas físicas. Cada unidade é um ponto de conversão que precisa de visibilidade própria nas buscas regionais.
 
@@ -74,7 +74,7 @@ A estratégia de reviews envolve: solicitar avaliações de clientes satisfeitos
 
 ---
 
-## 📦 SEO para Catálogos Extensos
+## SEO para Catálogos Extensos
 
 Gerenciar SEO para catálogos com milhares de SKUs exige automação inteligente e processos escaláveis.
 
@@ -96,7 +96,7 @@ A [arquitetura de site](../seo-tecnico/arquitetura-de-site-para-seo.md) para var
 
 ---
 
-## 📝 Estratégia de Conteúdo para Varejo
+## Estratégia de Conteúdo para Varejo
 
 O conteúdo editorial para varejo captura tráfego informacional e posiciona a marca como referência no estilo de vida do consumidor.
 
@@ -114,7 +114,7 @@ A estratégia eficaz usa páginas perenes atualizadas anualmente: "/presentes-di
 
 ---
 
-## 🤖 GEO para Varejo: Presença nas IAs
+## GEO para Varejo: Presença nas IAs
 
 A [otimização para IAs generativas](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md) está criando um novo canal de descoberta para o varejo. Consumidores já perguntam ao ChatGPT e Perplexity sobre produtos, lojas e recomendações, e essa tendência só acelera.
 
@@ -132,11 +132,13 @@ O tráfego de LLMs para varejistas brasileiros cresce exponencialmente. Cada rec
 
 > **Página completa no site:** a página [SEO para Varejo](https://triwi.com.br/seo-para-varejo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital) da TRIWI aprofunda este tema e é atualizada continuamente.
 
+**Ver também no Glossário da TRIWI:** [Google Business Profile](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital#seo-google-business-profile), [SEO para e-commerce](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital#seo-seo-para-e-commerce), [SEO local](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital#seo-seo-local), [Omnichannel](https://triwi.com.br/glossario/marketing/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital#marketing-omnichannel).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 SEO para varejo é a estratégia omnichannel que conecta busca digital a vendas, no site e na loja. Da presença local no Google Maps ao conteúdo sazonal que captura datas comemorativas, cada elemento trabalha em conjunto para garantir que o consumidor encontre sua marca onde quer que pesquise.
 
@@ -144,11 +146,11 @@ A TRIWI atende marcas de varejo como O Boticário, Lupo e Lorenzetti com uma est
 
 Explore as páginas relacionadas:
 
-- 🏢 [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
-- 🛒 [SEO para E-commerce: Otimização Que Gera Vendas](seo-para-e-commerce-otimizacao-que-gera-vendas.md), SEO para lojas virtuais, fundamentos compartilhados com varejo.
-- 📍 [SEO Local: Como Aparecer nas Buscas da Sua Região](../fundamentos-de-seo/seo-local-como-aparecer-nas-buscas-da-sua-regiao.md), O guia completo de SEO local para lojas físicas.
-- ⚙️ [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): A base técnica para catálogos extensos.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado ao varejo.
-- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
+- [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
+- [SEO para E-commerce: Otimização Que Gera Vendas](seo-para-e-commerce-otimizacao-que-gera-vendas.md), SEO para lojas virtuais, fundamentos compartilhados com varejo.
+- [SEO Local: Como Aparecer nas Buscas da Sua Região](../fundamentos-de-seo/seo-local-como-aparecer-nas-buscas-da-sua-regiao.md), O guia completo de SEO local para lojas físicas.
+- [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): A base técnica para catálogos extensos.
+- [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado ao varejo.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
 
 **Quer que sua marca de varejo venda mais, no digital e na loja?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

@@ -10,7 +10,7 @@ A TRIWI atende indústrias como John Deere, Tigre, Pirelli, CAT e Lorenzetti, on
 
 ---
 
-## 🏭 O Cenário Digital da Indústria Brasileira
+## O Cenário Digital da Indústria Brasileira
 
 O setor industrial brasileiro vive um paradoxo digital: o comprador já é digital, mas a maioria dos fornecedores ainda não. Essa assimetria cria uma janela de oportunidade enorme para empresas industriais que investem em visibilidade orgânica.
 
@@ -30,7 +30,7 @@ Isso significa que o primeiro contato do comprador com sua empresa não é a lig
 
 ---
 
-## ⚙️ Particularidades de SEO para Indústria
+## Particularidades de SEO para Indústria
 
 O SEO industrial opera com regras diferentes de outros segmentos. As keywords, o conteúdo e as métricas exigem uma abordagem que reflita a realidade do comprador técnico.
 
@@ -56,7 +56,7 @@ O SEO precisa cobrir toda essa jornada: conteúdo técnico para o engenheiro (fi
 
 ---
 
-## 📝 Conteúdo para o Setor Industrial
+## Conteúdo para o Setor Industrial
 
 O conteúdo industrial precisa falar a língua do comprador técnico, com profundidade, precisão e dados que nenhum conteúdo genérico consegue oferecer.
 
@@ -86,7 +86,7 @@ Para SEO, cases de aplicação capturam long tails de meio e fundo de funil: "ap
 
 ---
 
-## 🔧 SEO Técnico para Sites Industriais
+## SEO Técnico para Sites Industriais
 
 O [SEO técnico](../seo-tecnico/seo-tecnico-guia-completo.md) para sites industriais lida com dois desafios principais: catálogos extensos e operação internacional.
 
@@ -104,7 +104,7 @@ A TRIWI atende indústrias globais como John Deere, Pirelli e CAT, onde a estrat
 
 ---
 
-## 🔗 Link Building para Indústria
+## Link Building para Indústria
 
 A construção de [autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md) no setor industrial segue caminhos específicos que refletem o ecossistema de informação do setor.
 
@@ -122,7 +122,7 @@ Além do link direto, a presença em diretórios de associações reforça a aut
 
 ---
 
-## 🤖 GEO para Indústria: Ser Recomendado Quando a IA Responde
+## GEO para Indústria: Ser Recomendado Quando a IA Responde
 
 A [otimização para IAs generativas](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md) está chegando ao setor industrial. Engenheiros e compradores já usam ChatGPT e Perplexity para pesquisar especificações, comparar fornecedores e buscar recomendações técnicas.
 
@@ -140,11 +140,13 @@ A [estratégia de GEO](../o-que-e-geo-generative-engine-optimization-guia-comple
 
 > **Página completa no site:** a página [SEO para Indústria](https://triwi.com.br/seo-para-industria/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-industria-visibilidade-digital-para-o-setor-industrial) da TRIWI aprofunda este tema e é atualizada continuamente.
 
+**Ver também no Glossário da TRIWI:** [Link building](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-industria-visibilidade-digital-para-o-setor-industrial#seo-link-building), [SEO técnico](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-industria-visibilidade-digital-para-o-setor-industrial#seo-seo-tecnico), [Indexação](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-industria-visibilidade-digital-para-o-setor-industrial#seo-indexacao).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 SEO para indústria é a estratégia que coloca fabricantes e fornecedores onde o comprador técnico já está buscando, no Google e nas IAs. Em um setor onde poucos competem bem no digital, a oportunidade é desproporcional: keywords menos disputadas, autoridade mais fácil de construir e leads de altíssimo valor esperando para serem capturados.
 
@@ -152,12 +154,12 @@ A TRIWI atende indústrias como John Deere, Tigre, Pirelli, CAT e Lorenzetti com
 
 Explore as páginas relacionadas:
 
-- 🏢 [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
-- 💼 [SEO para B2B: Como Gerar Leads Qualificados via Orgânico](seo-para-b2b-como-gerar-leads-qualificados-via-organico.md), Fundamentos de SEO B2B aplicáveis à indústria.
-- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO.
-- 🏅 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), Autoridade técnica como pilar de rankeamento.
-- 🔗 [Link Building: Guia Completo de Construção de Autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Construção de autoridade para o setor industrial.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado à indústria.
-- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
+- [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), Por que cada setor precisa de estratégia própria.
+- [SEO para B2B: Como Gerar Leads Qualificados via Orgânico](seo-para-b2b-como-gerar-leads-qualificados-via-organico.md), Fundamentos de SEO B2B aplicáveis à indústria.
+- [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO.
+- [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), Autoridade técnica como pilar de rankeamento.
+- [Link Building: Guia Completo de Construção de Autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Construção de autoridade para o setor industrial.
+- [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado à indústria.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
 
 **Quer que sua indústria gere leads qualificados via orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

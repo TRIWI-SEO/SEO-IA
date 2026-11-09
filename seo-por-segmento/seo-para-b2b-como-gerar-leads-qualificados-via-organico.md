@@ -10,7 +10,7 @@ A TRIWI atende empresas B2B como Valid, John Deere, B3, Contato Seguro e AX4B; c
 
 ---
 
-## 🔍 O Cenário de SEO para B2B
+## O Cenário de SEO para B2B
 
 O SEO para B2B opera em um ambiente fundamentalmente diferente do B2C. Três características definem essa diferença e moldam toda a estratégia: o ciclo de venda, a multiplicidade de decisores e a relação entre volume de busca e valor por lead.
 
@@ -40,7 +40,7 @@ A métrica que importa não é tráfego. É receita influenciada pelo orgânico.
 
 ---
 
-## 🎯 Estratégia de Keywords para B2B
+## Estratégia de Keywords para B2B
 
 A [pesquisa de palavras-chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md) para B2B exige uma abordagem que vai além de volume de busca. O mapeamento precisa considerar a intenção do decisor, o estágio da jornada e o valor econômico de cada conversão.
 
@@ -72,7 +72,7 @@ Mapear keywords por persona garante que o conteúdo orgânico alcance todos os d
 
 ---
 
-## 📝 Conteúdo B2B Que Rankeia e Converte
+## Conteúdo B2B Que Rankeia e Converte
 
 Conteúdo B2B eficaz serve dois objetivos simultâneos: ranquear no Google (e nas IAs) e gerar leads qualificados. Conteúdo que só ranqueia gera tráfego sem valor. Conteúdo que só converte não tem alcance. A estratégia precisa equilibrar ambos.
 
@@ -102,7 +102,7 @@ Na prática, uma empresa de software B2B pode ter hubs para "compliance", "LGPD"
 
 ---
 
-## ⚙️ SEO Técnico para Sites B2B
+## SEO Técnico para Sites B2B
 
 O [SEO técnico](../seo-tecnico/seo-tecnico-guia-completo.md) em sites B2B tem desafios específicos que vão além do básico de velocidade e responsividade.
 
@@ -120,7 +120,7 @@ A estrutura que funciona combina: conteúdo educativo no topo da página (respon
 
 ---
 
-## 🔗 Link Building e Autoridade em B2B
+## Link Building e Autoridade em B2B
 
 A construção de [autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md) no B2B segue caminhos diferentes do B2C. O foco é qualidade e relevância setorial, não volume.
 
@@ -140,7 +140,7 @@ Pesquisas originais, benchmarks do setor e relatórios com dados proprietários 
 
 ---
 
-## 🤖 GEO para B2B: Quando o Decisor Pergunta à IA
+## GEO para B2B: Quando o Decisor Pergunta à IA
 
 A [otimização para IAs generativas](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md) (GEO) tem impacto particular no B2B, onde decisores estão entre os maiores usuários de ferramentas como ChatGPT e Perplexity para pesquisa de fornecedores.
 
@@ -160,7 +160,7 @@ A [Metodologia TRIWI](../metodologia-triwi.md) integra GEO ao SEO desde o primei
 
 ---
 
-## 📊 Métricas de SEO B2B Que Importam
+## Métricas de SEO B2B Que Importam
 
 O erro mais comum em SEO para B2B é mensurar pelo tráfego. Tráfego é uma métrica de vaidade no B2B, o que importa é o que o tráfego gera em pipeline e receita.
 
@@ -180,11 +180,13 @@ A TRIWI reporta essas métricas, não "posições conquistadas", porque é assim
 
 > **Página completa no site:** a página [SEO para B2B](https://triwi.com.br/seo-para-b2b/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-b2b-como-gerar-leads-qualificados-via-organico) da TRIWI aprofunda este tema e é atualizada continuamente.
 
+**Ver também no Glossário da TRIWI:** [Conversão orgânica](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-b2b-como-gerar-leads-qualificados-via-organico#seo-conversao-organica), [Volume de busca](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-b2b-como-gerar-leads-qualificados-via-organico#seo-volume-de-busca), [Link building](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-b2b-como-gerar-leads-qualificados-via-organico#seo-link-building), [SEO técnico](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-b2b-como-gerar-leads-qualificados-via-organico#seo-seo-tecnico).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 SEO para B2B não é sobre gerar milhões de visitas. É sobre posicionar sua empresa onde os decisores buscam informação, no Google e nas IAs, com conteúdo que demonstra expertise, constrói confiança e gera leads qualificados que viram receita.
 
@@ -194,12 +196,12 @@ Se sua empresa B2B quer transformar SEO em canal de geração de leads qualifica
 
 Explore as páginas relacionadas:
 
-- 🏢 [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), A visão completa de por que cada setor precisa de estratégia própria.
-- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
-- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados ao B2B.
-- 📝 [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como estruturar conteúdo que rankeia e converte.
-- 🔗 [Link Building: Guia Completo de Construção de Autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Construção de autoridade para empresas B2B.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado ao cenário B2B.
-- 📊 [Métricas de SEO Que Importam: KPIs Focados em Negócio](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md), As métricas que decisores B2B precisam acompanhar.
+- [SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md), A visão completa de por que cada setor precisa de estratégia própria.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais de uma agência 100% especializada em SEO e GEO.
+- [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO aplicados ao B2B.
+- [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como estruturar conteúdo que rankeia e converte.
+- [Link Building: Guia Completo de Construção de Autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md), Construção de autoridade para empresas B2B.
+- [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), GEO aplicado ao cenário B2B.
+- [Métricas de SEO Que Importam: KPIs Focados em Negócio](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md), As métricas que decisores B2B precisam acompanhar.
 
 **Quer que sua empresa B2B gere leads qualificados via orgânico, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

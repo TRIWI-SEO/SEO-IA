@@ -6,7 +6,7 @@ Esta categoria cobre 6 segmentos de mercado, B2B, SaaS, Serviços, Indústria, E
 
 ---
 
-## 🧭 O Que Você Encontra Nesta Categoria
+## O Que Você Encontra Nesta Categoria
 
 As 8 páginas desta categoria cobrem os segmentos onde a TRIWI tem cases, dados e experiência real de operação. Cada página vai além do genérico: detalha as particularidades de SEO para aquele setor específico, com estratégias, métricas relevantes e cases com resultados mensuráveis.
 
@@ -14,39 +14,39 @@ Usando a analogia médica: tratar uma consulta de cardiologia e uma de dermatolo
 
 ---
 
-## 📄 Páginas da Categoria
+## Páginas da Categoria
 
-### 🎯 [6.1, SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md)
+### [6.1, SEO por Segmento de Mercado: Por Que Cada Setor Exige Uma Estratégia Diferente](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md)
 
 A página-pilar da categoria. Explica as 3 variáveis que definem por que cada segmento precisa de uma estratégia própria: jornada de compra, intenção de busca e ciclo de venda. Compara como essas variáveis se manifestam em cada setor e por que agências generalistas falham em segmentos especializados, a diferença entre entender SEO e entender o negócio do cliente.
 
-### 🏢 [6.2, SEO para B2B: Como Gerar Leads Qualificados via Orgânico](seo-para-b2b-como-gerar-leads-qualificados-via-organico.md)
+### [6.2, SEO para B2B: Como Gerar Leads Qualificados via Orgânico](seo-para-b2b-como-gerar-leads-qualificados-via-organico.md)
 
 SEO para vendas complexas, ciclos longos e múltiplos decisores. O que importa não é volume de tráfego; é qualidade do lead: MQLs e SQLs que viram contratos de alto valor. Cobre SEO como canal de nutrição no ciclo de 3 a 12 meses, conteúdo segmentado por stakeholder (C-level, técnico, compras) e métricas de negócio (pipeline influenciado, CAC orgânico). Case Contato Seguro: 65% das vendas via orgânico, +654% de crescimento, +1.100% tráfego de LLMs.
 
-### 💻 [6.3, SEO para SaaS: Crescimento Orgânico para Empresas de Software](seo-para-saas-crescimento-organico-para-empresas-de-software.md)
+### [6.3, SEO para SaaS: Crescimento Orgânico para Empresas de Software](seo-para-saas-crescimento-organico-para-empresas-de-software.md)
 
 O canal que reduz CAC enquanto todos os outros o aumentam. Para SaaS, onde CAC define viabilidade, o SEO transforma marketing de despesa variável em investimento com retorno composto. Cobre content-led growth, otimização de páginas de feature e solução, presença em sites de review que LLMs consultam (G2, Capterra) e a lógica de trials/demos/signups via orgânico. Redução média de CAC de -40% nos clientes TRIWI.
 
-### 🤝 [6.4, SEO para Serviços: Como Empresas de Serviços Geram Leads Orgânicos](seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md)
+### [6.4, SEO para Serviços: Como Empresas de Serviços Geram Leads Orgânicos](seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md)
 
 SEO para quem vende expertise, confiança e resultado, elementos intangíveis que o conteúdo precisa tangibilizar. E-E-A-T é o pilar central: autoria clara, dados da operação real, credenciais verificáveis. Cobre as dinâmicas de consultoria, tecnologia, financeiro, saúde, jurídico e engenharia. A própria TRIWI é uma empresa de serviços que aplica na operação o que implementa para clientes, 100% dos clientes no Top 3, churn de 3,5 anos.
 
-### 🛒 [6.5, SEO para E-commerce: Otimização Que Gera Vendas](seo-para-e-commerce-otimizacao-que-gera-vendas.md)
+### [6.5, SEO para E-commerce: Otimização Que Gera Vendas](seo-para-e-commerce-otimizacao-que-gera-vendas.md)
 
 SEO para catálogos de milhares de páginas, navegação facetada, sazonalidade intensa e concorrência com marketplaces. Cada busca transacional é um consumidor com cartão de crédito na mão. Cobre otimização de páginas de produto e categoria, Schema de Product, conteúdo editorial de suporte e estratégia contra marketplaces. Clientes TRIWI: Polishop, Lupo, Grendene, com taxa de conversão 5X maior que a média do mercado.
 
-### 🏬 [6.6, SEO para Varejo: Estratégia Omnichannel e Visibilidade Digital](seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md)
+### [6.6, SEO para Varejo: Estratégia Omnichannel e Visibilidade Digital](seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md)
 
 SEO que conecta o digital ao físico. 81% dos consumidores pesquisam online antes de comprar na loja. Cobre a integração entre SEO nacional (marca, categorias), SEO local (cada unidade física) e estratégia sazonal (datas comemorativas, promoções). A convergência online-offline que faz do varejo um caso único em SEO. Clientes TRIWI: O Boticário, Lupo, Lorenzetti.
 
-### 🏭 [6.7, SEO para Indústria: Visibilidade Digital para o Setor Industrial](seo-para-industria-visibilidade-digital-para-o-setor-industrial.md)
+### [6.7, SEO para Indústria: Visibilidade Digital para o Setor Industrial](seo-para-industria-visibilidade-digital-para-o-setor-industrial.md)
 
 O segmento com o ROI mais desproporcional do SEO. Volume baixo, jargão técnico, valor por lead de centenas de milhares de reais, e a maioria dos concorrentes ainda não compete no digital. O comprador industrial completa 70% da jornada antes de contatar vendas. Cobre long tails técnicas, conteúdo por especificação e a janela de oportunidade que a baixa maturidade digital do setor cria. Clientes TRIWI: John Deere, Tigre, Pirelli, CAT, Lorenzetti.
 
 ---
 
-## 🎯 Por Onde Começar
+## Por Onde Começar
 
 Comece pela [página geral](README.md) para entender por que a segmentação importa. Depois, vá direto para a página do seu setor:
 
@@ -58,7 +58,7 @@ Para os fundamentos que sustentam todas as estratégias segmentadas, explore [Fu
 
 ---
 
-## 📩 Fale com a TRIWI
+## Fale com a TRIWI
 
 Precisa de uma estratégia de SEO construída para o seu segmento, não adaptada de um template genérico? [Entre em contato com a TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia), a agência que adapta a metodologia a cada segmento, com 50+ clientes ativos e resultados comprovados em B2B, SaaS, Serviços, Indústria, E-commerce e Varejo.
 
