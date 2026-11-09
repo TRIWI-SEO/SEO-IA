@@ -6,7 +6,7 @@ Este guia cobre o histórico completo das atualizações mais importantes, como 
 
 ---
 
-## O Que São Core Updates do Google
+## O que são core updates do Google?
 
 Core Updates são atualizações amplas e significativas no algoritmo de busca do Google. Diferente de ajustes menores (que acontecem diariamente), um Core Update muda a forma como o Google avalia a relevância, qualidade e autoridade de páginas em escala global. O impacto é sentido por milhões de sites simultaneamente, e os efeitos podem durar semanas ou meses.
 
@@ -24,7 +24,7 @@ Cada tipo de update tem implicações diferentes para diagnóstico e recuperaç�
 
 ---
 
-## Histórico de Updates Importantes
+## Quais foram os updates mais importantes?
 
 A história das atualizações do Google é, na prática, a história da evolução do SEO. Cada update marcante redefiniu o que funciona, eliminou práticas obsoletas e elevou o padrão de qualidade. Entender esse histórico não é exercício acadêmico; é contexto essencial para interpretar updates futuros.
 
@@ -84,7 +84,7 @@ Em 2026, o Google seguiu enxugando os resultados enriquecidos: desde 7 de maio d
 
 ---
 
-## Como um Core Update Afeta Seu Site
+## Como um core update afeta o seu site?
 
 Identificar corretamente o impacto de um Core Update é o que separa uma resposta estratégica de uma reação equivocada. Nem toda flutuação é update, nem toda queda é penalização, e nem toda recuperação exige as mesmas ações.
 
@@ -108,7 +108,7 @@ A vasta maioria das quedas após um Core Update não é penalização. É reclas
 
 ---
 
-## Como Se Recuperar de um Core Update Negativo
+## Como se recuperar de um core update negativo?
 
 A recuperação de um Core Update negativo não é rápida, não é garantida e não existe atalho. Mas é possível, com diagnóstico correto, execução disciplinada e paciência estratégica.
 
@@ -138,7 +138,7 @@ Não existe botão de "recuperação rápida." Algumas páginas se recuperam no 
 
 ---
 
-## Como Se Proteger de Updates Futuros
+## Como se proteger dos próximos updates?
 
 A melhor estratégia contra atualizações do Google não é reativa, é preventiva. Sites que são construídos com foco em qualidade real, diversificação estratégica e valor genuíno para o usuário não apenas sobrevivem a Core Updates, frequentemente melhoram posições quando eles acontecem.
 

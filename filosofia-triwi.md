@@ -46,7 +46,7 @@ A transição de visibilidade passiva para autoridade ativa exige estratégia de
 
 ---
 
-## Princípio 2: SEO É Equity, Mídia Paga É Aluguel
+## Princípio 2: por que SEO é equity e mídia paga é aluguel?
 
 Na TRIWI, acreditamos que SEO como investimento é uma das decisões mais inteligentes que uma empresa pode tomar para crescimento sustentável. A metáfora é simples e poderosa: SEO é como comprar um imóvel, mídia paga é como pagar aluguel.
 
@@ -97,7 +97,7 @@ Esse princípio é o que explica resultados como o da Contato Seguro: 65% de tod
 
 ---
 
-## Princípio 4: O Futuro das Buscas É Generativo
+## Princípio 4: por que o futuro das buscas é generativo?
 
 Na TRIWI, acreditamos que as buscas generativas não são uma tendência futura; são uma realidade presente. E quem não se adaptar agora vai perder terreno de forma irreversível.
 
