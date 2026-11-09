@@ -2,6 +2,8 @@
 
 GEO para e-commerce é a aplicação de estratégias de [Generative Engine Optimization](../o-que-e-geo-generative-engine-optimization-guia-completo.md) especificamente para lojas virtuais, otimizando páginas de produto, descrições, reviews, Schema markup e conteúdo de suporte para que seus produtos sejam recomendados quando consumidores perguntam a ChatGPT, Gemini, Claude ou Perplexity "qual o melhor [produto] para [necessidade]?". Essa pergunta acontece todos os dias, em escala, e a resposta da IA pode definir se o consumidor descobre sua marca ou a do concorrente.
 
+> **Página completa no site:** a página [SEO para E-commerce](https://triwi.com.br/seo-para-ecommerce/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=geo-para-e-commerce-otimizacao-de-produtos-para-ias-generativas) da TRIWI aprofunda este tema e é atualizada continuamente.
+
 Consumidores já pedem às IAs recomendações de produto antes de comprar, e o ChatGPT passou a exibir produtos dentro da conversa. Para o e-commerce, a IA virou mais uma vitrine, e quem não está nela não entra na comparação.
 
 Se seu e-commerce ainda otimiza apenas para o Google, está ignorando o canal de descoberta que mais cresce no varejo digital. Este guia mostra como otimizar produtos para IAs generativas, com dados, estratégias e implementação prática.
@@ -115,6 +117,10 @@ Queries de teste devem cobrir três tipos: queries de recomendação ("qual o me
 Use ferramentas de [Share of Model](share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md) para automatizar o monitoramento. Ferramentas como Otterly, Evertune e Rankio permitem rastrear menções da sua marca e dos concorrentes em LLMs, com histórico de evolução. Configure dashboards por categoria de produto e monitore a evolução do Share of Model mensal.
 
 O objetivo é quantificar: qual o Share of Model da sua marca para queries de compra do seu segmento? Qual concorrente domina? Quais categorias de produto têm menor visibilidade? Onde a otimização de Schema, conteúdo ou reviews pode ter maior impacto? Essas respostas direcionam a priorização, e transformam GEO de teoria em estratégia mensurável.
+
+> **Página completa no site:** a página [SEO para E-commerce](https://triwi.com.br/seo-para-ecommerce/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=geo-para-e-commerce-otimizacao-de-produtos-para-ias-generativas) da TRIWI aprofunda este tema e é atualizada continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ## Fontes
 

@@ -124,6 +124,8 @@ As best practices para Schema orientado a AI Overviews incluem:
 
 A implementação de dados estruturados orientados a IA é parte da otimização técnica avançada da TRIWI, executada nos primeiros meses de operação com cada cliente e ajustada continuamente. É um dos fatores que contribuiu para resultados como +6.400% em AI Overviews para o Sem Parar e +2.000% para a Valid/Flexdoc. Na [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) de 12 etapas e 300+ atividades, dados estruturados não são item opcional; são infraestrutura de visibilidade.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ## Fontes
 
 - [Google Search Central: dados estruturados de FAQ](https://developers.google.com/search/docs/appearance/structured-data/faqpage)

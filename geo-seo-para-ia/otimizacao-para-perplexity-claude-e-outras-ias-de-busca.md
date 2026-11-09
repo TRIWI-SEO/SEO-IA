@@ -128,6 +128,8 @@ Terceiro, efeito composto: a autoridade construída para uma plataforma benefici
 
 Na experiência da TRIWI com mais de 50 clientes, os resultados mais expressivos em GEO vêm de estratégias multiplataforma. O Sem Parar, por exemplo, teve +350% de tráfego proveniente de LLMs, não de uma LLM específica, mas do ecossistema como um todo. A Valid registrou +700% pelo mesmo motivo: presença construída em múltiplas fontes, com conteúdo estruturado para citabilidade universal.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ## Fontes
 
 - [Perplexity: robôs de rastreamento](https://docs.perplexity.ai/guides/bots)

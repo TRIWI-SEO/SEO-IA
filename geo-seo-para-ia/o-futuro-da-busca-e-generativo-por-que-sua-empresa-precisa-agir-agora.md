@@ -100,6 +100,8 @@ GEO não é projeto pontual; é processo contínuo. As respostas das IAs mudam c
 
 A [estratégia cross-platform](otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md) garante que o monitoramento cubra todo o ecossistema, não apenas uma plataforma. Cada LLM tem comportamento de citação distinto, e a otimização precisa ser ajustada por plataforma.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ## Fontes
 
 - [Gartner: projeção de queda do volume de buscas até 2026 (fevereiro de 2024)](https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents)

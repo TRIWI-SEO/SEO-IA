@@ -150,6 +150,8 @@ Isso cria uma janela de oportunidade para empresas que agem agora. Com menos com
 
 A TRIWI identificou e explorou essa oportunidade desde o lançamento dos AI Overviews no Brasil. Os resultados falam por si: o Sem Parar alcançou +6.400% de crescimento em AI Overviews com a estratégia GEO da TRIWI. A Valid/Flexdoc registrou +2.000%. Esses resultados vêm da combinação de conteúdo estruturado para citabilidade, dados estruturados avançados e construção de autoridade de entidade, aplicados de forma integrada com a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) de 12 etapas e 300+ atividades.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ## Fontes
 
 - [Seer Interactive: impacto dos AI Overviews no CTR do Google (novembro de 2025)](https://www.seerinteractive.com/insights/aio-impact-on-google-ctr-september-2025-update)

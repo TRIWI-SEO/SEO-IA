@@ -148,6 +148,8 @@ Cada LLM tem comportamento de citação diferente, e seu Share of Model pode var
 
 Ferramentas como Rankio e Otterly oferecem breakdown de Share of Model por plataforma, permitindo identificar onde sua marca performa bem e onde há gaps. A estratégia de otimização pode então ser direcionada: se o Share of Model é alto no ChatGPT mas baixo no Claude, a prioridade pode ser reforçar presença em reviews e validação de terceiros.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ## Fontes
 
 - [Business Insider: usuários e volume de mensagens do ChatGPT (2025)](https://www.aol.com/articles/3-years-old-800-million-090107388.html)

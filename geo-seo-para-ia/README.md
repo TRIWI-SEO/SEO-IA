@@ -70,6 +70,8 @@ E se precisar de motivação para agir, [a página sobre o futuro da busca](o-fu
 
 Para o contexto fundacional de como GEO se conecta ao SEO, veja [Fundamentos de SEO](../o-que-e-seo-guia-completo.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [Link Building e Autoridade](../link-building/README.md).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Fale com a TRIWI

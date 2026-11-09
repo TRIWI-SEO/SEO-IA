@@ -127,6 +127,8 @@ LLMs atribuem maior confiança a informações que aparecem de forma consistente
 
 Consistência é diferente de repetição mecânica. Não é publicar o mesmo texto em 10 lugares. É estar presente em contextos diversos, imprensa, setor, comunidade, academia, diretórios, com informação coerente e complementar. Cada menção reforça as demais. É construção de autoridade de entidade ao longo do tempo, e é uma das razões pelas quais os clientes da TRIWI permanecem conosco por 3,5 anos em média: os resultados em SEO e GEO são cumulativos.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ## Fontes
 
 - [GEO: Generative Engine Optimization (KDD 2024)](https://doi.org/10.1145/3637528.3671900): o estudo que formalizou o termo

@@ -156,6 +156,8 @@ Se você escrever cada conteúdo pensando "um jornalista (IA) vai ler isso e dec
 
 A TRIWI já opera com esse mindset em toda a produção de conteúdo para seus clientes. Os guidelines internos de GEO foram desenvolvidos com base na experiência de otimizar conteúdo para mais de 50 empresas, e os resultados validam a abordagem: clientes como Sem Parar (+350% tráfego de LLMs), Valid (+700%) e Contato Seguro (+1.100%) demonstram que conteúdo citável gera presença real nas IAs.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ## Fontes
 
 - [GEO: Generative Engine Optimization (KDD 2024)](https://doi.org/10.1145/3637528.3671900): o estudo que formalizou o termo

@@ -173,6 +173,8 @@ A fórmula conceitual é direta: de todas as vezes que um usuário pergunta a um
 
 A TRIWI utiliza o Share of Model como métrica central de GEO desde o início da operação com cada cliente. É a métrica que traduz "visibilidade nas IAs" em um número gerenciável, e que permite definir metas, acompanhar evolução e comparar com concorrentes. Quando reportamos que o Sem Parar teve +350% de tráfego de LLMs ou que a Valid teve +700%, o Share of Model é o indicador que sustenta esses resultados.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ## Fontes
 
 - [GEO: Generative Engine Optimization (KDD 2024)](https://doi.org/10.1145/3637528.3671900): o estudo que formalizou o termo
