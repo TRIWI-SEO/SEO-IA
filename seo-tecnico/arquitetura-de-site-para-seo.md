@@ -6,7 +6,7 @@ Esta página cobre os princípios de uma arquitetura que favorece o SEO, a estra
 
 ---
 
-## O Que é Arquitetura de Site para SEO
+## O que é arquitetura de site para SEO?
 
 Arquitetura de site, também chamada de arquitetura de informação ou estrutura de site, é o planejamento de como as páginas se organizam em categorias, subcategorias e hierarquias, e como se conectam umas às outras por meio de links internos. No contexto de SEO, a arquitetura vai além da usabilidade: ela determina como o [Googlebot](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md) rastreia o site, como a autoridade (link equity) flui entre as páginas e como o Google interpreta a relevância temática do domínio como um todo.
 
@@ -36,7 +36,7 @@ Na experiência da TRIWI com 50+ projetos ativos, problemas de arquitetura são 
 
 ---
 
-## Princípios de Uma Boa Arquitetura
+## Quais são os princípios de uma boa arquitetura?
 
 Uma arquitetura eficaz para SEO segue princípios que equilibram usabilidade humana e rastreabilidade por mecanismos de busca. Não existe um modelo único, a estrutura ideal depende do tipo de site, volume de conteúdo e objetivos de negócio, mas alguns princípios são universais.
 
@@ -64,9 +64,17 @@ A estrutura de URLs reflete, e reforça, a arquitetura do site. URLs limpas, des
 
 URLs descritivas com palavras-chave: `/seo-tecnico/core-web-vitals/` é infinitamente melhor que `/p?id=3847`. Hierarquia refletida na URL: `/blog/seo/fatores-rankeamento/` mostra ao Google que a página pertence ao tópico "SEO" dentro da seção "blog". URLs curtas e sem parâmetros desnecessários: cada parâmetro adicional (`?utm_source=...&session_id=...`) pode gerar URLs duplicadas que desperdiçam crawl budget. Hifens como separadores: o Google recomenda hifens (`-`) e não underscores (`_`) para separar palavras. Consistência: toda a estrutura de URLs do site deve seguir o mesmo padrão lógico.
 
+| Princípio | O que significa na prática |
+|:---|:---|
+| Hierarquia clara | Categorias e subcategorias que espelham como o público procura |
+| Profundidade rasa | Páginas importantes a poucos cliques da home |
+| Links internos | Páginas relacionadas ligadas entre si, com âncoras descritivas |
+| URLs coerentes | O endereço reflete a hierarquia do site |
+| Breadcrumbs | Caminho visível para o usuário e para o Google |
+
 ---
 
-## Siloing e Topic Clusters
+## Como usar siloing e topic clusters?
 
 A estratégia de organização temática é onde arquitetura de site e [estratégia de conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) se encontram. Siloing e topic clusters são abordagens que organizam o site por temas, criando "universos temáticos" que o Google reconhece como sinais de autoridade topical.
 
@@ -124,7 +132,7 @@ As soluções técnicas incluem: canonical tags apontando combinações de filtr
 
 ---
 
-## Reestruturação de Site Existente
+## Como reestruturar um site existente?
 
 Reestruturar a arquitetura de um site que já tem tráfego orgânico é uma das operações mais delicadas em SEO. Feita corretamente, pode multiplicar resultados. Feita sem cuidado, pode causar quedas de 30% a 70% no tráfego, com recuperação que leva meses.
 

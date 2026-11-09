@@ -6,7 +6,7 @@ Esta página cobre em profundidade como o rastreamento funciona, o que é crawl 
 
 ---
 
-## Rastreamento: Como o Google Encontra Suas Páginas
+## Como o Google encontra suas páginas?
 
 Rastreamento (crawling) é o processo pelo qual o [Google](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md) descobre páginas novas e atualizadas na web. O Googlebot, o crawler do Google, visita URLs, analisa o conteúdo e segue os links encontrados para descobrir mais páginas. Esse processo é contínuo: o Googlebot está constantemente revisitando páginas já conhecidas (para detectar atualizações) e descobrindo páginas novas (por meio de links ou sitemaps).
 
@@ -44,7 +44,7 @@ Incluir apenas URLs que devem ser indexadas, páginas com noindex, redirecioname
 
 ---
 
-## Crawl Budget: O Recurso Que Grandes Sites Não Podem Ignorar
+## O que é crawl budget e quando ele importa?
 
 Crawl budget é a combinação de dois fatores: o crawl rate limit (quantas requisições simultâneas o Googlebot pode fazer sem sobrecarregar o servidor) e o crawl demand (o interesse do Google em rastrear as URLs do site). Juntos, determinam quantas páginas do seu site o Google rastreia em um período de tempo.
 
@@ -80,7 +80,7 @@ Quando o crawl budget é desperdiçado em páginas de baixo valor (parâmetros d
 
 ---
 
-## Indexação: De Crawling para o Índice do Google
+## Como uma página entra no índice do Google?
 
 Depois de rastrear uma página, o Google decide se ela merece entrar no índice, a base de dados gigantesca de todas as páginas que podem aparecer nos resultados de busca. A indexação não é automática: o Google aplica critérios de qualidade, relevância e unicidade antes de incluir uma página.
 
@@ -114,7 +114,7 @@ A diferença entre robots.txt e meta robots: robots.txt impede o rastreamento (o
 
 ---
 
-## Diagnóstico de Problemas de Indexação
+## Como diagnosticar problemas de indexação?
 
 Problemas de indexação são silenciosos: você publica conteúdo, o site parece funcionar normalmente, mas o Google simplesmente não mostra suas páginas nos resultados. Sem monitoramento ativo, esses problemas podem persistir por meses, desperdiçando investimento em conteúdo e link building.
 
@@ -153,6 +153,14 @@ A TRIWI monitora a saúde de indexação como parte do escopo de "Aumento das Pa
 **Ver também no Glossário da TRIWI:** [Google Search Console](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site#seo-google-search-console), [Crawl budget](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site#seo-crawl-budget), [Rastreamento](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site#seo-rastreamento), [Meta robots](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site#seo-meta-robots), [Sitemap XML](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site#seo-sitemap-xml).
 
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
+| Sintoma | Causa provável | Correção |
+|:---|:---|:---|
+| Página rastreada, mas não indexada | Conteúdo fraco ou duplicado | Aprofundar o conteúdo ou consolidar páginas |
+| Página descoberta, mas não rastreada | Pouco link interno ou crawl budget limitado | Ligar a página a partir de páginas fortes |
+| Página excluída por noindex | Tag noindex esquecida no template | Remover a tag nas páginas que devem aparecer |
+| Página tratada como cópia de outra | Canonical apontando para outra URL | Ajustar o canonical para a URL certa |
+| Erro 404 em página importante | URL alterada sem redirecionamento | Criar redirecionamento 301 |
 
 ---
 

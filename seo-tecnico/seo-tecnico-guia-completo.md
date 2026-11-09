@@ -8,7 +8,7 @@ Esta página é o guia de referência completo sobre SEO técnico: da definiçã
 
 ---
 
-## O Que é SEO Técnico
+## O que é SEO técnico?
 
 SEO técnico (ou technical SEO) é a disciplina de SEO focada na infraestrutura do site, tudo que determina se o Google consegue acessar, entender, renderizar e indexar suas páginas corretamente. Enquanto o conteúdo responde às perguntas do usuário e a autoridade comprova a relevância do site, o SEO técnico garante que essas duas dimensões sejam visíveis para os mecanismos de busca.
 
@@ -30,7 +30,7 @@ O [Google](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e
 
 ---
 
-## Os Pilares do SEO Técnico
+## Quais são os pilares do SEO técnico?
 
 SEO técnico se organiza em cinco pilares interdependentes. Cada um precisa estar saudável para que o site alcance seu potencial máximo de rankeamento.
 
@@ -78,7 +78,7 @@ Com o mobile-first indexing, onde o Google usa a versão mobile do site como bas
 
 ---
 
-## Auditoria Técnica: Como Diagnosticar Problemas
+## Como fazer uma auditoria técnica?
 
 Uma auditoria técnica de SEO é o processo de identificar, priorizar e documentar todos os problemas técnicos que afetam o desempenho orgânico de um site. É o equivalente a um check-up completo: examina a saúde do site de forma sistêmica e produz um plano de ação baseado em impacto.
 
@@ -120,7 +120,7 @@ Na experiência operacional da TRIWI com dezenas de auditorias realizadas, estes
 
 ---
 
-## SEO Técnico para Sites Grandes (Enterprise)
+## Como fazer SEO técnico em sites grandes?
 
 Sites enterprise, com dezenas de milhares a milhões de páginas, enfrentam desafios técnicos que não existem em sites menores. O SEO técnico para enterprise exige estratégia e priorização diferentes.
 
@@ -150,7 +150,7 @@ A TRIWI monitora o crawl behavior de todos os sites de clientes como parte da Fa
 
 ---
 
-## SEO Técnico e IA: Preparando Seu Site para AI Overviews
+## Como preparar o site para AI Overviews?
 
 A evolução do Google para respostas geradas por IA, os AI Overviews, acrescenta uma nova dimensão ao SEO técnico. Não basta mais otimizar para rankeamento tradicional: é preciso preparar o site para ser interpretado e citado por inteligências artificiais.
 

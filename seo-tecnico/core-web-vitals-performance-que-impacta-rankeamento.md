@@ -6,7 +6,7 @@ Esta página explica cada métrica em profundidade, com metas claras, causas de 
 
 ---
 
-## O Que São Core Web Vitals
+## O que são Core Web Vitals?
 
 Core Web Vitals (CWV) são um conjunto de métricas definidas pelo Google que quantificam aspectos essenciais da experiência do usuário em uma página web. Elas medem três dimensões da interação: velocidade de carregamento (LCP), responsividade a interações (INP) e estabilidade visual (CLS).
 
@@ -134,7 +134,7 @@ Para diagnóstico, o Chrome DevTools oferece a aba "Performance" com um marcador
 
 ---
 
-## Como Medir Core Web Vitals
+## Como medir as Core Web Vitals?
 
 Medir Core Web Vitals requer duas abordagens complementares: dados de campo (usuários reais) e dados de laboratório (simulação controlada). Ambos são necessários, e medem coisas diferentes.
 
@@ -154,7 +154,7 @@ A diferença crucial entre dados de campo e laboratório: dados de campo reflete
 
 ---
 
-## CWV e o Impacto Real no Rankeamento
+## Qual o impacto real das Core Web Vitals no ranking?
 
 Entender o papel dos Core Web Vitals no rankeamento exige nuance. CWV é um fator de rankeamento real, mas não funciona da forma que muitos imaginam.
 

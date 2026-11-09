@@ -6,7 +6,7 @@ Esta página conecta velocidade com resultados de negócio, explica o que torna 
 
 ---
 
-## Por Que Velocidade Importa para SEO e para Negócios
+## Por que velocidade importa para SEO e para os negócios?
 
 Velocidade de carregamento opera em duas frentes simultâneas: afeta diretamente o rankeamento no Google e afeta diretamente a conversão do visitante. Um site lento perde nos dois lados, ranqueia pior e converte menos quem chega.
 
@@ -28,7 +28,7 @@ O efeito combinado é um ciclo negativo: site lento → menos rastreamento → i
 
 ---
 
-## O Que Torna um Site Lento
+## O que torna um site lento?
 
 A maioria dos problemas de velocidade se concentra em quatro categorias. Identificá-las é o primeiro passo para corrigi-las.
 
@@ -56,9 +56,17 @@ Scripts de terceiros, analytics, chat widgets, pixels de remarketing, ferramenta
 
 O problema se agrava porque scripts de terceiros estão fora do controle da equipe de desenvolvimento. Um widget de chat que funciona perfeitamente hoje pode introduzir 300ms de latência amanhã por causa de uma atualização no servidor do fornecedor. A única forma de detectar isso é monitoramento contínuo.
 
+| Causa | Correção |
+|:---|:---|
+| Imagens pesadas | Formatos WebP ou AVIF, dimensões certas e carregamento tardio |
+| JavaScript em excesso | Remover o que não é usado e adiar o que não é crítico |
+| CSS que bloqueia a renderização | Carregar primeiro o CSS crítico |
+| Sem cache | Configurar cache de navegador e CDN |
+| Servidor lento | Hospedagem adequada e tempo de resposta baixo |
+
 ---
 
-## Como Medir e Diagnosticar
+## Como medir e diagnosticar a velocidade?
 
 Medir velocidade exige entender a diferença entre dados de campo (experiência real dos usuários) e dados de laboratório (simulação controlada). Ambos são necessários, para finalidades diferentes.
 
@@ -80,7 +88,7 @@ A armadilha: otimizar apenas para dados de laboratório e ignorar dados de campo
 
 ---
 
-## Otimizações Práticas
+## Quais otimizações aceleram um site?
 
 As otimizações a seguir são organizadas por impacto, começando pelas que tipicamente geram os maiores ganhos.
 

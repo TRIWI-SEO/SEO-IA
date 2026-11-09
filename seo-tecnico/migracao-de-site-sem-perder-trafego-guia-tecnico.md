@@ -6,7 +6,7 @@ Esta página é o guia técnico completo para executar migrações sem compromet
 
 ---
 
-## Tipos de Migração e Seus Riscos
+## Quais são os tipos de migração e seus riscos?
 
 Nem toda migração carrega o mesmo nível de risco. Entender a natureza da mudança é o primeiro passo para dimensionar o esforço de proteção necessário.
 
@@ -35,7 +35,7 @@ A regra de ouro: quanto mais elementos mudam simultaneamente (domínio + URLs + 
 
 ---
 
-## Planejamento Pré-Migração
+## Como planejar uma migração?
 
 O sucesso de uma migração é determinado antes da execução. O planejamento pré-migração é a fase mais importante, e a mais frequentemente negligenciada.
 
@@ -87,7 +87,7 @@ O staging deve replicar o ambiente de produção o mais fielmente possível, mes
 
 ---
 
-## Pós-Migração: Monitoramento Crítico
+## O que monitorar depois da migração?
 
 A migração não termina no lançamento. O período pós-migração é onde problemas se manifestam, e onde a velocidade de resposta determina se a perda de tráfego será temporária (dias) ou prolongada (meses).
 
@@ -111,7 +111,7 @@ O tempo de recuperação depende do tipo e da complexidade da migração. Uma mi
 
 ---
 
-## Erros Que Destroem Tráfego em Migrações
+## Quais erros destroem o tráfego em migrações?
 
 Na experiência operacional com dezenas de migrações, os mesmos erros aparecem repetidamente. Conhecê-los é a melhor proteção.
 

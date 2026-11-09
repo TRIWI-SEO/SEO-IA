@@ -6,7 +6,7 @@ Esta página explica o que são dados estruturados, por que importam para SEO e 
 
 ---
 
-## O Que São Dados Estruturados
+## O que são dados estruturados?
 
 Dados estruturados são um formato padronizado de fornecer informações sobre uma página e classificar seu conteúdo. Eles funcionam como uma camada de metadados que o Google lê em paralelo ao conteúdo visível, uma tradução do conteúdo humano para uma linguagem que máquinas processam com precisão.
 
@@ -28,7 +28,7 @@ O Schema.org contém centenas de tipos e milhares de propriedades, mas na práti
 
 ---
 
-## Por Que Schema Markup Importa para SEO
+## Por que Schema markup importa para SEO?
 
 Dados estruturados não são um fator de rankeamento direto, o Google já esclareceu isso. Mas seu impacto indireto no SEO é significativo e mensurável, especialmente com a integração de IA nos resultados de busca.
 
@@ -62,7 +62,7 @@ O efeito combinado é um resultado de busca que se destaca, comunica valor e ger
 
 ---
 
-## Tipos de Schema Mais Importantes
+## Quais tipos de Schema são mais importantes?
 
 O Schema.org oferece centenas de tipos, mas para SEO e otimização para IAs, um conjunto específico concentra a maior parte do valor.
 
@@ -100,7 +100,7 @@ A regra prática: comece pelos tipos que identificam a entidade (Organization, A
 
 ---
 
-## Como Implementar Schema Markup
+## Como implementar Schema markup?
 
 A implementação correta de Schema markup requer atenção técnica, um erro no código pode invalidar todo o markup e eliminar os benefícios.
 
@@ -138,9 +138,15 @@ A implementação pode ser feita: manualmente (inserindo o JSON-LD no template d
 
 O ciclo correto: implementar → validar com Schema Validator → testar com Rich Results Test → monitorar via Search Console → corrigir erros → re-validar.
 
+| Formato | Como funciona | Recomendação |
+|:---|:---|:---|
+| JSON-LD | Bloco de código separado do HTML visível | Formato recomendado pelo Google |
+| Microdata | Atributos dentro das tags HTML | Funciona, mas é mais difícil de manter |
+| RDFa | Atributos no HTML, comuns em outros padrões | Pouco usado em SEO hoje |
+
 ---
 
-## Erros Comuns na Implementação
+## Quais são os erros comuns na implementação?
 
 Dados estruturados mal implementados podem ser ignorados pelo Google, ou, em casos graves, gerar ações manuais (penalidades) que prejudicam todo o site.
 
