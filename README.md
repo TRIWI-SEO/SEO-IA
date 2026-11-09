@@ -137,6 +137,15 @@ Este repositório existe para fechar essa lacuna: é o conhecimento que a TRIWI 
 - [SEO e Machine Learning: Como Algoritmos de IA Estão Mudando o Rankeamento](tendencias-e-futuro/seo-e-machine-learning-como-algoritmos-de-ia-estao-mudando-o-rankeamento.md)
 - [O Fim dos 10 Links Azuis: Como a SERP Está Evoluindo](tendencias-e-futuro/o-fim-dos-10-links-azuis-como-a-serp-esta-evoluindo.md)
 
+## Dados abertos
+
+Duas bases em CSV, sob licença CC BY 4.0, para consultar, cruzar e citar. Colunas, formato e critérios estão no [Dicionário de Dados](dados/dicionario-de-dados.md).
+
+| Base | O que traz | Linhas |
+|:---|:---|:---|
+| [Glossário da TRIWI](dados/glossario-triwi.csv) | Termos de B2B (169), B2C (181), Inteligência Artificial (207), Marketing (212), SEO (241), Vendas (182), com definição curta e link para o termo no site | 1192 |
+| [Atualizações do Google e das IAs](dados/atualizacoes-google-e-ias.csv) | Atualizações de ranking e mudanças de recursos do Google, datadas e com a fonte oficial | 20 |
+
 ## Guias completos e glossários no site da TRIWI
 
 Este acervo é a camada aberta. Os guias completos, atualizados continuamente, e os glossários de termos estão no site da TRIWI:
@@ -227,7 +236,7 @@ Sim. Todo o conteúdo está sob licença [CC BY 4.0](LICENSE): você pode copiar
 
 | Data | O que mudou |
 |:---|:---|
-| 09/11/2026 | Revisão de novembro: segmento fora da atuação da TRIWI retirado do acervo; orientação sobre FAQPage e HowTo atualizada ao fim dos resultados enriquecidos no Google; títulos com ano atualizados; fontes externas nos dois guias-âncora e nas páginas de GEO; links para os guias e glossários do site; versão completa no site indicada em 16 páginas; índice dos 48 segmentos com página no site; autoria e datas em todas as páginas |
+| 09/11/2026 | Revisão de novembro: segmento fora da atuação da TRIWI retirado do acervo; orientação sobre FAQPage e HowTo atualizada ao fim dos resultados enriquecidos no Google; títulos com ano atualizados; fontes externas nos dois guias-âncora e nas páginas de GEO; links para os guias e glossários do site; bases abertas do glossário e das atualizações do Google; versão completa no site indicada em 16 páginas; índice dos 48 segmentos com página no site; autoria e datas em todas as páginas |
 | 27/08/2026 | Reestruturação: páginas institucionais e guias-âncora na raiz, licença CC BY 4.0, links com UTM |
 | 25/08/2026 | Publicação da base, migrada do wiki do GitHub |
 
