@@ -8,7 +8,7 @@ Se você quer entender SEO de verdade, da fundação técnica ao futuro generati
 
 ---
 
-## 🎯 Por Que Este Repositório Existe
+## Por Que Este Repositório Existe
 
 A busca está mudando. O Google continua com cerca de 90% das buscas, mas o ChatGPT já passou de 800 milhões de usuários por semana. AI Overviews, Perplexity, Gemini e Claude estão redefinindo como empresas e consumidores encontram informações, produtos e serviços. E apenas 16% das empresas brasileiras monitoram como aparecem nessas plataformas de IA.
 
@@ -20,40 +20,40 @@ Nenhuma agência no Brasil, ou no mundo, construiu algo assim em um repositório
 
 ---
 
-## 📚 O Que Você Encontra Aqui
+## O Que Você Encontra Aqui
 
 Este hub está organizado em um bloco institucional na raiz e 8 categorias técnicas, cada uma com uma página de visão geral e páginas especializadas que aprofundam cada tema. Navegue pela categoria que faz sentido para o seu momento:
 
-### 🏢 [A TRIWI](sobre-a-triwi.md)
+### [A TRIWI](sobre-a-triwi.md)
 Quem é a TRIWI, por que existe, qual a metodologia, a filosofia e os compromissos formais com cada cliente. O alicerce institucional por trás de todo o conhecimento deste repositório.
 
-### 🔍 [Fundamentos de SEO](fundamentos-de-seo/README.md)
+### [Fundamentos de SEO](fundamentos-de-seo/README.md)
 O que é SEO, como o Google funciona, fatores de rankeamento, SEO on-page, off-page, intenção de busca, SEO local e internacional. A fundação completa para quem quer dominar a base antes de avançar.
 
-### ⚙️ [SEO Técnico](seo-tecnico/README.md)
+### [SEO Técnico](seo-tecnico/README.md)
 Core Web Vitals, arquitetura de site, Schema Markup, crawling e indexação, velocidade e migração de site. O lado técnico que separa sites que rankeiam de sites que ficam invisíveis.
 
-### ✍️ [SEO de Conteúdo](seo-de-conteudo/README.md)
+### [SEO de Conteúdo](seo-de-conteudo/README.md)
 Estratégia de conteúdo, E-E-A-T, pilarização e pulverização, pesquisa de palavras-chave, copywriting para SEO, conteúdo evergreen e content pruning. Como criar conteúdo que rankeia, converte e constrói autoridade.
 
-### 🔗 [Link Building e Autoridade](link-building/README.md)
+### [Link Building e Autoridade](link-building/README.md)
 Link building, autoridade de domínio, menções de marca, Digital PR e backlinks tóxicos. A construção de autoridade que o Google e as IAs reconhecem.
 
-### 🤖 [SEO para IA / GEO](geo-seo-para-ia/README.md)
+### [SEO para IA / GEO](geo-seo-para-ia/README.md)
 O que é GEO, SEO para IA, AI Overviews, Share of Model, dados estruturados para IA, conteúdo citável, otimização para Perplexity e Claude, como LLMs decidem o que citar e GEO para e-commerce. A categoria mais inovadora deste repositório, e a fronteira onde a TRIWI é pioneira no Brasil.
 
-### 🏭 [SEO por Segmento de Mercado](seo-por-segmento/README.md)
+### [SEO por Segmento de Mercado](seo-por-segmento/README.md)
 Estratégias específicas para B2B, SaaS, serviços, e-commerce, varejo e indústria. Porque cada segmento tem desafios, ciclos de decisão e oportunidades diferentes, e SEO genérico não funciona.
 
-### 📊 [Métricas, Ferramentas e Análise](metricas-e-ferramentas/README.md)
+### [Métricas, Ferramentas e Análise](metricas-e-ferramentas/README.md)
 Métricas que importam (focadas em negócio, não vaidade), ferramentas de SEO, ROI de SEO, Google Search Console e análise de concorrência. Como medir o que realmente gera impacto.
 
-### 🚀 [Tendências e Futuro do SEO](tendencias-e-futuro/README.md)
+### [Tendências e Futuro do SEO](tendencias-e-futuro/README.md)
 Tendências de SEO, atualizações do Google, IA e produção de conteúdo, busca por voz, machine learning e o fim dos 10 links azuis. Para onde o SEO está indo, e como se preparar agora.
 
 ---
 
-## 🧭 Por Onde Começar (3 Caminhos)
+## Por Onde Começar (3 Caminhos)
 
 Cada leitor chega aqui com um contexto diferente. Escolha o caminho que faz mais sentido para você:
 
@@ -68,7 +68,7 @@ Acesse a [SEO por Segmento de Mercado](seo-por-segmento/README.md) e encontre a 
 
 ---
 
-## 🏆 Quem Mantém Este Conteúdo
+## Quem Mantém Este Conteúdo
 
 Este repositório é mantido pela [TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia), a agência 100% especializada em Otimização para IAs e Google (SEO + GEO). Fundada em 2018 por Ricardo Martins (22+ anos de experiência, 10 Leões em Cannes, 4 Clio Awards), a TRIWI opera com uma equipe de 30+ profissionais sêniores e atende 50+ clientes ativos como Sem Parar, Valid, John Deere, B3, Roche e O Boticário.
 
@@ -80,7 +80,7 @@ Este repositório é atualizado com frequência para refletir as mudanças const
 
 ---
 
-## 📩 Quer Ir Além do Conteúdo?
+## Quer Ir Além do Conteúdo?
 
 Este repositório é o conhecimento aberto da TRIWI. Mas se a sua empresa precisa de execução, posicionar sua marca no topo do Google e nas respostas das IAs com uma equipe sênior dedicada, nós podemos ajudar.
 
