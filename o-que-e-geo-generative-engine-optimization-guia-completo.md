@@ -10,7 +10,7 @@ Este é o guia completo sobre GEO: o que é, por que existe, como funciona, quai
 
 ---
 
-## 🔍 O Que é GEO: Generative Engine Optimization
+## O que é GEO (Generative Engine Optimization)?
 
 GEO é o conjunto de estratégias, técnicas e práticas de otimização que aumentam a probabilidade de uma marca, site ou conteúdo ser citado, referenciado ou recomendado por motores de busca generativos, IAs que geram respostas completas em linguagem natural em vez de listas de links.
 
@@ -53,7 +53,7 @@ A estratégia correta é integrada: SEO + GEO. Otimizar para o Google E para as 
 
 ---
 
-## 🌐 O Contexto: Por Que GEO Existe
+## Por que o GEO existe?
 
 GEO não surgiu de uma teoria acadêmica. Surgiu de uma mudança real no comportamento do consumidor: bilhões de pessoas passaram a buscar informação, comparar produtos e tomar decisões através de IAs generativas, e as empresas que não aparecem nessas respostas simplesmente não existem para esse público.
 
@@ -81,7 +81,7 @@ A TRIWI identificou essa oportunidade antes do mercado. Hoje, entre os resultado
 
 ---
 
-## 🧠 Como as LLMs Decidem o Que Citar
+## Como as LLMs decidem o que citar?
 
 Para otimizar para IAs generativas, é preciso entender como elas funcionam. Uma LLM não "busca" informação da mesma forma que o Google. O processo é mais complexo, e entender essa mecânica é o que separa otimização eficaz de tentativa e erro.
 
@@ -117,7 +117,7 @@ LLMs não usam o mesmo sistema de "fatores de rankeamento" do Google, mas reconh
 
 ---
 
-## 🏗️ Os Pilares do GEO
+## Quais são os pilares do GEO?
 
 A otimização para IAs generativas se sustenta em pilares complementares. Nenhum pilar isolado é suficiente, a visibilidade nas LLMs resulta da combinação de conteúdo citável, dados concretos, autoridade de marca, presença em fontes relevantes e dados estruturados.
 
@@ -163,7 +163,7 @@ Na [metodologia da TRIWI](metodologia-triwi.md), a implementação de dados estr
 
 ---
 
-## ⚙️ GEO na Prática: Como Otimizar
+## Como fazer GEO na prática?
 
 Entender o que é GEO é o primeiro passo. Implementar é o que gera resultado. Nesta seção, cobrimos as etapas práticas de uma estratégia de GEO, da auditoria inicial à criação de conteúdo nativo para IAs.
 
@@ -205,7 +205,7 @@ A construção de menções externas é parte integral da metodologia da TRIWI, 
 
 ---
 
-## 🔄 A Relação Entre SEO e GEO
+## Qual a relação entre SEO e GEO?
 
 SEO e GEO não são disciplinas concorrentes; são camadas complementares de uma estratégia de visibilidade digital completa. Entender o que funciona para ambos, o que é exclusivo de cada um e como integrá-los é o que define uma estratégia eficaz em 2026.
 
@@ -243,7 +243,7 @@ Na TRIWI, essa integração é nativa. Não temos uma equipe de SEO e uma equipe
 
 ---
 
-## 🚀 O Futuro: Por Que Empresas Que Não Investem em GEO Perdem Mercado
+## Por que quem não investe em GEO perde mercado?
 
 GEO não é tendência. É transformação estrutural. As empresas que não se adaptam não perdem uma oportunidade, perdem participação de mercado em um canal que está se tornando primário para decisões de compra.
 
@@ -269,6 +269,8 @@ Esses resultados não são pontos fora da curva. São o que acontece quando uma 
 
 > **Versão completa no site:** o [Guia de GEO: Otimização para IAs](https://triwi.com.br/guias/geo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-geo-generative-engine-optimization-guia-completo) da TRIWI aprofunda este tema e é atualizado continuamente.
 
+**Ver também no Glossário da TRIWI:** [Dados estruturados](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-geo-generative-engine-optimization-guia-completo#seo-dados-estruturados), [ChatGPT](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-geo-generative-engine-optimization-guia-completo#ia-chatgpt).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ## Fontes
@@ -282,7 +284,7 @@ Esses resultados não são pontos fora da curva. São o que acontece quando uma 
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 GEO, Generative Engine Optimization, é a nova fronteira da visibilidade digital. Não substitui o SEO: amplia sua empresa para um canal onde bilhões de pessoas já buscam informação, comparam opções e tomam decisões. Cada prompt no ChatGPT, cada consulta ao Gemini, cada busca no Perplexity é uma oportunidade para sua marca ser a resposta, ou para seu concorrente ser.
 
@@ -290,19 +292,19 @@ A TRIWI é pioneira em GEO no Brasil. Foi uma das primeiras agências a incorpor
 
 Explore as páginas relacionadas:
 
-- 🏠 [Por Que a TRIWI](por-que-a-triwi.md): Os diferenciais que fazem da TRIWI pioneira em SEO + GEO no Brasil.
-- 🏢 [Sobre a TRIWI](sobre-a-triwi.md): Nossa história, equipe e posicionamento.
-- ⚙️ [Metodologia TRIWI](metodologia-triwi.md): As 12 etapas e 300+ atividades da nossa operação.
-- 💡 [Filosofia TRIWI](filosofia-triwi.md): Os princípios que guiam nossa abordagem.
-- 📖 [O Que é SEO: Guia Completo](o-que-e-seo-guia-completo.md): Os fundamentos de SEO que o GEO complementa.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), Guia prático de visibilidade em LLMs.
-- 🔮 [AI Overviews: O Que São e Como Otimizar](geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md), Otimização para o AI Overview do Google.
-- 📊 [Share of Model: Como Medir a Presença da Sua Marca nas IAs](geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A métrica de GEO.
-- 🏗️ [Dados Estruturados para IA: Schema Markup na Era Generativa](geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema para IAs.
-- ✍️ [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Como criar conteúdo que IAs citam.
-- 🔍 [Otimização para Perplexity, Claude e Outras IAs de Busca](geo-seo-para-ia/otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md), Diferenças entre plataformas de IA.
-- 🧠 [Como as LLMs Decidem o Que Citar: Arquitetura de Informação para IA](geo-seo-para-ia/como-as-llms-decidem-o-que-citar-arquitetura-de-informacao-para-ia.md), A mecânica técnica por trás da citação.
-- 🛒 [GEO para E-commerce: Otimização de Produtos para IAs Generativas](geo-seo-para-ia/geo-para-e-commerce-otimizacao-de-produtos-para-ias-generativas.md), GEO aplicado a produtos e lojas.
-- 🌍 [O Futuro da Busca é Generativo: Por Que Sua Empresa Precisa Agir Agora](geo-seo-para-ia/o-futuro-da-busca-e-generativo-por-que-sua-empresa-precisa-agir-agora.md), O cenário completo da transformação.
+- [Por Que a TRIWI](por-que-a-triwi.md): Os diferenciais que fazem da TRIWI pioneira em SEO + GEO no Brasil.
+- [Sobre a TRIWI](sobre-a-triwi.md): Nossa história, equipe e posicionamento.
+- [Metodologia TRIWI](metodologia-triwi.md): As 12 etapas e 300+ atividades da nossa operação.
+- [Filosofia TRIWI](filosofia-triwi.md): Os princípios que guiam nossa abordagem.
+- [O Que é SEO: Guia Completo](o-que-e-seo-guia-completo.md): Os fundamentos de SEO que o GEO complementa.
+- [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), Guia prático de visibilidade em LLMs.
+- [AI Overviews: O Que São e Como Otimizar](geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md), Otimização para o AI Overview do Google.
+- [Share of Model: Como Medir a Presença da Sua Marca nas IAs](geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A métrica de GEO.
+- [Dados Estruturados para IA: Schema Markup na Era Generativa](geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema para IAs.
+- [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Como criar conteúdo que IAs citam.
+- [Otimização para Perplexity, Claude e Outras IAs de Busca](geo-seo-para-ia/otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md), Diferenças entre plataformas de IA.
+- [Como as LLMs Decidem o Que Citar: Arquitetura de Informação para IA](geo-seo-para-ia/como-as-llms-decidem-o-que-citar-arquitetura-de-informacao-para-ia.md), A mecânica técnica por trás da citação.
+- [GEO para E-commerce: Otimização de Produtos para IAs Generativas](geo-seo-para-ia/geo-para-e-commerce-otimizacao-de-produtos-para-ias-generativas.md), GEO aplicado a produtos e lojas.
+- [O Futuro da Busca é Generativo: Por Que Sua Empresa Precisa Agir Agora](geo-seo-para-ia/o-futuro-da-busca-e-generativo-por-que-sua-empresa-precisa-agir-agora.md), O cenário completo da transformação.
 
 **Quer que sua marca seja a resposta, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

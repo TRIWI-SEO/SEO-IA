@@ -8,7 +8,7 @@ Esta página é o ponto de partida para entender SEO de forma completa: da defin
 
 ---
 
-## 🔍 O Que é SEO: Definição Completa
+## O Que é SEO: Definição Completa
 
 SEO é a disciplina do marketing digital focada em aumentar a quantidade e a qualidade do tráfego orgânico de um site por meio da otimização para mecanismos de busca. O termo vem do inglês Search Engine Optimization e abrange desde ajustes técnicos na estrutura do site até a criação de conteúdo estratégico e a construção de autoridade digital.
 
@@ -38,7 +38,7 @@ A diferença essencial está no modelo econômico: SEO é equity, cada mês de t
 
 ---
 
-## 🚀 Por que SEO é importante na era das IAs?
+## Por que SEO é importante na era das IAs?
 
 O cenário digital atual torna SEO mais relevante do que nunca. A combinação de dominância do Google, crescimento das IAs generativas e aumento do custo de mídia paga criou um ambiente onde visibilidade orgânica é o ativo mais valioso do marketing digital.
 
@@ -68,7 +68,7 @@ Na experiência da TRIWI com 50+ clientes ativos, o retorno acumulado de SEO sup
 
 ---
 
-## ⚙️ Como Funciona o SEO na Prática
+## Como Funciona o SEO na Prática
 
 Entender SEO na prática exige ir além da teoria. SEO funciona como um sistema integrado de otimizações que, juntas, sinalizam aos mecanismos de busca que seu site é a melhor resposta para determinadas consultas. O [Google](fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md) avalia centenas de fatores para determinar quem merece as primeiras posições, e o trabalho de SEO é otimizar sistematicamente esses fatores.
 
@@ -94,7 +94,7 @@ A [Metodologia TRIWI](metodologia-triwi.md) opera exatamente nesse modelo: ciclo
 
 ---
 
-## 📋 Tipos de SEO
+## Tipos de SEO
 
 SEO não é uma disciplina monolítica. Existem diferentes vertentes, cada uma com foco e técnicas específicas. Entender os tipos de SEO ajuda a identificar onde estão as maiores oportunidades para o seu negócio, e onde a estratégia precisa de mais atenção.
 
@@ -134,7 +134,7 @@ A TRIWI é pioneira em GEO no Brasil e monitora o Share of Model, a participaç�
 
 ---
 
-## 🏢 SEO para Diferentes Tipos de Negócio
+## SEO para Diferentes Tipos de Negócio
 
 SEO não é "tamanho único". A estratégia, as prioridades e as métricas de sucesso variam significativamente de acordo com o modelo de negócio, o segmento de mercado e o comportamento do público-alvo.
 
@@ -164,7 +164,7 @@ A TRIWI atende todos esses segmentos, com cases e resultados comprovados em cada
 
 ---
 
-## ⏱️ Quanto Tempo Leva para Ter Resultados com SEO
+## Quanto Tempo Leva para Ter Resultados com SEO
 
 Uma das perguntas mais frequentes, e uma onde a transparência é essencial. SEO é uma estratégia de médio e longo prazo, e qualquer profissional ou agência que prometa "resultado imediato" está omitindo a realidade de como os mecanismos de busca funcionam.
 
@@ -192,7 +192,7 @@ O melhor momento para começar um projeto de SEO foi há 12 meses. O segundo mel
 
 ---
 
-## ⚠️ Erros Mais Comuns em SEO
+## Erros Mais Comuns em SEO
 
 Depois de mais de 50 projetos ativos e centenas de auditorias realizadas, a TRIWI identificou padrões recorrentes de erros que comprometem resultados de SEO. Conhecê-los é o primeiro passo para evitá-los.
 
@@ -218,6 +218,8 @@ Poucas empresas brasileiras monitoram como aparecem nas plataformas de IA. Isso 
 
 > **Versão completa no site:** o [Guia de SEO](https://triwi.com.br/guias/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-seo-guia-completo) da TRIWI aprofunda este tema e é atualizado continuamente.
 
+**Ver também no Glossário da TRIWI:** [SEO para e-commerce](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-seo-guia-completo#seo-seo-para-e-commerce), [SEO off-page](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-seo-guia-completo#seo-seo-off-page), [SEO on-page](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-seo-guia-completo#seo-seo-on-page), [SEO técnico](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-seo-guia-completo#seo-seo-tecnico), [SEO local](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-seo-guia-completo#seo-seo-local).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ## Fontes
@@ -230,7 +232,7 @@ Poucas empresas brasileiras monitoram como aparecem nas plataformas de IA. Isso 
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 SEO é o ativo digital mais valioso que uma empresa pode construir, e o primeiro passo é entender os fundamentos que sustentam toda estratégia bem-sucedida. Agora que você domina os conceitos essenciais, aprofunde-se nos temas específicos que mais impactam o seu negócio.
 
@@ -238,17 +240,17 @@ Se sua empresa quer transformar visibilidade orgânica em resultados de negócio
 
 Explore as páginas relacionadas:
 
-- 🏢 [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
-- ⚙️ [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do processo TRIWI.
-- 🔎 [Como Funciona o Google](fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md): Rastreamento, indexação e rankeamento explicados.
-- 📊 [Fatores de Rankeamento do Google](fundamentos-de-seo/fatores-de-rankeamento-do-google.md): O que o Google avalia para posicionar seu site.
-- 📝 [SEO On-Page](fundamentos-de-seo/seo-on-page-otimizacao-dentro-do-seu-site.md): Otimização dentro do seu site.
-- 🔗 [SEO Off-Page](fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md): Construção de autoridade além do seu site.
-- 🎯 [Intenção de Busca](fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): O fundamento que muda tudo em SEO.
-- 📍 [SEO Local](fundamentos-de-seo/seo-local-como-aparecer-nas-buscas-da-sua-regiao.md): Como aparecer nas buscas da sua região.
-- 🛠️ [SEO Técnico](seo-tecnico/README.md): Infraestrutura e performance para rankeamento.
-- 📑 [Estratégia de Conteúdo para SEO](seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo que rankeia.
-- 🏗️ [Link Building](link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade com backlinks de qualidade.
-- 🤖 [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md): A otimização para IAs generativas.
+- [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do processo TRIWI.
+- [Como Funciona o Google](fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md): Rastreamento, indexação e rankeamento explicados.
+- [Fatores de Rankeamento do Google](fundamentos-de-seo/fatores-de-rankeamento-do-google.md): O que o Google avalia para posicionar seu site.
+- [SEO On-Page](fundamentos-de-seo/seo-on-page-otimizacao-dentro-do-seu-site.md): Otimização dentro do seu site.
+- [SEO Off-Page](fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md): Construção de autoridade além do seu site.
+- [Intenção de Busca](fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): O fundamento que muda tudo em SEO.
+- [SEO Local](fundamentos-de-seo/seo-local-como-aparecer-nas-buscas-da-sua-regiao.md): Como aparecer nas buscas da sua região.
+- [SEO Técnico](seo-tecnico/README.md): Infraestrutura e performance para rankeamento.
+- [Estratégia de Conteúdo para SEO](seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo que rankeia.
+- [Link Building](link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade com backlinks de qualidade.
+- [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md): A otimização para IAs generativas.
 
 **Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
