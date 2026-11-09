@@ -2,6 +2,8 @@
 
 SEO para SaaS é a estratégia de otimização para buscadores construída especificamente para empresas de software como serviço, onde o objetivo não é apenas tráfego, mas trials, demos, signups e MQLs que alimentam o pipeline de receita recorrente. Diferente de outros segmentos, o SaaS opera em um modelo onde o CAC (Custo de Aquisição de Cliente) define a viabilidade do negócio, e o SEO é o canal que reduz esse CAC ao longo do tempo enquanto todos os outros o aumentam.
 
+> **Página completa no site:** a página [SEO para SaaS](https://triwi.com.br/seo-para-saas/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-saas-crescimento-organico-para-empresas-de-software) da TRIWI aprofunda este tema e é atualizada continuamente.
+
 O cenário para empresas SaaS é claro: o CAC de mídia paga cresce ano a ano, a concorrência por atenção em canais pagos se intensifica e a dependência de paid acquisition cria uma vulnerabilidade estrutural, quando o orçamento para, o pipeline seca. O SEO inverte essa lógica. Cada conteúdo publicado é um ativo que gera leads por meses ou anos, sem custo marginal por conversão. É o canal que transforma marketing de despesa variável em investimento com retorno composto.
 
 A TRIWI atende empresas SaaS como Contato Seguro e Flexdoc, onde a estratégia de SEO precisa gerar trials, demos e MQLs, não apenas tráfego. A redução média de CAC de -40% nos clientes TRIWI é especialmente impactante para SaaS, onde CAC é a métrica que define viabilidade. O case da Contato Seguro demonstra o potencial: 65% das vendas via orgânico, +654% de tráfego orgânico e +1.100% de tráfego proveniente de LLMs.
@@ -161,6 +163,10 @@ As [métricas de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpi
 As métricas essenciais são: **trials e signups via orgânico** (quantos usuários iniciaram um trial ou criaram conta via tráfego orgânico), **MQLs via orgânico** (leads qualificados gerados pelo canal), **CAC orgânico** (custo de aquisição por cliente no canal, a métrica que define se o modelo é viável), **LTV/CAC ratio** (a relação entre valor de vida do cliente e custo de aquisição, para SaaS, o target é 3:1 ou superior) e **pipeline influenciado** (valor total do pipeline que teve touchpoints orgânicos na jornada).
 
 O [cálculo de ROI](../metricas-e-ferramentas/roi-de-seo-como-calcular-o-retorno-sobre-investimento.md) para SaaS conecta essas métricas ao P&L da empresa. A TRIWI reporta resultados em termos que fundadores e CFOs entendem, receita influenciada, redução de CAC, pipeline gerado, porque é assim que SEO se justifica como investimento estratégico, não como centro de custo.
+
+> **Página completa no site:** a página [SEO para SaaS](https://triwi.com.br/seo-para-saas/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-saas-crescimento-organico-para-empresas-de-software) da TRIWI aprofunda este tema e é atualizada continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 

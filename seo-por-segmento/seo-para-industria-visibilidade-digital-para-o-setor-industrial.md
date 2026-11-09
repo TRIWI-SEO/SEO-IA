@@ -2,6 +2,8 @@
 
 SEO para indústria é a estratégia de otimização para buscadores aplicada a fabricantes, distribuidores e empresas do setor industrial, um nicho onde o volume de busca é baixo, o jargão é altamente técnico e o valor por lead pode chegar a centenas de milhares de reais. Enquanto agências generalistas ignoram o setor por considerar o volume "insuficiente", empresas industriais que investem em SEO conquistam uma vantagem competitiva desproporcional, porque a maioria dos concorrentes simplesmente não compete no digital.
 
+> **Página completa no site:** a página [SEO para Indústria](https://triwi.com.br/seo-para-industria/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-industria-visibilidade-digital-para-o-setor-industrial) da TRIWI aprofunda este tema e é atualizada continuamente.
+
 O comprador industrial mudou. O engenheiro que especifica um equipamento, o gerente de compras que avalia fornecedores e o diretor de operações que aprova orçamentos, todos pesquisam online antes de falar com o time comercial. Buscam especificações técnicas, comparam fornecedores, consultam fichas de produto e leem aplicações de caso. Se sua empresa não aparece nessa busca, o lead vai para quem aparece.
 
 A TRIWI atende indústrias como John Deere, Tigre, Pirelli, CAT e Lorenzetti, onde cada lead orgânico pode valer milhares de reais. A estratégia de [SEO segmentado](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md) para indústria foca em autoridade técnica e conteúdo que atende à intenção de busca específica do comprador industrial. Com [metodologia de 300+ atividades](../metodologia-triwi.md) e 100% dos clientes no Top 3 do Google, os resultados demonstram que SEO industrial gera pipeline de alto valor quando a estratégia entende as dinâmicas do setor.
@@ -135,6 +137,10 @@ O [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-su
 Para ser recomendado pelas IAs, a indústria precisa de: [conteúdo citável](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) com especificações claras e dados de performance, presença em fontes que LLMs consultam (publicações técnicas, Wikipedia, portais de engenharia), [dados estruturados](../geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-generativa.md) de Product com especificações técnicas detalhadas e autoridade construída por menções consistentes em veículos do setor.
 
 A [estratégia de GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) para indústria é particularmente eficaz porque a concorrência é mínima, pouquíssimas empresas industriais otimizam para IAs. Quem começa agora constrói uma vantagem competitiva que será exponencialmente mais cara de replicar quando o mercado amadurecer.
+
+> **Página completa no site:** a página [SEO para Indústria](https://triwi.com.br/seo-para-industria/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-industria-visibilidade-digital-para-o-setor-industrial) da TRIWI aprofunda este tema e é atualizada continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 

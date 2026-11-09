@@ -100,6 +100,62 @@ O varejo opera com três complexidades simultâneas: SEO local (cada loja precis
 
 A TRIWI atende marcas de varejo como Polishop e Lupo, onde a integração entre canais digitais e físicos é parte central da estratégia de SEO.
 
+---
+
+## Todos os segmentos com página no site da TRIWI
+
+As páginas deste acervo cobrem 6 segmentos em profundidade. O site da TRIWI tem uma página para cada um dos 48 segmentos abaixo, com o que muda no SEO de cada setor.
+
+| Segmento | O que muda no SEO |
+|:---|:---|
+| [SEO para B2B](https://triwi.com.br/seo-para-b2b/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Ciclo longo e comitê de compra: conteúdo para cada decisor e cada etapa |
+| [SEO para B2C](https://triwi.com.br/seo-para-b2c/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Volume, marca e recompra: conteúdo para a decisão do consumidor em vários canais |
+| [SEO para E-commerce](https://triwi.com.br/seo-para-ecommerce/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Categorias, produtos e escala técnica de milhares de páginas |
+| [SEO para Varejo](https://triwi.com.br/seo-para-varejo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | SEO local de cada loja somado a categorias e sazonalidade nacionais |
+| [SEO para Tecnologia](https://triwi.com.br/seo-para-tecnologia/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Termos técnicos, comparativos e prova para comprador especialista |
+| [SEO para SaaS](https://triwi.com.br/seo-para-saas/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Páginas de produto, alternativas e integrações que levam ao teste |
+| [SEO para Startups](https://triwi.com.br/seo-para-startups/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Autoridade construída do zero com recursos enxutos |
+| [SEO para Indústria](https://triwi.com.br/seo-para-industria/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Buscas de baixo volume e alto valor, por especificação técnica |
+| [SEO para Serviços](https://triwi.com.br/seo-para-servicos/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Jornadas separadas para quem compra para a empresa e para si |
+| [SEO para Advogados e Escritórios de Advocacia](https://triwi.com.br/seo-para-advogados/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Conteúdo informativo dentro das regras de publicidade da OAB |
+| [SEO para Contabilidade](https://triwi.com.br/seo-para-contabilidade/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Dúvidas fiscais recorrentes e busca local por escritório |
+| [SEO para Médicos e Clínicas](https://triwi.com.br/seo-para-medicos-e-clinicas/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Conteúdo de saúde confiável dentro das normas do CFM |
+| [SEO para Imobiliárias e Incorporadoras](https://triwi.com.br/seo-para-imobiliarias/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Busca local por bairro, tipo de imóvel e lançamento |
+| [SEO para Educação](https://triwi.com.br/seo-para-educacao/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Buscas por curso, cidade e modalidade, com sazonalidade de matrícula |
+| [SEO para Seguros](https://triwi.com.br/seo-para-seguros/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Comparação de coberturas e dúvidas, dentro das regras da SUSEP |
+| [SEO para Consórcio](https://triwi.com.br/seo-para-consorcio/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Explicação do produto sem promessa de contemplação |
+| [SEO para Software House](https://triwi.com.br/seo-para-software-house/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Prova técnica e cases para a contratação de desenvolvimento |
+| [SEO para Fintechs](https://triwi.com.br/seo-para-fintechs/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Confiança e conformidade em temas financeiros regulados |
+| [SEO para Agro](https://triwi.com.br/seo-para-agro/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Termos técnicos do campo e sazonalidade de safra |
+| [SEO para Empresas de Logística e Transportadoras](https://triwi.com.br/seo-para-logistica-e-transportadoras/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Buscas por rota, modal e região atendida |
+| [SEO para Empresas de Segurança e Portaria Terceirizada](https://triwi.com.br/seo-para-seguranca-e-portaria-terceirizada/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Busca local por cidade e tipo de serviço |
+| [SEO para Empresas de Limpeza e Conservação](https://triwi.com.br/seo-para-limpeza-e-conservacao/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Contratos por região e por tipo de cliente, condomínio ou empresa |
+| [SEO para Empresas de Certificação Digital](https://triwi.com.br/seo-para-certificacao-digital/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Buscas urgentes por tipo de certificado e ponto de atendimento |
+| [SEO para Energia Solar](https://triwi.com.br/seo-para-energia-solar/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Simulação de economia e busca local por instalador |
+| [SEO para Cursos Preparatórios para Concursos](https://triwi.com.br/seo-para-cursos-preparatorios-para-concursos/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Calendário de editais e buscas por concurso |
+| [SEO para Arquitetos e Escritórios de Arquitetura](https://triwi.com.br/seo-para-arquitetos/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Portfólio, estilo e busca local por escritório |
+| [SEO para Empresas de Engenharia](https://triwi.com.br/seo-para-empresas-de-engenharia/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Serviços técnicos especializados para comprador B2B |
+| [SEO para Construção Civil](https://triwi.com.br/seo-para-construcao-civil/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Obras por tipo e região, com decisores técnicos e financeiros |
+| [SEO para Construtoras](https://triwi.com.br/seo-para-construtoras/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Lançamentos, bairros e confiança na entrega |
+| [SEO para Concessionárias de Veículos](https://triwi.com.br/seo-para-concessionarias-de-veiculos/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Estoque, modelos e busca local por loja |
+| [SEO para Dentistas e Clínicas Odontológicas](https://triwi.com.br/seo-para-dentistas-e-clinicas-odontologicas/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Tratamentos e busca local, dentro das normas do CFO |
+| [SEO para Clínicas de Estética](https://triwi.com.br/seo-para-clinicas-de-estetica/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Procedimentos e busca local, sem promessa de resultado |
+| [SEO para Farmácias e Drogarias](https://triwi.com.br/seo-para-farmacias-e-drogarias/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Produtos, disponibilidade e busca local por unidade |
+| [SEO para Hotéis e Pousadas](https://triwi.com.br/seo-para-hoteis-e-pousadas/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Destino, datas e disputa com as agências online |
+| [SEO para Desentupidoras](https://triwi.com.br/seo-para-desentupidoras/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Buscas urgentes e locais, por bairro |
+| [SEO para Agências de Viagens](https://triwi.com.br/seo-para-agencias-de-viagens/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Destinos e pacotes, com forte sazonalidade |
+| [SEO para Sites em HubSpot](https://triwi.com.br/seo-para-sites-em-hubspot/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | SEO técnico dentro dos limites da plataforma |
+| [SEO para VTEX](https://triwi.com.br/seo-para-ecommerce/vtex/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Catálogo grande e SEO técnico da plataforma |
+| [SEO para Marketplaces](https://triwi.com.br/seo-para-ecommerce/marketplaces/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Posição dentro da busca de cada marketplace e fora dela |
+| [SEO para Nuvemshop](https://triwi.com.br/seo-para-ecommerce/nuvemshop/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | SEO técnico e de catálogo para lojas na plataforma |
+| [SEO para Shopify](https://triwi.com.br/seo-para-ecommerce/shopify/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Estrutura de URLs e apps da plataforma a favor do SEO |
+| [SEO para Migração de E-commerce](https://triwi.com.br/seo-para-ecommerce/migracao/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Troca de plataforma sem perder tráfego, com redirecionamentos |
+| [SEO para WooCommerce](https://triwi.com.br/seo-para-ecommerce/woocommerce/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | SEO de catálogo sobre WordPress |
+| [SEO para Magento](https://triwi.com.br/seo-para-ecommerce/magento/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | Escala de catálogo e desempenho técnico |
+| [SEO para Adobe Commerce](https://triwi.com.br/seo-para-ecommerce/adobe-commerce/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | SEO técnico para operações de grande porte |
+| [SEO para Salesforce Commerce Cloud](https://triwi.com.br/seo-para-ecommerce/salesforce-commerce-cloud/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | SEO técnico para operações de grande porte |
+| [SEO para Tray](https://triwi.com.br/seo-para-ecommerce/tray/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | SEO técnico e de catálogo para lojas na plataforma |
+| [SEO para Loja Integrada](https://triwi.com.br/seo-para-ecommerce/loja-integrada/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=indice-segmentos) | SEO técnico e de catálogo para lojas na plataforma |
 
 ---
 
@@ -158,6 +214,8 @@ Entender SEO é saber implementar Schema, otimizar Core Web Vitals e construir b
 Essa é a diferença entre aplicar técnica e gerar resultado. A [Metodologia TRIWI](../metodologia-triwi.md) começa pela Definição Estratégica, que alinha o planejamento de SEO aos objetivos de negócio antes de qualquer implementação técnica. O SEO serve ao negócio, e cada negócio precisa de uma estratégia que entenda isso.
 
 Os cases comprovam: Sem Parar com +31% de tráfego orgânico e +350% de tráfego de LLMs. Valid/Flexdoc com +47% de tráfego orgânico e +700% de tráfego de LLMs. Contato Seguro com 65% das vendas via orgânico e +654% de crescimento. Cada resultado veio de uma estratégia construída para o modelo de negócio específico, não de "SEO genérico".
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 

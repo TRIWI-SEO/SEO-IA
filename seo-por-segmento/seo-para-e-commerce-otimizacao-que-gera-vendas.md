@@ -2,6 +2,8 @@
 
 SEO para e-commerce é a estratégia de otimização para buscadores que transforma lojas virtuais em máquinas de vendas orgânicas, posicionando páginas de produto, categorias e conteúdo editorial nos resultados do Google e nas respostas das IAs generativas para capturar compradores no momento exato da decisão de compra. Diferente de outros segmentos, o SEO para loja virtual lida com catálogos de milhares ou milhões de páginas, navegação facetada, sazonalidade intensa e concorrência com marketplaces que dominam as SERPs.
 
+> **Página completa no site:** a página [SEO para E-commerce](https://triwi.com.br/seo-para-ecommerce/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-e-commerce-otimizacao-que-gera-vendas) da TRIWI aprofunda este tema e é atualizada continuamente.
+
 O volume de oportunidade é massivo. Buscas transacionais por produto, "comprar [produto]", "melhor [produto] 2026", "[produto] preço", representam bilhões de queries mensais no Google. Cada uma dessas buscas é um consumidor com cartão de crédito na mão, pronto para comprar. O e-commerce que aparece no topo captura a venda. O que não aparece, perde para quem aparece, seja um concorrente direto, seja um marketplace.
 
 A TRIWI atende e-commerces como Polishop, Lupo e Grendene, onde SEO precisa gerar vendas, não apenas tráfego. A taxa de conversão dos clientes TRIWI é 5X maior que a média do mercado, resultado de uma [estratégia segmentada](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md) que vai da arquitetura técnica ao conteúdo de produto, passando por otimização de categorias, Schema avançado e presença nas IAs generativas.
@@ -173,6 +175,10 @@ O [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-su
 Dados estruturados são a ponte entre SEO técnico e GEO para e-commerce. Schema Product com preço, disponibilidade, avaliação e especificações técnicas facilita a interpretação do conteúdo tanto pelo Google quanto pelas LLMs. Um produto com Schema completo tem maior probabilidade de ser citado na resposta da IA, porque a estrutura reduz a ambiguidade e aumenta a confiança do sistema na informação.
 
 A [Metodologia TRIWI](../metodologia-triwi.md) implementa dados estruturados avançados como parte da otimização técnica nos primeiros meses, com esquemas específicos para e-commerce que cobrem Product, Offer, Review e BreadcrumbList em escala automatizada.
+
+> **Página completa no site:** a página [SEO para E-commerce](https://triwi.com.br/seo-para-ecommerce/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-e-commerce-otimizacao-que-gera-vendas) da TRIWI aprofunda este tema e é atualizada continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 

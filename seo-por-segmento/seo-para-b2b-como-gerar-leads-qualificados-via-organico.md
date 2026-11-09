@@ -2,6 +2,8 @@
 
 SEO para B2B é a estratégia de otimização para buscadores aplicada a empresas que vendem para outras empresas, com ciclos de venda longos, múltiplos decisores e tickets médios que justificam cada lead conquistado. Diferente do SEO para e-commerce ou varejo, onde o volume de tráfego é o principal indicador, no B2B o que importa é a qualidade do lead: um visitante orgânico que se torna um MQL (Marketing Qualified Lead), evolui para SQL (Sales Qualified Lead) e fecha um contrato de alto valor.
 
+> **Página completa no site:** a página [SEO para B2B](https://triwi.com.br/seo-para-b2b/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-b2b-como-gerar-leads-qualificados-via-organico) da TRIWI aprofunda este tema e é atualizada continuamente.
+
 O desafio é que a maioria das empresas B2B ainda trata SEO como um canal secundário, investindo pesado em mídia paga, eventos e outbound, enquanto o orgânico gera tráfego sem direcionamento estratégico. O resultado são blogs com milhares de visitas que não geram pipeline, páginas de produto que não rankeiam e uma dependência crescente de canais pagos com CAC cada vez mais alto.
 
 A TRIWI atende empresas B2B como Valid, John Deere, B3, Contato Seguro e AX4B; cada uma com dinâmicas distintas de mercado, mas todas com uma necessidade comum: transformar tráfego orgânico em leads qualificados e receita mensurável. O case da Contato Seguro é emblemático: 65% das vendas vêm do tráfego orgânico, com +654% de crescimento orgânico e +1.100% de tráfego proveniente de LLMs. Esse resultado não veio de "fazer blog posts", veio de uma [estratégia de SEO segmentada](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md) para as dinâmicas do B2B.
@@ -175,6 +177,10 @@ As [métricas que importam](../metricas-e-ferramentas/metricas-de-seo-que-import
 **Influência em pipeline:** o valor total do pipeline que foi tocado pelo orgânico em algum ponto da jornada. Mesmo que o lead não tenha convertido diretamente pelo orgânico, se ele acessou 3 artigos do blog antes de fechar, o SEO influenciou a decisão.
 
 A TRIWI reporta essas métricas, não "posições conquistadas", porque é assim que o [ROI de SEO](../metricas-e-ferramentas/roi-de-seo-como-calcular-o-retorno-sobre-investimento.md) faz sentido para decisores B2B. Resultados de negócio, não métricas de vaidade.
+
+> **Página completa no site:** a página [SEO para B2B](https://triwi.com.br/seo-para-b2b/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-b2b-como-gerar-leads-qualificados-via-organico) da TRIWI aprofunda este tema e é atualizada continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 

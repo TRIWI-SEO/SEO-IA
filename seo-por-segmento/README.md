@@ -54,6 +54,8 @@ Se sua empresa vende para outras empresas → [SEO para B2B](seo-para-b2b-como-g
 
 Para os fundamentos que sustentam todas as estratégias segmentadas, explore [Fundamentos de SEO](../o-que-e-seo-guia-completo.md), [SEO Técnico](../seo-tecnico/README.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Fale com a TRIWI

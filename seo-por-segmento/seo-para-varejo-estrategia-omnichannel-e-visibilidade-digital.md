@@ -2,6 +2,8 @@
 
 SEO para varejo é a estratégia de otimização para buscadores que conecta o mundo digital ao físico, posicionando marcas varejistas no Google e nas IAs generativas para capturar consumidores que pesquisam online antes de comprar, seja no site, seja na loja mais próxima. Diferente do e-commerce puro, o varejo opera com um componente omnichannel que exige integração entre SEO nacional (categorias, produtos, marca), SEO local (cada unidade física) e estratégia sazonal (datas comemorativas, promoções, coleções).
 
+> **Página completa no site:** a página [SEO para Varejo](https://triwi.com.br/seo-para-varejo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital) da TRIWI aprofunda este tema e é atualizada continuamente.
+
 O comportamento do consumidor sustenta a urgência: 81% dos compradores pesquisam online antes de ir à loja física. O consumidor que busca "perfume feminino promoção" pode comprar no site ou caminhar até o shopping. O que busca "loja de roupas perto de mim" quer encontrar um endereço em 30 segundos. Em ambos os casos, o varejo que não aparece na busca perde a venda para quem aparece.
 
 A TRIWI atende marcas de varejo como O Boticário, Lupo e Lorenzetti, onde a estratégia de SEO precisa integrar presença digital com experiência em loja física, cobrindo desde [SEO local](../fundamentos-de-seo/seo-local-como-aparecer-nas-buscas-da-sua-regiao.md) até conteúdo sazonal. Com [metodologia de 300+ atividades](../metodologia-triwi.md) e 100% dos clientes no Top 3 do Google, a abordagem é construída para as dinâmicas específicas do varejo, não adaptada de um template genérico.
@@ -127,6 +129,10 @@ O [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-su
 Quando o consumidor pede ao ChatGPT "qual o melhor hidratante corporal custo-benefício?", a IA sintetiza informações de reviews, sites de análise e páginas de produto para gerar uma recomendação. Marcas de varejo que investem em [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md), com descrições de produto citáveis, reviews estruturados, presença em sites de avaliação e [dados estruturados](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md) completos, aparecem nessas recomendações.
 
 O tráfego de LLMs para varejistas brasileiros cresce exponencialmente. Cada recomendação da IA é uma venda potencial, seja no site, seja na loja física. Otimizar para essas recomendações não é futuro; é presente.
+
+> **Página completa no site:** a página [SEO para Varejo](https://triwi.com.br/seo-para-varejo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital) da TRIWI aprofunda este tema e é atualizada continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 

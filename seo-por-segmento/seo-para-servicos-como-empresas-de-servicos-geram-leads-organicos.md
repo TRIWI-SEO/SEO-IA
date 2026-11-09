@@ -2,6 +2,8 @@
 
 SEO para empresas de serviços é a estratégia de otimização para buscadores que transforma visibilidade orgânica em agendamentos, orçamentos e contratos. Diferente de e-commerce ou SaaS, onde o produto é tangível e demonstrável, empresas de serviços vendem expertise, confiança e resultado, elementos intangíveis que precisam ser tangibilizados através de conteúdo para que o Google (e as IAs) reconheçam a autoridade da empresa e os prospects se convençam antes do primeiro contato.
 
+> **Página completa no site:** a página [SEO para Serviços](https://triwi.com.br/seo-para-servicos/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos) da TRIWI aprofunda este tema e é atualizada continuamente.
+
 O setor de serviços é amplo, consultoria, tecnologia, financeiro, saúde, jurídico, engenharia, educação, e cada vertical tem dinâmicas próprias de busca. O que todas compartilham é a dependência de confiança: o prospect que busca "consultoria tributária para empresas" ou "escritório de advocacia trabalhista em São Paulo" não está comparando preço. Está avaliando credibilidade. E a credibilidade começa na busca orgânica, no conteúdo que aparece no Google e nas respostas que as IAs generativas entregam.
 
 A própria TRIWI é uma empresa de serviços que aplica na operação o que implementa para clientes. A expertise em SEO para serviços vem da prática: [metodologia com 12 etapas e 300+ atividades](../metodologia-triwi.md), 50+ clientes ativos, churn médio de 3,5 anos e 100% dos clientes no Top 3 do Google. Os resultados demonstram que [SEO segmentado](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md) para serviços funciona, quando a estratégia é construída para as dinâmicas do setor.
@@ -121,6 +123,10 @@ Quando o prospect pergunta à IA "qual a melhor consultoria de [área] no Brasil
 Para aparecer nessa resposta, a estratégia de [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) exige: [conteúdo citável](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) com definições claras e dados concretos, presença consistente em fontes que LLMs consultam, dados estruturados que facilitem a interpretação pela IA e autoridade de marca construída por menções e backlinks editoriais.
 
 O [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md) mede a participação da marca nas respostas das IAs para queries do setor. A TRIWI monitora e otimiza essa métrica para seus clientes, porque no mercado de serviços, onde a confiança é o fator decisivo, ser recomendado por uma IA é o equivalente a receber uma indicação de um consultor de confiança.
+
+> **Página completa no site:** a página [SEO para Serviços](https://triwi.com.br/seo-para-servicos/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos) da TRIWI aprofunda este tema e é atualizada continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
