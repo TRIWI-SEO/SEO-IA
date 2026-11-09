@@ -94,6 +94,8 @@ A TRIWI trata essa convergência como parte central da estratégia. "Aumento das
 
 Os resultados dessa abordagem integrada são mensuráveis nos cases da TRIWI. O Sem Parar alcançou +350% de tráfego vindo de LLMs e +6.400% de presença em AI Overviews. A Valid/Flexdoc chegou a +700% de tráfego de LLMs e +2.000% em AI Overviews. A Contato Seguro atingiu +1.100% de tráfego de LLMs. Esses números não vêm de menções isoladas, vêm de uma estratégia de construção de autoridade que posiciona a marca consistentemente nas fontes que o Google e as IAs consideram confiáveis.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

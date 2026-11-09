@@ -2,6 +2,8 @@
 
 Link building é o processo estratégico de conquistar links de outros sites apontando para o seu, e é um dos três pilares mais importantes do SEO, ao lado de conteúdo e otimização técnica. Cada backlink funciona como um voto de confiança: quando um site relevante e autoritativo linka para sua página, o Google interpreta isso como um sinal de que seu conteúdo merece destaque. Não qualquer link, links de qualidade, conquistados por mérito, dentro de contexto editorial relevante.
 
+> **Versão completa no site:** o [Guia de Link Building e Autoridade](https://triwi.com.br/guias/link-building/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=link-building-guia-completo-de-construcao-de-autoridade) da TRIWI aprofunda este tema e é atualizado continuamente.
+
 O problema é que a maioria do mercado ainda trata link building como compra de links em escala. Pacotes de 50, 100, 500 links por mês em diretórios genéricos, blogs PBN e redes de sites criados exclusivamente para vender backlinks. O resultado: na melhor hipótese, zero impacto. Na pior, penalização do Google. A distância entre link building estratégico e compra de links é a mesma entre construir autoridade real e alugar uma fachada de credibilidade.
 
 Esta página é o guia completo de link building: o que é, por que funciona, quais estratégias geram resultados reais e como a construção de autoridade evoluiu, do PageRank dos anos 2000 à era das IAs generativas, onde menções de marca podem valer tanto quanto links tradicionais.
@@ -187,6 +189,10 @@ A diferença de abordagem é estrutural:
 | Risco | Mínimo, links orgânicos e editoriais | Alto, penalizações por link schemes |
 
 A TRIWI já gerou 500 mil+ backlinks para seus clientes. Mas o número de backlinks nunca foi a métrica, a métrica é o impacto na autoridade, nas posições orgânicas e, em última instância, nos resultados de negócio. É por isso que nossos clientes não reportam apenas "mais backlinks", reportam mais tráfego, mais palavras no Top 10 e mais receita influenciada pelo orgânico.
+
+> **Versão completa no site:** o [Guia de Link Building e Autoridade](https://triwi.com.br/guias/link-building/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=link-building-guia-completo-de-construcao-de-autoridade) da TRIWI aprofunda este tema e é atualizado continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 

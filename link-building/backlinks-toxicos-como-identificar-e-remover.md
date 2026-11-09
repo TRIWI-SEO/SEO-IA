@@ -126,6 +126,8 @@ Na experiência da TRIWI com 50+ clientes, é comum encontrar passivos significa
 
 Para entender como a TRIWI diagnostica e trata o perfil de backlinks do seu site, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

@@ -42,6 +42,8 @@ Se o foco é **construir autoridade moderna**, avance para [Digital PR e mençõ
 
 Para o contexto fundamental de como autoridade se encaixa no SEO como um todo, veja [SEO Off-Page (Fundamentos)](../fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md) e [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md). Para entender como autoridade impacta IAs generativas, explore [a GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Fale com a TRIWI
