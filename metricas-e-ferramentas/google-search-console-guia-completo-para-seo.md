@@ -8,7 +8,7 @@ O Google Search Console é a base do monitoramento técnico da TRIWI. A equipe c
 
 ---
 
-## O Que É o Google Search Console
+## O que é o Google Search Console?
 
 O Google Search Console é a interface oficial do Google para webmasters e profissionais de SEO. Lançado originalmente como "Google Webmaster Tools" em 2006, foi reformulado e renomeado em 2015. A plataforma fornece relatórios, ferramentas de diagnóstico e alertas que permitem entender como o Google interage com o site, desde o rastreamento inicial até a exibição nos resultados de busca.
 
@@ -28,9 +28,17 @@ A recomendação é verificar o site como "Propriedade de domínio" (usando DNS)
 
 Após a verificação, o GSC começa a coletar dados. Os dados de desempenho levam algumas horas a poucos dias para aparecer. Dados de indexação e Core Web Vitals podem levar alguns dias a semanas para serem totalmente populados. A configuração correta desde o início garante que nenhum dado seja perdido, quanto antes o GSC for ativado, mais histórico estará disponível para análise.
 
+| Relatório | O que mostra | Para que usar |
+|:---|:---|:---|
+| Desempenho | Cliques, impressões, CTR e posição por busca e por página | Encontrar oportunidades e quedas |
+| Indexação de páginas | Quais páginas estão ou não no índice, e por quê | Corrigir problemas de indexação |
+| Core Web Vitals | Experiência de carregamento e interação | Priorizar melhorias técnicas |
+| Sitemaps | Status dos sitemaps enviados | Garantir que o Google conheça as páginas |
+| Links | Links internos e externos mais relevantes | Entender a autoridade do site |
+
 ---
 
-## Relatório de Desempenho
+## Como usar o relatório de desempenho?
 
 O Relatório de Desempenho é o módulo mais utilizado do Search Console. Mostra como o site performa nos resultados de busca do Google: quais queries geram impressões, quantos cliques o site recebe, qual a posição média e qual a taxa de cliques (CTR) para cada query e página.
 
@@ -60,7 +68,7 @@ A TRIWI utiliza a análise de quick wins do Search Console como parte das primei
 
 ---
 
-## Relatório de Indexação (Cobertura)
+## Como usar o relatório de indexação?
 
 O Relatório de Indexação mostra o status de todas as páginas do site no índice do Google: quais estão indexadas (aparecem nos resultados), quais foram excluídas (e por quê) e quais têm erros que impedem a indexação.
 
@@ -86,7 +94,7 @@ A Inspeção de URL também permite "Solicitar indexação", pedindo ao Google p
 
 ---
 
-## Core Web Vitals no Search Console
+## Como ver as Core Web Vitals no Search Console?
 
 O relatório de [Core Web Vitals](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md) no Search Console mostra a performance de experiência do usuário do site usando dados reais de campo (CrUX, Chrome User Experience Report). Diferente de testes de laboratório (Lighthouse, PageSpeed Insights), esses dados vêm de usuários reais navegando no site.
 
@@ -108,7 +116,7 @@ Na prática, a maioria dos problemas de Core Web Vitals em mobile está relacion
 
 ---
 
-## Sitemaps e Remoções
+## Como enviar sitemaps e pedir remoções?
 
 O módulo de Sitemaps permite submeter e monitorar os mapas do site, arquivos XML que listam todas as URLs que você quer que o Google rastreie e indexe. O módulo de Remoções permite solicitar a remoção temporária de URLs dos resultados de busca.
 

@@ -8,7 +8,7 @@ A [filosofia da TRIWI](../filosofia-triwi.md) trata SEO como equity, não como a
 
 ---
 
-## Por Que Calcular ROI de SEO É Essencial
+## Por que calcular o ROI de SEO?
 
 Calcular o ROI de SEO não é um exercício acadêmico; é a base para decisões de investimento. Sem um cálculo claro de retorno, SEO compete por orçamento com canais que apresentam resultados de forma mais imediata e visível, como mídia paga e eventos. O resultado é subinvestimento crônico no canal com maior potencial de retorno a longo prazo.
 
@@ -26,7 +26,7 @@ A consequência é que muitas empresas cortam SEO no primeiro trimestre sem resu
 
 ---
 
-## Fórmula de ROI de SEO
+## Qual é a fórmula do ROI de SEO?
 
 O cálculo de ROI de SEO segue a fórmula padrão de retorno sobre investimento, adaptada para as particularidades do canal orgânico.
 
@@ -46,9 +46,16 @@ Custo por lead orgânico é calculado como: investimento total em SEO dividido p
 
 Para e-commerce, o ROI pode ser calculado por transação: receita de vendas orgânicas menos investimento em SEO. Para SaaS, o LTV (Lifetime Value) do cliente adquirido via orgânico frequentemente justifica o investimento mesmo em cenários onde o CAC inicial é comparável a outros canais, porque o churn de clientes orgânicos tende a ser menor.
 
+| Componente | Como chegar ao número |
+|:---|:---|
+| Receita orgânica | Vendas ou contratos com origem no orgânico, pelo modelo de atribuição escolhido |
+| Investimento | Equipe, agência, ferramentas e produção de conteúdo no período |
+| ROI | Receita orgânica menos investimento, dividido pelo investimento |
+| Horizonte | Pelo menos 12 meses, porque o resultado do SEO se acumula |
+
 ---
 
-## Como Atribuir Receita ao Orgânico
+## Como atribuir receita ao orgânico?
 
 A atribuição de receita é o desafio técnico do cálculo de ROI de SEO. O usuário raramente converte na primeira visita; ele pode descobrir a marca via busca orgânica, retornar por um anúncio de remarketing e converter por um email. Qual canal "merece" o crédito pela receita?
 
@@ -80,7 +87,7 @@ A recomendação é reportar ambas: receita direta (conservadora) e receita infl
 
 ---
 
-## O Fator Tempo: ROI de SEO É Cumulativo
+## Por que o ROI de SEO é cumulativo?
 
 O ROI de SEO não se comporta como o ROI de uma campanha de mídia paga. Não é linear, não é imediato e não para quando o investimento para. Entender a dinâmica temporal é fundamental para calcular, e comunicar, o retorno corretamente.
 
@@ -110,7 +117,7 @@ A TRIWI registra redução média de -40% no CAC dos seus clientes. Essa reduç�
 
 ---
 
-## Como Apresentar ROI de SEO Para a Diretoria
+## Como apresentar o ROI de SEO para a diretoria?
 
 Calcular o ROI é metade do trabalho. Comunicar de forma que a diretoria entenda, e aprove a continuidade do investimento, é a outra metade. O formato de apresentação importa tanto quanto o conteúdo.
 

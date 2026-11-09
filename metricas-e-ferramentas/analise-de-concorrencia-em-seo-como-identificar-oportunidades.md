@@ -8,7 +8,7 @@ A análise competitiva vai além de "ver quais keywords o concorrente rankeia." 
 
 ---
 
-## Por Que Análise de Concorrência É Essencial em SEO
+## Por que a análise de concorrência é essencial em SEO?
 
 A análise competitiva não é uma etapa opcional da estratégia de SEO; é a base que informa todas as decisões de priorização. Sem entender o cenário competitivo, a equipe trabalha no escuro: otimizando keywords que podem ser inalcançáveis com a autoridade atual, ignorando oportunidades que os concorrentes deixaram abertas e investindo em conteúdo que não tem diferencial suficiente para competir.
 
@@ -30,7 +30,7 @@ Na experiência da TRIWI com 50+ clientes, as maiores oportunidades frequentemen
 
 ---
 
-## O Que Analisar nos Concorrentes
+## O que analisar nos concorrentes?
 
 Uma análise competitiva completa cobre cinco dimensões: keywords, conteúdo, backlinks, estrutura técnica e presença em IAs. Cada dimensão revela um tipo diferente de oportunidade.
 
@@ -74,9 +74,17 @@ A análise envolve consultar as principais LLMs com queries estratégicas e rast
 
 Na experiência da TRIWI, muitas empresas estão completamente ausentes das respostas de LLMs para queries do seu próprio setor, enquanto concorrentes que investiram em GEO já capturam tráfego significativo. No case da Sem Parar, o tráfego de LLMs cresceu +350%. Na Valid/Flexdoc, +700%. Na Contato Seguro, +1.100%. A análise competitiva de presença em LLMs foi parte da estratégia que gerou esses resultados.
 
+| O que analisar | Pergunta que responde |
+|:---|:---|
+| Palavras-chave | Para quais buscas o concorrente aparece e você não? |
+| Conteúdo | Quais temas ele cobre melhor, e onde há lacunas? |
+| Backlinks | Quais sites citam o concorrente e não citam você? |
+| Técnica | O site dele é mais rápido, mais rastreável, mais bem estruturado? |
+| IAs | Quando alguém pergunta às IAs sobre o setor, quem é citado? |
+
 ---
 
-## Ferramentas Para Análise Competitiva
+## Quais ferramentas usar na análise competitiva?
 
 As [ferramentas de SEO](ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md) enterprise oferecem módulos específicos para análise de concorrência. Cada uma tem fortalezas distintas que se complementam.
 
@@ -100,7 +108,7 @@ Para análise competitiva estratégica, o SimilarWeb revela: quanto do tráfego 
 
 ---
 
-## Como Transformar Análise em Ação
+## Como transformar a análise em ação?
 
 A análise competitiva só gera resultado quando se transforma em ação priorizada. Uma lista de 500 keyword gaps é informação. Uma lista priorizada de 20 keywords para atacar nos próximos 90 dias, com plano de conteúdo e link building, é estratégia.
 

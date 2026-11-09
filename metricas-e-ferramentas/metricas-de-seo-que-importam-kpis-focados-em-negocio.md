@@ -10,7 +10,7 @@ O 3º princípio da [Filosofia da TRIWI](../filosofia-triwi.md) é: "Resultados 
 
 ---
 
-## Métricas de Negócio vs. Métricas de Vaidade em SEO
+## Qual a diferença entre métricas de negócio e de vaidade?
 
 A distinção entre métricas de negócio e métricas de vaidade é o ponto de partida para qualquer operação de SEO orientada a resultado. Confundir as duas categorias é o erro mais comum, e mais caro, que empresas cometem ao avaliar suas estratégias de busca orgânica.
 
@@ -32,9 +32,16 @@ Quando um CMO ou CEO avalia o investimento em SEO, as perguntas são diretas: qu
 
 A diretoria não quer saber quantas keywords estão no Top 10. Quer saber se o investimento em SEO está gerando retorno financeiro mensurável. É por isso que a TRIWI estrutura seus relatórios em duas camadas: o relatório executivo (métricas de negócio, ROI, comparativo com outros canais) e o relatório operacional (posições, indexação, backlinks, saúde técnica). Ambos são importantes, mas a hierarquia é clara.
 
+| Métrica de vaidade | Métrica de negócio que responde à pergunta certa |
+|:---|:---|
+| Visitas totais | Leads e vendas vindos do orgânico |
+| Posição média | Tráfego e conversão das palavras de fundo de funil |
+| Número de palavras ranqueadas | Receita atribuída ao orgânico |
+| Seguidores e curtidas | Custo de aquisição de cliente (CAC) do canal |
+
 ---
 
-## Métricas de Negócio Essenciais
+## Quais métricas de negócio são essenciais?
 
 Estas são as métricas que conectam SEO diretamente ao crescimento da empresa. Todo programa de SEO maduro deve rastrear, reportar e otimizar para esses indicadores.
 
@@ -110,7 +117,7 @@ Essas métricas são pré-requisitos. Um site com Core Web Vitals ruins perde po
 
 ---
 
-## Métricas de GEO: Os Novos KPIs
+## Quais são as métricas de GEO?
 
 Com a ascensão das IAs generativas como canal de descoberta, um novo conjunto de métricas se tornou essencial. As métricas de [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md) medem a visibilidade da marca nas respostas de ChatGPT, Gemini, Claude, Perplexity e nos AI Overviews do Google. Empresas que ignoram essas métricas estão medindo apenas metade da equação de visibilidade digital.
 
@@ -140,7 +147,7 @@ O monitoramento envolve queries regulares às principais LLMs para rastrear como
 
 ---
 
-## Como Montar um Dashboard de SEO Orientado a Negócio
+## Como montar um dashboard de SEO orientado a negócio?
 
 Um dashboard de SEO orientado a negócio não é uma lista de métricas; é uma ferramenta de decisão. Deve responder às perguntas que diretores e gestores fazem: o investimento está dando retorno? O canal está crescendo? Onde devemos investir mais?
 

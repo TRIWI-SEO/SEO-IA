@@ -8,7 +8,7 @@ A TRIWI opera com um stack completo de ferramentas enterprise, SEMrush, Ahrefs, 
 
 ---
 
-## Ferramentas Essenciais (Obrigatórias)
+## Quais ferramentas de SEO são essenciais?
 
 Estas são as ferramentas que toda operação de SEO precisa ter ativas, independentemente do tamanho ou segmento. São gratuitas (ou têm versões gratuitas robustas) e fornecem os dados fundamentais para qualquer decisão de SEO.
 
@@ -38,9 +38,17 @@ O PSI fornece uma pontuação de 0 a 100 para mobile e desktop, mas o valor real
 
 A recomendação é testar todas as páginas estratégicas (home, categorias, landing pages de conversão) e priorizar as correções pelo impacto em Core Web Vitals. Performance técnica é pré-requisito, um site lento perde posições independentemente da qualidade do conteúdo ou da autoridade do domínio.
 
+| Ferramenta | Para que serve | Acesso |
+|:---|:---|:---|
+| Google Search Console | Desempenho na busca, indexação e erros do site | Gratuita |
+| Google Analytics 4 | Visitas, conversões e origem do tráfego | Gratuita |
+| PageSpeed Insights | Velocidade e Core Web Vitals | Gratuita |
+| Screaming Frog | Rastreamento técnico do site | Gratuita até 500 URLs, paga acima |
+| Semrush ou Ahrefs | Palavras-chave, concorrentes e backlinks | Paga |
+
 ---
 
-## Ferramentas de Pesquisa e Análise
+## Quais ferramentas usar para pesquisa e análise?
 
 Ferramentas de pesquisa e análise são suítes pagas que oferecem dados estimados sobre keywords, concorrentes, backlinks e visibilidade orgânica. São essenciais para planejamento estratégico, [pesquisa de palavras-chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md) e análise competitiva.
 
@@ -70,7 +78,7 @@ O Keyword Explorer do Moz se diferencia pela métrica de "Priority", que combina
 
 ---
 
-## Ferramentas Técnicas
+## Quais ferramentas usar no SEO técnico?
 
 Ferramentas técnicas diagnosticam problemas estruturais do site que impactam a capacidade do Google de rastrear, indexar e ranquear o conteúdo. São especialmente importantes para sites grandes (e-commerce, portais) onde problemas técnicos podem afetar milhares de páginas simultaneamente.
 
@@ -150,7 +158,7 @@ A tendência é que esse tipo de análise se torne tão fundamental quanto o mon
 
 ---
 
-## Como Escolher as Ferramentas Certas Para Seu Negócio
+## Como escolher as ferramentas certas para o seu negócio?
 
 A escolha de ferramentas de SEO não é uma questão de "qual é a melhor"; é uma questão de "qual combinação resolve os problemas da minha operação com o orçamento disponível."
 
