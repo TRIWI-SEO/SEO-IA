@@ -2,6 +2,8 @@
 
 Pesquisa de palavras-chave é o processo de identificar, analisar e priorizar os termos que seu público-alvo busca no Google, para criar conteúdo que atenda essa demanda e gere resultados de negócio. É o ponto de partida de qualquer [estratégia de conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): sem pesquisa de palavras-chave, não há como saber se existe demanda para o que você pretende publicar, quem são seus concorrentes reais na SERP, ou qual o potencial de retorno de cada página criada.
 
+> **Versão completa no site:** o [Guia de Palavras-chave e Intenção de Busca](https://triwi.com.br/guias/palavras-chave/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas) da TRIWI aprofunda este tema e é atualizado continuamente.
+
 Empresas que pulam essa etapa, ou a fazem superficialmente, acabam produzindo conteúdo para keywords sem volume, com intenção errada ou com competição inacessível. O resultado: páginas que existem mas não geram tráfego, leads ou receita. A pesquisa de palavras-chave é o que transforma produção de conteúdo em investimento com retorno previsível.
 
 Esta página é o guia prático de pesquisa de palavras-chave: da definição ao processo passo a passo, dos tipos de keywords aos erros que desperdiçam orçamento e esforço.
@@ -147,6 +149,10 @@ Os mesmos erros se repetem em empresas de todos os tamanhos. Reconhecê-los é o
 **Não atualizar a pesquisa**, tratar keyword research como evento único. O comportamento de busca muda, novos concorrentes surgem, keywords perdem ou ganham volume. A pesquisa de palavras-chave deve ser revisitada pelo menos trimestralmente, identificando novas oportunidades, gaps emergentes e keywords que mudaram de intenção.
 
 **Pesquisar sem priorizar**, gerar listas enormes de keywords sem critério de prioridade. Uma lista de 500 keywords sem priorização é inútil na prática, a equipe não sabe por onde começar e acaba escolhendo por conveniência, não por impacto. A priorização por valor de negócio é o que transforma dados em ação.
+
+> **Versão completa no site:** o [Guia de Palavras-chave e Intenção de Busca](https://triwi.com.br/guias/palavras-chave/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas) da TRIWI aprofunda este tema e é atualizado continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 

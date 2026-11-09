@@ -106,6 +106,8 @@ Content pruning é parte da fase de Diagnóstico e Auditoria da TRIWI. Em projet
 
 Esses resultados não vêm do pruning isoladamente, vêm do pruning como parte de uma [metodologia integrada com 300+ atividades](../metodologia-triwi.md) que inclui diagnóstico, auditoria técnica, estratégia de conteúdo, link building e otimização contínua. Mas o pruning é frequentemente o primeiro passo: limpar o terreno antes de construir.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

@@ -128,6 +128,8 @@ Perguntas e respostas são o formato que LLMs processam com mais eficiência. He
 
 Incorporar formato Q&A não significa transformar todo o conteúdo em FAQ. Significa usar headings que espelham perguntas reais do público e abrir a resposta com uma definição direta antes de aprofundar. Essa abordagem atende simultaneamente ao [E-E-A-T](e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md) do Google (conteúdo que demonstra expertise respondendo perguntas reais) e à otimização para IAs (conteúdo estruturado para extração).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Próximos Passos

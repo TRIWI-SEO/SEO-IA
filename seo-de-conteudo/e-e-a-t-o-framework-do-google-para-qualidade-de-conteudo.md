@@ -164,6 +164,8 @@ A [otimização para IAs generativas (GEO)](../o-que-e-geo-generative-engine-opt
 
 Essa convergência entre [SEO de conteúdo](copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md) tradicional e otimização para IAs reforça que E-E-A-T não é apenas uma boa prática; é o fundamento que sustenta visibilidade orgânica em qualquer interface, seja o Google, seja o ChatGPT, seja o próximo modelo de IA que ainda não existe.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

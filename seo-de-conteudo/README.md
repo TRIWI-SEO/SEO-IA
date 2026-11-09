@@ -52,6 +52,8 @@ Na sequência prática: [pesquisa de palavras-chave](pesquisa-de-palavras-chave-
 
 Para os fundamentos que sustentam esta categoria, veja [Fundamentos de SEO](../o-que-e-seo-guia-completo.md). Para a dimensão técnica, [SEO Técnico](../seo-tecnico/README.md). E para o futuro do conteúdo, [GEO, otimização para IAs generativas](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Fale com a TRIWI
