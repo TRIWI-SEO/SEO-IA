@@ -6,7 +6,7 @@ Para empresas, a pergunta não é mais "a busca generativa vai impactar meu neg�
 
 ---
 
-## 🌊 A Maior Transformação nas Buscas Desde o Google
+## A Maior Transformação nas Buscas Desde o Google
 
 A última vez que a busca mudou dessa forma foi em 1998, quando o Google substituiu os diretórios de links por um algoritmo de relevância. A busca generativa é uma ruptura de magnitude comparável, e potencialmente maior.
 
@@ -24,7 +24,7 @@ No Google, os resumos com IA chegam até a quem nunca abriu um aplicativo de IA:
 
 ---
 
-## 🏢 O Que Muda para Empresas
+## O que muda para as empresas?
 
 A busca generativa vai além de uma evolução tecnológica; é uma mudança na dinâmica competitiva de como empresas são descobertas, avaliadas e escolhidas.
 
@@ -48,7 +48,7 @@ A [Filosofia TRIWI](../filosofia-triwi.md) reconhece essa dinâmica no seu 4º p
 
 ---
 
-## 🔮 Cenários para os Próximos 2 a 5 Anos
+## O que esperar da busca nos próximos anos?
 
 Projetar cenários não é exercício teórico; é preparação estratégica. Os sinais de 2026 indicam tendências que vão se intensificar.
 
@@ -72,9 +72,16 @@ Para empresas, isso expande o campo de otimização. Vai além de "aparecer na r
 
 ---
 
-## ✅ O Que Sua Empresa Pode Fazer Hoje
+## O que sua empresa pode fazer hoje?
 
 A transição para busca generativa não exige esperar, exige agir com método. Os quatro passos a seguir são aplicáveis hoje, independentemente do porte ou setor da empresa.
+
+| Passo | O que fazer | Resultado |
+|:---|:---|:---|
+| 1. Auditar | Testar as perguntas do setor nas IAs e registrar quem é citado | Linha de base de Share of Model |
+| 2. Integrar | Tratar GEO dentro da estratégia de SEO | Um plano só para Google e IAs |
+| 3. Construir | Produzir pesquisa original, guias e comparativos citáveis | Fontes que as IAs usam |
+| 4. Monitorar | Medir Share of Model todo mês | Correção de rota contínua |
 
 ### Passo 1: Auditar Presença Atual nas LLMs
 
@@ -100,6 +107,8 @@ GEO não é projeto pontual; é processo contínuo. As respostas das IAs mudam c
 
 A [estratégia cross-platform](otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md) garante que o monitoramento cubra todo o ecossistema, não apenas uma plataforma. Cada LLM tem comportamento de citação distinto, e a otimização precisa ser ajustada por plataforma.
 
+**Ver também no Glossário da TRIWI:** [Perplexity](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-futuro-da-busca-e-generativo-por-que-sua-empresa-precisa-agir-agora#ia-perplexity), [ChatGPT](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-futuro-da-busca-e-generativo-por-que-sua-empresa-precisa-agir-agora#ia-chatgpt), [Gemini](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-futuro-da-busca-e-generativo-por-que-sua-empresa-precisa-agir-agora#ia-gemini).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ## Fontes
@@ -111,7 +120,7 @@ A [estratégia cross-platform](otimizacao-para-perplexity-claude-e-outras-ias-de
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 A busca generativa é a maior transformação em descoberta digital desde o Google. Em 2026, os dados são inequívocos: adoção acelerando, zero-click dominando, IAs decidindo quais marcas são recomendadas. A janela de primeiro movedor está se fechando, e cada vez mais empresas planejam implementar GEO. A autoridade de citação que se constrói agora é a que será difícil de deslocar depois.
 
@@ -119,15 +128,15 @@ O 4º princípio da [Filosofia TRIWI](../filosofia-triwi.md) é: "O futuro das b
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
-- 📊 [Share of Model: Como Medir a Presença da Sua Marca nas IAs](share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), Como medir sua presença nas IAs.
-- 🔮 [AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md), A convergência entre Google e IA.
-- ✍️ [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Conteúdo que IAs citam.
-- 🔧 [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Infraestrutura técnica para GEO.
-- 📈 [Tendências de SEO: O Que Esperar nos Próximos Anos](../tendencias-e-futuro/tendencias-de-seo-o-que-esperar-nos-proximos-anos.md), O panorama de tendências em SEO.
-- 🎙️ [Busca por Voz e SEO: Como Otimizar Para Assistentes Virtuais](../tendencias-e-futuro/busca-por-voz-e-seo-como-otimizar-para-assistentes-virtuais.md), Otimização para a próxima interface.
-- 💡 [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que guiam nossa abordagem.
-- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Por que empresas líderes escolhem a TRIWI.
+- [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
+- [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
+- [Share of Model: Como Medir a Presença da Sua Marca nas IAs](share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), Como medir sua presença nas IAs.
+- [AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md), A convergência entre Google e IA.
+- [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Conteúdo que IAs citam.
+- [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Infraestrutura técnica para GEO.
+- [Tendências de SEO: O Que Esperar nos Próximos Anos](../tendencias-e-futuro/tendencias-de-seo-o-que-esperar-nos-proximos-anos.md), O panorama de tendências em SEO.
+- [Busca por Voz e SEO: Como Otimizar Para Assistentes Virtuais](../tendencias-e-futuro/busca-por-voz-e-seo-como-otimizar-para-assistentes-virtuais.md), Otimização para a próxima interface.
+- [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que guiam nossa abordagem.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Por que empresas líderes escolhem a TRIWI.
 
 **Sua empresa está pronta para o futuro que já chegou?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e descubra como a [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) fundamenta a estratégia que posiciona marcas no ecossistema de busca generativa.

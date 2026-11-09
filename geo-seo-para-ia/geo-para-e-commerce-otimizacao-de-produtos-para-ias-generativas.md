@@ -10,7 +10,7 @@ Se seu e-commerce ainda otimiza apenas para o Google, está ignorando o canal de
 
 ---
 
-## 🛒 Como Consumidores Estão Usando IAs para Comprar
+## Como os consumidores usam IAs para comprar?
 
 A jornada de compra mudou. O consumidor de 2026 não começa necessariamente pelo Google, começa por uma conversa com IA.
 
@@ -28,7 +28,7 @@ Entre os consumidores mais jovens, a adoção é ainda maior, e grandes varejist
 
 ---
 
-## 🎯 Por Que Seu E-commerce Precisa de GEO
+## Por que seu e-commerce precisa de GEO?
 
 Se a IA não recomenda seus produtos, recomenda os do concorrente. Não existe resposta vazia, quando um consumidor pergunta "qual o melhor [produto]?", a IA sempre responde com alguma marca.
 
@@ -46,7 +46,7 @@ Os AI Overviews do Google também aparecem em buscas de compra, e marcas citadas
 
 ---
 
-## 📦 Otimizando Páginas de Produto para LLMs
+## Como otimizar páginas de produto para LLMs?
 
 A página de produto é o ativo mais importante do e-commerce para GEO. É onde a IA busca as informações que precisa para recomendar, ou não, seu produto.
 
@@ -76,9 +76,17 @@ Quando um consumidor pergunta "qual o melhor [produto]?", a IA precisa de compar
 
 Crie comparativos que incluam critérios objetivos (preço, especificações, avaliação), cubram alternativas reais (incluindo concorrentes) e apresentem conclusões baseadas em dados. A transparência de incluir concorrentes reforça a credibilidade, e aumenta a probabilidade de citação, porque a IA busca fontes que apresentem múltiplas perspectivas.
 
+| Elemento da página | O que a IA precisa encontrar |
+|:---|:---|
+| Descrição | Para quem é, o que resolve e as especificações, em texto |
+| Avaliações | Volume, recência e respostas da loja |
+| Schema Product | Nome, marca, disponibilidade e avaliações |
+| Comparativo | Critérios explícitos entre modelos |
+| Perguntas frequentes | Dúvidas reais, respondidas no próprio texto |
+
 ---
 
-## 📝 Conteúdo de Suporte que Alimenta GEO
+## Conteúdo de Suporte que Alimenta GEO
 
 Páginas de produto não são suficientes isoladamente. O conteúdo de suporte, guias de compra, FAQs, comparativos, funciona como ecossistema que reforça a autoridade do e-commerce nas respostas das IAs.
 
@@ -102,7 +110,7 @@ A estratégia é manter conteúdo comparativo vivo: atualizar rankings trimestra
 
 ---
 
-## 📊 Monitorando Como Seus Produtos Aparecem nas IAs
+## Como monitorar seus produtos nas IAs?
 
 Otimização sem mensuração é otimização cega. Monitorar como seus produtos aparecem, e não aparecem, nas respostas das IAs é essencial para ajustar a estratégia.
 
@@ -131,7 +139,7 @@ O objetivo é quantificar: qual o Share of Model da sua marca para queries de co
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 O e-commerce que não otimiza para IAs generativas está perdendo o canal de descoberta que mais cresce no varejo digital. Com consumidores pedindo recomendações de produto às IAs, GEO para e-commerce não é diferencial; é sobrevivência competitiva. Páginas de produto com descrições citáveis, Schema completo, reviews estruturados e conteúdo de suporte otimizado são a base para que suas marcas e produtos sejam recomendados quando o consumidor pergunta à IA "qual o melhor?".
 
@@ -139,12 +147,12 @@ A TRIWI atende e-commerces como Polishop, Lupo e Grendene, onde a estratégia de
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
-- 🔧 [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema markup orientado a GEO.
-- ✍️ [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Princípios de conteúdo citável.
-- 🏗️ [Schema Markup e Dados Estruturados para SEO](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): O guia técnico completo de Schema.
-- 🛒 [SEO para E-commerce: Otimização Que Gera Vendas](../seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md): SEO tradicional para e-commerce.
-- 🏬 [SEO para Varejo: Estratégia Omnichannel e Visibilidade Digital](../seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md), Estratégia omnichannel para varejo.
+- [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
+- [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
+- [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema markup orientado a GEO.
+- [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Princípios de conteúdo citável.
+- [Schema Markup e Dados Estruturados para SEO](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): O guia técnico completo de Schema.
+- [SEO para E-commerce: Otimização Que Gera Vendas](../seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md): SEO tradicional para e-commerce.
+- [SEO para Varejo: Estratégia Omnichannel e Visibilidade Digital](../seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md), Estratégia omnichannel para varejo.
 
 **Quer que seus produtos sejam recomendados quando consumidores perguntam às IAs "qual o melhor"?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

@@ -8,7 +8,7 @@ Esta página é conteúdo técnico-educativo avançado, a base conceitual que su
 
 ---
 
-## 🧠 De Onde Vem o Conhecimento das LLMs
+## De onde vem o conhecimento das LLMs?
 
 O conhecimento de uma LLM tem duas origens distintas: o treinamento (pre-training) e a busca em tempo real (RAG). A proporção entre essas duas fontes varia por plataforma e por tipo de query, e entender essa distinção é fundamental para a estratégia de GEO.
 
@@ -40,7 +40,7 @@ A estratégia mais eficaz trabalha ambas as frentes simultaneamente; é o que a 
 
 ---
 
-## 🔍 Sinais Que LLMs Usam para Decidir o Que Citar
+## Quais sinais as LLMs usam para decidir o que citar?
 
 LLMs não usam um "algoritmo de rankeamento" com fatores de peso declarados como o Google. Mas pesquisas sobre comportamento de citação revelam padrões consistentes, sinais que aumentam ou diminuem a probabilidade de uma fonte ser citada.
 
@@ -76,7 +76,7 @@ Pesquisa original é especialmente valorizada, porque traz informação que não
 
 ---
 
-## 🏗️ O "Funil" de Citação das LLMs
+## Como funciona o funil de citação das LLMs?
 
 Assim como o Google tem um funil de rastreamento → indexação → rankeamento, as LLMs operam com um funil de citação que pode ser mapeado em quatro etapas. Entender cada etapa revela onde otimizar.
 
@@ -105,7 +105,7 @@ A diferença fundamental: no Google, o resultado é uma posição em uma lista, 
 
 ---
 
-## ⚡ Implicações Práticas para Quem Quer Ser Citado
+## O que fazer para ser citado pelas LLMs?
 
 Entender a mecânica é valioso, mas o que muda na prática? Três princípios de ação derivam diretamente da arquitetura de citação das LLMs.
 
@@ -140,7 +140,7 @@ Consistência é diferente de repetição mecânica. Não é publicar o mesmo te
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Entender como LLMs decidem o que citar é a base de toda estratégia de GEO eficaz. O funil de citação, descoberta, avaliação, seleção, citação, revela que a visibilidade nas IAs não é aleatória: é o resultado de presença nas fontes certas, conteúdo estruturado para extração, autoridade construída por consenso e dados verificáveis que a IA confia em citar.
 
@@ -148,11 +148,11 @@ Se sua empresa quer ser a fonte que as IAs selecionam, e não uma entre milhares
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
-- 🏗️ [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema que facilita a extração pelas LLMs.
-- ✍️ [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Como criar conteúdo que o funil de citação seleciona.
-- 🔧 [Como Funciona o Google: Rastreamento, Indexação e Rankeamento](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md), O funil do Google, base de comparação.
-- 📖 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), Sinais de autoridade reconhecidos pelas LLMs.
+- [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
+- [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
+- [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema que facilita a extração pelas LLMs.
+- [Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), Como criar conteúdo que o funil de citação seleciona.
+- [Como Funciona o Google: Rastreamento, Indexação e Rankeamento](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md), O funil do Google, base de comparação.
+- [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), Sinais de autoridade reconhecidos pelas LLMs.
 
 **Quer entender como posicionar sua marca no funil de citação das IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

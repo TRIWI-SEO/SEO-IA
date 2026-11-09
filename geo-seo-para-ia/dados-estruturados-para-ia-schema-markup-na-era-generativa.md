@@ -8,7 +8,7 @@ Esta página conecta dois mundos: o [SEO técnico de dados estruturados](../seo-
 
 ---
 
-## 🔧 Dados Estruturados na Era da IA Generativa
+## Qual o papel dos dados estruturados na era da IA generativa?
 
 O papel dos dados estruturados evoluiu radicalmente. O que antes servia para conquistar rich snippets na SERP do Google agora funciona como linguagem de comunicação entre seu conteúdo e os sistemas de IA que decidem o que citar, recomendar e apresentar como resposta.
 
@@ -32,7 +32,7 @@ IAs generativas processam dados estruturados de três formas complementares.
 
 ---
 
-## 🏗️ Schemas Prioritários para GEO
+## Quais schemas priorizar para GEO?
 
 Nem todo tipo de Schema tem o mesmo impacto na visibilidade em IAs generativas. A priorização para [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) deve considerar quais schemas comunicam os sinais que LLMs mais valorizam: identidade de entidade, autoridade, e conteúdo citável.
 
@@ -72,9 +72,18 @@ Para e-commerces e empresas de produto, os schemas `Product` e `Review` comunica
 
 Quando um usuário pergunta ao ChatGPT "qual o melhor [produto] para [necessidade]?", a IA busca informações estruturadas de produto para compor a resposta. Sites com Schema Product + Review detalhado fornecem exatamente os dados que a IA precisa para citar, e recomendar.
 
+| Schema | O que comunica | Quando usar |
+|:---|:---|:---|
+| Organization | Quem é a empresa e seus perfis oficiais (sameAs) | Em todo site |
+| Article / BlogPosting | Autoria, datas e tema do conteúdo | Em todo conteúdo editorial |
+| Product, Offer e Review | Produto, disponibilidade e avaliações | Em páginas de produto |
+| BreadcrumbList | Hierarquia do site | Em sites com categorias |
+| FAQPage | Perguntas e respostas | Opcional; sem resultado enriquecido no Google desde maio de 2026 |
+| HowTo | Passo a passo | Opcional; sem resultado enriquecido no Google desde 2023 |
+
 ---
 
-## ⚙️ Implementação Técnica Orientada a IA
+## Como implementar dados estruturados pensando nas IAs?
 
 A implementação de dados estruturados para GEO vai além do básico. O objetivo não é apenas "ter Schema"; é implementar de forma que maximize a compreensão e a confiança da IA no conteúdo.
 
@@ -100,7 +109,7 @@ Estratégias incluem: combinar múltiplos tipos de Schema em uma página (Articl
 
 ---
 
-## 🔗 A Relação Entre Schema e AI Overviews
+## Schema ajuda a aparecer nos AI Overviews?
 
 O Google afirma que dados estruturados ajudam a entender o conteúdo da página, e que não existe marcação especial para aparecer nos recursos de IA da busca ([Google Search Central](https://developers.google.com/search/docs/appearance/ai-features?hl=pt-br)).
 
@@ -124,6 +133,8 @@ As best practices para Schema orientado a AI Overviews incluem:
 
 A implementação de dados estruturados orientados a IA é parte da otimização técnica avançada da TRIWI, executada nos primeiros meses de operação com cada cliente e ajustada continuamente. É um dos fatores que contribuiu para resultados como +6.400% em AI Overviews para o Sem Parar e +2.000% para a Valid/Flexdoc. Na [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) de 12 etapas e 300+ atividades, dados estruturados não são item opcional; são infraestrutura de visibilidade.
 
+**Ver também no Glossário da TRIWI:** [Dados estruturados](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=dados-estruturados-para-ia-schema-markup-na-era-generativa#seo-dados-estruturados), [AI Overviews](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=dados-estruturados-para-ia-schema-markup-na-era-generativa#seo-ai-overviews), [Autoria](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=dados-estruturados-para-ia-schema-markup-na-era-generativa#seo-autoria), [E-E-A-T](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=dados-estruturados-para-ia-schema-markup-na-era-generativa#seo-e-e-a-t), [JSON-LD](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=dados-estruturados-para-ia-schema-markup-na-era-generativa#seo-json-ld).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ## Fontes
@@ -136,7 +147,7 @@ A implementação de dados estruturados orientados a IA é parte da otimização
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Dados estruturados são a ponte entre o conteúdo do seu site e a compreensão das IAs. Na era generativa, implementar Schema markup bem feito não é otimização cosmética; é infraestrutura que determina se a IA entende, confia e cita seu conteúdo. Cada propriedade preenchida e cada entidade conectada é um sinal que aumenta a probabilidade de aparecer onde seus clientes estão buscando, no Google e nas IAs.
 
@@ -144,10 +155,10 @@ Se sua empresa quer implementar dados estruturados orientados a GEO, com a profu
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
-- 🔮 [AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md), Onde dados estruturados fazem mais diferença.
-- 🏗️ [Schema Markup e Dados Estruturados para SEO](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): O guia técnico completo de Schema para SEO.
-- 📖 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework que dados estruturados reforçam.
-- ⚙️ [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): O panorama completo de SEO técnico.
+- [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
+- [AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md), Onde dados estruturados fazem mais diferença.
+- [Schema Markup e Dados Estruturados para SEO](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): O guia técnico completo de Schema para SEO.
+- [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework que dados estruturados reforçam.
+- [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): O panorama completo de SEO técnico.
 
 **Quer implementar dados estruturados que colocam sua marca nas respostas das IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

@@ -8,7 +8,7 @@ A TRIWI utiliza o Share of Model como métrica central da sua estratégia de [GE
 
 ---
 
-## 🎯 O Que é Share of Model
+## O que é Share of Model?
 
 Share of Model é a porcentagem de respostas de IAs generativas, para queries relevantes do seu setor, que mencionam, citam ou recomendam sua marca em comparação com os concorrentes monitorados. É o equivalente do Share of Voice para a era da IA generativa.
 
@@ -44,7 +44,7 @@ Três razões tornam o Share of Model um KPI essencial em 2026.
 
 ---
 
-## 📊 Por Que Share of Model Importa
+## Por que o Share of Model importa?
 
 Share of Model não é métrica de vaidade; é indicador de performance com impacto direto na geração de demanda. Entender por que ele importa é o que transforma o monitoramento em ação estratégica.
 
@@ -68,7 +68,7 @@ Ser encontrado exige que o usuário busque, role os resultados, escolha clicar n
 
 ---
 
-## 🔧 Como Medir Share of Model
+## Como medir o Share of Model?
 
 Medir Share of Model é viável hoje, com métodos manuais acessíveis a qualquer empresa e ferramentas automatizadas para operações em escala. O importante é começar.
 
@@ -104,7 +104,7 @@ A análise competitiva frequentemente revela que o líder de mercado no Google n
 
 ---
 
-## 🚀 Como Aumentar Seu Share of Model
+## Como aumentar seu Share of Model?
 
 Medir é o primeiro passo. Aumentar é o objetivo. As alavancas para crescimento do Share of Model são as mesmas do [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md), aplicadas com foco no impacto mensurável na métrica.
 
@@ -132,7 +132,7 @@ A implicação é que investir em SEO de qualidade, não atalhos, não compra de
 
 ---
 
-## 🔄 Share of Model por LLM
+## O Share of Model muda de uma LLM para outra?
 
 Cada LLM tem comportamento de citação diferente, e seu Share of Model pode variar significativamente entre plataformas. Monitorar por LLM é essencial para direcionar esforços.
 
@@ -146,7 +146,16 @@ Cada LLM tem comportamento de citação diferente, e seu Share of Model pode var
 
 **Perplexity** busca na web em tempo real para cada consulta. O Share of Model no Perplexity recompensa conteúdo atualizado, bem indexado e de alta autoridade. A citação é transparente e inclui links, o que gera tráfego direto. Para empresas com conteúdo consultivo, Perplexity é frequentemente o canal de maior conversão.
 
+| Plataforma | Como busca | O que o Share of Model reflete |
+|:---|:---|:---|
+| ChatGPT | Conhecimento treinado e busca na web quando a pergunta pede | Presença geral da marca na web |
+| Gemini (AI Overview) | Índice do Google | Força do SEO da marca |
+| Claude | Busca seletiva | Reputação e consenso em fontes de terceiros |
+| Perplexity | Busca na web em toda consulta | Conteúdo atualizado e bem indexado |
+
 Ferramentas como Rankio e Otterly oferecem breakdown de Share of Model por plataforma, permitindo identificar onde sua marca performa bem e onde há gaps. A estratégia de otimização pode então ser direcionada: se o Share of Model é alto no ChatGPT mas baixo no Claude, a prioridade pode ser reforçar presença em reviews e validação de terceiros.
+
+**Ver também no Glossário da TRIWI:** [Dados estruturados](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias#seo-dados-estruturados), [Share of Model](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias#seo-share-of-model), [Share of voice](https://triwi.com.br/glossario/marketing/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias#marketing-share-of-voice), [Perplexity](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias#ia-perplexity).
 
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
@@ -158,7 +167,7 @@ Ferramentas como Rankio e Otterly oferecem breakdown de Share of Model por plata
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Share of Model é a métrica que traduz "visibilidade nas IAs" em um número gerenciável, e que permite definir metas, acompanhar evolução e comparar com concorrentes. Em um cenário onde bilhões de decisões de compra passam por IAs generativas, saber seu Share of Model é tão importante quanto saber seu market share.
 
@@ -166,11 +175,11 @@ A TRIWI utiliza o Share of Model como métrica central de GEO desde o início da
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), A disciplina completa de otimização para IAs.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
-- 🔮 [AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md), Otimização específica para o AI Overview do Google.
-- 📈 Relatórios e Dashboards de SEO: Como integrar Share of Model ao reporting.
-- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais que sustentam resultados em SEO + GEO.
-- 💡 [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que guiam nossa abordagem.
+- [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), A disciplina completa de otimização para IAs.
+- [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
+- [AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md), Otimização específica para o AI Overview do Google.
+- Relatórios e Dashboards de SEO: Como integrar Share of Model ao reporting.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais que sustentam resultados em SEO + GEO.
+- [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que guiam nossa abordagem.
 
 **Quer medir e aumentar seu Share of Model, e ser a marca que as IAs recomendam?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

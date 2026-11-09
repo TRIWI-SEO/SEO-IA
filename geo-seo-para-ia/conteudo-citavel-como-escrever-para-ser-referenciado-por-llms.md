@@ -8,7 +8,7 @@ Este guia é a interseção entre [copywriting para SEO](../seo-de-conteudo/copy
 
 ---
 
-## 🔍 O Que Torna Um Conteúdo "Citável" por LLMs
+## O que torna um conteúdo citável por LLMs?
 
 Citabilidade é a probabilidade de um trecho de conteúdo ser selecionado por uma IA como base para compor uma resposta. Não é uma métrica binária; é um espectro influenciado por características específicas do conteúdo que podem ser deliberadamente construídas.
 
@@ -36,7 +36,7 @@ A sobreposição é significativa, conteúdo bem estruturado, autoritativo e den
 
 ---
 
-## ✍️ Princípios de Conteúdo Citável
+## Quais são os princípios do conteúdo citável?
 
 Cinco princípios práticos que transformam conteúdo genérico em conteúdo que IAs selecionam e citam. Cada princípio é acionável e pode ser aplicado a conteúdo existente ou novo.
 
@@ -76,7 +76,7 @@ Formatos eficazes de atribuição: "segundo [entidade]...", "de acordo com [font
 
 ---
 
-## 🔄 Exemplos Práticos: Antes e Depois
+## Exemplos Práticos: Antes e Depois
 
 A diferença entre conteúdo genérico e conteúdo citável se torna evidente na comparação direta. Os exemplos abaixo mostram como as mesmas informações, reestruturadas para citabilidade, ganham potencial de citação por IAs.
 
@@ -98,7 +98,7 @@ A versão SEO + GEO mantém a keyword e a otimização on-page, mas substitui o 
 
 ---
 
-## ✅ Auditoria de Citabilidade
+## Como auditar a citabilidade do seu conteúdo?
 
 Antes de criar conteúdo novo, audite o que já existe. Muitas páginas que rankeiam no Google precisam de ajustes relativamente simples para se tornarem citáveis por IAs.
 
@@ -112,27 +112,22 @@ Conteúdo com alta densidade de informação é mais citável. A IA aproveita tr
 
 Aplique este checklist a cada página ou seção do seu conteúdo:
 
-**Definição.** A seção abre com definição clara e direta nos primeiros 40-50 palavras?
-
-**Dados.** Existem pelo menos 2-3 dados quantitativos verificáveis na seção?
-
-**Autossuficiência.** Cada parágrafo faz sentido se extraído isoladamente do contexto?
-
-**Atribuição.** Afirmações de impacto incluem atribuição de fonte ("segundo...", "de acordo com...")?
-
-**Estrutura.** O conteúdo usa headings descritivos, listas quando relevante e formato Q&A onde cabível?
-
-**Schema.** A página tem [dados estruturados](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) relevantes (Article, Organization, BreadcrumbList)?
-
-**Atualidade.** As informações e dados estão atualizados (conteúdo sem atualização há 6+ meses perde relevância para IAs)?
-
-**E-E-A-T.** A autoria é clara, as credenciais são verificáveis e a organização publicadora é reconhecida?
+| Critério | Pergunta de auditoria |
+|:---|:---|
+| Definição | A seção abre com definição clara e direta nas primeiras 40 a 50 palavras? |
+| Dados | Há pelo menos 2 ou 3 dados quantitativos verificáveis na seção? |
+| Autossuficiência | Cada parágrafo faz sentido se extraído isoladamente do contexto? |
+| Atribuição | Afirmações de impacto trazem a fonte ("segundo...", "de acordo com...")? |
+| Estrutura | O conteúdo usa headings descritivos, listas quando relevante e formato pergunta e resposta onde cabe? |
+| Schema | A página tem [dados estruturados](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) relevantes (Article, Organization, BreadcrumbList)? |
+| Atualidade | Informações e dados estão atualizados? Conteúdo parado há mais de 6 meses perde relevância para IAs |
+| E-E-A-T | A autoria é clara, as credenciais são verificáveis e a organização publicadora é reconhecida? |
 
 Cada "sim" aumenta a probabilidade de citação. Cada "não" é uma oportunidade de otimização. Na TRIWI, aplicamos esse checklist a todo conteúdo, novo e existente, como parte da otimização contínua da [estratégia de conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md).
 
 ---
 
-## 🔗 Integrando Citabilidade na Produção de Conteúdo
+## Como integrar a citabilidade à produção de conteúdo?
 
 Citabilidade não é uma etapa adicional no processo de produção; é uma camada que permeia todo o processo. Integrar citabilidade na produção significa mudar o mindset de como conteúdo é planejado, escrito e revisado.
 
@@ -168,7 +163,7 @@ A TRIWI já opera com esse mindset em toda a produção de conteúdo para seus c
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Conteúdo citável é a moeda da visibilidade na era da IA generativa. Não é sobre escrever mais; é sobre escrever de forma que cada trecho possa ser a resposta que a IA entrega a milhões de usuários. Definições claras, dados concretos, estrutura extraível e autoridade verificável: esses são os pilares que transformam conteúdo bom em conteúdo que IAs citam.
 
@@ -176,11 +171,11 @@ Se sua empresa quer produzir conteúdo que rankeia no Google E é citado pelas I
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
-- ✏️ [Copywriting para SEO: Como Escrever Conteúdo Que Rankeia e Converte](../seo-de-conteudo/copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md), Os fundamentos de copywriting para SEO.
-- 📋 [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): A estratégia de conteúdo completa.
-- 📖 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework de qualidade que sustenta a citabilidade.
-- 🏗️ [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema markup que potencializa citação.
+- [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework completo de otimização para IAs.
+- [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As 5 estratégias para visibilidade em LLMs.
+- [Copywriting para SEO: Como Escrever Conteúdo Que Rankeia e Converte](../seo-de-conteudo/copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md), Os fundamentos de copywriting para SEO.
+- [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): A estratégia de conteúdo completa.
+- [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework de qualidade que sustenta a citabilidade.
+- [Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), Schema markup que potencializa citação.
 
 **Quer produzir conteúdo que as IAs citam, e que seus clientes encontram?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
