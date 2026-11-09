@@ -48,6 +48,32 @@ O **Helpful Content Update** (2022, atualizado em 2023 e integrado ao ranking pr
 
 O Helpful Content Update introduziu um sinal de classificação em nível de site, não apenas de página. Isso significa que se uma parte significativa do conteúdo de um domínio for avaliada como "unhelpful", todo o site pode ser penalizado. O impacto foi devastador para sites que dependiam de volume sobre qualidade. E reforçou o princípio que o [framework E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md) já articulava: expertise e experiência real são insubstituíveis.
 
+### Linha do Tempo das Atualizações Desde 2024
+
+Tabela gerada a partir da base aberta [atualizacoes-google-e-ias.csv](../dados/atualizacoes-google-e-ias.csv), com a data de início de cada evento conforme a fonte oficial.
+
+| Início | Evento | Tipo | Fonte |
+|:---|:---|:---|:---|
+| 24/09/2026 | September 2026 spam update | Spam update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 18/08/2026 | August 2026 spam update | Spam update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 24/06/2026 | June 2026 spam update | Spam update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 21/05/2026 | May 2026 core update | Core update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 07/05/2026 | Fim dos resultados enriquecidos de FAQ | Resultado enriquecido | [fonte oficial](https://developers.google.com/search/docs/appearance/structured-data/faqpage) |
+| 27/03/2026 | March 2026 core update | Core update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 24/03/2026 | March 2026 spam update | Spam update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 05/02/2026 | February 2026 Discover update | Discover update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 11/12/2025 | December 2025 core update | Core update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 26/08/2025 | August 2025 spam update | Spam update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 30/06/2025 | June 2025 core update | Core update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 13/03/2025 | March 2025 core update | Core update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 19/12/2024 | December 2024 spam update | Spam update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 12/12/2024 | December 2024 core update | Core update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 11/11/2024 | November 2024 core update | Core update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 15/08/2024 | August 2024 core update | Core update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 20/06/2024 | June 2024 spam update | Spam update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 05/03/2024 | March 2024 core update | Core update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+| 05/03/2024 | March 2024 spam update | Spam update | [fonte oficial](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) |
+
 ### Updates Recentes e o Foco em IA
 
 Os Core Updates de 2024 e 2025 consolidaram as tendências anteriores com foco adicional em dois vetores: conteúdo gerado por IA e qualidade de experiência do usuário. O March 2024 Core Update foi o mais abrangente da história recente, combinando core update, spam update e ajustes no Helpful Content em uma única atualização. O Google estimou que a combinação reduziria conteúdo de baixa qualidade nos resultados em 40%.
