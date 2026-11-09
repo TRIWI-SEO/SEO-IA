@@ -8,7 +8,7 @@ Esta página cobre a fronteira entre PR digital e SEO: o que é, por que mençõ
 
 ---
 
-## O Que É Digital PR para SEO
+## O que é digital PR para SEO?
 
 Digital PR é a aplicação de técnicas de relações públicas e assessoria de imprensa no contexto digital, com foco em resultados mensuráveis de SEO: backlinks, menções de marca, autoridade de domínio e visibilidade em mecanismos de busca.
 
@@ -28,7 +28,7 @@ Na prática, uma estratégia madura de Digital PR não descarta menções sem li
 
 ---
 
-## Por Que Menções de Marca Importam
+## Por que menções de marca importam?
 
 Menções de marca são sinais de autoridade que transcendem o backlink tradicional. O Google entende que marcas reais, reconhecidas e confiáveis são mencionadas em contextos editoriais, e usa essas menções para calibrar a confiança atribuída ao domínio.
 
@@ -48,7 +48,7 @@ Além disso, menções sem link são oportunidades diretas de link reclamation. 
 
 ---
 
-## Estratégias de Digital PR
+## Quais estratégias de digital PR funcionam?
 
 Digital PR eficaz não é enviar press releases genéricos para listas de e-mail. É criar narrativas e ativos que jornalistas e editores queiram cobrir porque geram valor para a audiência deles.
 
@@ -71,6 +71,13 @@ A chave é velocidade e autoridade. Ter porta-vozes preparados para comentar sob
 Relacionamentos de longo prazo com veículos e publicações setoriais geram resultados consistentes. Diferente de ações pontuais, parcerias estratégicas envolvem: colunismo ou contribuição regular (artigos, colunas, análises periódicas), participação como fonte recorrente para reportagens do setor, co-produção de estudos e conteúdos com a equipe editorial do veículo, e presença em eventos e webinars organizados pelo veículo.
 
 Essas parcerias geram um fluxo contínuo de menções e backlinks, não picos esporádicos. E posicionam a marca como presença constante no radar dos jornalistas que cobrem o setor, aumentando a probabilidade de ser consultada em coberturas futuras.
+
+| Estratégia | Como funciona | Resultado esperado |
+|:---|:---|:---|
+| Dados próprios | Publicar pesquisa ou levantamento original | Citações de imprensa e de outros sites |
+| Fonte especialista | Responder pedidos de jornalistas com análise | Menções em matérias do setor |
+| Comentário de pauta | Reagir a notícias do setor com visão própria | Presença recorrente na imprensa |
+| Conteúdo de referência | Guias e ferramentas que o setor usa | Links e menções contínuos |
 
 ---
 

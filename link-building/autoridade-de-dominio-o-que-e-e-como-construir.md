@@ -8,7 +8,7 @@ Esta página explica o que é autoridade de domínio de verdade, o que as métri
 
 ---
 
-## O Que É Autoridade de Domínio
+## O que é autoridade de domínio?
 
 Autoridade de domínio, no sentido amplo, é a percepção de confiança e relevância que mecanismos de busca atribuem a um domínio. Quanto maior essa autoridade, maior a facilidade do site em conquistar posições orgânicas para novas páginas e manter posições existentes diante da concorrência.
 
@@ -30,7 +30,7 @@ A implicação prática: usar DA/DR como bússola (direção geral) é válido. 
 
 ---
 
-## O Que Realmente Compõe a Autoridade de Um Domínio
+## O que realmente compõe a autoridade de um domínio?
 
 Se DA e DR são apenas aproximações, o que compõe a autoridade real, aquela que o Google e as IAs reconhecem? Três pilares fundamentais.
 
@@ -58,7 +58,7 @@ Autoridade topical é construída por: cobertura ampla e profunda de um tema (cl
 
 ---
 
-## Como Construir Autoridade de Domínio
+## Como construir autoridade de domínio?
 
 Construir autoridade de domínio é um processo de longo prazo que combina três frentes simultâneas: link building estratégico, conteúdo de autoridade e presença em veículos relevantes.
 
@@ -82,7 +82,7 @@ A autoridade de domínio não é construída apenas dentro do site. Presença co
 
 ---
 
-## Autoridade de Domínio vs. Autoridade de Página
+## Qual a diferença entre autoridade de domínio e de página?
 
 Autoridade de domínio e autoridade de página (Page Authority no Moz, URL Rating no Ahrefs) são conceitos complementares, mas distintos.
 
@@ -94,9 +94,16 @@ Autoridade de domínio e autoridade de página (Page Authority no Moz, URL Ratin
 
 Na prática, as duas se complementam. A autoridade do domínio distribui um "piso" de credibilidade para todas as páginas via links internos. A autoridade de página específica eleva o "teto" de páginas estratégicas com link building direcionado. Uma estratégia madura trabalha ambas simultaneamente.
 
+| Aspecto | Autoridade de domínio | Autoridade de página |
+|:---|:---|:---|
+| O que mede | A força do site como um todo | A força de uma URL específica |
+| De onde vem | Perfil de links e menções do domínio | Links que apontam para aquela página |
+| Para que serve | Comparar sites e acompanhar evolução | Priorizar páginas e links internos |
+| Atenção | Métrica de ferramentas, não do Google | Também é estimativa de ferramentas |
+
 ---
 
-## Mitos Sobre Autoridade de Domínio
+## Quais são os mitos sobre autoridade de domínio?
 
 A popularização das métricas DA e DR criou uma série de mitos que levam empresas a tomar decisões equivocadas em SEO.
 

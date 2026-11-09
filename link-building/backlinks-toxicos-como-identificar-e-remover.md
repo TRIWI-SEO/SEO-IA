@@ -8,7 +8,7 @@ Esta página é o guia prático de backlinks tóxicos: o que são, como identifi
 
 ---
 
-## O Que São Backlinks Tóxicos
+## O que são backlinks tóxicos?
 
 Backlinks tóxicos são links provenientes de sites que o Google considera não confiáveis, manipulativos ou de baixíssima qualidade, e cuja associação com o seu domínio pode gerar sinais negativos nos algoritmos de rankeamento.
 
@@ -36,7 +36,7 @@ A filosofia do Google é clara: [links devem ser conquistados por mérito](link-
 
 ---
 
-## Como Identificar Backlinks Tóxicos
+## Como identificar backlinks tóxicos?
 
 Identificar backlinks tóxicos exige uma auditoria sistemática do perfil de links do domínio, cruzando dados de múltiplas fontes e avaliando padrões que indicam artificialidade.
 
@@ -68,7 +68,7 @@ A auditoria deve buscar padrões que indicam manipulação:
 
 ---
 
-## Como Lidar Com Backlinks Tóxicos
+## Como lidar com backlinks tóxicos?
 
 Identificar backlinks tóxicos é o diagnóstico. O tratamento envolve três abordagens, aplicadas conforme a gravidade e o tipo de link.
 
@@ -96,9 +96,16 @@ Sinais de que não é necessário agir: o site não tem ações manuais no Searc
 
 A regra prática: se o site está performando bem e não há ação manual, monitorar é suficiente. Intervenção ativa (disavow) é reservada para situações onde há impacto negativo comprovado ou penalização formal.
 
+| Situação | O que fazer |
+|:---|:---|
+| Links de spam aleatórios, sem ação manual | Monitorar; o Google costuma ignorar esses links |
+| Links comprados ou de esquema de links | Pedir remoção ao site de origem |
+| Ação manual no Search Console | Remover o que for possível e usar o arquivo disavow |
+| Ataque de SEO negativo em volume | Documentar e usar o disavow com critério |
+
 ---
 
-## Prevenção: Construindo Um Perfil de Links Saudável
+## Como manter um perfil de links saudável?
 
 O melhor tratamento para backlinks tóxicos é prevenção: construir um perfil de links saudável desde o início e monitorar continuamente para detectar problemas antes que se tornem críticos.
 

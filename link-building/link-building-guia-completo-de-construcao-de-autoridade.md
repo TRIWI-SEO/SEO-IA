@@ -10,7 +10,7 @@ Esta página é o guia completo de link building: o que é, por que funciona, qu
 
 ---
 
-## O Que É Link Building
+## O que é link building?
 
 Link building é a construção deliberada e estratégica de backlinks, links de sites externos que apontam para páginas do seu domínio. No ecossistema do Google, backlinks funcionam como referências acadêmicas: quanto mais fontes confiáveis citam seu trabalho, maior a percepção de que seu conteúdo é autoritativo e relevante para determinado tema.
 
@@ -64,7 +64,7 @@ Na experiência da TRIWI com 50+ clientes, a recuperação de penalizações por
 
 ---
 
-## Tipos de Backlinks
+## Quais são os tipos de backlinks?
 
 Nem todo backlink é igual. A qualidade, o contexto e a forma como o link foi obtido determinam seu impacto no rankeamento. Entender os tipos de backlinks é essencial para construir uma estratégia que gere resultados sem expor o site a riscos.
 
@@ -98,7 +98,7 @@ Digital PR gera os backlinks de maior autoridade possível, links de portais com
 
 ---
 
-## Qualidade vs. Quantidade
+## Qualidade ou quantidade de links?
 
 O erro mais comum em link building é perseguir volume. Pacotes que prometem "100 backlinks por mês" ignoram que o Google avalia qualidade, não quantidade, e que links de baixa qualidade não somam, podem subtrair.
 
@@ -122,7 +122,7 @@ Na prática da TRIWI com 50+ clientes, a abordagem de qualidade sobre quantidade
 
 ---
 
-## Estratégias Avançadas de Link Building
+## Quais estratégias de link building funcionam?
 
 Além das abordagens fundamentais, existem técnicas avançadas que permitem escalar a construção de autoridade de forma sustentável. Todas compartilham um princípio: criar razões genuínas para que outros sites linkem para o seu.
 
