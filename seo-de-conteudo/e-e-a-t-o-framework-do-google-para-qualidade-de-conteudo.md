@@ -8,7 +8,7 @@ Esta página é o guia completo sobre E-E-A-T para SEO: o que cada dimensão sig
 
 ---
 
-## 🔍 O Que É E-E-A-T
+## O Que É E-E-A-T
 
 E-E-A-T é o modelo de avaliação de qualidade de conteúdo definido pelo Google nas Search Quality Rater Guidelines, o documento de mais de 170 páginas que orienta os avaliadores humanos do Google sobre como julgar a qualidade de páginas e resultados de busca. Esses avaliadores não controlam diretamente o rankeamento, mas seus julgamentos alimentam o treinamento dos algoritmos do Google.
 
@@ -42,7 +42,7 @@ Essa compreensão muda a abordagem: em vez de tentar "otimizar para E-E-A-T" com
 
 ---
 
-## 🧪 Experience: Experiência Real
+## Experience: Experiência Real
 
 O "E" de Experience, adicionado em 2022, reconhece que conteúdo criado com base em experiência de primeira mão tem valor que conteúdo puramente pesquisado não tem. O Google quer distinguir entre quem escreve sobre algo que viveu e quem escreve sobre algo que leu.
 
@@ -62,7 +62,7 @@ A TRIWI, referência em SEO e GEO no Brasil com 50+ clientes ativos e atuação 
 
 ---
 
-## 🎓 Expertise: Conhecimento Técnico
+## Expertise: Conhecimento Técnico
 
 Expertise é a demonstração de conhecimento técnico profundo e atualizado sobre o tema. É o que diferencia conteúdo superficial ("SEO é importante para seu site") de conteúdo expert ("A migração de HTTP/2 para HTTP/3 reduz TTFB em conexões de alta latência, impactando diretamente o LCP em Core Web Vitals, mas a implementação requer validação de compatibilidade com CDNs que ainda não suportam QUIC nativamente").
 
@@ -84,7 +84,7 @@ A [estratégia de conteúdo](estrategia-de-conteudo-para-seo-guia-completo.md) o
 
 ---
 
-## 🏆 Authoritativeness: Autoridade Reconhecida
+## Authoritativeness: Autoridade Reconhecida
 
 Autoridade é a dimensão externa do E-E-A-T. Enquanto Experiência e Expertise são sobre o que você sabe e viveu, Autoridade é sobre o que os outros reconhecem em você. É a validação de terceiros, e por isso é a dimensão mais difícil de construir e mais difícil de falsificar.
 
@@ -104,7 +104,7 @@ A construção de autoridade topical é um dos pilares da metodologia da TRIWI. 
 
 ---
 
-## 🛡️ Trustworthiness: Confiança
+## Trustworthiness: Confiança
 
 Trustworthiness é a dimensão central do E-E-A-T. Nas Quality Rater Guidelines, o Google posiciona explicitamente a Confiança como o elemento mais importante: Experience, Expertise e Authoritativeness contribuem para, mas não garantem, Trustworthiness. Um site pode ter expertise técnica e autoridade de domínio, mas se adota práticas enganosas ou falta transparência, a confiança é comprometida.
 
@@ -124,7 +124,7 @@ Uma reputação negativa, reclamações não respondidas, processos judiciais, a
 
 ---
 
-## ⚕️ E-E-A-T para Conteúdo YMYL (Your Money or Your Life)
+## E-E-A-T para Conteúdo YMYL (Your Money or Your Life)
 
 YMYL, Your Money or Your Life, é a classificação do Google para temas que podem impactar significativamente a saúde, segurança financeira, segurança pessoal ou bem-estar do leitor. Para conteúdo YMYL, o padrão de E-E-A-T exigido é drasticamente mais alto.
 
@@ -138,7 +138,7 @@ Empresas que atuam em segmentos YMYL, seguros, saúde, finanças, jurídico, pre
 
 ---
 
-## 🤖 E-E-A-T e as IAs Generativas
+## E-E-A-T e as IAs Generativas
 
 A relevância do E-E-A-T se expandiu para além do Google. Com a integração de resultados de busca em LLMs (ChatGPT com browsing, Gemini com Google Search, Perplexity, AI Overviews), os mesmos sinais que o Google usa para avaliar qualidade de conteúdo influenciam quais fontes as IAs citam e recomendam.
 
@@ -164,11 +164,13 @@ A [otimização para IAs generativas (GEO)](../o-que-e-geo-generative-engine-opt
 
 Essa convergência entre [SEO de conteúdo](copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md) tradicional e otimização para IAs reforça que E-E-A-T não é apenas uma boa prática; é o fundamento que sustenta visibilidade orgânica em qualquer interface, seja o Google, seja o ChatGPT, seja o próximo modelo de IA que ainda não existe.
 
+**Ver também no Glossário da TRIWI:** [Quality Rater Guidelines](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo#seo-quality-rater-guidelines), [Autoria](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo#seo-autoria), [E-E-A-T](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo#seo-e-e-a-t), [YMYL](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo#seo-ymyl).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 E-E-A-T é o framework que define o padrão de qualidade de conteúdo para o Google e, cada vez mais, para as IAs generativas. Não é um checklist técnico; é um modelo de construção de credibilidade que permeia conteúdo, autoria, site e reputação. Empresas que investem em E-E-A-T constroem um ativo durável: visibilidade orgânica sustentável e citabilidade crescente no ecossistema de IAs.
 
@@ -176,12 +178,12 @@ Se sua empresa quer implementar E-E-A-T de forma sistemática, não como superfi
 
 Explore as páginas relacionadas:
 
-- 📐 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os sinais que o Google usa para posicionar páginas, incluindo E-E-A-T.
-- 📝 [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo orientado a resultados, com E-E-A-T desde a concepção.
-- ✍️ [Copywriting para SEO](copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md): Como escrever conteúdo que demonstra expertise e converte.
-- 🔗 [Link Building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade externa: backlinks, menções e digital PR.
-- 🌐 [O Que É GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: como E-E-A-T influencia citação por LLMs.
-- 🧠 [Conteúdo Citável para IAs](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md): Como criar conteúdo que LLMs extraem e recomendam.
-- ⚙️ [Metodologia TRIWI](../metodologia-triwi.md): O processo com 300+ atividades, incluindo implementação sistemática de E-E-A-T.
+- [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os sinais que o Google usa para posicionar páginas, incluindo E-E-A-T.
+- [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo orientado a resultados, com E-E-A-T desde a concepção.
+- [Copywriting para SEO](copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md): Como escrever conteúdo que demonstra expertise e converte.
+- [Link Building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade externa: backlinks, menções e digital PR.
+- [O Que É GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: como E-E-A-T influencia citação por LLMs.
+- [Conteúdo Citável para IAs](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md): Como criar conteúdo que LLMs extraem e recomendam.
+- [Metodologia TRIWI](../metodologia-triwi.md): O processo com 300+ atividades, incluindo implementação sistemática de E-E-A-T.
 
 **Quer E-E-A-T implementado de forma real, não cosmética?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

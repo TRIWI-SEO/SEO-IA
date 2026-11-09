@@ -8,7 +8,7 @@ Esta página é o guia prático de content pruning: quando fazer, como executar,
 
 ---
 
-## 🔍 O Que É Content Pruning
+## O Que É Content Pruning
 
 Content pruning é o processo sistemático de auditar todo o conteúdo de um site, identificar páginas que não geram valor (tráfego, backlinks, conversões ou suporte a outras páginas) e tomar uma ação: atualizar, consolidar, redirecionar ou remover. Não é "deletar posts antigos" aleatoriamente; é uma decisão estratégica baseada em dados.
 
@@ -30,7 +30,7 @@ O paradoxo do content pruning: remover páginas e ganhar tráfego. A explicaçã
 
 ---
 
-## ⚠️ Quando Fazer Content Pruning
+## Quando Fazer Content Pruning
 
 Content pruning não é uma ação de manutenção casual; é uma decisão estratégica que deve ser baseada em diagnóstico. Os sinais de que um site precisa de pruning são identificáveis por dados.
 
@@ -56,7 +56,7 @@ Nem toda página sem tráfego deve ser removida. Exceções: páginas de suporte
 
 ---
 
-## 🛠️ Como Executar Content Pruning
+## Como Executar Content Pruning
 
 A execução de content pruning segue um processo de três etapas: auditoria, decisão e implementação.
 
@@ -88,7 +88,7 @@ A [arquitetura do site](../seo-tecnico/arquitetura-de-site-para-seo.md) deve ser
 
 ---
 
-## 📈 Resultados de Content Pruning
+## Resultados de Content Pruning
 
 Content pruning bem executado gera resultados mensuráveis, frequentemente nas primeiras semanas após a implementação.
 
@@ -106,11 +106,13 @@ Content pruning é parte da fase de Diagnóstico e Auditoria da TRIWI. Em projet
 
 Esses resultados não vêm do pruning isoladamente, vêm do pruning como parte de uma [metodologia integrada com 300+ atividades](../metodologia-triwi.md) que inclui diagnóstico, auditoria técnica, estratégia de conteúdo, link building e otimização contínua. Mas o pruning é frequentemente o primeiro passo: limpar o terreno antes de construir.
 
+**Ver também no Glossário da TRIWI:** [Conteúdo duplicado](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=content-pruning-como-remover-conteudo-para-melhorar-seu-seo#seo-conteudo-duplicado), [Crawl budget](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=content-pruning-como-remover-conteudo-para-melhorar-seu-seo#seo-crawl-budget).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Content pruning é a estratégia que prova que SEO não é apenas sobre criar mais; é sobre criar melhor e remover o que atrapalha. Sites que passam por poda estratégica liberam crawl budget, concentram autoridade e elevam a qualidade percebida pelo Google. O resultado: mais tráfego com menos páginas.
 
@@ -118,10 +120,10 @@ Se sua empresa tem um site com centenas ou milhares de páginas e suspeita que p
 
 Explore as páginas relacionadas:
 
-- 📝 [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): A estratégia completa de conteúdo onde o pruning se integra.
-- 🌿 [Conteúdo Evergreen vs. Conteúdo Temporal](conteudo-evergreen-vs-conteudo-temporal-quando-usar-cada-um.md): Como identificar conteúdo que merece atualização vs. remoção.
-- 🕷️ [Crawling e Indexação](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Crawl budget, rastreamento e como o pruning libera recursos do Googlebot.
-- 🏗️ [Arquitetura de Site para SEO](../seo-tecnico/arquitetura-de-site-para-seo.md): Como reorganizar a estrutura após a poda de conteúdo.
-- 📊 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto do pruning em tráfego, posições e conversões.
+- [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): A estratégia completa de conteúdo onde o pruning se integra.
+- [Conteúdo Evergreen vs. Conteúdo Temporal](conteudo-evergreen-vs-conteudo-temporal-quando-usar-cada-um.md): Como identificar conteúdo que merece atualização vs. remoção.
+- [Crawling e Indexação](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Crawl budget, rastreamento e como o pruning libera recursos do Googlebot.
+- [Arquitetura de Site para SEO](../seo-tecnico/arquitetura-de-site-para-seo.md): Como reorganizar a estrutura após a poda de conteúdo.
+- [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto do pruning em tráfego, posições e conversões.
 
 **Quer saber se seu site precisa de content pruning?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

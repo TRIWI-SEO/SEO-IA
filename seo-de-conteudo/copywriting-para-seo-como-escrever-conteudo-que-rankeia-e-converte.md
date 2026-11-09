@@ -8,7 +8,7 @@ Esta página é o guia prático de copywriting para SEO: estrutura, uso de keywo
 
 ---
 
-## 🔍 O Que É Copywriting para SEO
+## O Que É Copywriting para SEO
 
 Copywriting para SEO é escrever conteúdo com dois objetivos simultâneos: convencer o leitor (persuasão) e ser encontrado pelo Google (otimização). Não são objetivos conflitantes; são complementares quando executados corretamente.
 
@@ -28,7 +28,7 @@ A abordagem correta: escreva para o leitor primeiro. Estruture o argumento, dese
 
 ---
 
-## 🏗️ Estrutura de Um Conteúdo Que Rankeia
+## Estrutura de Um Conteúdo Que Rankeia
 
 A estrutura é tão importante quanto o texto. O Google avalia a organização do conteúdo, e o leitor decide em segundos se a página merece sua atenção.
 
@@ -66,7 +66,7 @@ Essa formatação não é "simplificação"; é respeito pelo comportamento real
 
 ---
 
-## 🗝️ Uso de Keywords no Texto
+## Uso de Keywords no Texto
 
 A integração de keywords é o aspecto mais técnico do copywriting para SEO, e o mais frequentemente mal executado. Tanto por excesso (keyword stuffing) quanto por omissão (keywords ausentes das posições críticas).
 
@@ -90,7 +90,7 @@ Garantir presença da keyword principal nessas posições é o mínimo da otimiz
 
 ---
 
-## 🎯 CTAs e Conversão Dentro do Conteúdo SEO
+## CTAs e Conversão Dentro do Conteúdo SEO
 
 Conteúdo que rankeia mas não converte é meio caminho andado. O objetivo final do copywriting para SEO não é posição no Google; é resultado de negócio: leads, contatos, vendas.
 
@@ -110,7 +110,7 @@ A TRIWI tem uma equipe dedicada de conteúdo SEO que produz textos alinhados à 
 
 ---
 
-## 🤖 Escrevendo para SEO e para IAs Simultaneamente
+## Escrevendo para SEO e para IAs Simultaneamente
 
 Com a ascensão dos AI Overviews do Google e de LLMs com acesso a busca (ChatGPT, Gemini, Perplexity), o copywriting para SEO ganha uma terceira dimensão: além de rankear no Google e converter o leitor, o conteúdo precisa ser citável por IAs generativas.
 
@@ -128,11 +128,13 @@ Perguntas e respostas são o formato que LLMs processam com mais eficiência. He
 
 Incorporar formato Q&A não significa transformar todo o conteúdo em FAQ. Significa usar headings que espelham perguntas reais do público e abrir a resposta com uma definição direta antes de aprofundar. Essa abordagem atende simultaneamente ao [E-E-A-T](e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md) do Google (conteúdo que demonstra expertise respondendo perguntas reais) e à otimização para IAs (conteúdo estruturado para extração).
 
+**Ver também no Glossário da TRIWI:** [Keyword stuffing](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte#seo-keyword-stuffing), [Copywriting](https://triwi.com.br/glossario/marketing/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte#marketing-copywriting).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Copywriting para SEO é a ponte entre estratégia e resultado. A [pesquisa de palavras-chave](pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md) identifica a oportunidade, a [pilarização](pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md) define a arquitetura, mas é o copywriting que transforma dados em conteúdo que o Google posiciona, o leitor confia e as IAs citam.
 
@@ -140,11 +142,11 @@ Se sua empresa quer conteúdo que não apenas rankeia, mas converte e constrói 
 
 Explore as páginas relacionadas:
 
-- 📝 [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): A estratégia completa onde o copywriting se insere.
-- 🏅 [E-E-A-T](e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): Como demonstrar expertise e confiança através da escrita.
-- 🗝️ [Pesquisa de Palavras-Chave](pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md): O processo que gera os dados para o copywriter otimizar.
-- 🔧 [SEO On-Page](../fundamentos-de-seo/seo-on-page-otimizacao-dentro-do-seu-site.md): Title tags, meta descriptions e os elementos técnicos que complementam o copy.
-- 🎯 [Intenção de Busca](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): Como alinhar a escrita ao que o usuário realmente espera encontrar.
-- 🌐 [Conteúdo Citável para IAs](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md): Como escrever para ser extraído e recomendado por LLMs.
+- [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): A estratégia completa onde o copywriting se insere.
+- [E-E-A-T](e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): Como demonstrar expertise e confiança através da escrita.
+- [Pesquisa de Palavras-Chave](pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md): O processo que gera os dados para o copywriter otimizar.
+- [SEO On-Page](../fundamentos-de-seo/seo-on-page-otimizacao-dentro-do-seu-site.md): Title tags, meta descriptions e os elementos técnicos que complementam o copy.
+- [Intenção de Busca](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): Como alinhar a escrita ao que o usuário realmente espera encontrar.
+- [Conteúdo Citável para IAs](../geo-seo-para-ia/conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md): Como escrever para ser extraído e recomendado por LLMs.
 
 **Quer copywriting que rankeia, converte e é citado por IAs?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

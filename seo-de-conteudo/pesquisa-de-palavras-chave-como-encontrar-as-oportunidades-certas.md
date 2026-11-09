@@ -10,7 +10,7 @@ Esta página é o guia prático de pesquisa de palavras-chave: da definição ao
 
 ---
 
-## 🔍 O Que É Pesquisa de Palavras-Chave
+## O Que É Pesquisa de Palavras-Chave
 
 Pesquisa de palavras-chave (keyword research) é a disciplina de SEO que mapeia a demanda real de busca do seu público. Não é uma atividade técnica isolada; é um estudo de mercado digital: o que as pessoas buscam é o que precisam, o que querem comprar, o que não entendem, o que estão comparando.
 
@@ -32,7 +32,7 @@ Essa perspectiva, keywords como perguntas do cliente, não como termos técnicos
 
 ---
 
-## 📊 Tipos de Palavras-Chave
+## Tipos de Palavras-Chave
 
 Nem todas as palavras-chave são iguais. Classificá-las corretamente é essencial para priorizar esforços e alinhar conteúdo à estratégia.
 
@@ -68,7 +68,7 @@ Uma estratégia de SEO madura equilibra ambas: protege as branded (garantir posi
 
 ---
 
-## 🛠️ Como Fazer Pesquisa de Palavras-Chave
+## Como Fazer Pesquisa de Palavras-Chave
 
 O processo de pesquisa de palavras-chave segue quatro etapas sequenciais; cada uma alimenta a próxima.
 
@@ -112,7 +112,7 @@ Na TRIWI, a pesquisa de palavras-chave é parte do "Estudo de Mercado e Intenç�
 
 ---
 
-## 📐 Da Keyword ao Conteúdo
+## Da Keyword ao Conteúdo
 
 Pesquisa de palavras-chave gera dados. O próximo passo é transformar esses dados em um plano de conteúdo executável.
 
@@ -134,7 +134,7 @@ O [copywriting para SEO](copywriting-para-seo-como-escrever-conteudo-que-rankeia
 
 ---
 
-## ⚠️ Erros Comuns em Keyword Research
+## Erros Comuns em Keyword Research
 
 Os mesmos erros se repetem em empresas de todos os tamanhos. Reconhecê-los é o primeiro passo para evitá-los.
 
@@ -152,11 +152,13 @@ Os mesmos erros se repetem em empresas de todos os tamanhos. Reconhecê-los é o
 
 > **Versão completa no site:** o [Guia de Palavras-chave e Intenção de Busca](https://triwi.com.br/guias/palavras-chave/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas) da TRIWI aprofunda este tema e é atualizado continuamente.
 
+**Ver também no Glossário da TRIWI:** [Pesquisa de palavras-chave](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas#seo-pesquisa-de-palavras-chave), [Intenção de busca](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas#seo-intencao-de-busca).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Pesquisa de palavras-chave é a fundação de toda estratégia de conteúdo para SEO. Feita com profundidade, mapeando demanda, analisando concorrência, classificando intenção e priorizando por retorno, ela transforma produção de conteúdo de custo em investimento. Feita superficialmente, gera páginas que ninguém encontra.
 
@@ -164,10 +166,10 @@ Se sua empresa quer uma pesquisa de palavras-chave que vá além de listas e pla
 
 Explore as páginas relacionadas:
 
-- 📝 [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): Como pesquisa de palavras-chave se integra à estratégia completa de conteúdo.
-- 🎯 [Intenção de Busca](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): O fundamento que define o tipo de conteúdo para cada keyword.
-- 🧩 [Pilarização e Pulverização](pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md): Como organizar keywords em clusters que geram autoridade topical.
-- 📈 [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): SEMrush, Ahrefs, Search Console e as ferramentas essenciais para keyword research.
-- ⚙️ [Metodologia TRIWI](../metodologia-triwi.md): O processo com 300+ atividades que inclui pesquisa de palavras-chave como etapa estratégica.
+- [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): Como pesquisa de palavras-chave se integra à estratégia completa de conteúdo.
+- [Intenção de Busca](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md): O fundamento que define o tipo de conteúdo para cada keyword.
+- [Pilarização e Pulverização](pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md): Como organizar keywords em clusters que geram autoridade topical.
+- [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): SEMrush, Ahrefs, Search Console e as ferramentas essenciais para keyword research.
+- [Metodologia TRIWI](../metodologia-triwi.md): O processo com 300+ atividades que inclui pesquisa de palavras-chave como etapa estratégica.
 
 **Quer pesquisa de palavras-chave orientada a resultado de negócio?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

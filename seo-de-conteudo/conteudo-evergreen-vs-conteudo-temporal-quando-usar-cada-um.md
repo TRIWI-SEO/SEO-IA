@@ -8,7 +8,7 @@ Esta página explica a diferença entre os dois tipos, quando usar cada um, como
 
 ---
 
-## 🌿 O Que É Conteúdo Evergreen
+## O Que É Conteúdo Evergreen
 
 Conteúdo evergreen (ou perene) é conteúdo cuja utilidade não expira com o tempo. O tema permanece relevante, a informação continua válida e a demanda de busca se mantém estável mês após mês. É o tipo de conteúdo que, bem otimizado, gera tráfego orgânico previsível e crescente, o equivalente a um ativo financeiro que rende juros compostos.
 
@@ -26,7 +26,7 @@ Toda a estrutura de [pilarização e pulverização](pilarizacao-e-pulverizacao-
 
 ---
 
-## ⏱️ Conteúdo Temporal: Quando Faz Sentido
+## Conteúdo Temporal: Quando Faz Sentido
 
 Conteúdo temporal é atrelado a um contexto de tempo: uma notícia, uma atualização de algoritmo, um evento do setor, uma tendência emergente. Tem prazo de validade, a relevância decai conforme o momento passa. Mas durante o pico, pode gerar volumes de tráfego que conteúdo evergreen não alcança.
 
@@ -48,7 +48,7 @@ Entender onde freshness importa orienta a estratégia: para temas estáveis, inv
 
 ---
 
-## ⚖️ Como Equilibrar os Dois Tipos
+## Como Equilibrar os Dois Tipos
 
 A proporção ideal entre evergreen e temporal varia por setor e objetivo, mas o princípio é universal: evergreen como base, temporal como complemento.
 
@@ -66,7 +66,7 @@ Essa pirâmide garante estabilidade: mesmo que a produção temporal diminua ou 
 
 ---
 
-## 🔄 Atualização de Conteúdo Como Estratégia de SEO
+## Atualização de Conteúdo Como Estratégia de SEO
 
 A atualização de conteúdo existente é uma das estratégias de SEO com melhor relação esforço-resultado. Em muitos casos, atualizar uma página que já tem alguma autoridade e histórico de indexação gera mais retorno do que criar uma página nova do zero.
 
@@ -92,11 +92,13 @@ O impacto é particularmente forte para páginas que já estão nas posições 5
 
 Empresas que implementam ciclos regulares de atualização, mensais ou trimestrais, mantêm um [tráfego orgânico](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md) mais estável e resiliente a atualizações de algoritmo, porque o conteúdo permanece relevante e competitivo continuamente.
 
+**Ver também no Glossário da TRIWI:** [Atualização de conteúdo](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=conteudo-evergreen-vs-conteudo-temporal-quando-usar-cada-um#seo-atualizacao-de-conteudo), [Conteúdo evergreen](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=conteudo-evergreen-vs-conteudo-temporal-quando-usar-cada-um#seo-conteudo-evergreen), [Freshness](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=conteudo-evergreen-vs-conteudo-temporal-quando-usar-cada-um#seo-freshness).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Conteúdo evergreen e temporal são complementares, não concorrentes. Evergreen constrói o ativo de longo prazo, tráfego previsível, autoridade topical, posições sustentáveis. Temporal amplifica em momentos-chave, capturando atenção, backlinks e sinais de atualidade. E a atualização contínua é o que mantém o evergreen performando ano após ano.
 
@@ -104,11 +106,11 @@ Se sua empresa quer uma estratégia de conteúdo que equilibre fundação e opor
 
 Explore as páginas relacionadas:
 
-- 📝 [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): A estratégia completa de conteúdo: calendário, priorização e execução.
-- 🗝️ [Pesquisa de Palavras-Chave](pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md): Como identificar demanda evergreen vs. temporal na pesquisa.
-- ✍️ [Copywriting para SEO](copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md): Como escrever conteúdo evergreen que rankeia e converte.
-- 📊 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir performance de conteúdo e identificar o que precisa de atualização.
-- 🔮 [Tendências de SEO e Buscas](../tendencias-e-futuro/tendencias-de-seo-o-que-esperar-nos-proximos-anos.md): O conteúdo temporal que complementa a base evergreen.
-- ✂️ [Content Pruning](content-pruning-como-remover-conteudo-para-melhorar-seu-seo.md): Como remover conteúdo para melhorar o SEO do site inteiro.
+- [Estratégia de Conteúdo para SEO](estrategia-de-conteudo-para-seo-guia-completo.md): A estratégia completa de conteúdo: calendário, priorização e execução.
+- [Pesquisa de Palavras-Chave](pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md): Como identificar demanda evergreen vs. temporal na pesquisa.
+- [Copywriting para SEO](copywriting-para-seo-como-escrever-conteudo-que-rankeia-e-converte.md): Como escrever conteúdo evergreen que rankeia e converte.
+- [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir performance de conteúdo e identificar o que precisa de atualização.
+- [Tendências de SEO e Buscas](../tendencias-e-futuro/tendencias-de-seo-o-que-esperar-nos-proximos-anos.md): O conteúdo temporal que complementa a base evergreen.
+- [Content Pruning](content-pruning-como-remover-conteudo-para-melhorar-seu-seo.md): Como remover conteúdo para melhorar o SEO do site inteiro.
 
 **Quer conteúdo que gera resultado ano após ano?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
