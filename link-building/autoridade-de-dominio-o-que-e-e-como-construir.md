@@ -8,7 +8,7 @@ Esta página explica o que é autoridade de domínio de verdade, o que as métri
 
 ---
 
-## 🔍 O Que É Autoridade de Domínio
+## O Que É Autoridade de Domínio
 
 Autoridade de domínio, no sentido amplo, é a percepção de confiança e relevância que mecanismos de busca atribuem a um domínio. Quanto maior essa autoridade, maior a facilidade do site em conquistar posições orgânicas para novas páginas e manter posições existentes diante da concorrência.
 
@@ -30,7 +30,7 @@ A implicação prática: usar DA/DR como bússola (direção geral) é válido. 
 
 ---
 
-## 🧱 O Que Realmente Compõe a Autoridade de Um Domínio
+## O Que Realmente Compõe a Autoridade de Um Domínio
 
 Se DA e DR são apenas aproximações, o que compõe a autoridade real, aquela que o Google e as IAs reconhecem? Três pilares fundamentais.
 
@@ -58,7 +58,7 @@ Autoridade topical é construída por: cobertura ampla e profunda de um tema (cl
 
 ---
 
-## 📈 Como Construir Autoridade de Domínio
+## Como Construir Autoridade de Domínio
 
 Construir autoridade de domínio é um processo de longo prazo que combina três frentes simultâneas: link building estratégico, conteúdo de autoridade e presença em veículos relevantes.
 
@@ -82,7 +82,7 @@ A autoridade de domínio não é construída apenas dentro do site. Presença co
 
 ---
 
-## 🔄 Autoridade de Domínio vs. Autoridade de Página
+## Autoridade de Domínio vs. Autoridade de Página
 
 Autoridade de domínio e autoridade de página (Page Authority no Moz, URL Rating no Ahrefs) são conceitos complementares, mas distintos.
 
@@ -96,7 +96,7 @@ Na prática, as duas se complementam. A autoridade do domínio distribui um "pis
 
 ---
 
-## ⚠️ Mitos Sobre Autoridade de Domínio
+## Mitos Sobre Autoridade de Domínio
 
 A popularização das métricas DA e DR criou uma série de mitos que levam empresas a tomar decisões equivocadas em SEO.
 
@@ -114,7 +114,7 @@ Links comprados em massa de redes PBN, diretórios de baixa qualidade e blogs fa
 
 ---
 
-## 🏗️ A Abordagem da TRIWI Para Autoridade de Domínio
+## A Abordagem da TRIWI Para Autoridade de Domínio
 
 Na TRIWI, não perseguimos números de DA como meta isolada. Construímos autoridade topical, a capacidade de um site ser referência em temas específicos. É essa autoridade que o Google e as IAs reconhecem.
 
@@ -122,20 +122,22 @@ A construção de autoridade é parte de uma [metodologia com 12 etapas e 300+ a
 
 Para conhecer como a TRIWI constrói autoridade de domínio real para empresas como Sem Parar, Valid, John Deere e outras 50+ marcas, acesse a página [Sobre a TRIWI](https://triwi.com.br/sobre-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
+**Ver também no Glossário da TRIWI:** [Autoridade de domínio](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=autoridade-de-dominio-o-que-e-e-como-construir#seo-autoridade-de-dominio), [Perfil de backlinks](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=autoridade-de-dominio-o-que-e-e-como-construir#seo-perfil-de-backlinks), [Link building](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=autoridade-de-dominio-o-que-e-e-como-construir#seo-link-building).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Autoridade de domínio é o resultado de tudo que um site faz bem: conteúdo profundo, backlinks editoriais, otimização técnica e presença em fontes confiáveis. As métricas DA e DR são bússolas úteis, mas a autoridade real é construída por fundamentos, não por números em dashboards de terceiros. Foque em ser referência genuína no seu tema, e a autoridade virá como consequência.
 
 Explore as páginas relacionadas:
 
-- 🔗 [Link Building: Guia Completo de Construção de Autoridade](link-building-guia-completo-de-construcao-de-autoridade.md), Estratégias completas de construção de autoridade via backlinks.
-- 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que compõem a avaliação do Google, incluindo autoridade.
-- 📰 [Menções de Marca e Digital PR para SEO](mencoes-de-marca-e-digital-pr-para-seo.md), Menções sem link e assessoria de imprensa digital como sinais de autoridade.
-- ⭐ [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework do Google para qualidade e confiança.
-- 🏢 [Sobre a TRIWI](../sobre-a-triwi.md): Conheça a equipe e a história por trás dos resultados.
+- [Link Building: Guia Completo de Construção de Autoridade](link-building-guia-completo-de-construcao-de-autoridade.md), Estratégias completas de construção de autoridade via backlinks.
+- [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que compõem a avaliação do Google, incluindo autoridade.
+- [Menções de Marca e Digital PR para SEO](mencoes-de-marca-e-digital-pr-para-seo.md), Menções sem link e assessoria de imprensa digital como sinais de autoridade.
+- [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework do Google para qualidade e confiança.
+- [Sobre a TRIWI](../sobre-a-triwi.md): Conheça a equipe e a história por trás dos resultados.
 
 **Quer construir autoridade de domínio real, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/sobre-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

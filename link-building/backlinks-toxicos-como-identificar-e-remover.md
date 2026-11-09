@@ -8,7 +8,7 @@ Esta página é o guia prático de backlinks tóxicos: o que são, como identifi
 
 ---
 
-## 🔍 O Que São Backlinks Tóxicos
+## O Que São Backlinks Tóxicos
 
 Backlinks tóxicos são links provenientes de sites que o Google considera não confiáveis, manipulativos ou de baixíssima qualidade, e cuja associação com o seu domínio pode gerar sinais negativos nos algoritmos de rankeamento.
 
@@ -36,7 +36,7 @@ A filosofia do Google é clara: [links devem ser conquistados por mérito](link-
 
 ---
 
-## 🔎 Como Identificar Backlinks Tóxicos
+## Como Identificar Backlinks Tóxicos
 
 Identificar backlinks tóxicos exige uma auditoria sistemática do perfil de links do domínio, cruzando dados de múltiplas fontes e avaliando padrões que indicam artificialidade.
 
@@ -68,7 +68,7 @@ A auditoria deve buscar padrões que indicam manipulação:
 
 ---
 
-## 🛠️ Como Lidar Com Backlinks Tóxicos
+## Como Lidar Com Backlinks Tóxicos
 
 Identificar backlinks tóxicos é o diagnóstico. O tratamento envolve três abordagens, aplicadas conforme a gravidade e o tipo de link.
 
@@ -98,7 +98,7 @@ A regra prática: se o site está performando bem e não há ação manual, moni
 
 ---
 
-## 🛡️ Prevenção: Construindo Um Perfil de Links Saudável
+## Prevenção: Construindo Um Perfil de Links Saudável
 
 O melhor tratamento para backlinks tóxicos é prevenção: construir um perfil de links saudável desde o início e monitorar continuamente para detectar problemas antes que se tornem críticos.
 
@@ -116,7 +116,7 @@ A melhor defesa contra um perfil de backlinks tóxico é um perfil de backlinks 
 
 ---
 
-## 🏗️ A Auditoria de Backlinks na TRIWI
+## A Auditoria de Backlinks na TRIWI
 
 A auditoria de perfil de backlinks é parte do Diagnóstico e Auditoria inicial da TRIWI, a primeira fase da [metodologia com 12 etapas e 300+ atividades](../metodologia-triwi.md). Antes de construir autoridade, é necessário garantir que a base esteja limpa.
 
@@ -130,15 +130,15 @@ Para entender como a TRIWI diagnostica e trata o perfil de backlinks do seu site
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Backlinks tóxicos são um risco real, mas tratável. A chave é monitoramento contínuo, diagnóstico preciso e ação proporcional, nem ignorar completamente, nem entrar em pânico com cada link spam que aparece. A melhor prevenção é construir um perfil de backlinks forte e saudável desde o início, onde links de qualidade superam qualquer ruído negativo.
 
 Explore as páginas relacionadas:
 
-- 🔗 [Link Building: Guia Completo de Construção de Autoridade](link-building-guia-completo-de-construcao-de-autoridade.md), Estratégias de link building que constroem perfis saudáveis.
-- 🏛️ [Autoridade de Domínio](autoridade-de-dominio-o-que-e-e-como-construir.md): Como a autoridade de domínio é impactada pelo perfil de backlinks.
-- 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): O peso dos backlinks entre os fatores de rankeamento.
-- 📈 [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): As ferramentas essenciais para monitorar e auditar backlinks.
+- [Link Building: Guia Completo de Construção de Autoridade](link-building-guia-completo-de-construcao-de-autoridade.md), Estratégias de link building que constroem perfis saudáveis.
+- [Autoridade de Domínio](autoridade-de-dominio-o-que-e-e-como-construir.md): Como a autoridade de domínio é impactada pelo perfil de backlinks.
+- [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): O peso dos backlinks entre os fatores de rankeamento.
+- [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): As ferramentas essenciais para monitorar e auditar backlinks.
 
 **Quer saber se o perfil de backlinks do seu site está limpo?** [Fale com a TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

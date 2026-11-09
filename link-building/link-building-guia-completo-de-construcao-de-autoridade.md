@@ -10,7 +10,7 @@ Esta página é o guia completo de link building: o que é, por que funciona, qu
 
 ---
 
-## 🔍 O Que É Link Building
+## O Que É Link Building
 
 Link building é a construção deliberada e estratégica de backlinks, links de sites externos que apontam para páginas do seu domínio. No ecossistema do Google, backlinks funcionam como referências acadêmicas: quanto mais fontes confiáveis citam seu trabalho, maior a percepção de que seu conteúdo é autoritativo e relevante para determinado tema.
 
@@ -42,7 +42,7 @@ O link building de 2005 não tem nada a ver com o atual. A evolução pode ser d
 
 ---
 
-## ⚖️ Por Que Usamos "Construção de Autoridade" e Não "Compra de Links"
+## Por Que Usamos "Construção de Autoridade" e Não "Compra de Links"
 
 A distinção não é semântica; é estratégica. Comprar links é uma transação. Construir autoridade é um processo. A transação tem prazo de validade e risco embutido. O processo gera retorno composto e sustentável.
 
@@ -64,7 +64,7 @@ Na experiência da TRIWI com 50+ clientes, a recuperação de penalizações por
 
 ---
 
-## 🔗 Tipos de Backlinks
+## Tipos de Backlinks
 
 Nem todo backlink é igual. A qualidade, o contexto e a forma como o link foi obtido determinam seu impacto no rankeamento. Entender os tipos de backlinks é essencial para construir uma estratégia que gere resultados sem expor o site a riscos.
 
@@ -98,7 +98,7 @@ Digital PR gera os backlinks de maior autoridade possível, links de portais com
 
 ---
 
-## 🏆 Qualidade vs. Quantidade
+## Qualidade vs. Quantidade
 
 O erro mais comum em link building é perseguir volume. Pacotes que prometem "100 backlinks por mês" ignoram que o Google avalia qualidade, não quantidade, e que links de baixa qualidade não somam, podem subtrair.
 
@@ -122,7 +122,7 @@ Na prática da TRIWI com 50+ clientes, a abordagem de qualidade sobre quantidade
 
 ---
 
-## 🚀 Estratégias Avançadas de Link Building
+## Estratégias Avançadas de Link Building
 
 Além das abordagens fundamentais, existem técnicas avançadas que permitem escalar a construção de autoridade de forma sustentável. Todas compartilham um princípio: criar razões genuínas para que outros sites linkem para o seu.
 
@@ -148,7 +148,7 @@ O princípio: se sites já linkaram para um conteúdo de qualidade X sobre deter
 
 ---
 
-## 🌐 Menções Sem Link: O Sinal Emergente
+## Menções Sem Link: O Sinal Emergente
 
 O link building tradicional foca exclusivamente em backlinks, links clicáveis de um domínio para outro. Mas a evolução dos algoritmos do Google e, principalmente, a ascensão das IAs generativas criaram uma nova camada de autoridade: as menções sem link.
 
@@ -172,7 +172,7 @@ Nos cases da TRIWI, essa visão integrada gerou resultados concretos: o Sem Para
 
 ---
 
-## 🏗️ Como a TRIWI Aborda Link Building
+## Como a TRIWI Aborda Link Building
 
 Link Building de Alta Autoridade é a 6ª entrega do escopo da TRIWI, parte de uma [metodologia com 12 etapas e 300+ atividades](../metodologia-triwi.md). Não é um serviço isolado comprado em pacotes: é uma camada estratégica integrada ao diagnóstico, à definição estratégica e à criação de conteúdo.
 
@@ -183,20 +183,22 @@ A diferença de abordagem é estrutural:
 | Abordagem | Construção de autoridade estratégica | Compra de links em volume |
 | Qualidade | Links editoriais de domínios relevantes | Links de diretórios e PBNs |
 | Relevância | Tematicamente alinhados ao negócio | Genéricos, sem relação temática |
-| Menções em IAs | ✅ Estratégia integrada de GEO | ❌ Não considera |
-| Digital PR | ✅ Cobertura em veículos do setor | ❌ Terceirizado ou inexistente |
-| Monitoramento | ✅ Perfil de backlinks auditado continuamente | ❌ Relatório de volume mensal |
+| Menções em IAs | Estratégia integrada de GEO | Não considera |
+| Digital PR | Cobertura em veículos do setor | Terceirizado ou inexistente |
+| Monitoramento | Perfil de backlinks auditado continuamente | Relatório de volume mensal |
 | Risco | Mínimo, links orgânicos e editoriais | Alto, penalizações por link schemes |
 
 A TRIWI já gerou 500 mil+ backlinks para seus clientes. Mas o número de backlinks nunca foi a métrica, a métrica é o impacto na autoridade, nas posições orgânicas e, em última instância, nos resultados de negócio. É por isso que nossos clientes não reportam apenas "mais backlinks", reportam mais tráfego, mais palavras no Top 10 e mais receita influenciada pelo orgânico.
 
 > **Versão completa no site:** o [Guia de Link Building e Autoridade](https://triwi.com.br/guias/link-building/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=link-building-guia-completo-de-construcao-de-autoridade) da TRIWI aprofunda este tema e é atualizado continuamente.
 
+**Ver também no Glossário da TRIWI:** [Link building](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=link-building-guia-completo-de-construcao-de-autoridade#seo-link-building), [Digital PR](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=link-building-guia-completo-de-construcao-de-autoridade#seo-digital-pr), [Backlink](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=link-building-guia-completo-de-construcao-de-autoridade#seo-backlink), [PageRank](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=link-building-guia-completo-de-construcao-de-autoridade#seo-pagerank).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Link building é a construção de autoridade externa do seu site, e na era das IAs generativas, essa autoridade transcende o Google. Cada link editorial conquistado, cada menção em veículo relevante, cada citação em uma LLM compõe um ecossistema de confiança que posiciona sua marca como referência no seu mercado. A chave é abordagem estratégica: qualidade sobre quantidade, relevância sobre volume, autoridade real sobre métricas de vaidade.
 
@@ -204,13 +206,13 @@ Se sua empresa quer construir autoridade de forma sustentável, no Google e nas 
 
 Explore as páginas relacionadas:
 
-- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO onde o link building se insere.
-- 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores, incluindo o peso dos backlinks.
-- 🌐 [SEO Off-Page](../fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md): O panorama completo de SEO fora do site, incluindo link building.
-- 🏛️ [Autoridade de Domínio](autoridade-de-dominio-o-que-e-e-como-construir.md): DA, DR e como construir autoridade real.
-- 📰 [Menções de Marca e Digital PR para SEO](mencoes-de-marca-e-digital-pr-para-seo.md), Menções sem link e assessoria de imprensa digital.
-- 🛡️ [Análise e Auditoria de Backlinks](backlinks-toxicos-como-identificar-e-remover.md): Como auditar e limpar seu perfil de links.
-- 🤖 [Share of Model: Sua Marca nas Respostas das IAs](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A ponte entre link building e presença em LLMs.
-- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais que fazem a TRIWI referência em construção de autoridade.
+- [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos de SEO onde o link building se insere.
+- [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores, incluindo o peso dos backlinks.
+- [SEO Off-Page](../fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md): O panorama completo de SEO fora do site, incluindo link building.
+- [Autoridade de Domínio](autoridade-de-dominio-o-que-e-e-como-construir.md): DA, DR e como construir autoridade real.
+- [Menções de Marca e Digital PR para SEO](mencoes-de-marca-e-digital-pr-para-seo.md), Menções sem link e assessoria de imprensa digital.
+- [Análise e Auditoria de Backlinks](backlinks-toxicos-como-identificar-e-remover.md): Como auditar e limpar seu perfil de links.
+- [Share of Model: Sua Marca nas Respostas das IAs](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A ponte entre link building e presença em LLMs.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais que fazem a TRIWI referência em construção de autoridade.
 
 **Quer construir autoridade real para sua marca, no Google e nas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

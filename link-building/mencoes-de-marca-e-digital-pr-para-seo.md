@@ -8,7 +8,7 @@ Esta página cobre a fronteira entre PR digital e SEO: o que é, por que mençõ
 
 ---
 
-## 🔍 O Que É Digital PR para SEO
+## O Que É Digital PR para SEO
 
 Digital PR é a aplicação de técnicas de relações públicas e assessoria de imprensa no contexto digital, com foco em resultados mensuráveis de SEO: backlinks, menções de marca, autoridade de domínio e visibilidade em mecanismos de busca.
 
@@ -28,7 +28,7 @@ Na prática, uma estratégia madura de Digital PR não descarta menções sem li
 
 ---
 
-## 💡 Por Que Menções de Marca Importam
+## Por Que Menções de Marca Importam
 
 Menções de marca são sinais de autoridade que transcendem o backlink tradicional. O Google entende que marcas reais, reconhecidas e confiáveis são mencionadas em contextos editoriais, e usa essas menções para calibrar a confiança atribuída ao domínio.
 
@@ -48,7 +48,7 @@ Além disso, menções sem link são oportunidades diretas de link reclamation. 
 
 ---
 
-## 🚀 Estratégias de Digital PR
+## Estratégias de Digital PR
 
 Digital PR eficaz não é enviar press releases genéricos para listas de e-mail. É criar narrativas e ativos que jornalistas e editores queiram cobrir porque geram valor para a audiência deles.
 
@@ -74,7 +74,7 @@ Essas parcerias geram um fluxo contínuo de menções e backlinks, não picos es
 
 ---
 
-## 🌐 Menções em Canais Externos: A Fronteira Com GEO
+## Menções em Canais Externos: A Fronteira Com GEO
 
 A conexão entre Digital PR e otimização para IAs (GEO) é direta. As IAs generativas constroem suas respostas a partir de fontes da web, e as fontes que consideram mais confiáveis são exatamente os veículos e plataformas onde Digital PR gera presença.
 
@@ -94,11 +94,13 @@ A TRIWI trata essa convergência como parte central da estratégia. "Aumento das
 
 Os resultados dessa abordagem integrada são mensuráveis nos cases da TRIWI. O Sem Parar alcançou +350% de tráfego vindo de LLMs e +6.400% de presença em AI Overviews. A Valid/Flexdoc chegou a +700% de tráfego de LLMs e +2.000% em AI Overviews. A Contato Seguro atingiu +1.100% de tráfego de LLMs. Esses números não vêm de menções isoladas, vêm de uma estratégia de construção de autoridade que posiciona a marca consistentemente nas fontes que o Google e as IAs consideram confiáveis.
 
+**Ver também no Glossário da TRIWI:** [Link building](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=mencoes-de-marca-e-digital-pr-para-seo#seo-link-building), [Digital PR](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=mencoes-de-marca-e-digital-pr-para-seo#seo-digital-pr).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Menções de marca e Digital PR representam a evolução do link building para uma disciplina mais ampla de construção de autoridade digital. Backlinks continuam importantes, mas são parte de um ecossistema maior que inclui menções sem link, presença em veículos setoriais, citações como fonte especializada e visibilidade nas respostas das IAs generativas. Empresas que dominam essa estratégia constroem autoridade em dois mundos simultaneamente, o Google de hoje e as IAs de amanhã.
 
@@ -106,10 +108,10 @@ Se sua empresa quer ser mencionada, citada e recomendada, no Google e nas IAs, c
 
 Explore as páginas relacionadas:
 
-- 🔗 [Link Building: Guia Completo de Construção de Autoridade](link-building-guia-completo-de-construcao-de-autoridade.md), O guia completo de link building onde Digital PR se insere.
-- 🏛️ [Autoridade de Domínio](autoridade-de-dominio-o-que-e-e-como-construir.md): Como menções e backlinks constroem autoridade de domínio.
-- 🤖 [Share of Model: Sua Marca nas Respostas das IAs](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A participação da sua marca nas respostas das IAs.
-- 🌐 [SEO Off-Page](../fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md): O panorama completo de sinais externos de autoridade.
-- 🏠 [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais da TRIWI em construção de autoridade e presença em IAs.
+- [Link Building: Guia Completo de Construção de Autoridade](link-building-guia-completo-de-construcao-de-autoridade.md), O guia completo de link building onde Digital PR se insere.
+- [Autoridade de Domínio](autoridade-de-dominio-o-que-e-e-como-construir.md): Como menções e backlinks constroem autoridade de domínio.
+- [Share of Model: Sua Marca nas Respostas das IAs](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A participação da sua marca nas respostas das IAs.
+- [SEO Off-Page](../fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md): O panorama completo de sinais externos de autoridade.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Os diferenciais da TRIWI em construção de autoridade e presença em IAs.
 
 **Quer que sua marca seja citada pelo Google e pelas IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
