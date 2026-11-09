@@ -36,23 +36,23 @@ A diferença essencial está no modelo econômico: SEO é equity, cada mês de t
 
 ---
 
-## 🚀 Por Que SEO é Importante em 2025
+## 🚀 Por que SEO é importante na era das IAs?
 
-O cenário digital em 2025 torna SEO mais relevante do que nunca. A combinação de dominância do Google, crescimento das IAs generativas e aumento do custo de mídia paga criou um ambiente onde visibilidade orgânica é o ativo mais valioso do marketing digital.
+O cenário digital atual torna SEO mais relevante do que nunca. A combinação de dominância do Google, crescimento das IAs generativas e aumento do custo de mídia paga criou um ambiente onde visibilidade orgânica é o ativo mais valioso do marketing digital.
 
-### 90% das Buscas Acontecem no Google
+### Cerca de 90% das Buscas Acontecem no Google
 
-O Google continua sendo, de longe, o maior mecanismo de busca do mundo. Mais de 8,5 bilhões de buscas são realizadas diariamente na plataforma. Para a maioria dos negócios, o Google é a porta de entrada principal de novos clientes, o lugar onde decisões de compra começam.
+O Google continua sendo, de longe, o maior mecanismo de busca do mundo: tinha 91% das buscas globais em outubro de 2026, segundo o [StatCounter](https://gs.statcounter.com/search-engine-market-share), e passou de 5 trilhões de buscas por ano, número divulgado pelo próprio Google em março de 2025 ([Search Engine Land](https://searchengineland.com/google-5-trillion-searches-per-year-452928)). Para a maioria dos negócios, o Google é a porta de entrada principal de novos clientes, o lugar onde decisões de compra começam.
 
 Ignorar o Google é ignorar onde seus clientes estão procurando. E com a introdução de AI Overviews, respostas geradas por IA diretamente nos resultados de busca, a dinâmica está mudando: agora não basta rankear bem, é preciso ser a fonte que a IA do Google escolhe citar.
 
-### 55% dos Cliques São Orgânicos
+### A Maior Parte dos Cliques Vai para o Orgânico
 
-Mais da metade dos cliques em resultados de pesquisa do Google vão para resultados orgânicos, não para anúncios. Isso significa que a maior fatia do tráfego qualificado está disponível para quem investe em SEO.
+A maior parte dos cliques em resultados de pesquisa do Google vai para resultados orgânicos, não para anúncios. Isso significa que a maior fatia do tráfego qualificado está disponível para quem investe em SEO.
 
 Além disso, resultados orgânicos têm maior taxa de confiança do usuário. Pesquisas de comportamento de busca mostram que usuários tendem a confiar mais em resultados orgânicos do que em anúncios, especialmente em decisões de alto valor, como contratação de serviços B2B ou compra de soluções complexas.
 
-O primeiro resultado orgânico do Google recebe aproximadamente 40% de todos os cliques da página. Do segundo resultado em diante, a taxa cai significativamente. Estar nas primeiras posições não é apenas desejável; é onde a maior parte do valor se concentra.
+O primeiro resultado orgânico concentra a maior fatia dos cliques da página, e a taxa cai a cada posição abaixo. Estar nas primeiras posições não é apenas desejável; é onde a maior parte do valor se concentra.
 
 ### SEO Como Ativo de Longo Prazo: Equity vs. Aluguel
 
@@ -208,11 +208,19 @@ O algoritmo do Google evolui constantemente. Concorrentes estão otimizando todo
 
 ### Ignorar SEO para IA
 
-Em 2025, ignorar a dimensão de IA no SEO é tão arriscado quanto ignorar mobile há 10 anos. O ChatGPT processa 600 milhões de buscas por dia. O Google integrou AI Overviews nos resultados de busca. Milhões de decisões de compra passam por IAs generativas.
+Hoje, ignorar a dimensão de IA no SEO é tão arriscado quanto ignorar mobile há 10 anos. O ChatGPT passou de 800 milhões de usuários por semana e de 2,5 bilhões de mensagens por dia em 2025 ([Business Insider](https://www.aol.com/articles/3-years-old-800-million-090107388.html)). O Google integrou AI Overviews nos resultados de busca. Milhões de decisões de compra passam por IAs generativas.
 
 Empresas que otimizam apenas para o Google "tradicional" estão deixando uma fatia crescente de visibilidade, e de receita, na mesa. [GEO (Generative Engine Optimization)](o-que-e-geo-generative-engine-optimization-guia-completo.md) não é futuro: é presente. E os dados da TRIWI comprovam: clientes com estratégia de GEO integrada ao SEO apresentam crescimento médio de +350% a +1.100% em tráfego de LLMs.
 
-Apenas 16% das empresas brasileiras monitoram como aparecem nas plataformas de IA. Isso representa uma janela de oportunidade enorme para quem agir agora.
+Poucas empresas brasileiras monitoram como aparecem nas plataformas de IA. Isso representa uma janela de oportunidade enorme para quem agir agora.
+
+## Fontes
+
+- [StatCounter](https://gs.statcounter.com/search-engine-market-share): participação do Google no mercado mundial de buscas.
+- [Search Engine Land](https://searchengineland.com/google-5-trillion-searches-per-year-452928): Google passa de 5 trilhões de buscas por ano (março de 2025).
+- [Business Insider](https://www.aol.com/articles/3-years-old-800-million-090107388.html): usuários e volume de mensagens do ChatGPT (2025).
+- [Google Search Central: como a Pesquisa Google funciona](https://developers.google.com/search/docs/fundamentals/how-search-works?hl=pt-br): rastreamento, indexação e exibição de resultados.
+- Resultados de clientes citados: [página de cases da TRIWI](https://triwi.com.br/cases/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 

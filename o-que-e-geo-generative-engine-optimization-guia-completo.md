@@ -2,7 +2,7 @@
 
 GEO, Generative Engine Optimization, é a disciplina de otimização que garante que sua marca, seus produtos e seu conteúdo sejam citados nas respostas de IAs generativas como ChatGPT, Gemini, Claude e Perplexity. Enquanto o SEO tradicional posiciona páginas nos resultados de busca do Google, o GEO posiciona sua empresa como a resposta que as IAs entregam diretamente ao usuário, sem lista de links, sem 10 resultados azuis, sem clique intermediário.
 
-O conceito surgiu da necessidade: em 2026, o ChatGPT processa mais de 2,5 bilhões de prompts por dia. Mais de 50% das buscas no Google já exibem um AI Overview. O Perplexity ultrapassou 780 milhões de consultas mensais. A forma como as pessoas buscam informação mudou, e a forma como as empresas precisam ser encontradas mudou junto.
+O conceito surgiu da necessidade: em 2025 o ChatGPT passou de 800 milhões de usuários por semana e de 2,5 bilhões de mensagens por dia ([Business Insider](https://www.aol.com/articles/3-years-old-800-million-090107388.html)), e o Google levou os AI Overviews para o topo de uma parte crescente das buscas. A forma como as pessoas buscam informação mudou, e a forma como as empresas precisam ser encontradas mudou junto.
 
 Este é o guia completo sobre GEO: o que é, por que existe, como funciona, quais são os pilares da otimização para IAs generativas e como implementar uma estratégia que coloque sua marca nas respostas das LLMs. A TRIWI, pioneira em GEO no Brasil e uma das primeiras agências a incorporar otimização para IAs em sua metodologia, compartilha aqui o conhecimento que aplica diariamente com mais de 50 clientes ativos.
 
@@ -16,7 +16,7 @@ GEO é o conjunto de estratégias, técnicas e práticas de otimização que aum
 
 Generative Engine Optimization é a otimização de conteúdo, autoridade de marca e estrutura de dados para que sistemas de inteligência artificial generativa, como ChatGPT, Google Gemini, Anthropic Claude e Perplexity, reconheçam, priorizem e citem sua empresa ao responder perguntas dos usuários.
 
-O termo foi formalizado em um paper de pesquisadores das universidades de Princeton, Georgia Tech, The Allen Institute for AI e IIT Delhi, publicado em 2023. O estudo demonstrou que técnicas específicas de otimização para motores generativos, como inclusão de dados quantitativos, citações de fontes e linguagem assertiva, podem aumentar a visibilidade de conteúdo em respostas de IAs em até 40%.
+O termo foi formalizado em um paper de pesquisadores das universidades de Princeton, Georgia Tech, The Allen Institute for AI e IIT Delhi, publicado em 2023 e apresentado na conferência KDD 2024 ([artigo GEO: Generative Engine Optimization](https://doi.org/10.1145/3637528.3671900)). O estudo demonstrou que técnicas específicas de otimização para motores generativos, como inclusão de dados quantitativos, citações de fontes e linguagem assertiva, podem aumentar a visibilidade de conteúdo em respostas de IAs em até 40%.
 
 Na prática, GEO responde a uma pergunta que CEOs e CMOs estão começando a fazer: "Quando alguém pergunta ao ChatGPT sobre o meu setor, minha empresa aparece na resposta?" Na maioria dos casos, a resposta é não, e a janela para mudar isso está se fechando. Empresas que começam a otimizar agora constroem vantagem competitiva. Empresas que esperam vão correr atrás de concorrentes que já ocuparam esse espaço.
 
@@ -43,9 +43,9 @@ A diferença fundamental está no modelo de entrega: o SEO coloca sua página na
 
 Essa é a distinção mais importante e a que mais gera confusão no mercado: GEO não é o substituto do SEO. É a expansão natural da estratégia de visibilidade digital para um novo canal de descoberta.
 
-O Google ainda processa a esmagadora maioria das buscas globais, aproximadamente 90% de market share em 2026. As IAs generativas, coletivamente, respondem por 12% a 15% do volume de buscas. Abandonar SEO em favor de GEO seria como abandonar uma rodovia principal porque uma nova avenida abriu.
+O Google ainda processa a esmagadora maioria das buscas globais: 91% em outubro de 2026, segundo o [StatCounter](https://gs.statcounter.com/search-engine-market-share). As IAs generativas respondem por uma fatia menor, mas crescente. Abandonar SEO em favor de GEO seria como abandonar uma rodovia principal porque uma nova avenida abriu.
 
-O que muda é que a nova avenida está crescendo exponencialmente. O tráfego de IAs generativas para e-commerces brasileiros cresceu mais de 520% entre 2024 e 2025. O Brasil já é o terceiro maior mercado por volume de tráfego para ferramentas de IA generativa, atrás apenas dos Estados Unidos e da Índia.
+O que muda é que a nova avenida cresce rápido, e quem chega antes ocupa o espaço com menos concorrência.
 
 A estratégia correta é integrada: SEO + GEO. Otimizar para o Google E para as IAs. E a boa notícia é que boa parte do que funciona para SEO também funciona para GEO, conteúdo de qualidade, autoridade de marca, dados estruturados. A [Metodologia TRIWI](metodologia-triwi.md) já opera com essa visão integrada: "Otimização para Google e IAs (GEO)" é a 2ª entrega do escopo de trabalho, e é aplicada desde o primeiro mês de operação.
 
@@ -55,25 +55,25 @@ A estratégia correta é integrada: SEO + GEO. Otimizar para o Google E para as 
 
 GEO não surgiu de uma teoria acadêmica. Surgiu de uma mudança real no comportamento do consumidor: bilhões de pessoas passaram a buscar informação, comparar produtos e tomar decisões através de IAs generativas, e as empresas que não aparecem nessas respostas simplesmente não existem para esse público.
 
-### ChatGPT Processa Mais de 2,5 Bilhões de Prompts Por Dia
+### ChatGPT Passou de 2,5 Bilhões de Mensagens Por Dia
 
-Os números são contundentes. O ChatGPT atingiu mais de 800 milhões de usuários ativos semanais e processa mais de 2,5 bilhões de prompts por dia em 2026. Desses prompts, aproximadamente 31% ativam buscas na web em tempo real, ou seja, cerca de 775 milhões de buscas diárias alimentadas por conteúdo da web.
+Os números são contundentes. O ChatGPT passou de 800 milhões de usuários ativos por semana e de 2,5 bilhões de mensagens por dia em 2025 ([Business Insider](https://www.aol.com/articles/3-years-old-800-million-090107388.html)). Parte dessas conversas aciona busca na web em tempo real, e é aí que o conteúdo publicado vira fonte da resposta.
 
-O Google Gemini serve 1,5 bilhão de usuários mensais através do AI Overview, que já aparece em mais de 50% das buscas no Google. O Perplexity ultrapassou 45 milhões de usuários ativos e 780 milhões de consultas mensais. Claude, da Anthropic, e outras IAs completam um ecossistema onde a busca generativa não é mais futuro; é presente.
+No Google, o Gemini responde no topo da busca pelos AI Overviews e pelo AI Mode. Perplexity, Claude, da Anthropic, e outras IAs completam um ecossistema onde a busca generativa não é mais futuro; é presente.
 
 ### A Migração de Usuários para IAs Generativas
 
-A mudança não é apenas de volume; é de comportamento. Em 2026, 60% das buscas no Google terminam sem clique (zero-click searches). O AI Overview reduziu a taxa de clique na posição 1 orgânica para apenas 2,6%. A consequência para empresas é direta: mesmo que você rankeia no topo do Google, menos pessoas estão clicando. E uma fatia crescente dessas pessoas está migrando para IAs conversacionais.
+A mudança não é apenas de volume; é de comportamento. Boa parte das buscas no Google já termina sem clique (zero-click searches), e a presença de um AI Overview reduz os cliques nos resultados orgânicos. A consequência para empresas é direta: mesmo que você rankeia no topo do Google, menos pessoas estão clicando. E uma fatia crescente dessas pessoas está migrando para IAs conversacionais.
 
-Projeções de mercado indicam que 25% das buscas tradicionais deixarão de existir até o final de 2026. Em 2028, estima-se que 50% das buscas serão generativas. Empresas que não se adaptam a essa mudança não perdem posição no Google, perdem relevância na forma como uma parcela crescente do mercado busca informação.
+Em 2024, a [Gartner](https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents) projetou queda de 25% no volume dos buscadores tradicionais até 2026, por causa de chatbots e agentes de IA. Empresas que não se adaptam a essa mudança não perdem posição no Google, perdem relevância na forma como uma parcela crescente do mercado busca informação.
 
-O mercado de serviços de GEO reflete essa urgência: avaliado em USD 1,01 bilhão em 2025, a projeção é de USD 17,02 bilhões até 2034, um CAGR de 45,5%. Não é um nicho. É uma transformação estrutural da forma como empresas são encontradas online.
+Não é um nicho. É uma transformação estrutural da forma como empresas são encontradas online.
 
 ### O Brasil no Contexto: Oportunidade e Lacuna
 
-O Brasil é o terceiro maior mercado global em volume de tráfego para ferramentas de IA generativa, atrás apenas dos EUA e da Índia. Entre janeiro de 2023 e agosto de 2025, o ChatGPT gerou mais de 6,1 milhões de visitas de referência para os 10 maiores e-commerces brasileiros. A IA generativa já é canal de descoberta e conversão no Brasil, não apenas uma curiosidade tecnológica.
+No Brasil, a IA generativa já é canal de descoberta e conversão no Brasil, não apenas uma curiosidade tecnológica.
 
-Ao mesmo tempo, a maioria das empresas brasileiras sequer monitora como suas marcas aparecem nas respostas das IAs. Enquanto 67% das empresas consideram IA uma prioridade estratégica, poucas traduzem isso em ação de visibilidade. O gap entre reconhecer a importância da IA e otimizar para ela é enorme, e é exatamente nesse gap que mora a oportunidade para empresas que agem agora.
+Ao mesmo tempo, a maioria das empresas brasileiras sequer monitora como suas marcas aparecem nas respostas das IAs. Muitas tratam IA como prioridade estratégica, mas poucas traduzem isso em ação de visibilidade. O gap entre reconhecer a importância da IA e otimizar para ela é enorme, e é exatamente nesse gap que mora a oportunidade para empresas que agem agora.
 
 A TRIWI identificou essa oportunidade antes do mercado. Hoje, entre os resultados que entregamos, estão: Sem Parar com +6.400% em AI Overview e +350% de tráfego de LLMs, Valid com +2.000% em AI Overview e +700% de tráfego de LLMs, e Contato Seguro com +1.100% de tráfego proveniente de LLMs. Esses números não são projeções; são resultados consolidados de clientes reais operando com estratégia integrada de SEO + GEO.
 
@@ -153,7 +153,7 @@ Estar presente nessas fontes, seja por menção, citação ou contribuição dir
 
 ### Dados Estruturados: Schema Markup Que IAs Interpretam
 
-[Dados estruturados](geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-generativa.md) (Schema markup) são a linguagem que permite que sistemas automatizados, tanto o Google quanto LLMs, entendam o significado do conteúdo de uma página, não apenas o texto. Quando você marca uma página com Schema de Organization, Article, FAQ, HowTo ou Product, está comunicando explicitamente ao sistema: "isto é uma empresa", "isto é um artigo sobre X", "esta é uma pergunta frequente".
+[Dados estruturados](geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-generativa.md) (Schema markup) são a linguagem que permite que sistemas automatizados, tanto o Google quanto LLMs, entendam o significado do conteúdo de uma página, não apenas o texto. Quando você marca uma página com Schema de Organization, Article, BreadcrumbList ou Product, está comunicando explicitamente ao sistema: "isto é uma empresa", "isto é um artigo sobre X", "esta é uma pergunta frequente".
 
 Para GEO, dados estruturados reduzem a ambiguidade. Uma LLM que encontra uma página com Schema markup bem implementado tem maior confiança na interpretação do conteúdo, e maior probabilidade de citá-lo. Em um cenário onde a IA precisa escolher entre duas fontes com informação similar, a fonte com dados estruturados claros tende a ser preferida.
 
@@ -249,9 +249,9 @@ GEO não é tendência. É transformação estrutural. As empresas que não se a
 
 O mercado de GEO segue uma curva clássica de adoção: early adopters colhem resultados desproporcionais porque competem com menos empresas em um canal em expansão. Conforme o mercado amadurece, o custo de entrada aumenta e a vantagem competitiva dos primeiros diminui.
 
-Em 2026, a maioria das empresas ainda não otimiza para IAs. 63% das empresas que investiram em GEO já notam aumento em visibilidade. 90% dos profissionais de marketing planejam aumentar investimentos em IA. A janela de vantagem competitiva ainda está aberta, mas está se fechando à medida que mais empresas reconhecem a importância do GEO.
+Em 2026, a maioria das empresas ainda não otimiza para IAs. A janela de vantagem competitiva ainda está aberta, mas está se fechando à medida que mais empresas reconhecem a importância do GEO.
 
-Para colocar em perspectiva: o mercado de GEO deve saltar de USD 1,48 bilhão em 2026 para USD 17,02 bilhões em 2034. Empresas que iniciam agora constroem autoridade de entidade que será exponencialmente mais difícil e mais cara de construir quando o mercado estiver saturado.
+Empresas que iniciam agora constroem autoridade de entidade que será exponencialmente mais difícil e mais cara de construir quando o mercado estiver saturado.
 
 ### Cases de Empresas Que Já Colhem Resultados com GEO
 
@@ -264,6 +264,15 @@ Na experiência da TRIWI com 50+ clientes, os resultados de GEO mais expressivos
 **Contato Seguro:** Especializada em soluções de contato, alcançou 65% das vendas via orgânico, +654% de tráfego orgânico, +1.100% de tráfego proveniente de LLMs e +430% de palavras no Top 10 do Google. O caso demonstra como GEO pode ser especialmente impactante para empresas com ciclo de venda consultivo, onde a confiança construída pela presença nas IAs influencia diretamente a conversão.
 
 Esses resultados não são pontos fora da curva. São o que acontece quando uma estratégia de GEO é executada com profundidade, consistência e integração com SEO. 100% dos clientes da TRIWI chegaram ao Top 3 do Google, e os resultados em GEO seguem a mesma trajetória ascendente.
+
+## Fontes
+
+- [artigo GEO: Generative Engine Optimization](https://doi.org/10.1145/3637528.3671900): o estudo de Princeton, Georgia Tech, Allen Institute for AI e IIT Delhi que formalizou o termo (KDD 2024).
+- [Google Search Central: recursos de IA e o seu site](https://developers.google.com/search/docs/appearance/ai-features?hl=pt-br): como AI Overviews e AI Mode usam o conteúdo da web.
+- [StatCounter](https://gs.statcounter.com/search-engine-market-share): participação do Google no mercado mundial de buscas.
+- [Business Insider](https://www.aol.com/articles/3-years-old-800-million-090107388.html): usuários e volume de mensagens do ChatGPT (2025).
+- [Gartner](https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents): projeção de queda do volume de buscas até 2026 (fevereiro de 2024).
+- Resultados de clientes citados: [página de cases da TRIWI](https://triwi.com.br/cases/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 
