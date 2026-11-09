@@ -6,7 +6,7 @@ Este guia cobre o histórico completo das atualizações mais importantes, como 
 
 ---
 
-## 🔄 O Que São Core Updates do Google
+## O Que São Core Updates do Google
 
 Core Updates são atualizações amplas e significativas no algoritmo de busca do Google. Diferente de ajustes menores (que acontecem diariamente), um Core Update muda a forma como o Google avalia a relevância, qualidade e autoridade de páginas em escala global. O impacto é sentido por milhões de sites simultaneamente, e os efeitos podem durar semanas ou meses.
 
@@ -24,7 +24,7 @@ Cada tipo de update tem implicações diferentes para diagnóstico e recuperaç�
 
 ---
 
-## 📜 Histórico de Updates Importantes
+## Histórico de Updates Importantes
 
 A história das atualizações do Google é, na prática, a história da evolução do SEO. Cada update marcante redefiniu o que funciona, eliminou práticas obsoletas e elevou o padrão de qualidade. Entender esse histórico não é exercício acadêmico; é contexto essencial para interpretar updates futuros.
 
@@ -84,7 +84,7 @@ Em 2026, o Google seguiu enxugando os resultados enriquecidos: desde 7 de maio d
 
 ---
 
-## 📉 Como um Core Update Afeta Seu Site
+## Como um Core Update Afeta Seu Site
 
 Identificar corretamente o impacto de um Core Update é o que separa uma resposta estratégica de uma reação equivocada. Nem toda flutuação é update, nem toda queda é penalização, e nem toda recuperação exige as mesmas ações.
 
@@ -108,7 +108,7 @@ A vasta maioria das quedas após um Core Update não é penalização. É reclas
 
 ---
 
-## 🛠️ Como Se Recuperar de um Core Update Negativo
+## Como Se Recuperar de um Core Update Negativo
 
 A recuperação de um Core Update negativo não é rápida, não é garantida e não existe atalho. Mas é possível, com diagnóstico correto, execução disciplinada e paciência estratégica.
 
@@ -138,7 +138,7 @@ Não existe botão de "recuperação rápida." Algumas páginas se recuperam no 
 
 ---
 
-## 🛡️ Como Se Proteger de Updates Futuros
+## Como Se Proteger de Updates Futuros
 
 A melhor estratégia contra atualizações do Google não é reativa, é preventiva. Sites que são construídos com foco em qualidade real, diversificação estratégica e valor genuíno para o usuário não apenas sobrevivem a Core Updates, frequentemente melhoram posições quando eles acontecem.
 
@@ -156,11 +156,13 @@ A proteção real vem da diversificação: SEO técnico impecável (velocidade, 
 
 A metodologia TRIWI com 300+ atividades é projetada para ser resistente a updates, porque foca em qualidade real (conteúdo, técnica, autoridade), não em atalhos que funcionam temporariamente. Quando um Core Update chega, clientes TRIWI tipicamente mantêm ou melhoram posições. Os resultados do Sem Parar (+194% palavras no Top 10), Valid (+240%) e Contato Seguro (+430%) foram construídos durante um período de múltiplos Core Updates, e se sustentaram ou cresceram após cada atualização. A [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) não é à prova de updates porque prevê cada mudança, é resiliente porque os fundamentos que ela constrói são os mesmos que o Google valoriza a cada atualização.
 
+**Ver também no Glossário da TRIWI:** [Core Update](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=atualizacoes-do-google-guia-de-core-updates-e-seus-impactos#seo-core-update), [E-E-A-T](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=atualizacoes-do-google-guia-de-core-updates-e-seus-impactos#seo-e-e-a-t), [BERT](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=atualizacoes-do-google-guia-de-core-updates-e-seus-impactos#seo-bert).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Atualizações do Google são inevitáveis, e cada vez mais frequentes. O padrão é claro: cada Core Update eleva o padrão de qualidade, premia expertise real e penaliza atalhos. Entender esse padrão não elimina o risco, mas permite construir uma estratégia que transforma updates de ameaça em oportunidade, quando concorrentes que dependiam de táticas frágeis perdem posições, quem investiu em fundamentos sólidos ganha espaço.
 
@@ -168,14 +170,14 @@ A TRIWI acompanha, analisa e responde a cada atualização do Google em tempo re
 
 Explore as páginas relacionadas:
 
-- 📈 [Tendências de SEO: O Que Esperar nos Próximos Anos](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md), As tendências que moldam o SEO nos próximos anos.
-- 🏅 [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework de qualidade que Core Updates valorizam.
-- 🔧 [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): A base técnica que sustenta a resiliência a updates.
-- 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Os sinais que o algoritmo avalia a cada atualização.
-- 🔗 [Link Building: Guia Completo](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade que resiste a updates.
-- 🚫 [Backlinks Tóxicos: Como Identificar e Remover](../link-building/backlinks-toxicos-como-identificar-e-remover.md): Como limpar o perfil de links sem prejudicar o site.
-- 📏 [Métricas de SEO Que Importam: KPIs Focados em Negócio](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md), As métricas corretas para monitorar impacto de updates.
-- ✍️ [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Conteúdo que o Google valoriza em qualquer update.
-- 💡 [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que fundamentam a resiliência da metodologia TRIWI.
+- [Tendências de SEO: O Que Esperar nos Próximos Anos](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md), As tendências que moldam o SEO nos próximos anos.
+- [E-E-A-T: O Framework do Google para Qualidade de Conteúdo](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md), O framework de qualidade que Core Updates valorizam.
+- [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): A base técnica que sustenta a resiliência a updates.
+- [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Os sinais que o algoritmo avalia a cada atualização.
+- [Link Building: Guia Completo](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade que resiste a updates.
+- [Backlinks Tóxicos: Como Identificar e Remover](../link-building/backlinks-toxicos-como-identificar-e-remover.md): Como limpar o perfil de links sem prejudicar o site.
+- [Métricas de SEO Que Importam: KPIs Focados em Negócio](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md), As métricas corretas para monitorar impacto de updates.
+- [Estratégia de Conteúdo para SEO: Guia Completo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Conteúdo que o Google valoriza em qualquer update.
+- [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que fundamentam a resiliência da metodologia TRIWI.
 
 **Seu site está preparado para o próximo Core Update?** [Conheça a Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e descubra como construir uma presença orgânica que cresce a cada atualização do Google, não apesar delas.

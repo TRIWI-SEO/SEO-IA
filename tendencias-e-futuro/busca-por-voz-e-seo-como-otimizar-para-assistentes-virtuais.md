@@ -6,7 +6,7 @@ A diferença fundamental entre busca por voz e busca digitada está na linguagem
 
 ---
 
-## 🎙️ O Estado da Busca por Voz
+## O Estado da Busca por Voz
 
 A busca por voz deixou de ser curiosidade tecnológica para se tornar comportamento consolidado. O ecossistema de assistentes virtuais amadureceu, a adoção é massiva e a integração com IA generativa está redefinindo o que assistentes conseguem fazer.
 
@@ -30,7 +30,7 @@ Essa convergência significa que toda busca por voz está se tornando, na práti
 
 ---
 
-## 💬 Como Buscas por Voz Diferem de Buscas Digitadas
+## Como Buscas por Voz Diferem de Buscas Digitadas
 
 Entender as diferenças estruturais entre busca por voz e busca digitada é o ponto de partida para qualquer otimização. Não se trata de variação cosmética; são padrões fundamentalmente diferentes de query, intenção e expectativa de resposta.
 
@@ -54,7 +54,7 @@ Essa distribuição tem implicação direta: empresas com presença física prec
 
 ---
 
-## 🔧 Otimizando para Busca por Voz
+## Otimizando para Busca por Voz
 
 A otimização para busca por voz não exige reinventar a estratégia de SEO, exige adaptar e complementar. As táticas a seguir funcionam em sinergia com SEO tradicional e com GEO.
 
@@ -84,7 +84,7 @@ A otimização para snippets segue padrões documentados: parágrafos de 40-60 p
 
 ---
 
-## 🤖 Busca por Voz e GEO: A Interseção
+## Busca por Voz e GEO: A Interseção
 
 A convergência entre busca por voz e IA generativa é a tendência mais transformadora para o futuro da voice search. O que eram dois canais separados, assistentes virtuais e LLMs, está se fundindo em uma única experiência.
 
@@ -100,11 +100,13 @@ A trajetória é clara: em 2-3 anos, a distinção entre "busca por voz" e "inte
 
 Isso torna a otimização para busca por voz uma extensão natural do trabalho de GEO. A TRIWI reconhece essa convergência na prática: conteúdo estruturado, dados estruturados e definições citáveis, tudo que otimiza para LLMs também otimiza para assistentes virtuais. A [Filosofia TRIWI](../filosofia-triwi.md) sustenta que "o futuro das buscas é generativo", e esse futuro inclui a voz como interface primária para bilhões de usuários. Os clientes que já investem em [SEO para IA](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md) estão, simultaneamente, se posicionando para a busca por voz generativa.
 
+**Ver também no Glossário da TRIWI:** [Busca por voz](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=busca-por-voz-e-seo-como-otimizar-para-assistentes-virtuais#seo-busca-por-voz), [IA generativa](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=busca-por-voz-e-seo-como-otimizar-para-assistentes-virtuais#ia-ia-generativa).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 A busca por voz não é canal isolado; é interface. E essa interface está sendo reprogramada por IA generativa. Otimizar para voice search em 2026 significa otimizar para um ecossistema onde assistentes virtuais operam com LLMs, respostas são geradas (não apenas extraídas) e a autoridade de citação determina quem é mencionado.
 
@@ -112,11 +114,11 @@ A TRIWI integra a otimização para busca por voz na estratégia de SEO + GEO co
 
 Explore as páginas relacionadas:
 
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework que conecta busca por voz e IA generativa.
-- 🤖 [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As estratégias para ser citado por LLMs e assistentes virtuais.
-- 🔧 [Schema Markup e Dados Estruturados para SEO](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): A infraestrutura técnica para featured snippets e busca por voz.
-- 🎯 [Intenção de Busca: O Fundamento Que Muda Tudo em SEO](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md), Entendendo a intenção por trás das queries por voz.
-- 📈 [Tendências de SEO: O Que Esperar nos Próximos Anos](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md), O panorama completo de tendências, incluindo voice search.
-- 💡 [Filosofia TRIWI](../filosofia-triwi.md), O princípio de que o futuro das buscas é generativo, incluindo a voz.
+- [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), O framework que conecta busca por voz e IA generativa.
+- [SEO para IA: Como Aparecer nas Respostas do ChatGPT, Gemini e Claude](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), As estratégias para ser citado por LLMs e assistentes virtuais.
+- [Schema Markup e Dados Estruturados para SEO](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): A infraestrutura técnica para featured snippets e busca por voz.
+- [Intenção de Busca: O Fundamento Que Muda Tudo em SEO](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md), Entendendo a intenção por trás das queries por voz.
+- [Tendências de SEO: O Que Esperar nos Próximos Anos](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md), O panorama completo de tendências, incluindo voice search.
+- [Filosofia TRIWI](../filosofia-triwi.md), O princípio de que o futuro das buscas é generativo, incluindo a voz.
 
 **Sua marca é a resposta quando alguém pergunta ao assistente virtual?** [Conheça a Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e descubra como a integração SEO + GEO posiciona sua empresa em todo o ecossistema de busca, texto, IA e voz.

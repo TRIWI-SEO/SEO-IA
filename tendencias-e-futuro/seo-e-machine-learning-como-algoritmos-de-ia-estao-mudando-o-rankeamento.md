@@ -6,7 +6,7 @@ Entender como o Google usa machine learning internamente não é curiosidade té
 
 ---
 
-## 🧠 O Google É um Sistema de IA
+## O Google É um Sistema de IA
 
 O Google de 2026 é fundamentalmente diferente do Google de 2010. Cada componente do sistema de busca, da compreensão da query à avaliação de relevância, da ordenação dos resultados à geração de respostas, utiliza modelos de machine learning. Entender essa evolução é entender por que certas estratégias de SEO funcionam e outras se tornaram obsoletas.
 
@@ -36,7 +36,7 @@ A tendência é inequívoca: cada novo modelo é mais capaz de entender nuance, 
 
 ---
 
-## ⚙️ O Que Machine Learning Muda na Prática para SEO
+## O Que Machine Learning Muda na Prática para SEO
 
 A presença de ML no algoritmo do Google não é abstração técnica; tem consequências práticas diretas para como conteúdo deve ser criado, estruturado e otimizado.
 
@@ -60,7 +60,7 @@ Esses sinais não são "fatores de rankeamento" no sentido clássico, são input
 
 ---
 
-## 🎯 Implicações para Profissionais de SEO
+## Implicações para Profissionais de SEO
 
 Machine learning no Google não torna SEO obsoleto, torna SEO mais estratégico. As táticas mudam, mas a disciplina se fortalece.
 
@@ -84,7 +84,7 @@ A TRIWI investe em entender a tecnologia por trás dos algoritmos, não para man
 
 ---
 
-## 🔮 A Próxima Fronteira: IA Generativa no Ranking
+## A Próxima Fronteira: IA Generativa no Ranking
 
 Machine learning no Google evoluiu de componente auxiliar (RankBrain) para infraestrutura central (BERT, MUM) e agora atinge a próxima fronteira: IA generativa operando diretamente nos resultados de busca.
 
@@ -102,23 +102,25 @@ A [tendência](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md) é que IA g
 
 A [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) materializa esse entendimento no 4º princípio: "O futuro das buscas é generativo." Com a metodologia de 12 etapas e 300+ atividades, a TRIWI alinha a estratégia dos clientes não apenas com o algoritmo de hoje, mas com a direção em que ML e IA generativa estão levando a busca amanhã.
 
+**Ver também no Glossário da TRIWI:** [AI Overviews](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-e-machine-learning-como-algoritmos-de-ia-estao-mudando-o-rankeamento#seo-ai-overviews), [RankBrain](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-e-machine-learning-como-algoritmos-de-ia-estao-mudando-o-rankeamento#seo-rankbrain), [BERT](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-e-machine-learning-como-algoritmos-de-ia-estao-mudando-o-rankeamento#seo-bert), [Machine learning](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-e-machine-learning-como-algoritmos-de-ia-estao-mudando-o-rankeamento#ia-machine-learning), [IA generativa](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-e-machine-learning-como-algoritmos-de-ia-estao-mudando-o-rankeamento#ia-ia-generativa).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 O Google é um sistema de IA, e entender seus modelos de machine learning é entender as regras do jogo. Do RankBrain ao Gemini, cada evolução premiou qualidade, intenção e experiência, e penalizou manipulação, artificialidade e superficialidade. A próxima fronteira, com IA generativa integrada à busca, amplifica esse padrão: qualidade real, expertise verificável e conteúdo citável são os ativos que geram retorno composto.
 
 Explore as páginas relacionadas:
 
-- 📈 [Tendências de SEO: O Que Esperar nos Próximos Anos](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md), O panorama completo das tendências que moldam o SEO.
-- 📰 [Atualizações do Google: Guia de Core Updates e Seus Impactos](atualizacoes-do-google-guia-de-core-updates-e-seus-impactos.md), A história dos updates que refletem a evolução do ML.
-- ⚙️ [Como Funciona o Google: Rastreamento, Indexação e Rankeamento](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md), A mecânica completa do sistema de busca.
-- 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Os sinais que ML pondera no algoritmo.
-- 🌐 [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), A otimização para a camada generativa da busca.
-- 🧩 [Como as LLMs Decidem o Que Citar: Arquitetura de Informação para IA](../geo-seo-para-ia/como-as-llms-decidem-o-que-citar-arquitetura-de-informacao-para-ia.md), A lógica por trás da seleção de fontes pelas IAs.
-- 🎯 [Intenção de Busca: O Fundamento Que Muda Tudo em SEO](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md), O conceito que ML tornou central no rankeamento.
-- 💡 [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que alinham estratégia com a evolução tecnológica da busca.
+- [Tendências de SEO: O Que Esperar nos Próximos Anos](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md), O panorama completo das tendências que moldam o SEO.
+- [Atualizações do Google: Guia de Core Updates e Seus Impactos](atualizacoes-do-google-guia-de-core-updates-e-seus-impactos.md), A história dos updates que refletem a evolução do ML.
+- [Como Funciona o Google: Rastreamento, Indexação e Rankeamento](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md), A mecânica completa do sistema de busca.
+- [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Os sinais que ML pondera no algoritmo.
+- [O Que é GEO: Generative Engine Optimization, Guia Completo](../o-que-e-geo-generative-engine-optimization-guia-completo.md), A otimização para a camada generativa da busca.
+- [Como as LLMs Decidem o Que Citar: Arquitetura de Informação para IA](../geo-seo-para-ia/como-as-llms-decidem-o-que-citar-arquitetura-de-informacao-para-ia.md), A lógica por trás da seleção de fontes pelas IAs.
+- [Intenção de Busca: O Fundamento Que Muda Tudo em SEO](../fundamentos-de-seo/intencao-de-busca-o-fundamento-que-muda-tudo-em-seo.md), O conceito que ML tornou central no rankeamento.
+- [Filosofia TRIWI](../filosofia-triwi.md): Os princípios que alinham estratégia com a evolução tecnológica da busca.
 
 **Sua estratégia de SEO acompanha a evolução do algoritmo?** [Conheça a Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e descubra como alinhar sua presença digital com a direção em que o Google e as IAs estão evoluindo.
