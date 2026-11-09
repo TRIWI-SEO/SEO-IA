@@ -227,7 +227,7 @@ Sim. Todo o conteúdo está sob licença [CC BY 4.0](LICENSE): você pode copiar
 
 | Data | O que mudou |
 |:---|:---|
-| 09/11/2026 | Revisão de novembro: segmento fora da atuação da TRIWI retirado do acervo; orientação sobre FAQPage e HowTo atualizada ao fim dos resultados enriquecidos no Google; títulos com ano atualizados; fontes externas nos dois guias-âncora; links para os guias e glossários do site |
+| 09/11/2026 | Revisão de novembro: segmento fora da atuação da TRIWI retirado do acervo; orientação sobre FAQPage e HowTo atualizada ao fim dos resultados enriquecidos no Google; títulos com ano atualizados; fontes externas nos dois guias-âncora e nas páginas de GEO; links para os guias e glossários do site |
 | 27/08/2026 | Reestruturação: páginas institucionais e guias-âncora na raiz, licença CC BY 4.0, links com UTM |
 | 25/08/2026 | Publicação da base, migrada do wiki do GitHub |
 
