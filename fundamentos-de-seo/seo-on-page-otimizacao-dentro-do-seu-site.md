@@ -144,6 +144,8 @@ Mesmo profissionais experientes cometem erros de SEO on-page que custam posiçõ
 
 Na TRIWI, a otimização on-page é uma das 12 entregas do escopo, não uma ação pontual, mas um processo contínuo com revisões mensais dentro do Ciclo PDCA. Cada página é analisada individualmente, com checklist completo de elementos on-page, e as otimizações são priorizadas por impacto potencial em tráfego e conversão. Essa disciplina operacional, aplicada sistematicamente com a [Metodologia TRIWI](../metodologia-triwi.md), é o que transforma SEO on-page de "ajuste técnico" em motor de resultados de negócio.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

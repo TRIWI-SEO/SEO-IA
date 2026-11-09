@@ -2,6 +2,8 @@
 
 Intenção de busca (search intent) é o objetivo real por trás de cada pesquisa que um usuário faz no Google. Não é a palavra-chave digitada; é o que o usuário espera encontrar ao digitá-la. Entender a intenção de busca é o fundamento que separa conteúdo que rankeia de conteúdo que o Google ignora. Você pode ter a keyword certa, o site mais rápido e dezenas de backlinks, mas se o conteúdo não corresponde ao que o usuário realmente quer, não vai rankear. É por isso que intenção de busca é considerada o [fator de rankeamento](fatores-de-rankeamento-do-google.md) mais importante do [SEO](../o-que-e-seo-guia-completo.md) moderno.
 
+> **Versão completa no site:** o [Guia de Palavras-chave e Intenção de Busca](https://triwi.com.br/guias/palavras-chave/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=intencao-de-busca-o-fundamento-que-muda-tudo-em-seo) da TRIWI aprofunda este tema e é atualizado continuamente.
+
 ---
 
 ## 🔍 O Que é Intenção de Busca
@@ -137,6 +139,10 @@ A estratégia de conteúdo eficaz mapeia keywords para cada estágio do funil, g
 Na TRIWI, toda estratégia de conteúdo começa pelo Estudo de Mercado e Intenção de Busca, uma das 12 entregas do escopo. Não criamos conteúdo sem antes entender o que o usuário realmente quer encontrar. Esse mapeamento conecta cada peça de conteúdo a um estágio da jornada e a uma intenção de busca específica, garantindo que o investimento em conteúdo gere resultados de negócio em cada fase, não apenas tráfego genérico.
 
 A [Metodologia TRIWI](../metodologia-triwi.md) integra a análise de intenção de busca ao ciclo PDCA mensal: as intenções evoluem, o comportamento do usuário muda e os resultados da SERP se atualizam. Revisar e ajustar o mapeamento de intenções é parte da otimização contínua que sustenta os [KPIs de resultado](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md).
+
+> **Versão completa no site:** o [Guia de Palavras-chave e Intenção de Busca](https://triwi.com.br/guias/palavras-chave/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=intencao-de-busca-o-fundamento-que-muda-tudo-em-seo) da TRIWI aprofunda este tema e é atualizado continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 

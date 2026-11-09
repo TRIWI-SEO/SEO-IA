@@ -186,6 +186,8 @@ Os fatores que favorecem citação em LLMs incluem: conteúdo com definições c
 
 A TRIWI monitora o Share of Model, a participação da marca do cliente nas respostas das LLMs, como métrica operacional. Os resultados validam a abordagem: a Valid/Flexdoc alcançou +700% em tráfego de LLMs e +2.000% em AI Overview, demonstrando que otimizar para IAs generativas não é teoria; é resultado mensurável quando executado com metodologia.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Próximos Passos

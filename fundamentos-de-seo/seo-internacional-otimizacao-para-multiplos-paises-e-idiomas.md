@@ -126,6 +126,8 @@ Estratégias eficazes para link building internacional incluem: digital PR em pu
 
 A TRIWI atende clientes com operação internacional como John Deere e Pirelli, onde a estratégia de SEO precisa considerar múltiplos mercados, idiomas e intenções de busca regionais. A [Metodologia TRIWI](../metodologia-triwi.md) adapta cada fase do processo, do diagnóstico à otimização contínua, ao contexto específico de cada mercado, garantindo que a construção de autoridade e a estratégia de conteúdo respeitem as particularidades locais. Conheça mais em [triwi.com.br/metodologia-triwi](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

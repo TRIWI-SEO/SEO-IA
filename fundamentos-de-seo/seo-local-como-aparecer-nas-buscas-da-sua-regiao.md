@@ -107,6 +107,8 @@ SEO local é mais acessível que o orgânico tradicional, mas isso não signific
 
 **Não publicar no perfil:** O Google Business Profile permite postagens regulares, e negócios que publicam frequentemente sinalizam atividade e atualização, fatores positivos para o rankeamento local.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

@@ -150,6 +150,8 @@ Essa evolução significa que a competição por visibilidade no Google vai muit
 
 Paralelamente, IAs generativas como ChatGPT, Gemini, Claude e Perplexity estão criando um novo canal de busca. O ChatGPT processa 600 milhões de buscas diárias. Milhões de usuários estão fazendo perguntas a assistentes de IA para descobrir produtos, comparar soluções e tomar decisões. A otimização para esses ambientes, conhecida como [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md), é a evolução natural do SEO que empresas com visão de futuro já estão implementando.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Próximos Passos

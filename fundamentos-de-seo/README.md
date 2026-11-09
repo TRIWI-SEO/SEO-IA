@@ -56,6 +56,8 @@ A sequência recomendada é a ordem natural das páginas. Comece pelo [guia comp
 
 Com os fundamentos dominados, avance para as categorias de [SEO Técnico](../seo-tecnico/README.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [GEO, otimização para IAs generativas](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Fale com a TRIWI

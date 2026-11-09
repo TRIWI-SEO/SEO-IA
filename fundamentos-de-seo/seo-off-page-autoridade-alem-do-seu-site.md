@@ -104,6 +104,8 @@ Link building estratégico envolve: identificar sites de alta autoridade e relev
 
 A [Metodologia TRIWI](../metodologia-triwi.md) integra construção de autoridade a cada fase do processo, do diagnóstico inicial (análise do perfil de backlinks) à otimização contínua (monitoramento e ações mensais). Essa integração é o que garante que o off-page não seja uma ação isolada, mas parte de uma estratégia coerente que potencializa os resultados de conteúdo e técnico.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos
