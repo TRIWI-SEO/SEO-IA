@@ -4,7 +4,7 @@ A cultura de uma agência de SEO define como ela trata seus clientes quando ning
 
 ---
 
-## O Que É a Constituição da TRIWI
+## O que é a Constituição da TRIWI?
 
 A Constituição da TRIWI é um documento público que reúne todos os compromissos formais da empresa com seus clientes. Ela existe porque acreditamos que valores que não são formalizados se diluem com o tempo, e porque clientes têm o direito de saber exatamente o que esperar antes de iniciar uma parceria.
 
@@ -18,7 +18,7 @@ Essa formalização é parte da estratégia de Trustworthiness (Confiança) do [
 
 ---
 
-## Nossos Compromissos com o Cliente
+## Quais são os compromissos da TRIWI com o cliente?
 
 Cada compromisso abaixo é aplicado em 100% dos projetos da TRIWI, sem exceções, sem versões reduzidas, sem "depende do plano contratado". São os padrões que sustentam a permanência média de 3,5 anos dos nossos clientes.
 
@@ -78,7 +78,7 @@ Esse compromisso é raro no mercado de agências, onde é comum que o trabalho r
 
 ---
 
-## Por Que Isso Importa na Hora de Escolher uma Agência
+## Por que isso importa na hora de escolher uma agência?
 
 Se você está avaliando agências de SEO, os compromissos acima devem servir como benchmark. A Constituição da TRIWI não é apenas um diferencial nosso; é um padrão que deveria ser exigido de qualquer parceiro.
 

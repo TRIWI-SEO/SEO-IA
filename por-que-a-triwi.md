@@ -30,7 +30,7 @@ Ou você aparece, ou seus concorrentes aparecem. Quando seu cliente busca pelo s
 
 ---
 
-## O Que Torna a TRIWI Diferente
+## O que torna a TRIWI diferente?
 
 No mercado de SEO, há muitas agências que oferecem "um pouco de tudo". A TRIWI faz uma coisa só, e faz com profundidade que nenhuma agência generalista consegue alcançar. É a diferença entre amplitude e profundidade. Na TRIWI, profundidade bate amplitude.
 
@@ -182,7 +182,7 @@ A TRIWI oferece equipe completa, metodologia comprovada e todas as ferramentas p
 
 ---
 
-## Para Quem a TRIWI É a Escolha Certa
+## Para quem a TRIWI é a escolha certa?
 
 A TRIWI não é para todo mundo, e temos clareza sobre isso. Transparência sobre o perfil ideal de cliente é parte do nosso compromisso com resultados reais.
 
@@ -208,7 +208,7 @@ Somos transparentes: pode não ser o momento certo para trabalhar com a TRIWI se
 
 ---
 
-## Sem Contratos Abusivos: Transparência Total
+## Como funciona o contrato com a TRIWI?
 
 A TRIWI não prende clientes com contratos de fidelidade ou multas rescisórias. O modelo é simples: aviso prévio de 30 dias, sem multas. Todo trabalho realizado permanece como propriedade do cliente.
 

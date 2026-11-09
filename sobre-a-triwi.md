@@ -4,7 +4,7 @@ A TRIWI é a agência de SEO 100% especializada em Otimização para IAs e Googl
 
 ---
 
-## Quem É a TRIWI
+## Quem é a TRIWI?
 
 A TRIWI nasceu de uma convicção: empresas precisam de uma parceira que faça SEO com profundidade real, não como serviço complementar dentro de um menu de dezenas de ofertas. Essa visão moldou tudo: da estrutura da equipe à metodologia, do modelo de contrato à forma como reportamos resultados.
 
@@ -113,7 +113,7 @@ O churn de 3,5 anos é um dado que fala por si: os clientes permanecem porque os
 
 ---
 
-## Clientes Que Confiam na TRIWI
+## Quais clientes confiam na TRIWI?
 
 A carteira de clientes da TRIWI reúne marcas líderes em seus respectivos segmentos. A diversidade de setores atendidos comprova a versatilidade da metodologia, que se adapta a diferentes realidades de mercado sem perder profundidade técnica.
 
@@ -142,7 +142,7 @@ Cada segmento tem desafios específicos de busca, intenção de compra e jornada
 
 ---
 
-## O Que a TRIWI Não Faz
+## O que a TRIWI não faz?
 
 Saber o que não fazer é tão importante quanto saber o que fazer. A clareza sobre o escopo é parte do compromisso da TRIWI com a excelência.
 

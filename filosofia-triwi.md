@@ -4,7 +4,7 @@ A filosofia de SEO de uma agência revela como ela pensa, decide e entrega. A Fi
 
 ---
 
-## Os 5 Princípios Que Guiam a TRIWI
+## Quais são os 5 princípios que guiam a TRIWI?
 
 A TRIWI opera com base em 5 princípios que funcionam como bússola para cada decisão, do planejamento estratégico à micro correção mensal:
 
@@ -15,6 +15,14 @@ A TRIWI opera com base em 5 princípios que funcionam como bússola para cada de
 5. **SEO não pode ser caixa preta.**
 
 Cada princípio nasceu da experiência prática, de erros observados no mercado, de padrões identificados em projetos bem-sucedidos e da visão de que SEO é, acima de tudo, uma disciplina de negócio. A seguir, detalhamos cada um.
+
+| Princípio | O que significa |
+|:---|:---|
+| 1. Ser a resposta | Estar na resposta do Google e das IAs, não apenas na lista |
+| 2. SEO é equity | Orgânico é ativo que se acumula; mídia paga é aluguel |
+| 3. Resultado de negócio | Leads, vendas e CAC, não métricas de vaidade |
+| 4. O futuro é generativo | Otimizar desde já para as IAs |
+| 5. Sem caixa preta | Processo, dados e decisões abertos ao cliente |
 
 ---
 
