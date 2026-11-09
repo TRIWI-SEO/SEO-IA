@@ -60,7 +60,7 @@ Regra prática: toda seção que faz uma afirmação de impacto deveria incluir 
 
 O formato Q&A espelha diretamente como IAs operam: recebem uma pergunta, geram uma resposta. Conteúdo estruturado em pergunta e resposta, naturalmente no texto ou em seção FAQ dedicada, é "extraction-ready": a IA pode extrair o par completo sem necessidade de interpretar ou sintetizar.
 
-Páginas com [FAQPage schema](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) são 3,2x mais propensas a aparecer em AI Overviews. Mas mesmo sem o schema, o formato Q&A no próprio conteúdo já aumenta a citabilidade. As perguntas devem refletir queries reais dos usuários (consultáveis no Google Search Console) e as respostas devem ser concisas (2-4 frases), completas e verificáveis.
+O que torna o par citável é o formato Q&A no próprio texto. O [schema FAQPage](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) pode acompanhar, mas desde maio de 2026 não gera mais resultado enriquecido no Google. As perguntas devem refletir queries reais dos usuários (consultáveis no Google Search Console) e as respostas devem ser concisas (2-4 frases), completas e verificáveis.
 
 ### Listas e Frameworks Que LLMs Extraem
 
@@ -122,7 +122,7 @@ Aplique este checklist a cada página ou seção do seu conteúdo:
 
 **Estrutura.** O conteúdo usa headings descritivos, listas quando relevante e formato Q&A onde cabível?
 
-**Schema.** A página tem [dados estruturados](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) relevantes (Article, FAQPage, Organization)?
+**Schema.** A página tem [dados estruturados](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) relevantes (Article, Organization, BreadcrumbList)?
 
 **Atualidade.** As informações e dados estão atualizados (conteúdo sem atualização há 6+ meses perde relevância para IAs)?
 
@@ -146,7 +146,7 @@ Na redação: aplique os cinco princípios, definição primeiro, dados quantita
 
 Na revisão: aplique o checklist de citabilidade. Verifique se cada seção abre com definição, se dados estão presentes, se a autossuficiência de cada trecho foi preservada. É uma camada de QA adicional, mas que multiplica o retorno de cada peça de conteúdo.
 
-Na publicação: implemente Schema markup relevante (Article + FAQPage + Organization), atualize `dateModified` e confirme que a paridade de conteúdo entre schema e conteúdo visível está mantida.
+Na publicação: implemente Schema markup relevante (Article + Organization + BreadcrumbList), atualize `dateModified` e confirme que a paridade de conteúdo entre schema e conteúdo visível está mantida.
 
 ### O Mindset: "Escreva para a IA Como Se Ela Fosse um Jornalista Citando Fontes"
 

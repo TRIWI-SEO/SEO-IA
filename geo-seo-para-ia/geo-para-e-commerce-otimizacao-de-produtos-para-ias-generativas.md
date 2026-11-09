@@ -88,7 +88,7 @@ Estruture guias de compra com critérios de decisão claros (o que considerar ao
 
 ### FAQs de Produto
 
-FAQs de produto com [Schema FAQPage](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) são o formato mais eficiente para aparecer em respostas de IAs. O formato pergunta-resposta espelha exatamente como IAs operam, recebem pergunta, geram resposta. FAQPage Schema é o tipo com maior multiplicador de citação: 3,2x mais chances de aparecer em AI Overviews.
+Perguntas frequentes de produto, visíveis na página, são um dos formatos mais eficientes para aparecer em respostas de IAs. O formato pergunta-resposta espelha como IAs operam: recebem pergunta, geram resposta. O [schema FAQPage](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) pode acompanhar, mas desde maio de 2026 não gera mais resultado enriquecido no Google; para produto, o schema que pesa é Product com Offer e Review.
 
 Para e-commerce, as FAQs devem cobrir perguntas reais de compra: "Qual a diferença entre [modelo A] e [modelo B]?", "Este produto é compatível com [necessidade]?", "Quanto tempo dura [produto]?", "Qual o melhor [produto] para [perfil de usuário]?". Use dados do SAC, reviews e buscas internas para identificar as perguntas que consumidores realmente fazem.
 

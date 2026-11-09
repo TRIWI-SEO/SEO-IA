@@ -2,7 +2,7 @@
 
 Dados estruturados para IA são implementações de Schema markup que comunicam explicitamente a sistemas de inteligência artificial, tanto ao Google Gemini quanto a LLMs como ChatGPT, Claude e Perplexity, o significado, o contexto e as relações do conteúdo de uma página. Se o conteúdo é o que você diz, os dados estruturados são como você garante que a IA entende o que você quis dizer.
 
-Na era da IA generativa, dados estruturados deixaram de ser apenas sobre rich snippets no Google. Análises recentes mostram que 65% das páginas citadas pelo AI Mode do Google e 71% das páginas citadas pelo ChatGPT contêm dados estruturados. Conteúdo com Schema markup bem implementado tem 2,5x mais chances de aparecer em respostas geradas por IA. E páginas com FAQPage schema são 3,2x mais propensas a serem citadas em AI Overviews, o maior multiplicador de citação entre todos os tipos de schema testados.
+Na era da IA generativa, dados estruturados deixaram de ser apenas sobre rich snippets no Google. Eles passaram a ajudar o Google e as IAs a identificar com precisão quem é a empresa, quem escreveu o conteúdo e do que a página trata. Ao mesmo tempo, o próprio Google encolheu a lista de resultados enriquecidos: o Google não exibe mais resultado enriquecido de HowTo (desde 2023) nem de FAQ (desde 7 de maio de 2026). A prioridade mudou de "ganhar destaque visual na SERP" para "ser entendido sem ambiguidade".
 
 Esta página conecta dois mundos: o [SEO técnico de dados estruturados](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md) e o [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md). É a interseção onde a otimização técnica encontra a nova fronteira da visibilidade digital, e onde a implementação correta pode ser a diferença entre ser citado e ser ignorado pelas IAs.
 
@@ -28,7 +28,7 @@ IAs generativas processam dados estruturados de três formas complementares.
 
 **Verificação de autoridade.** Propriedades como `author`, `publisher`, `worksFor` e `credentials` permitem que a IA conecte o conteúdo a entidades reconhecidas, um autor com credenciais verificáveis, uma organização com presença no Knowledge Graph, uma publicação com reputação estabelecida. Quando a IA pode verificar a cadeia de autoridade, a confiança no conteúdo aumenta, e a probabilidade de citação junto.
 
-**Extração estruturada.** Schemas como FAQPage, HowTo e ItemList fornecem conteúdo em formato já estruturado para extração. A IA não precisa interpretar um parágrafo para encontrar a resposta; ela já está marcada como resposta. Isso reduz a "energia cognitiva" necessária para citar e aumenta a precisão da citação.
+**Extração estruturada.** Schemas como FAQPage, HowTo e ItemList descrevem perguntas, passos e listas em formato estruturado. Eles só ajudam quando espelham o que está visível na página: o que a IA extrai é o texto, e a marcação confirma a estrutura dele.
 
 ---
 
@@ -54,17 +54,17 @@ O [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-c
 
 ### FAQ: Perguntas e Respostas Citáveis
 
-`FAQPage` é o schema com maior ROI para GEO. Páginas com FAQPage são 3,2x mais propensas a aparecer em [AI Overviews](ai-overviews-o-que-sao-e-como-otimizar.md), o maior multiplicador de citação entre todos os tipos testados. A razão é estrutural: o formato pergunta-resposta espelha exatamente como IAs generativas operam, recebem uma pergunta e geram uma resposta.
+O formato pergunta-resposta continua sendo um dos mais citáveis em [AI Overviews](ai-overviews-o-que-sao-e-como-otimizar.md) e nas LLMs, porque espelha como IAs generativas operam: recebem uma pergunta e geram uma resposta. O que mudou foi o papel do schema. Desde 7 de maio de 2026 o Google não exibe mais resultado enriquecido de FAQ ([Google Search Central](https://developers.google.com/search/docs/appearance/structured-data/faqpage)).
 
-Quando o Schema FAQPage está implementado, a IA pode extrair o par pergunta-resposta diretamente, sem necessidade de interpretar ou sintetizar um parágrafo longo. É a forma mais eficiente de tornar conteúdo "extraction-ready" para IAs.
+Na prática, o valor está na pergunta e na resposta visíveis no texto da página, com a resposta logo abaixo da pergunta. O `FAQPage` pode continuar no código, desde que espelhe exatamente esse conteúdo, mas não é mais o motivo para fazer a seção.
 
 Para maximizar o impacto, as perguntas devem refletir queries reais (consultáveis no Google Search Console e em ferramentas de pesquisa de palavras-chave), e as respostas devem ser concisas (2-4 frases), completas e embasadas em dados.
 
 ### HowTo: Processos Passo a Passo
 
-`HowTo` é ideal para conteúdo instrucional, processos, tutoriais, implementações passo a passo. IAs frequentemente precisam responder "como fazer X" e o Schema HowTo fornece os passos em formato já estruturado para extração.
+Conteúdo instrucional (processos, tutoriais, implementações) responde ao "como fazer X", uma das perguntas mais frequentes às IAs. O Google deixou de exibir o resultado enriquecido de HowTo em 2023, então o que importa é o passo a passo como lista numerada no próprio texto.
 
-Cada `step` no Schema HowTo é um candidato a ser citado como parte da resposta. Para GEO, os passos devem ser autossuficientes (cada um faz sentido sem os demais), sequenciais (ordem lógica clara) e concretos (ação específica, não vaga).
+Cada passo é um candidato a ser citado como parte da resposta. Para GEO, os passos devem ser autossuficientes (cada um faz sentido sem os demais), sequenciais (ordem lógica clara) e concretos (ação específica, não vaga).
 
 ### Product/Review: Informações de Produto
 
@@ -96,29 +96,27 @@ Essa cadeia comunica à IA: "este conteúdo foi criado por alguém com expertise
 
 Além da autoridade, o Schema pode ser implementado especificamente para aumentar a citabilidade, a facilidade com que a IA extrai trechos como resposta.
 
-Estratégias incluem: combinar múltiplos tipos de Schema em uma página (Article + FAQPage + Organization cria uma "malha semântica" que a IA interpreta com alta confiança), usar `@id` para criar referências internas entre entidades no mesmo documento, usar `mentions` e `about` para conectar o conteúdo a entidades temáticas reconhecidas, e implementar `speakable` (Schema.org) para indicar trechos especificamente adequados para extração por voz, que IAs também utilizam como sinal de citabilidade.
+Estratégias incluem: combinar múltiplos tipos de Schema em uma página (Article + Organization + BreadcrumbList cria uma "malha semântica" que a IA interpreta com alta confiança), usar `@id` para criar referências internas entre entidades no mesmo documento, usar `mentions` e `about` para conectar o conteúdo a entidades temáticas reconhecidas, e implementar `speakable` (Schema.org) para indicar trechos especificamente adequados para extração por voz, que IAs também utilizam como sinal de citabilidade.
 
 ---
 
 ## 🔗 A Relação Entre Schema e AI Overviews
 
-A conexão entre dados estruturados e visibilidade em AI Overviews é cada vez mais documentada, com evidências empíricas e confirmações do próprio Google.
+O Google afirma que dados estruturados ajudam a entender o conteúdo da página, e que não existe marcação especial para aparecer nos recursos de IA da busca ([Google Search Central](https://developers.google.com/search/docs/appearance/ai-features?hl=pt-br)).
 
-### Evidências de Que Dados Estruturados Influenciam Citação em AI Overviews
+### Por Que Dados Estruturados Ajudam na Citação em AI Overviews
 
-Os dados são consistentes. 65% das páginas citadas pelo AI Mode do Google contêm dados estruturados. 71% das páginas citadas pelo ChatGPT contêm dados estruturados. Páginas com FAQPage schema têm 3,2x mais chances de aparecer em AI Overviews. Sites com implementação completa de Schema Tier 1 (Organization + Article + FAQ) registram até 40% mais aparições em AI Overviews.
+O raciocínio é mecânico: AI Overviews são gerados pelo Google Gemini, que busca no índice do Google. O Google usa dados estruturados para entender o conteúdo. Logo, páginas com dados estruturados são "mais compreensíveis" para o Gemini, e mais propensas a serem selecionadas como fonte.
 
-A correlação faz sentido mecânico: AI Overviews são gerados pelo Google Gemini, que busca no índice do Google. O Google usa dados estruturados para entender o conteúdo. Logo, páginas com dados estruturados são "mais compreensíveis" para o Gemini, e mais propensas a serem selecionadas como fonte.
-
-O impacto vai além da citação: a implementação avançada de Schema, com entity-linking via `SameAs` e `MainEntityOfPage`, pode aumentar a probabilidade de citação em AI Overviews em até 200%, segundo análises de 2026. A razão: entity-linking conecta o conteúdo a entidades reconhecidas no Knowledge Graph, o que o Gemini interpreta como sinal de autoridade verificável.
+O ganho maior está na identidade da entidade: a implementação com entity-linking via `sameAs` e `mainEntityOfPage` conecta o conteúdo a entidades reconhecidas no Knowledge Graph, o que o Gemini interpreta como sinal de autoridade verificável.
 
 ### Best Practices Emergentes
 
-Com base nos dados de 2026, as best practices para Schema orientado a AI Overviews incluem:
+As best practices para Schema orientado a AI Overviews incluem:
 
 **Entity Depth sobre complexidade.** A abordagem em 2026 não é criar schemas "especiais para IA"; é aprofundar a implementação padrão com nesting complexo e entity-linking robusto. O Knowledge Graph é como a IA verifica fatos. Quanto mais profunda a conexão da sua entidade com o grafo, maior a confiança.
 
-**FAQPage como prioridade.** O maior multiplicador de citação. Toda página com conteúdo que responda perguntas deveria incluir FAQPage schema. As perguntas devem refletir queries reais e as respostas devem ser concisas e verificáveis.
+**Perguntas e respostas visíveis no texto.** Toda página que responde dúvidas do público deve trazer as perguntas como texto, com a resposta logo abaixo. As perguntas devem refletir queries reais e as respostas devem ser concisas e verificáveis. O schema FAQPage é opcional e não gera mais resultado enriquecido no Google.
 
 **Citation Velocity.** A frequência e a velocidade com que sua marca é mencionada e citada na web influenciam a seleção para AI Overviews. Conteúdo que não é atualizado ou citado nos últimos 6 meses pode ser considerado "stale", desatualizado, e preterido. Manter os dados estruturados atualizados (especialmente `dateModified`) é sinal de frescor.
 
@@ -130,7 +128,7 @@ A implementação de dados estruturados orientados a IA é parte da otimização
 
 ## 📩 Próximos Passos
 
-Dados estruturados são a ponte entre o conteúdo do seu site e a compreensão das IAs. Na era generativa, implementar Schema markup bem feito não é otimização cosmética; é infraestrutura que determina se a IA entende, confia e cita seu conteúdo. Cada propriedade preenchida, cada entidade conectada, cada FAQ marcado é um sinal que aumenta a probabilidade de aparecer onde seus clientes estão buscando, no Google e nas IAs.
+Dados estruturados são a ponte entre o conteúdo do seu site e a compreensão das IAs. Na era generativa, implementar Schema markup bem feito não é otimização cosmética; é infraestrutura que determina se a IA entende, confia e cita seu conteúdo. Cada propriedade preenchida e cada entidade conectada é um sinal que aumenta a probabilidade de aparecer onde seus clientes estão buscando, no Google e nas IAs.
 
 Se sua empresa quer implementar dados estruturados orientados a GEO, com a profundidade técnica que gera resultados como os do Sem Parar e da Valid, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como a otimização técnica se integra à estratégia completa de SEO + GEO.
 

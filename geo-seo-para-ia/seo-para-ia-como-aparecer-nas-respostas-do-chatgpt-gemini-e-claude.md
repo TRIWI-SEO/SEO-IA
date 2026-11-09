@@ -94,11 +94,11 @@ A estratégia é construir presença nesses canais de forma orgânica e sustent�
 
 ### Estratégia 4: Schema Markup e Dados Estruturados
 
-[Dados estruturados](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) (Schema markup) funcionam como uma "etiqueta de tradução" entre o conteúdo do seu site e os sistemas automatizados que o interpretam, tanto o Google quanto as LLMs. Quando você marca uma página com Schema de Organization, Article, FAQ, HowTo ou Product, está comunicando explicitamente: "isto é uma empresa com estas características", "este é um artigo sobre este tema", "estas são perguntas frequentes sobre este assunto".
+[Dados estruturados](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) (Schema markup) funcionam como uma "etiqueta de tradução" entre o conteúdo do seu site e os sistemas automatizados que o interpretam, tanto o Google quanto as LLMs. Quando você marca uma página com Schema de Organization, Article, BreadcrumbList ou Product, está comunicando explicitamente: "isto é uma empresa com estas características", "este é um artigo sobre este tema", "estas são perguntas frequentes sobre este assunto".
 
 Para SEO para IA, dados estruturados reduzem a ambiguidade. Uma LLM que encontra conteúdo com Schema bem implementado interpreta a informação com maior confiança, e maior confiança na interpretação se traduz em maior probabilidade de citação. Em um cenário onde a IA precisa escolher entre duas fontes com informação similar, a fonte com dados estruturados claros tende a ser preferida.
 
-Os tipos de Schema com maior impacto para visibilidade em IAs incluem: Organization (identificação da empresa), Article (autoria e tema do conteúdo), FAQ (perguntas e respostas estruturadas, formato nativo para LLMs), HowTo (guias passo a passo), Product (informações de produto para e-commerce), e Review (avaliações verificáveis).
+Os tipos de Schema com maior impacto para visibilidade em IAs incluem: Organization (identificação da empresa), Article (autoria e tema do conteúdo), BreadcrumbList (hierarquia do site), Product (informações de produto para e-commerce), e Review (avaliações verificáveis). FAQPage e HowTo podem continuar no código, mas o Google não exibe mais resultado enriquecido para eles; o que as IAs extraem é a pergunta, a resposta e o passo a passo visíveis no texto.
 
 ### Estratégia 5: Construção de Menções e Referências Externas
 

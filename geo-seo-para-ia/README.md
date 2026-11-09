@@ -34,7 +34,7 @@ O novo KPI que toda empresa deveria monitorar. Define Share of Model como a part
 
 ### 🔧 [5.5, Dados Estruturados para IA: Schema Markup na Era Generativa](dados-estruturados-para-ia-schema-markup-na-era-generativa.md)
 
-A interseção entre SEO técnico e GEO. Dados concretos: 65% das páginas citadas pelo AI Mode do Google contêm dados estruturados. Conteúdo com Schema tem 2,5x mais chances de aparecer em respostas de IA. Páginas com FAQPage schema são 3,2x mais propensas a serem citadas em AI Overviews. Explica como dados estruturados evoluíram de "rich snippets" para "fonte de verdade para LLMs" e quais tipos de Schema priorizar.
+A interseção entre SEO técnico e GEO. Explica como dados estruturados evoluíram de "rich snippets" para "fonte de verdade para LLMs", quais tipos de Schema priorizar e o que mudou com o fim dos resultados enriquecidos de FAQ em 2026.
 
 ### 💬 [5.6, Conteúdo Citável: Como Escrever Para Ser Referenciado por LLMs](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md)
 

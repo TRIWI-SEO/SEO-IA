@@ -94,7 +94,7 @@ A implicação para sua empresa: produza dados. Pesquisas de mercado, benchmarks
 
 [Dados estruturados](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) (Schema markup) comunicam ao Gemini o significado do conteúdo de forma explícita. Em 2026, a implementação avançada de Schema, com entity-linking via propriedades SameAs e MainEntityOfPage, pode aumentar a probabilidade de citação em AI Overviews em até 200%, segundo estudos recentes.
 
-Os tipos de Schema com maior impacto para AI Overviews incluem: FAQPage (perguntas e respostas, formato nativo do AI Overview), HowTo (guias passo a passo), Article (autoria e tema do conteúdo), Organization (identidade da empresa) e Review (avaliações verificáveis). A combinação de múltiplos tipos de Schema em uma única página, FAQ + Article + Organization, por exemplo, aumenta a riqueza de sinais que o Gemini pode interpretar.
+Os tipos de Schema com maior impacto para AI Overviews incluem: Article (autoria e tema do conteúdo), Organization (identidade da empresa), BreadcrumbList (hierarquia do site) e, para quem vende, Product e Review. FAQPage e HowTo podem continuar no código, mas o Google não exibe mais resultado enriquecido para eles (HowTo desde 2023, FAQ desde 7 de maio de 2026): o que conta é a pergunta, a resposta e os passos visíveis no texto. A combinação de múltiplos tipos de Schema em uma única página, Article + Organization + BreadcrumbList, por exemplo, aumenta a riqueza de sinais que o Gemini pode interpretar.
 
 ### E-E-A-T Como Requisito de Citação
 
@@ -104,7 +104,7 @@ Sinais que reforçam a entidade incluem: informações de negócio consistentes 
 
 ### Formato de Pergunta e Resposta
 
-Uma seção de FAQ dedicada, com Schema FAQPage implementado, é um dos sinais mais diretos para o sistema de IA do Google. O formato pergunta-resposta espelha exatamente a estrutura dos AI Overviews, a IA está, literalmente, respondendo perguntas dos usuários.
+Uma seção de perguntas frequentes, com as perguntas e as respostas visíveis no texto, é um dos sinais mais diretos para o sistema de IA do Google. O formato pergunta-resposta espelha a estrutura dos AI Overviews: a IA está, literalmente, respondendo perguntas dos usuários. O schema FAQPage pode acompanhar a seção, mas não gera mais resultado enriquecido no Google.
 
 Para maximizar impacto, as perguntas do FAQ devem refletir as queries reais que os usuários fazem ao Google (use ferramentas de pesquisa de palavras-chave e dados do Google Search Console para identificar essas queries). As respostas devem ser concisas (2-4 frases), completas e embasadas em dados. Cada par pergunta-resposta é um candidato direto a ser extraído pelo Gemini.
 
