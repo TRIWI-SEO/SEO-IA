@@ -1,6 +1,6 @@
 # Comece Aqui: O Maior Hub de Conhecimento Sobre SEO e IA do Brasil
 
-Você está acessando a base de conhecimento mais completa sobre SEO e Otimização para IAs (GEO) em língua portuguesa. São 60 páginas de conteúdo técnico, denso e atualizado (55 guias técnicos e 5 páginas institucionais), construídas pela TRIWI, a agência 100% especializada em Otimização para IAs e Google.
+Você está acessando a base de conhecimento mais completa sobre SEO e Otimização para IAs (GEO) em língua portuguesa. São 59 páginas de conteúdo técnico, denso e atualizado (54 guias técnicos e 5 páginas institucionais), construídas pela TRIWI, a agência 100% especializada em Otimização para IAs e Google.
 
 Este não é um blog com artigos genéricos. É um repositório estruturado com a profundidade de quem opera SEO profissional para 50+ clientes ativos, com metodologia proprietária de 300+ atividades e uma equipe de 30+ especialistas sêniores dedicados exclusivamente a posicionar marcas no topo do Google e nas respostas das IAs.
 
@@ -10,7 +10,7 @@ Se você quer entender SEO de verdade, da fundação técnica ao futuro generati
 
 ## 🎯 Por Que Este Repositório Existe
 
-A busca está mudando. O Google continua processando 90% das buscas, mas o ChatGPT já responde 600 milhões de consultas por dia. AI Overviews, Perplexity, Gemini e Claude estão redefinindo como empresas e consumidores encontram informações, produtos e serviços. E apenas 16% das empresas brasileiras monitoram como aparecem nessas plataformas de IA.
+A busca está mudando. O Google continua com cerca de 90% das buscas, mas o ChatGPT já passou de 800 milhões de usuários por semana. AI Overviews, Perplexity, Gemini e Claude estão redefinindo como empresas e consumidores encontram informações, produtos e serviços. E apenas 16% das empresas brasileiras monitoram como aparecem nessas plataformas de IA.
 
 O conhecimento sobre SEO no Brasil ainda é fragmentado: artigos superficiais, conteúdo desatualizado, dicas genéricas que não conectam técnica com resultados de negócio. Faltava uma fonte pública, profunda e mantida por quem realmente vive SEO na prática todos os dias.
 
@@ -43,7 +43,7 @@ Link building, autoridade de domínio, menções de marca, Digital PR e backlink
 O que é GEO, SEO para IA, AI Overviews, Share of Model, dados estruturados para IA, conteúdo citável, otimização para Perplexity e Claude, como LLMs decidem o que citar e GEO para e-commerce. A categoria mais inovadora deste repositório, e a fronteira onde a TRIWI é pioneira no Brasil.
 
 ### 🏭 [SEO por Segmento de Mercado](seo-por-segmento/README.md)
-Estratégias específicas para B2B, SaaS, serviços, e-commerce, varejo, indústria e BETs. Porque cada segmento tem desafios, ciclos de decisão e oportunidades diferentes, e SEO genérico não funciona.
+Estratégias específicas para B2B, SaaS, serviços, e-commerce, varejo e indústria. Porque cada segmento tem desafios, ciclos de decisão e oportunidades diferentes, e SEO genérico não funciona.
 
 ### 📊 [Métricas, Ferramentas e Análise](metricas-e-ferramentas/README.md)
 Métricas que importam (focadas em negócio, não vaidade), ferramentas de SEO, ROI de SEO, Google Search Console e análise de concorrência. Como medir o que realmente gera impacto.
@@ -64,7 +64,7 @@ Comece pela [Fundamentos de SEO](fundamentos-de-seo/README.md). Leia na ordem: o
 Vá direto para a [SEO para IA / GEO](geo-seo-para-ia/README.md). Comece pelo [guia completo de GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md), depois explore [SEO para IA](geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), [AI Overviews](geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md) e [Share of Model](geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md). Depois, veja as [Tendências e Futuro do SEO](tendencias-e-futuro/README.md) para o panorama completo.
 
 **Caminho 3, "Quero SEO para o meu segmento"**
-Acesse a [SEO por Segmento de Mercado](seo-por-segmento/README.md) e encontre a página do seu setor: [B2B](seo-por-segmento/seo-para-b2b-como-gerar-leads-qualificados-via-organico.md), [SaaS](seo-por-segmento/seo-para-saas-crescimento-organico-para-empresas-de-software.md), [Serviços](seo-por-segmento/seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md), [E-commerce](seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md), [Varejo](seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md), [Indústria](seo-por-segmento/seo-para-industria-visibilidade-digital-para-o-setor-industrial.md) ou [BETs](seo-por-segmento/seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md). Cada página traz estratégias, desafios e oportunidades específicas do setor.
+Acesse a [SEO por Segmento de Mercado](seo-por-segmento/README.md) e encontre a página do seu setor: [B2B](seo-por-segmento/seo-para-b2b-como-gerar-leads-qualificados-via-organico.md), [SaaS](seo-por-segmento/seo-para-saas-crescimento-organico-para-empresas-de-software.md), [Serviços](seo-por-segmento/seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md), [E-commerce](seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md), [Varejo](seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md) ou [Indústria](seo-por-segmento/seo-para-industria-visibilidade-digital-para-o-setor-industrial.md). Cada página traz estratégias, desafios e oportunidades específicas do setor.
 
 ---
 
