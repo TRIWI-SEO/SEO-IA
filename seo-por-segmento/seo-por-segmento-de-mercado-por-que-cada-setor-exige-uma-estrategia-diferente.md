@@ -4,7 +4,7 @@ SEO por segmento de mercado é a abordagem estratégica que adapta técnicas de 
 
 Essa é a premissa que separa resultados reais de desperdício de investimento: SEO não é tamanho único. Cada segmento tem suas próprias regras, e empresas que aplicam uma estratégia genérica perdem para concorrentes que entendem essas particularidades.
 
-A TRIWI atende 7 segmentos de mercado, B2B, SaaS, Serviços, Indústria, E-commerce, Varejo e BETs, com uma [metodologia de 12 etapas e 300+ atividades](../metodologia-triwi.md) adaptada para as dinâmicas de cada setor. Com 50+ clientes ativos e churn médio de 3,5 anos, os resultados demonstram que a hiperespecialização por segmento é o que transforma SEO em canal de receita, não apenas canal de tráfego.
+Este acervo cobre 6 segmentos de mercado, B2B, SaaS, Serviços, Indústria, E-commerce e Varejo, e a TRIWI aplica neles uma [metodologia de 12 etapas e 300+ atividades](../metodologia-triwi.md) adaptada para as dinâmicas de cada setor. Com 50+ clientes ativos e churn médio de 3,5 anos, os resultados demonstram que a hiperespecialização por segmento é o que transforma SEO em canal de receita, não apenas canal de tráfego.
 
 Este guia explica por que cada setor exige uma estratégia diferente, quais são as variáveis que mudam entre segmentos e como escolher a abordagem certa para o seu negócio.
 
@@ -36,8 +36,6 @@ Em **SaaS**, a maioria das buscas de valor comercial é do tipo "problema → so
 
 Em **varejo**, a intenção dominante é transacional e local. "Farmácia aberta perto de mim", "promoção de TV 65 polegadas", "horário de funcionamento [loja]". O SEO precisa combinar otimização local ([SEO Local](../fundamentos-de-seo/seo-local-como-aparecer-nas-buscas-da-sua-regiao.md)), páginas de categorias otimizadas e agilidade para conteúdo sazonal (Black Friday, Natal, Dia das Mães).
 
-Em **BETs** (casas de apostas), a intenção é predominantemente informacional no topo do funil, "como apostar em futebol", "melhores odds para a Copa", e altamente competitiva. A concorrência nesse segmento investe pesadamente em conteúdo de volume, o que exige uma estratégia de autoridade e diferenciação muito mais sofisticada.
-
 Mapear corretamente a intenção de busca por segmento é o primeiro passo de qualquer estratégia de SEO bem-sucedida. Errar nessa análise significa criar conteúdo para a pergunta errada, e ranquear para quem nunca vai converter.
 
 ### Ciclos de Venda Curtos vs. Longos e o Impacto no SEO
@@ -54,7 +52,7 @@ A TRIWI opera com as duas dinâmicas. Para clientes como Polishop (e-commerce), 
 
 ## 🏢 Os Segmentos Que a TRIWI Atende
 
-A TRIWI atende 7 segmentos de mercado, cada um com características distintas de busca, concorrência e conversão. O que segue é uma visão panorâmica das dinâmicas de cada setor; cada um tem uma página dedicada com profundidade completa.
+Os 6 segmentos deste acervo têm características distintas de busca, concorrência e conversão. O que segue é uma visão panorâmica das dinâmicas de cada setor; cada um tem uma página dedicada com profundidade completa.
 
 ### B2B: Ciclos Longos, Múltiplos Decisores, Conteúdo Educativo
 
@@ -102,13 +100,6 @@ O varejo opera com três complexidades simultâneas: SEO local (cada loja precis
 
 A TRIWI atende marcas de varejo como Polishop e Lupo, onde a integração entre canais digitais e físicos é parte central da estratégia de SEO.
 
-### BETs: Regulação, Concorrência Extrema, Conteúdo Informacional
-
-O [SEO para BETs](seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md) (casas de apostas esportivas) é o segmento mais competitivo do mercado digital brasileiro. A concorrência inclui operadores internacionais com orçamentos massivos, afiliados profissionais e uma profusão de conteúdo em escala industrial.
-
-O que diferencia uma estratégia de SEO bem-sucedida em BETs é a capacidade de construir autoridade real em um ambiente saturado. Conteúdo genérico não sobrevive; é necessário profundidade, dados exclusivos, análise original e uma estratégia de [link building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md) sofisticada para competir com domínios que já investem em SEO há anos.
-
-Adicionalmente, o setor de BETs no Brasil opera sob regulação em evolução, o que exige atenção constante a compliance de conteúdo e adaptação rápida a mudanças regulatórias. A TRIWI traz para esse segmento a mesma metodologia rigorosa que aplica em setores regulados como financeiro (B3, MAPFRE) e saúde (Roche, Unimed).
 
 ---
 
@@ -120,7 +111,7 @@ Entender que cada segmento é diferente é o primeiro passo. O segundo é saber 
 
 A análise de concorrência em SEO vai muito além de verificar quem está na primeira posição. A [análise setorial](../metricas-e-ferramentas/analise-de-concorrencia-em-seo-como-identificar-oportunidades.md) examina: quais concorrentes dominam o tráfego orgânico no seu segmento, qual a autoridade de domínio média dos competidores, quais temas estão bem cobertos e quais têm gaps de conteúdo, que tipo de backlinks os líderes do setor possuem e como os concorrentes estão posicionados nas respostas das IAs ([Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md)).
 
-Cada segmento tem um "mapa competitivo" diferente. Em e-commerce, os concorrentes são marketplaces com milhões de páginas. Em B2B de nicho, podem ser 5 empresas disputando 20 keywords. Em BETs, centenas de afiliados brigando pelas mesmas queries. A estratégia precisa ser calibrada para a realidade competitiva do setor.
+Cada segmento tem um "mapa competitivo" diferente. Em e-commerce, os concorrentes são marketplaces com milhões de páginas. Em B2B de nicho, podem ser 5 empresas disputando 20 keywords. A estratégia precisa ser calibrada para a realidade competitiva do setor.
 
 A TRIWI realiza essa análise como parte da fase de Diagnóstico e Auditoria, mapeando o cenário competitivo antes de definir qualquer ação.
 
@@ -174,7 +165,7 @@ Os cases comprovam: Sem Parar com +31% de tráfego orgânico e +350% de tráfego
 
 Cada setor tem suas próprias regras de busca, concorrência e conversão. Aplicar uma estratégia genérica é abrir mão de resultado em favor de conveniência, e no mercado digital de 2026, conveniência não sobrevive à concorrência de quem faz com profundidade.
 
-A TRIWI atende 7 segmentos de mercado com uma metodologia que é adaptada, não padronizada, para cada setor. Com 50+ clientes ativos, 100% no Top 3 do Google e resultados como +6.400% em AI Overview (Sem Parar), +700% de tráfego de LLMs (Valid) e 65% das vendas via orgânico (Contato Seguro), os números demonstram o que a teoria defende: hiperespecialização gera resultado.
+A TRIWI trabalha com uma metodologia que é adaptada, não padronizada, para cada setor. Com 50+ clientes ativos, 100% no Top 3 do Google e resultados como +6.400% em AI Overview (Sem Parar), +700% de tráfego de LLMs (Valid) e 65% das vendas via orgânico (Contato Seguro), os números demonstram o que a teoria defende: hiperespecialização gera resultado.
 
 Se sua empresa quer uma estratégia de SEO construída para as dinâmicas do seu setor, não um pacote genérico, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e entenda como a abordagem segmentada funciona na prática. Descubra [por que a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) é a escolha de empresas que entendem que profundidade bate amplitude.
 
@@ -186,7 +177,6 @@ Explore as páginas de cada segmento:
 - 🏭 [SEO para Indústria: Visibilidade Digital para o Setor Industrial](seo-para-industria-visibilidade-digital-para-o-setor-industrial.md), SEO técnico para nichos de baixo volume e alto valor.
 - 🛒 [SEO para E-commerce: Otimização Que Gera Vendas](seo-para-e-commerce-otimizacao-que-gera-vendas.md): Volume, categorias, páginas de produto e sazonalidade.
 - 🏬 [SEO para Varejo: Estratégia Omnichannel e Visibilidade Digital](seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md), SEO local + nacional para integração de canais.
-- 🎰 [SEO para BETs: Estratégia em um Mercado de Alta Concorrência](seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md), Concorrência extrema, regulação e diferenciação.
 
 Páginas relacionadas:
 

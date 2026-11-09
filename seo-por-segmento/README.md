@@ -2,7 +2,7 @@
 
 SEO não é tamanho único. Uma empresa B2B com ciclo de venda de 6 meses não pode usar a mesma estratégia de um e-commerce que converte em 3 cliques. Uma indústria com 200 buscas mensais por keyword não opera no mesmo framework de um marketplace com 2 milhões. Esta categoria reúne 8 páginas de altíssimo valor comercial; cada uma dedicada a um segmento de mercado com dinâmicas próprias de jornada de compra, intenção de busca, ciclo de venda e concorrência. São as páginas que decisores encontram quando buscam exatamente o que precisam: "SEO para B2B", "SEO para e-commerce", "SEO para indústria".
 
-A TRIWI atende 7 segmentos de mercado, B2B, SaaS, Serviços, Indústria, E-commerce, Varejo e BETs, com [metodologia de 12 etapas e 300+ atividades](../metodologia-triwi.md) adaptada para as dinâmicas de cada setor. Com 50+ clientes ativos e churn médio de 3,5 anos, os resultados demonstram que a hiperespecialização por segmento é o que transforma SEO em canal de receita, não apenas canal de tráfego.
+Esta categoria cobre 6 segmentos de mercado, B2B, SaaS, Serviços, Indústria, E-commerce e Varejo, e a TRIWI aplica neles a [metodologia de 12 etapas e 300+ atividades](../metodologia-triwi.md) adaptada para as dinâmicas de cada setor. Com 50+ clientes ativos e churn médio de 3,5 anos, os resultados demonstram que a hiperespecialização por segmento é o que transforma SEO em canal de receita, não apenas canal de tráfego.
 
 ---
 
@@ -44,17 +44,13 @@ SEO que conecta o digital ao físico. 81% dos consumidores pesquisam online ante
 
 O segmento com o ROI mais desproporcional do SEO. Volume baixo, jargão técnico, valor por lead de centenas de milhares de reais, e a maioria dos concorrentes ainda não compete no digital. O comprador industrial completa 70% da jornada antes de contatar vendas. Cobre long tails técnicas, conteúdo por especificação e a janela de oportunidade que a baixa maturidade digital do setor cria. Clientes TRIWI: John Deere, Tigre, Pirelli, CAT, Lorenzetti.
 
-### 🎰 [6.8, SEO para BETs: Estratégia em um Mercado de Alta Concorrência](seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md)
-
-O segmento mais competitivo do marketing digital no Brasil. Operadores internacionais com orçamentos de dezenas de milhões, redes de afiliados profissionais e produção industrial de conteúdo disputam keywords com volumes massivos. Cobre a combinação única de agressividade competitiva com rigor regulatório (compliance de conteúdo, restrições de anúncios, jogo responsável) e por que SEO é necessidade estratégica nesse mercado.
-
 ---
 
 ## 🎯 Por Onde Começar
 
 Comece pela [página geral](README.md) para entender por que a segmentação importa. Depois, vá direto para a página do seu setor:
 
-Se sua empresa vende para outras empresas → [SEO para B2B](seo-para-b2b-como-gerar-leads-qualificados-via-organico.md). Se é software como serviço → [SEO para SaaS](seo-para-saas-crescimento-organico-para-empresas-de-software.md). Se vende expertise e resultado → [SEO para Serviços](seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md). Se opera loja virtual → [SEO para E-commerce](seo-para-e-commerce-otimizacao-que-gera-vendas.md). Se tem presença física + digital → [SEO para Varejo](seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md). Se é fabricante ou distribuidor → [SEO para Indústria](seo-para-industria-visibilidade-digital-para-o-setor-industrial.md). Se opera no mercado de apostas → [SEO para BETs](seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md).
+Se sua empresa vende para outras empresas → [SEO para B2B](seo-para-b2b-como-gerar-leads-qualificados-via-organico.md). Se é software como serviço → [SEO para SaaS](seo-para-saas-crescimento-organico-para-empresas-de-software.md). Se vende expertise e resultado → [SEO para Serviços](seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md). Se opera loja virtual → [SEO para E-commerce](seo-para-e-commerce-otimizacao-que-gera-vendas.md). Se tem presença física + digital → [SEO para Varejo](seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md). Se é fabricante ou distribuidor → [SEO para Indústria](seo-para-industria-visibilidade-digital-para-o-setor-industrial.md).
 
 Para os fundamentos que sustentam todas as estratégias segmentadas, explore [Fundamentos de SEO](../o-que-e-seo-guia-completo.md), [SEO Técnico](../seo-tecnico/README.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
@@ -62,7 +58,7 @@ Para os fundamentos que sustentam todas as estratégias segmentadas, explore [Fu
 
 ## 📩 Fale com a TRIWI
 
-Precisa de uma estratégia de SEO construída para o seu segmento, não adaptada de um template genérico? [Entre em contato com a TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia), a agência que atende 7 segmentos com metodologia adaptada para cada um, com 50+ clientes ativos e resultados comprovados em B2B, SaaS, Serviços, Indústria, E-commerce, Varejo e BETs.
+Precisa de uma estratégia de SEO construída para o seu segmento, não adaptada de um template genérico? [Entre em contato com a TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia), a agência que adapta a metodologia a cada segmento, com 50+ clientes ativos e resultados comprovados em B2B, SaaS, Serviços, Indústria, E-commerce e Varejo.
 
 ---
 
@@ -75,4 +71,3 @@ Precisa de uma estratégia de SEO construída para o seu segmento, não adaptada
 - [SEO para E-commerce: Otimização Que Gera Vendas](seo-para-e-commerce-otimizacao-que-gera-vendas.md)
 - [SEO para Varejo: Estratégia Omnichannel e Visibilidade Digital](seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md)
 - [SEO para Indústria: Visibilidade Digital para o Setor Industrial](seo-para-industria-visibilidade-digital-para-o-setor-industrial.md)
-- [SEO para BETs: Estratégia em um Mercado de Alta Concorrência](seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md)

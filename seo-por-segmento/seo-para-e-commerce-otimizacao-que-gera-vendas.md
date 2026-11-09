@@ -66,7 +66,7 @@ A [velocidade do site](../seo-tecnico/velocidade-do-site-impacto-no-seo-e-nas-co
 
 [Dados estruturados](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md) são obrigatórios para e-commerce. Schema Product com preço, disponibilidade e imagem gera rich snippets nos resultados do Google, com estrelas de avaliação, preço e status de estoque visíveis diretamente na SERP. A taxa de clique de resultados com rich snippets é significativamente superior à de resultados sem.
 
-Os schemas essenciais para e-commerce são: **Product** (informações do produto), **Offer** (preço e disponibilidade), **AggregateRating** e **Review** (avaliações), **BreadcrumbList** (navegação hierárquica) e **FAQPage** (perguntas frequentes sobre o produto). A implementação deve ser automatizada para funcionar em escala, não é viável marcar manualmente 10 mil produtos.
+Os schemas essenciais para e-commerce são: **Product** (informações do produto), **Offer** (preço e disponibilidade), **AggregateRating** e **Review** (avaliações), **BreadcrumbList** (navegação hierárquica). Perguntas frequentes sobre o produto continuam valendo como texto visível na página, mas o schema FAQPage não gera mais resultado enriquecido no Google desde maio de 2026. A implementação deve ser automatizada para funcionar em escala, não é viável marcar manualmente 10 mil produtos.
 
 Para [GEO](../geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-generativa.md), dados estruturados reduzem a ambiguidade e aumentam a probabilidade de que LLMs citem e recomendem seus produtos. É o equivalente a falar a "língua" que as IAs entendem.
 
@@ -172,7 +172,7 @@ O [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-su
 
 Dados estruturados são a ponte entre SEO técnico e GEO para e-commerce. Schema Product com preço, disponibilidade, avaliação e especificações técnicas facilita a interpretação do conteúdo tanto pelo Google quanto pelas LLMs. Um produto com Schema completo tem maior probabilidade de ser citado na resposta da IA, porque a estrutura reduz a ambiguidade e aumenta a confiança do sistema na informação.
 
-A [Metodologia TRIWI](../metodologia-triwi.md) implementa dados estruturados avançados como parte da otimização técnica nos primeiros meses, com esquemas específicos para e-commerce que cobrem Product, Offer, Review, FAQ e BreadcrumbList em escala automatizada.
+A [Metodologia TRIWI](../metodologia-triwi.md) implementa dados estruturados avançados como parte da otimização técnica nos primeiros meses, com esquemas específicos para e-commerce que cobrem Product, Offer, Review e BreadcrumbList em escala automatizada.
 
 ---
 
