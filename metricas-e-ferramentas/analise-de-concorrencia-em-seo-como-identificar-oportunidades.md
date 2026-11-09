@@ -126,6 +126,8 @@ O monitoramento contínuo rastreia: novas keywords que os concorrentes começara
 
 Ferramentas como SEMrush e Ahrefs oferecem alertas automáticos para movimentos de concorrentes. A TRIWI configura esses alertas para todos os clientes como parte da operação de "Monitoramento e Descoberta de Concorrentes", garantindo que movimentos competitivos sejam detectados e respondidos com agilidade.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

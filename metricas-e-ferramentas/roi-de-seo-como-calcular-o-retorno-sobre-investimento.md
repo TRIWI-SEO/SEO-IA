@@ -132,6 +132,8 @@ Projeções de ROI futuro são o argumento que transforma aprovação de orçame
 
 Projeções devem ser conservadoras e transparentes sobre as premissas. Usar cenários (pessimista, base, otimista) mostra maturidade analítica e constrói confiança. A [metodologia TRIWI](../metodologia-triwi.md) inclui projeções nos relatórios trimestrais, baseadas em dados reais da operação, não em estimativas genéricas.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

@@ -46,6 +46,8 @@ Para **profissionais de SEO**, comece pelo [Google Search Console](google-search
 
 Para o contexto fundamental, veja [Fundamentos de SEO](../o-que-e-seo-guia-completo.md), [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [Metodologia TRIWI](../metodologia-triwi.md).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Fale com a TRIWI

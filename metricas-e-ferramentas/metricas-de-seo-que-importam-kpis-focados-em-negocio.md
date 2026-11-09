@@ -2,6 +2,8 @@
 
 Métricas de SEO são os indicadores que medem o desempenho de uma estratégia de otimização para buscadores, mas nem todas as métricas têm o mesmo peso. A diferença entre uma operação de SEO que gera resultados reais e uma que apenas produz relatórios bonitos está na escolha dos KPIs: métricas de negócio (receita, leads, CAC) versus métricas de vaidade (posições, pageviews, impressões). Empresas que medem SEO pelos indicadores errados tomam decisões erradas, e desperdiçam meses de investimento perseguindo números que não movem o ponteiro do crescimento.
 
+> **Versão completa no site:** o [Guia de Métricas de SEO e IA](https://triwi.com.br/guias/metricas-de-seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=metricas-de-seo-que-importam-kpis-focados-em-negocio) da TRIWI aprofunda este tema e é atualizado continuamente.
+
 O desafio não é técnico. Ferramentas como Google Search Console, SEMrush e Google Analytics fornecem centenas de dados. O desafio é saber quais dados importam para o negócio e quais são apenas ruído operacional. Uma estratégia de SEO madura reporta para a diretoria o impacto em receita e redução de custo de aquisição, não quantas posições subiram em keywords genéricas.
 
 O 3º princípio da [Filosofia da TRIWI](../filosofia-triwi.md) é: "Resultados de negócio, não métricas de vaidade." Enquanto o mercado reporta posições e pageviews, a TRIWI reporta receita influenciada (R$ 2 Bilhões+), redução de CAC (-40%) e leads qualificados gerados. Essa orientação permeia toda a [metodologia de 300+ atividades](../metodologia-triwi.md), desde o diagnóstico inicial até os relatórios mensais entregues aos clientes.
@@ -165,6 +167,10 @@ O relatório executivo deve caber em uma página. Métricas obrigatórias: recei
 O relatório operacional é o documento técnico completo. Inclui: evolução de posições por cluster de keywords, análise de tráfego segmentado, saúde técnica (Core Web Vitals, cobertura de indexação, erros), progresso de link building, análise de conteúdo (novas páginas, otimizações, content pruning), métricas de GEO (Share of Model, tráfego de LLMs, presença em AI Overviews) e próximas ações planejadas. A pergunta que responde é: "o que fizemos, o que funcionou e o que faremos em seguida?"
 
 A separação entre os dois relatórios é fundamental. Entregar o relatório operacional para a diretoria gera confusão, excesso de dados sem contexto de negócio. Entregar apenas o executivo para a equipe técnica gera cegueira operacional. Cada público precisa da informação no formato certo.
+
+> **Versão completa no site:** o [Guia de Métricas de SEO e IA](https://triwi.com.br/guias/metricas-de-seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=metricas-de-seo-que-importam-kpis-focados-em-negocio) da TRIWI aprofunda este tema e é atualizado continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 

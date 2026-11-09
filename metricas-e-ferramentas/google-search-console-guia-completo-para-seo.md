@@ -150,6 +150,8 @@ Páginas estratégicas (páginas de produto, categorias principais, landing page
 
 O relatório também revela problemas de arquitetura: se páginas irrelevantes (termos de uso, política de privacidade) aparecem como as mais linkadas internamente, porque estão no rodapé de todas as páginas, enquanto páginas estratégicas têm poucos links, a distribuição de autoridade interna está subótima. Ajustar a [arquitetura de links internos](../seo-tecnico/arquitetura-de-site-para-seo.md) é uma das otimizações com melhor relação esforço/retorno em SEO.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos
