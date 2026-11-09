@@ -137,7 +137,6 @@ A experiência da TRIWI abrange os principais segmentos do mercado brasileiro:
 | Indústria | Tigre, Pirelli, Lorenzetti, CAT | [SEO para Indústria](seo-por-segmento/seo-para-industria-visibilidade-digital-para-o-setor-industrial.md) |
 | E-commerce | Polishop, Grendene, illy | [SEO para E-commerce](seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md) |
 | Varejo | O Boticário, Lupo | [SEO para Varejo](seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md) |
-| BETs |, | [SEO para BETs](seo-por-segmento/seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md) |
 
 Cada segmento tem desafios específicos de busca, intenção de compra e jornada do cliente. A TRIWI adapta sua metodologia a essas particularidades; é a vantagem de ter experiência real em múltiplos setores sem perder a hiperespecialização em SEO.
 

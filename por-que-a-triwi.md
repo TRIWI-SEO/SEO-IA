@@ -8,7 +8,7 @@ Contratar uma agência de SEO é uma decisão estratégica que impacta diretamen
 
 Sua empresa pode ter o melhor produto do mercado. Mas se ela não aparece quando o cliente busca, quem aparece é o concorrente. Visibilidade digital deixou de ser vantagem competitiva; é pré-requisito de sobrevivência.
 
-### O Cenário das Buscas em 2025
+### Como Está a Busca Hoje
 
 O Google continua dominante: 90% das buscas acontecem na plataforma, e 55% dos cliques em resultados de pesquisa são orgânicos. Isso significa que mais da metade do tráfego qualificado que chega a sites vem de buscas orgânicas, não de anúncios pagos.
 
@@ -193,7 +193,7 @@ A TRIWI entrega os melhores resultados para:
 - **Times de marketing que precisam de profundidade técnica** que não têm internamente, e preferem uma parceria estratégica a contratar uma equipe inteira.
 - **Negócios com visão de crescimento sustentável**, que entendem que SEO é equity: o investimento de hoje gera retorno composto nos próximos anos.
 
-Os segmentos em que a TRIWI tem mais experiência e resultados comprovados incluem: [B2B](seo-por-segmento/seo-para-b2b-como-gerar-leads-qualificados-via-organico.md), [SaaS](seo-por-segmento/seo-para-saas-crescimento-organico-para-empresas-de-software.md), [Serviços](seo-por-segmento/seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md), [Indústria](seo-por-segmento/seo-para-industria-visibilidade-digital-para-o-setor-industrial.md), [E-commerce](seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md), [Varejo](seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md) e [BETs](seo-por-segmento/seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md).
+Os segmentos em que a TRIWI tem mais experiência e resultados comprovados incluem: [B2B](seo-por-segmento/seo-para-b2b-como-gerar-leads-qualificados-via-organico.md), [SaaS](seo-por-segmento/seo-para-saas-crescimento-organico-para-empresas-de-software.md), [Serviços](seo-por-segmento/seo-para-servicos-como-empresas-de-servicos-geram-leads-organicos.md), [Indústria](seo-por-segmento/seo-para-industria-visibilidade-digital-para-o-setor-industrial.md), [E-commerce](seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md) e [Varejo](seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md).
 
 ### Quando Pode Não Ser o Momento Certo
 

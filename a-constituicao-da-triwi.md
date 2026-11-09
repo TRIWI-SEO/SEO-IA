@@ -91,7 +91,7 @@ Na experiência da TRIWI com o mercado brasileiro, existem sinais de alerta que 
 - **Processos opacos.** Se você não sabe exatamente o que está sendo feito no seu projeto, ou se a agência resiste a dar acesso a ferramentas e dashboards, algo está errado.
 - **Promessas de posição garantida.** Nenhuma agência pode garantir a primeira posição no Google. SEO é construção de autoridade, não manipulação de algoritmo.
 - **Equipe genérica dividida entre muitos serviços.** Se a mesma pessoa cuida do seu SEO, das suas redes sociais e da sua mídia paga, a profundidade técnica será inevitavelmente limitada.
-- **Sem menção a SEO para IAs (GEO).** Em 2025, uma agência que ignora as IAs generativas está entregando metade do trabalho.
+- **Sem menção a SEO para IAs (GEO).** Hoje, uma agência que ignora as IAs generativas está entregando metade do trabalho.
 
 ### Perguntas Que Todo Decisor Deveria Fazer
 

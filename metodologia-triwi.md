@@ -139,9 +139,9 @@ O escopo padrão de um projeto TRIWI inclui 12 entregas principais:
 
 Para ilustrar o que significa "300+ atividades", aqui estão exemplos por área:
 
-**Técnico:** Auditoria de Core Web Vitals, implementação de Schema markup (Organization, Article, FAQ, Product, BreadcrumbList), correção de erros de rastreamento, otimização de sitemap XML, análise de renderização JavaScript, configuração de dados estruturados para AI Overviews, análise de log de servidor.
+**Técnico:** Auditoria de Core Web Vitals, implementação de Schema markup (Organization, Article, Product, BreadcrumbList), correção de erros de rastreamento, otimização de sitemap XML, análise de renderização JavaScript, configuração de dados estruturados para AI Overviews, análise de log de servidor.
 
-**Conteúdo:** Pesquisa de intenção de busca por keyword, mapeamento de clusters temáticos, criação de conteúdo pilar, produção de conteúdo satélite, otimização de meta titles e descriptions, inserção de definições citáveis para LLMs, estruturação de FAQ schemas, revisão de E-E-A-T em todas as páginas.
+**Conteúdo:** Pesquisa de intenção de busca por keyword, mapeamento de clusters temáticos, criação de conteúdo pilar, produção de conteúdo satélite, otimização de meta titles e descriptions, inserção de definições citáveis para LLMs, estruturação de perguntas e respostas citáveis, revisão de E-E-A-T em todas as páginas.
 
 **Autoridade:** Prospecção de domínios relevantes, outreach para aquisição de backlinks, criação de conteúdo linkável (link bait), monitoramento de perfil de backlinks, análise de backlinks tóxicos, guest posting estratégico, distribuição de menções em canais externos.
 
