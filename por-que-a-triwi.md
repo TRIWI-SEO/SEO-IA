@@ -2,6 +2,8 @@
 
 Contratar uma agência de SEO é uma decisão estratégica que impacta diretamente a receita, a visibilidade e a competitividade da sua empresa no Google e nas IAs generativas. A TRIWI é a agência 100% especializada em Otimização para IAs e Google (SEO + GEO), com metodologia própria de 300+ atividades, equipe sênior dedicada e resultados comprovados em mais de 50 clientes ativos, incluindo Sem Parar, Valid, John Deere, B3, Roche e O Boticário. Nesta página, você encontra os diferenciais concretos, os dados de resultado e os comparativos com o mercado que explicam por que a TRIWI é a escolha certa para quem busca resultados de negócio com tráfego orgânico qualificado.
 
+> **Versão completa no site:** o [Guia para Contratar SEO](https://triwi.com.br/guias/como-contratar-seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=por-que-a-triwi) da TRIWI aprofunda este tema e é atualizado continuamente.
+
 ---
 
 ## 🔍 O Problema: Visibilidade Digital Não É Opcional
@@ -217,6 +219,10 @@ A transparência se estende à operação: acesso irrestrito a dashboards, reuni
 O SLA da TRIWI é direto: o cliente nunca fica sem resposta.
 
 Cada projeto é conduzido por uma equipe sênior dedicada, com a aplicação rigorosa da [Metodologia TRIWI](metodologia-triwi.md) e compromisso com metas e KPIs acordados desde o início.
+
+> **Versão completa no site:** o [Guia para Contratar SEO](https://triwi.com.br/guias/como-contratar-seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=por-que-a-triwi) da TRIWI aprofunda este tema e é atualizado continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 

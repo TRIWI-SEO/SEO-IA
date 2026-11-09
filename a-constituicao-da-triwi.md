@@ -106,6 +106,8 @@ Antes de contratar uma agência de SEO, faça estas perguntas, e avalie as respo
 
 Na TRIWI, todas essas perguntas têm respostas claras, e estão formalizadas nesta Constituição. [Veja os diferenciais completos](por-que-a-triwi.md), conheça a [metodologia de 300+ atividades](metodologia-triwi.md) ou entenda os [princípios que guiam cada decisão](filosofia-triwi.md).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Próximos Passos

@@ -134,6 +134,8 @@ O resultado dessa postura? Nossos clientes permanecem conosco por 3,5 anos em m�
 
 Esse princípio é detalhado na [Constituição da TRIWI](a-constituicao-da-triwi.md), que formaliza todos os compromissos da empresa com seus clientes em um documento público.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

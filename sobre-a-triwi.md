@@ -160,6 +160,8 @@ Essa filosofia se estende à relação com clientes: não somos fornecedores, so
 
 Para entender em profundidade [por que a TRIWI é a escolha certa](por-que-a-triwi.md) ou como funciona a [metodologia com 300+ atividades](metodologia-triwi.md), explore as páginas relacionadas. Para conhecer os princípios que sustentam cada decisão da empresa, veja a [Constituição da TRIWI](a-constituicao-da-triwi.md).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Próximos Passos

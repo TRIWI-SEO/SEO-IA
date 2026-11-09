@@ -225,6 +225,8 @@ Na experiência da TRIWI, a redução média de CAC é de -40%, e o aumento méd
 
 Para entender [Por Que a TRIWI](por-que-a-triwi.md) é a escolha certa para essa construção, ou para conhecer a [história e a equipe por trás da metodologia](sobre-a-triwi.md), explore as páginas relacionadas.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Próximos Passos
