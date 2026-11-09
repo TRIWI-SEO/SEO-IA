@@ -6,7 +6,7 @@ Para empresas, essa evolução redefine o que significa "estar bem posicionado."
 
 ---
 
-## A Evolução da SERP: De 1998 a Hoje
+## Como a SERP evoluiu de 1998 até hoje?
 
 A SERP do Google passou por três eras distintas, cada uma redefinindo a relação entre busca, resultado e usuário. Entender essa evolução é entender por que a estratégia de SEO precisa evoluir junto.
 
@@ -30,7 +30,7 @@ O impacto é estrutural. Os [AI Overviews](../geo-seo-para-ia/ai-overviews-o-que
 
 ---
 
-## SERP Features Que Dominam a Página
+## Quais SERP features dominam a página?
 
 Em 2026, mais de 60% das buscas exibem pelo menos um SERP feature antes dos resultados orgânicos tradicionais. Cada formato tem mecânicas de otimização distintas, e dominar múltiplos formatos é o que gera visibilidade real.
 
@@ -66,9 +66,17 @@ Os AI Overviews representam a evolução mais transformadora da SERP. Diferente 
 
 Em 48% das buscas, o AI Overview é o primeiro elemento que o usuário vê. Em queries informacionais, 93% das sessões no AI Mode terminam sem clique em nenhum resultado. O impacto nos links azuis é direto: a visibilidade orgânica tradicional diminui enquanto a visibilidade em AI Overviews se torna canal estratégico. As empresas que já otimizam para AI Overviews, com conteúdo citável, dados verificáveis e autoridade reconhecida, capturam visibilidade que concorrentes dependentes de links azuis estão perdendo.
 
+| Recurso da SERP | O que é | Como disputar |
+|:---|:---|:---|
+| AI Overview | Resposta gerada por IA no topo | Conteúdo citável e autoridade |
+| Featured snippet | Trecho em destaque com resposta direta | Resposta curta logo abaixo da pergunta |
+| People Also Ask | Perguntas relacionadas expansíveis | Subtítulos com perguntas reais |
+| Pacote local | Mapa com empresas próximas | Perfil da Empresa no Google |
+| Resultados enriquecidos | Estrelas, preço, eventos | Dados estruturados válidos |
+
 ---
 
-## Impacto na Estratégia de SEO
+## Qual o impacto na estratégia de SEO?
 
 A SERP de 2026 exige uma estratégia de SEO que vai além do rankeamento orgânico tradicional. Cada formato de resultado é uma oportunidade, e ignorar qualquer um deles é ceder visibilidade para concorrentes.
 
@@ -92,7 +100,7 @@ Esse é o modelo que a TRIWI otimiza para os 50+ clientes ativos. Não basta ran
 
 ---
 
-## O Futuro da SERP
+## Qual o futuro da SERP?
 
 A SERP continuará evoluindo, e a direção é clara: mais IA, mais respostas diretas, mais formatos interativos. As empresas que se adaptam prosperam; as que resistem perdem espaço.
 

@@ -6,7 +6,7 @@ A diferença fundamental entre busca por voz e busca digitada está na linguagem
 
 ---
 
-## O Estado da Busca por Voz
+## Como está a busca por voz hoje?
 
 A busca por voz deixou de ser curiosidade tecnológica para se tornar comportamento consolidado. O ecossistema de assistentes virtuais amadureceu, a adoção é massiva e a integração com IA generativa está redefinindo o que assistentes conseguem fazer.
 
@@ -30,7 +30,7 @@ Essa convergência significa que toda busca por voz está se tornando, na práti
 
 ---
 
-## Como Buscas por Voz Diferem de Buscas Digitadas
+## Como a busca por voz difere da busca digitada?
 
 Entender as diferenças estruturais entre busca por voz e busca digitada é o ponto de partida para qualquer otimização. Não se trata de variação cosmética; são padrões fundamentalmente diferentes de query, intenção e expectativa de resposta.
 
@@ -52,9 +52,16 @@ Aproximadamente 58% das buscas por voz têm intenção local ("perto de mim", "a
 
 Essa distribuição tem implicação direta: empresas com presença física precisam de Google Business Profile otimizado, NAP (Nome, Endereço, Telefone) consistente e conteúdo local relevante. Empresas B2B e de serviços precisam dominar as queries informacionais do seu setor, porque é por aí que a busca por voz traz o usuário para o topo do funil.
 
+| Aspecto | Busca digitada | Busca por voz |
+|:---|:---|:---|
+| Formato | Palavras soltas ("seo preço agência") | Pergunta completa ("quanto custa contratar SEO?") |
+| Resposta | Lista de resultados | Uma resposta só, lida em voz alta |
+| Contexto | Variado | Frequentemente local e imediato |
+| O que otimizar | Palavras-chave e páginas | Respostas curtas e diretas a perguntas reais |
+
 ---
 
-## Otimizando para Busca por Voz
+## Como otimizar para busca por voz?
 
 A otimização para busca por voz não exige reinventar a estratégia de SEO, exige adaptar e complementar. As táticas a seguir funcionam em sinergia com SEO tradicional e com GEO.
 

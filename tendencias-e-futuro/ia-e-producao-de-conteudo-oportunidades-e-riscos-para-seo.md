@@ -6,7 +6,7 @@ A verdade está no meio, mas com nuances que a maioria ignora. IA generativa é 
 
 ---
 
-## O Estado da IA na Produção de Conteúdo
+## Como a IA está sendo usada na produção de conteúdo?
 
 A produção de conteúdo com IA deixou de ser experimento e se tornou operação. Em 2026, a questão não é mais "usar ou não usar IA"; é como usar sem comprometer qualidade, autoridade e resultados de longo prazo.
 
@@ -24,7 +24,7 @@ O resultado paradoxal é que volume se tornou commodity. Quando todos produzem m
 
 ---
 
-## O Que o Google Diz Sobre Conteúdo Gerado por IA
+## O que o Google diz sobre conteúdo gerado por IA?
 
 A posição do Google sobre conteúdo gerado por IA é mais nuançada do que a maioria dos profissionais de SEO interpreta. Não é proibição nem é carta branca; é um framework que premia qualidade independentemente do método de produção.
 
@@ -78,7 +78,7 @@ Empresas que implementam esse modelo conseguem triplicar a produção sem tripli
 
 ---
 
-## Riscos: Quando IA Prejudica Seu SEO
+## Quando a IA prejudica o seu SEO?
 
 Os riscos de usar IA na produção de conteúdo não são teóricos; são documentados por quedas reais de tráfego, penalizações de sites e perda de posições após Core Updates. Conhecê-los é o que separa uso estratégico de uso negligente.
 
@@ -108,7 +108,7 @@ Diferenciação é o antídoto. Dados proprietários, cases reais, perspectivas 
 
 ---
 
-## O Modelo Correto: IA + Expertise Humana
+## Qual o modelo certo de uso da IA no conteúdo?
 
 O debate "IA vs. humanos" é um falso dilema. O modelo que funciona, e que gera resultados sustentáveis em SEO, é IA + expertise humana, operando em sinergia.
 
@@ -133,6 +133,13 @@ Empresas que adotam o modelo de augmented content conseguem produzir em escala s
 **Ver também no Glossário da TRIWI:** [Conteúdo gerado por IA](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=ia-e-producao-de-conteudo-oportunidades-e-riscos-para-seo#seo-conteudo-gerado-por-ia), [Helpful Content System](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=ia-e-producao-de-conteudo-oportunidades-e-riscos-para-seo#seo-helpful-content-system), [E-E-A-T](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=ia-e-producao-de-conteudo-oportunidades-e-riscos-para-seo#seo-e-e-a-t), [ChatGPT](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=ia-e-producao-de-conteudo-oportunidades-e-riscos-para-seo#ia-chatgpt).
 
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
+| Uso da IA | Risco | Como fazer certo |
+|:---|:---|:---|
+| Pesquisa e estrutura | Baixo | Usar como ponto de partida e conferir as fontes |
+| Primeiro rascunho | Médio | Revisão por especialista, com experiência e dados próprios |
+| Publicação em escala sem revisão | Alto | Não fazer: o Google trata como spam de conteúdo em escala |
+| Atualização de páginas | Baixo | Conferir cada dado novo na fonte original |
 
 ---
 

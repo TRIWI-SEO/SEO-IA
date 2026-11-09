@@ -6,7 +6,7 @@ Entender como o Google usa machine learning internamente não é curiosidade té
 
 ---
 
-## O Google É um Sistema de IA
+## Por que o Google é um sistema de IA?
 
 O Google de 2026 é fundamentalmente diferente do Google de 2010. Cada componente do sistema de busca, da compreensão da query à avaliação de relevância, da ordenação dos resultados à geração de respostas, utiliza modelos de machine learning. Entender essa evolução é entender por que certas estratégias de SEO funcionam e outras se tornaram obsoletas.
 
@@ -34,9 +34,16 @@ O Google não parou no MUM. Em 2023, o PaLM 2 foi introduzido como base para o B
 
 A tendência é inequívoca: cada novo modelo é mais capaz de entender nuance, contexto, intenção e qualidade. O [funcionamento do Google](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md) hoje é um sistema de IA em camadas, e cada camada filtra com mais precisão. Para SEO, isso reforça um princípio que se consolida a cada atualização: quanto mais sofisticado o algoritmo, mais ele se aproxima de avaliar conteúdo como um humano avaliaria. E humanos valorizam qualidade, relevância e expertise.
 
+| Sistema | O que faz | Desde |
+|:---|:---|:---|
+| RankBrain | Relaciona palavras a conceitos para entender buscas novas | 2015 |
+| Neural matching | Liga a busca a conceitos, além das palavras exatas | 2018 |
+| BERT | Entende o sentido das palavras pelo contexto da frase | 2019 |
+| MUM | Entende informação em vários formatos e idiomas | 2021 |
+
 ---
 
-## O Que Machine Learning Muda na Prática para SEO
+## O que o machine learning muda na prática para SEO?
 
 A presença de ML no algoritmo do Google não é abstração técnica; tem consequências práticas diretas para como conteúdo deve ser criado, estruturado e otimizado.
 
@@ -60,7 +67,7 @@ Esses sinais não são "fatores de rankeamento" no sentido clássico, são input
 
 ---
 
-## Implicações para Profissionais de SEO
+## O que muda para os profissionais de SEO?
 
 Machine learning no Google não torna SEO obsoleto, torna SEO mais estratégico. As táticas mudam, mas a disciplina se fortalece.
 
@@ -84,7 +91,7 @@ A TRIWI investe em entender a tecnologia por trás dos algoritmos, não para man
 
 ---
 
-## A Próxima Fronteira: IA Generativa no Ranking
+## Qual o papel da IA generativa no ranking?
 
 Machine learning no Google evoluiu de componente auxiliar (RankBrain) para infraestrutura central (BERT, MUM) e agora atinge a próxima fronteira: IA generativa operando diretamente nos resultados de busca.
 

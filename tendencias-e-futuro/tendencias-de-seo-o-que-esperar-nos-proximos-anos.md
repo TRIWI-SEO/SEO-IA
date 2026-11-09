@@ -24,7 +24,7 @@ A TRIWI reconheceu essa transformação antes do mercado. O investimento em GEO 
 
 ---
 
-## Tendência 1: A Convergência SEO + GEO
+## Tendência 1: SEO e GEO vão convergir?
 
 A divisão entre "SEO tradicional" e "otimização para IAs" está se dissolvendo. Em 2026, tratar os dois como disciplinas separadas é ineficiência estratégica. A tendência dominante é convergência: uma única estratégia integrada que otimiza para o ecossistema completo de busca.
 
@@ -102,7 +102,7 @@ A otimização de vídeo para SEO inclui títulos e descrições com keywords, t
 
 ---
 
-## Tendência 5: Zero-Click Searches e a Luta pelo Clique
+## Tendência 5: como disputar o clique nas buscas sem clique?
 
 Zero-click searches, buscas que terminam sem o usuário clicar em nenhum resultado orgânico, representam 65-70% de todas as queries no Google. No AI Mode do Google, 93% das sessões terminam sem clique. Essa tendência muda fundamentalmente a equação do tráfego orgânico.
 
@@ -138,7 +138,7 @@ A tendência é que SEO e branding se tornem cada vez mais indissociáveis. Empr
 
 ---
 
-## O Que Não Muda: Os Fundamentos Permanecem
+## O que não muda no SEO?
 
 Tendências mudam. Plataformas surgem e desaparecem. Algoritmos são atualizados. Mas os fundamentos do SEO, os princípios que sustentam resultados de longo prazo, permanecem consistentes ao longo de décadas.
 
@@ -153,6 +153,15 @@ A TRIWI não apenas acompanha tendências, antecipa. O investimento em GEO come�
 **Ver também no Glossário da TRIWI:** [Conteúdo gerado por IA](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=tendencias-de-seo-o-que-esperar-nos-proximos-anos#seo-conteudo-gerado-por-ia), [People Also Ask](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=tendencias-de-seo-o-que-esperar-nos-proximos-anos#seo-people-also-ask), [AI Overviews](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=tendencias-de-seo-o-que-esperar-nos-proximos-anos#seo-ai-overviews), [Autoria](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=tendencias-de-seo-o-que-esperar-nos-proximos-anos#seo-autoria), [E-E-A-T](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=tendencias-de-seo-o-que-esperar-nos-proximos-anos#seo-e-e-a-t).
 
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
+| Tendência | O que muda | O que fazer |
+|:---|:---|:---|
+| SEO e GEO | Google e IAs disputam a mesma resposta | Uma estratégia só para os dois |
+| IA no conteúdo | Volume deixa de ser diferencial | Experiência e dados próprios |
+| E-E-A-T | Confiança pesa mais | Autoria clara e fontes citadas |
+| Busca multimodal | Imagem e voz viram ponto de partida | Imagens descritas e respostas diretas |
+| Buscas sem clique | Menos visitas por busca | Ser a fonte citada na resposta |
+| SEO como marca | Presença vira lembrança de marca | Medir buscas pela marca e menções |
 
 ---
 
