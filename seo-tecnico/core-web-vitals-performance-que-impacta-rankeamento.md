@@ -184,6 +184,8 @@ Na TRIWI, o monitoramento de Core Web Vitals é contínuo, não uma verificaçã
 
 Essa disciplina operacional é parte da [metodologia com 300+ atividades](../metodologia-triwi.md). Core Web Vitals não são um checklist pontual; são uma métrica viva que precisa de monitoramento contínuo. Empresas como Sem Parar (+31% tráfego orgânico), Valid/Flexdoc (+47% tráfego orgânico) e Contato Seguro (+654% tráfego orgânico) mantêm CWV saudáveis como parte de uma estratégia integrada que combina [performance técnica](README.md), conteúdo estratégico e construção de autoridade.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

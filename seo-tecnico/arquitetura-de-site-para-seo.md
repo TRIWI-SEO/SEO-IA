@@ -150,6 +150,8 @@ Regras para redirecionamentos em reestruturação: cada URL antiga deve ter um 3
 
 Na TRIWI, reestruturações e migrações seguem um protocolo com monitoramento intensivo pós-implementação, acompanhamento diário de indexação, rastreamento de erros 404 e 301, verificação de cobertura no Search Console e alertas automatizados de regressão de tráfego. Essa disciplina faz parte da Fase 4 (Monitoramento) da [metodologia com 300+ atividades](../metodologia-triwi.md), garantindo que a reestruturação gere ganho, não perda.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

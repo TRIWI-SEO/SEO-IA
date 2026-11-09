@@ -160,6 +160,8 @@ A regra de ouro: dados estruturados devem refletir fielmente o conteúdo visíve
 
 A implementação de dados estruturados é parte da otimização técnica avançada da TRIWI. Dentro da [metodologia com 300+ atividades](../metodologia-triwi.md), Schema markup é implementado, validado e monitorado como um processo contínuo, não uma configuração pontual. Conteúdo estruturado para IA é um dos diferenciais que permitiu ao Sem Parar alcançar +6.400% em AI Overviews e à Valid/Flexdoc registrar +2.000% em AI Overviews. Quando a IA do Google monta uma resposta, ela prioriza fontes que falam sua linguagem, e dados estruturados são essa linguagem.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Próximos Passos

@@ -108,6 +108,8 @@ Além do formato: redimensionar imagens para o tamanho real de exibição (não 
 
 Na experiência da TRIWI com e-commerces e sites enterprise, otimizações de velocidade frequentemente geram ganhos de conversão de 15-30%, antes mesmo de impactar o rankeamento. Essa é uma das áreas onde o retorno é mais rápido e mensurável: diferente de estratégias de conteúdo ou link building (que levam meses para maturar), melhorias de velocidade impactam a conversão imediatamente após a implementação. Por isso, na [metodologia com 300+ atividades](../metodologia-triwi.md), performance é uma das primeiras frentes atacadas na Fase 3 (Implementação), gerando quick wins que demonstram valor enquanto as estratégias de longo prazo ganham tração.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

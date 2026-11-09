@@ -52,6 +52,8 @@ Se o foco é **performance**, siga para [Core Web Vitals](core-web-vitals-perfor
 
 Para os fundamentos conceituais que sustentam esta categoria, veja a [Fundamentos de SEO](../o-que-e-seo-guia-completo.md). Para avançar, explore [SEO de Conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Fale com a TRIWI

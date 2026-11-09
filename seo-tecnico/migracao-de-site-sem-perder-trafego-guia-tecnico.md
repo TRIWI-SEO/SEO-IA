@@ -131,6 +131,8 @@ Na experiência operacional com dezenas de migrações, os mesmos erros aparecem
 
 A TRIWI já conduziu dezenas de migrações para clientes como Sem Parar e Valid, onde perder tráfego orgânico significaria perder milhões em receita. O protocolo de migração da TRIWI faz parte da [metodologia com 300+ atividades](../metodologia-triwi.md) e inclui: inventário automatizado de URLs, mapeamento de redirecionamentos com validação cruzada, teste em staging com auditoria técnica completa, monitoramento intensivo nas primeiras 48 horas, acompanhamento semanal nas primeiras 8 semanas e relatório de recuperação com comparativo contra o baseline pré-migração. Essa disciplina é o que transforma uma migração de "momento de risco" em "oportunidade de reorganização estratégica".
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

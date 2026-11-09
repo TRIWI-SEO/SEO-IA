@@ -150,6 +150,8 @@ Ações para resolver: melhorar a qualidade do conteúdo das páginas afetadas, 
 
 A TRIWI monitora a saúde de indexação como parte do escopo de "Aumento das Palavras Indexadas no Google", a 8ª das 12 entregas da [metodologia](../metodologia-triwi.md), com acompanhamento mensal. Esse monitoramento contínuo permite identificar regressões de indexação antes que se tornem problemas de rankeamento: uma queda de 500 páginas indexadas em um mês pode significar um robots.txt mal configurado, uma canonical errada em massa ou uma instabilidade de servidor que precisa de correção imediata.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos

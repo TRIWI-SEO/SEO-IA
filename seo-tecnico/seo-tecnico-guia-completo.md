@@ -2,6 +2,8 @@
 
 SEO técnico é o conjunto de otimizações na infraestrutura, performance e arquitetura de um site que permite aos mecanismos de busca rastrear, interpretar e indexar suas páginas de forma eficiente. Diferente do [SEO on-page](../fundamentos-de-seo/seo-on-page-otimizacao-dentro-do-seu-site.md) (focado em conteúdo) ou do [SEO off-page](../fundamentos-de-seo/seo-off-page-autoridade-alem-do-seu-site.md) (focado em autoridade externa), o SEO técnico atua na fundação sobre a qual toda a estratégia de visibilidade orgânica é construída. Um site com problemas técnicos desperdiça o potencial de qualquer investimento em conteúdo ou link building; é como construir uma casa sofisticada sobre um alicerce comprometido.
 
+> **Versão completa no site:** o [Guia de SEO Técnico](https://triwi.com.br/guias/seo-tecnico/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-tecnico-guia-completo) da TRIWI aprofunda este tema e é atualizado continuamente.
+
 Esta página é o guia de referência completo sobre SEO técnico: da definição aos pilares fundamentais, das ferramentas de auditoria aos problemas mais comuns, da otimização enterprise à preparação para AI Overviews. Se você busca entender o que impede seu site de alcançar as primeiras posições, ou o que pode levá-lo até lá, comece por aqui.
 
 ---
@@ -189,6 +191,10 @@ SEO técnico é uma das áreas onde a diferença entre uma abordagem profissiona
 | Ciclo PDCA | Mensal com micro correções constantes | Revisões trimestrais | Sem processo |
 
 Otimização Técnica Avançada no Site é a 3ª entrega do escopo TRIWI, cobrindo Core Web Vitals, Schema markup, arquitetura de site e centenas de verificações técnicas dentro de uma [metodologia com 300+ atividades](../metodologia-triwi.md). Não é uma ação pontual: é um processo contínuo, integrado ao Ciclo PDCA mensal, com monitoramento, diagnóstico e correção constantes.
+
+> **Versão completa no site:** o [Guia de SEO Técnico](https://triwi.com.br/guias/seo-tecnico/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-tecnico-guia-completo) da TRIWI aprofunda este tema e é atualizado continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
