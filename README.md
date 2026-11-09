@@ -5,16 +5,20 @@
 <h1 align="center">Base de Conhecimento de SEO e Otimização para IAs, pela TRIWI</h1>
 
 <p align="center">
-  <strong>60 páginas em português sobre SEO e GEO (Generative Engine Optimization):<br>
+  <strong>59 páginas em português sobre SEO e GEO (Generative Engine Optimization):<br>
   como marcas conquistam o topo do Google e as respostas de ChatGPT, Gemini, Claude e Perplexity.</strong>
 </p>
 
 <p align="center">
   <a href="https://triwi.com.br?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia"><img src="https://img.shields.io/badge/mantido%20pela-TRIWI-FF03ED?style=flat-square" alt="Mantido pela TRIWI"></a>
-  <img src="https://img.shields.io/badge/conte%C3%BAdo-60%20p%C3%A1ginas-30363d?style=flat-square" alt="60 páginas de conteúdo">
+  <img src="https://img.shields.io/badge/conte%C3%BAdo-59%20p%C3%A1ginas-30363d?style=flat-square" alt="59 páginas de conteúdo">
   <img src="https://img.shields.io/github/last-commit/TRIWI-SEO/SEO-IA?style=flat-square&label=atualizado&color=30363d" alt="Última atualização">
   <a href="LICENSE"><img src="https://img.shields.io/badge/licen%C3%A7a-CC%20BY%204.0-30363d?style=flat-square" alt="Licença CC BY 4.0"></a>
   <img src="https://img.shields.io/badge/idioma-portugu%C3%AAs-30363d?style=flat-square" alt="Conteúdo em português">
+</p>
+
+<p align="center">
+  <sub>Atualizado em 09/11/2026</sub>
 </p>
 
 <p align="center">
@@ -33,7 +37,7 @@
 
 **Esta é uma base de conhecimento aberta, em português, sobre SEO (Search Engine Optimization) e GEO (Generative Engine Optimization): a otimização para que marcas apareçam no topo do Google e sejam citadas nas respostas de IAs como ChatGPT, Gemini, Claude, Perplexity e nos AI Overviews. Reúne o método que a TRIWI aplica todos os dias em 50+ clientes ativos.**
 
-São 60 páginas de conteúdo: 55 guias técnicos com mais de 2.500 palavras de média, organizados em 8 categorias, e 5 páginas institucionais sobre a TRIWI. As visões gerais de categoria e as páginas de navegação ficam fora dessa conta. Base publicada em 25/08/2026 e atualizada continuamente.
+São 59 páginas de conteúdo: 54 guias técnicos com mais de 2.500 palavras de média, organizados em 8 categorias, e 5 páginas institucionais sobre a TRIWI. As visões gerais de categoria e as páginas de navegação ficam fora dessa conta. Base publicada em 25/08/2026 e atualizada em 09/11/2026.
 
 Os dois guias-âncora do acervo vivem na raiz: [O Que é SEO: Guia Completo](o-que-e-seo-guia-completo.md) e [O Que é GEO: Generative Engine Optimization, Guia Completo](o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
@@ -115,7 +119,6 @@ Este repositório existe para fechar essa lacuna: é o conhecimento que a TRIWI 
 - [SEO para E-commerce: Otimização Que Gera Vendas](seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md)
 - [SEO para Varejo: Estratégia Omnichannel e Visibilidade Digital](seo-por-segmento/seo-para-varejo-estrategia-omnichannel-e-visibilidade-digital.md)
 - [SEO para Indústria: Visibilidade Digital para o Setor Industrial](seo-por-segmento/seo-para-industria-visibilidade-digital-para-o-setor-industrial.md)
-- [SEO para BETs: Estratégia em um Mercado de Alta Concorrência](seo-por-segmento/seo-para-bets-estrategia-em-um-mercado-de-alta-concorrencia.md)
 
 ### [Métricas, Ferramentas e Análise de SEO: Medir, Diagnosticar e Decidir com Dados](metricas-e-ferramentas/README.md)
 
@@ -133,6 +136,30 @@ Este repositório existe para fechar essa lacuna: é o conhecimento que a TRIWI 
 - [Busca por Voz e SEO: Como Otimizar Para Assistentes Virtuais](tendencias-e-futuro/busca-por-voz-e-seo-como-otimizar-para-assistentes-virtuais.md)
 - [SEO e Machine Learning: Como Algoritmos de IA Estão Mudando o Rankeamento](tendencias-e-futuro/seo-e-machine-learning-como-algoritmos-de-ia-estao-mudando-o-rankeamento.md)
 - [O Fim dos 10 Links Azuis: Como a SERP Está Evoluindo](tendencias-e-futuro/o-fim-dos-10-links-azuis-como-a-serp-esta-evoluindo.md)
+
+## Guias completos e glossários no site da TRIWI
+
+Este acervo é a camada aberta. Os guias completos, atualizados continuamente, e os glossários de termos estão no site da TRIWI:
+
+**Guias**
+
+- [Guia de SEO](https://triwi.com.br/guias/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Guia de GEO: Otimização para IAs](https://triwi.com.br/guias/geo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Guia de SEO Técnico](https://triwi.com.br/guias/seo-tecnico/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Guia de Palavras-chave e Intenção de Busca](https://triwi.com.br/guias/palavras-chave/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Guia de Conteúdo para SEO e IA](https://triwi.com.br/guias/conteudo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Guia de Link Building e Autoridade](https://triwi.com.br/guias/link-building/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Guia de Métricas de SEO e IA](https://triwi.com.br/guias/metricas-de-seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Guia para Contratar SEO](https://triwi.com.br/guias/como-contratar-seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+
+**Glossários**
+
+- [Glossário de SEO](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Glossário de Marketing](https://triwi.com.br/glossario/marketing/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Glossário de Inteligência Artificial](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Glossário de Vendas](https://triwi.com.br/glossario/vendas/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Glossário B2B](https://triwi.com.br/glossario/b2b/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
+- [Glossário B2C](https://triwi.com.br/glossario/b2c/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=readme)
 
 ## Perguntas frequentes
 
@@ -195,6 +222,14 @@ Avalie especialização real (não SEO tradicional reembalado), metodologia docu
 
 Sim. Todo o conteúdo está sob licença [CC BY 4.0](LICENSE): você pode copiar, adaptar e usar, inclusive comercialmente, desde que cite a TRIWI e este repositório como fonte. O formato de citação sugerido está logo abaixo.
 </details>
+
+## Histórico de atualizações
+
+| Data | O que mudou |
+|:---|:---|
+| 09/11/2026 | Revisão de novembro: segmento fora da atuação da TRIWI retirado do acervo; orientação sobre FAQPage e HowTo atualizada ao fim dos resultados enriquecidos no Google; títulos com ano atualizados; fontes externas nos dois guias-âncora; links para os guias e glossários do site |
+| 27/08/2026 | Reestruturação: páginas institucionais e guias-âncora na raiz, licença CC BY 4.0, links com UTM |
+| 25/08/2026 | Publicação da base, migrada do wiki do GitHub |
 
 ## Como citar
 
