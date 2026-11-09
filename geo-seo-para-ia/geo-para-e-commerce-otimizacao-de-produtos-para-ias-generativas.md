@@ -1,8 +1,8 @@
 # GEO para E-commerce: Otimização de Produtos para IAs Generativas
 
-GEO para e-commerce é a aplicação de estratégias de [Generative Engine Optimization](../o-que-e-geo-generative-engine-optimization-guia-completo.md) especificamente para lojas virtuais, otimizando páginas de produto, descrições, reviews, Schema markup e conteúdo de suporte para que seus produtos sejam recomendados quando consumidores perguntam a ChatGPT, Gemini, Claude ou Perplexity "qual o melhor [produto] para [necessidade]?". Em 2026, essa pergunta acontece centenas de milhões de vezes por dia, e a resposta da IA pode definir se o consumidor descobre sua marca ou a do concorrente.
+GEO para e-commerce é a aplicação de estratégias de [Generative Engine Optimization](../o-que-e-geo-generative-engine-optimization-guia-completo.md) especificamente para lojas virtuais, otimizando páginas de produto, descrições, reviews, Schema markup e conteúdo de suporte para que seus produtos sejam recomendados quando consumidores perguntam a ChatGPT, Gemini, Claude ou Perplexity "qual o melhor [produto] para [necessidade]?". Essa pergunta acontece todos os dias, em escala, e a resposta da IA pode definir se o consumidor descobre sua marca ou a do concorrente.
 
-Os números deixam a dimensão clara: 80% dos consumidores planejam usar IA generativa para comprar em 2026. O ChatGPT Shopping atende mais de 900 milhões de usuários semanais. O tráfego de referência de plataformas de IA generativa para e-commerces cresceu 693% ano contra ano no final de 2025. No Brasil, o ChatGPT gerou mais de 6,1 milhões de visitas de referência para os 10 maiores varejistas digitais entre janeiro de 2023 e agosto de 2025, e o Brasil é o terceiro maior mercado global para ferramentas de IA generativa.
+Consumidores já pedem às IAs recomendações de produto antes de comprar, e o ChatGPT passou a exibir produtos dentro da conversa. Para o e-commerce, a IA virou mais uma vitrine, e quem não está nela não entra na comparação.
 
 Se seu e-commerce ainda otimiza apenas para o Google, está ignorando o canal de descoberta que mais cresce no varejo digital. Este guia mostra como otimizar produtos para IAs generativas, com dados, estratégias e implementação prática.
 
@@ -20,9 +20,9 @@ O ChatGPT Shopping, lançado em 2025 e expandido em 2026, transformou o ChatGPT 
 
 ### Dados Sobre o Uso de IAs em Decisões de Compra
 
-Os dados de 2026 mostram uma mudança de comportamento que já não é tendência; é realidade consolidada. Entre consumidores que já usam IA, 72% a utilizam como ferramenta primária para pesquisar produtos e marcas. Um em cada quatro consumidores cita plataformas como ChatGPT como sua principal fonte de pesquisa de produtos, acima de sites de marcas e reviews online. 61% dos consumidores já usaram ferramentas de IA generativa para compras online, e 77% dizem que a IA os ajuda a tomar decisões mais rápidas.
+A mudança de comportamento já não é tendência. Uma parcela crescente dos consumidores usa IAs para pesquisar produtos e marcas, comparar opções e decidir mais rápido, muitas vezes antes de visitar qualquer site.
 
-Entre a Geração Z, a adoção é ainda maior: 71% usam chatbots para descoberta de produtos em e-commerce. A Salesforce estimou que agentes de IA e ferramentas generativas influenciaram mais de 20% de todas as vendas online globais durante a temporada de fim de ano de 2025. A McKinsey projeta que o canal de comércio via IA movimentará entre USD 3 e 5 trilhões globalmente até 2030. O mercado global de tecnologia de IA no varejo é estimado em USD 54,24 bilhões em 2026.
+Entre os consumidores mais jovens, a adoção é ainda maior, e grandes varejistas e consultorias já tratam o comércio via IA como um canal próprio.
 
 ---
 
@@ -40,7 +40,7 @@ O conceito de [Share of Model](share-of-model-como-medir-a-presenca-da-sua-marca
 
 O impacto mais profundo do GEO para e-commerce está no topo do funil, na fase de descoberta e consideração. Quando o consumidor pergunta à IA "quais são as melhores marcas de colchão?", a resposta define o conjunto de consideração. Marcas mencionadas entram no funil; marcas não mencionadas ficam de fora antes mesmo de competir.
 
-AI Overviews do Google já aparecem em 14% de todas as queries de compra, um aumento de 5,6x em apenas quatro meses. Marcas citadas nos [AI Overviews](ai-overviews-o-que-sao-e-como-otimizar.md) registram 35% mais cliques orgânicos do que marcas não citadas. O tráfego de referência de IAs generativas para varejo cresceu 769% ano contra ano em novembro de 2025. Não otimizar para IAs significa perder visibilidade na fase do funil onde mais consumidores estão formando opinião.
+Os AI Overviews do Google também aparecem em buscas de compra, e marcas citadas neles recebem mais cliques orgânicos do que as não citadas ([Seer Interactive](https://www.seerinteractive.com/insights/aio-impact-on-google-ctr-september-2025-update)). Não otimizar para IAs significa perder visibilidade na fase do funil onde mais consumidores estão formando opinião.
 
 ---
 
@@ -52,7 +52,7 @@ A página de produto é o ativo mais importante do e-commerce para GEO. É onde 
 
 Para IAs generativas, não basta descrever o produto; é preciso descrever de forma citável. Isso significa aplicar os princípios de [conteúdo citável](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) às descrições de produto. Comece com uma definição clara do produto e sua proposta de valor principal, em uma ou duas frases que a IA possa extrair diretamente. Inclua especificações técnicas em formato estruturado, materiais, dimensões, capacidades, compatibilidades. Use linguagem que responda perguntas naturais: em vez de "design premium", escreva "revestimento em couro legítimo com acabamento impermeável, resistente a manchas por até 5 anos".
 
-A regra é: se a IA precisar interpretar o que o produto faz, a descrição não é boa o suficiente. Se puder extrair a resposta diretamente, é citável. Apenas 18% das páginas de produto em e-commerce têm Schema markup completo, o que significa que 82% estão em desvantagem direta na visibilidade em IAs.
+A regra é: se a IA precisar interpretar o que o produto faz, a descrição não é boa o suficiente. Se puder extrair a resposta diretamente, é citável. Boa parte das páginas de produto ainda tem Schema markup incompleto, o que as deixa em desvantagem direta na visibilidade em IAs.
 
 ### Reviews e Avaliações como Sinal de Autoridade
 
@@ -94,7 +94,7 @@ Para e-commerce, as FAQs devem cobrir perguntas reais de compra: "Qual a diferen
 
 ### Conteúdo "Best Of" e Comparativos
 
-Artigos do tipo "melhores [produtos] de 2026" e comparativos detalhados são citados com alta frequência por IAs. Perplexity, com busca em tempo real, prioriza conteúdo atualizado, e listas atualizadas regularmente recebem 2,5x mais citações do que conteúdo estático.
+Artigos do tipo "melhores [produtos] de 2026" e comparativos detalhados são citados com alta frequência por IAs. Perplexity, com busca em tempo real, prioriza conteúdo atualizado, e listas atualizadas regularmente levam vantagem sobre conteúdo estático.
 
 A estratégia é manter conteúdo comparativo vivo: atualizar rankings trimestralmente com novos produtos e preços, incluir data de última atualização visível (e no Schema com `dateModified`), basear rankings em critérios transparentes e replicáveis, e cobrir queries de cauda longa ("melhor [produto] para [uso específico] até R$ [valor]").
 
@@ -116,11 +116,18 @@ Use ferramentas de [Share of Model](share-of-model-como-medir-a-presenca-da-sua-
 
 O objetivo é quantificar: qual o Share of Model da sua marca para queries de compra do seu segmento? Qual concorrente domina? Quais categorias de produto têm menor visibilidade? Onde a otimização de Schema, conteúdo ou reviews pode ter maior impacto? Essas respostas direcionam a priorização, e transformam GEO de teoria em estratégia mensurável.
 
+## Fontes
+
+- [Seer Interactive: impacto dos AI Overviews no CTR do Google (novembro de 2025)](https://www.seerinteractive.com/insights/aio-impact-on-google-ctr-september-2025-update)
+- [Google Search Central: dados estruturados de produto](https://developers.google.com/search/docs/appearance/structured-data/product?hl=pt-br)
+- [Google Search Central: dados estruturados de FAQ](https://developers.google.com/search/docs/appearance/structured-data/faqpage)
+- Resultados de clientes citados: [página de cases da TRIWI](https://triwi.com.br/cases/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
+
 ---
 
 ## 📩 Próximos Passos
 
-O e-commerce que não otimiza para IAs generativas está perdendo o canal de descoberta que mais cresce no varejo digital. Em 2026, quando 80% dos consumidores planejam usar IA para comprar e o tráfego de IAs para e-commerces cresce 693% ao ano, GEO para e-commerce não é diferencial; é sobrevivência competitiva. Páginas de produto com descrições citáveis, Schema completo, reviews estruturados e conteúdo de suporte otimizado são a base para que suas marcas e produtos sejam recomendados quando o consumidor pergunta à IA "qual o melhor?".
+O e-commerce que não otimiza para IAs generativas está perdendo o canal de descoberta que mais cresce no varejo digital. Com consumidores pedindo recomendações de produto às IAs, GEO para e-commerce não é diferencial; é sobrevivência competitiva. Páginas de produto com descrições citáveis, Schema completo, reviews estruturados e conteúdo de suporte otimizado são a base para que suas marcas e produtos sejam recomendados quando o consumidor pergunta à IA "qual o melhor?".
 
 A TRIWI atende e-commerces como Polishop, Lupo e Grendene, onde a estratégia de GEO inclui otimização de páginas de produto, guias de compra e Schema markup para garantir que produtos sejam recomendados pelas IAs. Com a [estratégia integrada de SEO + GEO](seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md), transformamos páginas de produto em fontes que IAs citam e recomendam.
 

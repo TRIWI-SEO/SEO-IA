@@ -2,7 +2,7 @@
 
 Otimização para Perplexity, Claude e outras IAs de busca é a prática de adaptar conteúdo, autoridade e presença digital para ser citado nas respostas de plataformas de IA além do ChatGPT e do Google Gemini. Perplexity, Claude, Copilot e outras IAs compõem um ecossistema de busca generativa que cresce aceleradamente, e cada plataforma tem comportamento de citação, fontes de dados e critérios de seleção distintos.
 
-Focar apenas no ChatGPT e no Google é como otimizar apenas para um buscador nos anos 2000. O ecossistema de IAs de busca em 2026 é multiplataforma: Perplexity com 45 milhões de usuários ativos e 780 milhões de consultas mensais, Claude da Anthropic com receita anualizada de USD 30 bilhões (superando a OpenAI), Copilot da Microsoft integrado ao ecossistema Office 365 e Bing. Cada plataforma é um canal de descoberta onde sua marca pode ser recomendada, ou ignorada.
+Focar apenas no ChatGPT e no Google é como otimizar apenas para um buscador nos anos 2000. O ecossistema de IAs de busca é multiplataforma: Perplexity, com busca na web em toda consulta; Claude, da Anthropic, cada vez mais usado para pesquisa e análise; e o Copilot da Microsoft, integrado ao Microsoft 365 e ao Bing. Cada plataforma é um canal de descoberta onde sua marca pode ser recomendada, ou ignorada.
 
 A TRIWI monitora a presença dos clientes em todas as principais LLMs, não apenas ChatGPT. O conceito de [Share of Model](share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md) é aplicado cross-platform para garantir visibilidade em todo o ecossistema de busca generativa. Este guia cobre cada plataforma relevante e as estratégias que funcionam para todas, e as que são específicas de cada uma.
 
@@ -16,13 +16,13 @@ O mercado de busca por IA em 2026 não é um monopólio; é um ecossistema diver
 
 Perplexity se posiciona como um motor de busca generativo; cada consulta aciona busca na web em tempo real, e toda resposta inclui citações com links para as fontes. Diferente do ChatGPT (que complementa conhecimento treinado com busca ocasional), Perplexity busca em tempo real para cada query. É, na prática, o Google da busca generativa: transparente em fontes, focado em factualidade e com citação explícita.
 
-Números de 2026: 45 milhões de usuários ativos, 780 milhões de consultas mensais, crescimento acelerado. O público tende a ser mais orientado a pesquisa e comparação, profissionais, pesquisadores, decisores que precisam de respostas verificáveis. A acurácia de citação do Perplexity (modelo Sonar Pro) é de 94,3%, a mais alta entre as principais plataformas.
+O público tende a ser mais orientado a pesquisa e comparação: profissionais, pesquisadores, decisores que precisam de respostas verificáveis. Cada resposta traz links para as fontes usadas.
 
 ### Claude (Anthropic) e o Uso Crescente para Pesquisa
 
-Claude, da Anthropic, se diferencia pela abordagem de Constitutional AI, priorizando precisão, segurança e baixa taxa de alucinação. Em citações, Claude tem a menor taxa de alucinação entre as grandes LLMs: apenas 3%, contra 18% do Gemini e ~13% do ChatGPT. Isso significa que quando Claude cita, a citação é confiável.
+Claude, da Anthropic, se diferencia pela abordagem de Constitutional AI, priorizando precisão e segurança. Em pesquisa, tende a preferir fontes com consenso verificável e a sinalizar incerteza quando as fontes divergem.
 
-Em 2026, a Anthropic alcançou receita anualizada de USD 30 bilhões, superando a OpenAI, e uma avaliação de USD 380 bilhões. Claude foi integrado ao Microsoft Copilot como modelo de revisão e crítica, validando sua reputação de precisão. O uso crescente de Claude para pesquisa, análise e verificação de informações o torna especialmente relevante para empresas B2B e de serviços com ciclo de venda consultivo.
+O uso crescente de Claude para pesquisa, análise e verificação de informações o torna especialmente relevante para empresas B2B e de serviços com ciclo de venda consultivo.
 
 ### Gemini (Google) Integrado ao Ecossistema Google
 
@@ -32,7 +32,7 @@ A implicação para otimização: o que funciona para SEO no Google tende a func
 
 ### Copilot (Microsoft) e Integração com Bing
 
-Microsoft Copilot opera em dois contextos: como assistente integrado ao Microsoft 365 (Word, Excel, Teams, Outlook) e como busca generativa integrada ao Bing. Em março de 2026, a Microsoft integrou Claude como modelo de revisão no Copilot, em um sistema onde o GPT gera a resposta inicial e o Claude revisa a acurácia, completude e qualidade das citações. Essa abordagem multi-modelo gerou 13,8% de melhoria no benchmark DRACO de qualidade de pesquisa.
+Microsoft Copilot opera em dois contextos: como assistente integrado ao Microsoft 365 (Word, Excel, Teams, Outlook) e como busca generativa integrada ao Bing.
 
 Para empresas, o Copilot é relevante porque está embutido nas ferramentas que milhões de profissionais usam diariamente. Quando alguém pede ao Copilot no Teams "pesquise sobre [tema do seu setor]" ou no Word "encontre dados sobre [categoria]", a IA busca na web via Bing e seleciona fontes para citar. Otimizar para Bing, que tem mecânica semelhante ao Google, é otimizar para um canal de descoberta integrado ao workflow de milhões de empresas.
 
@@ -62,9 +62,9 @@ Com base em análises de comportamento de citação do Perplexity em 2026, os fa
 
 **Autoridade da fonte.** Domínios com alta autoridade, credenciais verificáveis e presença em fontes diversas recebem preferência. Rankings no Google impactam diretamente as citações no Perplexity.
 
-**Recência.** Conteúdo atualizado nos últimos 30 dias recebe 2,5x mais citações do Perplexity do que conteúdo atualizado há 90+ dias. Frescor é um sinal forte.
+**Recência.** Plataformas com busca em tempo real favorecem conteúdo atualizado recentemente. Frescor é um sinal forte.
 
-**Pesquisa original.** Perplexity cita pesquisa original em 73% das respostas a perguntas de negócios. Dados proprietários, estudos exclusivos e benchmarks são fortemente favorecidos.
+**Pesquisa original.** Dados proprietários, estudos exclusivos e benchmarks são fortemente favorecidos, porque trazem informação que não existe em outra fonte.
 
 **Clareza estrutural.** Conteúdo com H2/H3 claros, parágrafos autossuficientes e seções FAQ com respostas diretas é mais facilmente extraído e citado.
 
@@ -76,13 +76,13 @@ Claude opera com uma filosofia diferente que impacta diretamente como seleciona 
 
 ### Como Claude Processa e Cita Informações
 
-Claude utiliza uma abordagem de Constitutional AI que prioriza precisão e verificabilidade. Na prática, isso se traduz em: preferência por fontes com validação de terceiros (reviews, avaliações, menções em publicações independentes), menor dependência de volume de conteúdo e maior peso em consenso verificável, taxa de alucinação de apenas 3%, quando Claude cita, a informação tende a ser precisa.
+Claude utiliza uma abordagem de Constitutional AI que prioriza precisão e verificabilidade. Na prática, isso se traduz em: preferência por fontes com validação de terceiros (reviews, avaliações, menções em publicações independentes), menor dependência de volume de conteúdo e maior peso em consenso verificável.
 
 Claude tende a citar marcas com reputação consolidada e presença diversificada em fontes independentes. Não basta ter conteúdo no próprio site; é preciso que terceiros validem sua expertise. Reviews de clientes, menções em publicações setoriais, prêmios, certificações e reconhecimentos por pares são sinais que Claude valoriza.
 
 ### Diferenças em Relação ao ChatGPT
 
-As diferenças são significativas para quem otimiza. O ChatGPT varia mais por setor, em alguns nichos favorece sites oficiais, em outros puxa de fóruns e blogs. Claude é mais consistente: prioriza fontes com consenso verificável independentemente do setor. O ChatGPT alucina em citações com frequência significativamente maior (~13% vs 3% do Claude). Isso significa que citações do Claude são mais confiáveis, e ser citado pelo Claude carrega mais credibilidade.
+As diferenças são significativas para quem otimiza. O ChatGPT varia mais por setor, em alguns nichos favorece sites oficiais, em outros puxa de fóruns e blogs. Claude é mais consistente: prioriza fontes com consenso verificável independentemente do setor.
 
 Para empresas com marca consolidada, reviews positivos e presença em publicações do setor, Claude tende a ser um dos canais de maior retorno. A estratégia de otimização para Claude prioriza construção de reputação verificável sobre volume de conteúdo.
 
@@ -127,6 +127,13 @@ Segundo, volatilidade competitiva: o mercado de IAs de busca está em evolução
 Terceiro, efeito composto: a autoridade construída para uma plataforma beneficia as demais. Conteúdo citável no Perplexity reforça a presença no treinamento do ChatGPT. SEO forte para o Gemini melhora a indexação no Bing para o Copilot. Menções em fontes diversas beneficiam o Claude. A estratégia cross-platform gera retorno composto.
 
 Na experiência da TRIWI com mais de 50 clientes, os resultados mais expressivos em GEO vêm de estratégias multiplataforma. O Sem Parar, por exemplo, teve +350% de tráfego proveniente de LLMs, não de uma LLM específica, mas do ecossistema como um todo. A Valid registrou +700% pelo mesmo motivo: presença construída em múltiplas fontes, com conteúdo estruturado para citabilidade universal.
+
+## Fontes
+
+- [Perplexity: robôs de rastreamento](https://docs.perplexity.ai/guides/bots)
+- [OpenAI: robôs de rastreamento](https://developers.openai.com/api/docs/bots)
+- [Google Search Central: recursos de IA e o seu site](https://developers.google.com/search/docs/appearance/ai-features?hl=pt-br)
+- Resultados de clientes citados: [página de cases da TRIWI](https://triwi.com.br/cases/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 

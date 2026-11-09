@@ -2,7 +2,7 @@
 
 SEO para IA é o conjunto de práticas que posiciona sua marca, seus produtos e seu conteúdo nas respostas de inteligências artificiais generativas, ChatGPT, Google Gemini, Anthropic Claude e Perplexity. Diferente do SEO tradicional, onde o objetivo é aparecer na lista de resultados do Google, o SEO para IA tem um objetivo mais direto: ser a resposta que a IA entrega ao usuário, com ou sem link, quando ele pergunta sobre o seu setor.
 
-A pergunta que toda empresa deveria fazer em 2026 é simples: "Quando alguém pergunta ao ChatGPT sobre o que fazemos, nossa marca aparece?" Na maioria dos casos, a resposta é não. E isso significa que um canal com mais de 2,5 bilhões de prompts diários está recomendando concorrentes, ou simplesmente ignorando sua existência.
+A pergunta que toda empresa deveria fazer em 2026 é simples: "Quando alguém pergunta ao ChatGPT sobre o que fazemos, nossa marca aparece?" Na maioria dos casos, a resposta é não. E isso significa que um canal com mais de 2,5 bilhões de mensagens por dia está recomendando concorrentes, ou simplesmente ignorando sua existência.
 
 Este guia é focado na ação. Aqui você vai entender como cada LLM escolhe o que citar, quais estratégias colocam sua empresa nas respostas das IAs, quais são as diferenças entre plataformas e como medir sua presença nesse novo canal. A TRIWI, referência em [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md) no Brasil, compartilha as estratégias que aplicamos com mais de 50 clientes, gerando resultados como +350% de tráfego de LLMs para o Sem Parar e +1.100% para o Contato Seguro.
 
@@ -16,7 +16,7 @@ A forma como as pessoas buscam informação mudou. Não mais "abrir o Google, di
 
 Faça o teste agora. Abra o ChatGPT e pergunte: "Quais são as melhores empresas de [seu serviço] no Brasil?" ou "Como escolher uma [sua categoria de fornecedor]?" ou "Qual empresa é referência em [seu setor]?". Se sua marca não aparece, e as dos seus concorrentes aparecem, o problema não é falta de qualidade. É falta de otimização para o canal que está crescendo mais rápido na história da busca digital.
 
-O ChatGPT processa mais de 2,5 bilhões de prompts por dia em 2026. O Google Gemini serve 1,5 bilhão de usuários mensais via AI Overview. O Perplexity ultrapassou 780 milhões de consultas mensais. E a visibilidade nas IAs é binária: sua marca está na resposta ou não está. Não existe "posição 7"; existe citado ou invisível.
+O ChatGPT passou de 800 milhões de usuários por semana e de 2,5 bilhões de mensagens por dia em 2025 ([Business Insider](https://www.aol.com/articles/3-years-old-800-million-090107388.html)). No Google, o Gemini responde no topo da busca pelos AI Overviews e pelo AI Mode. E a visibilidade nas IAs é binária: sua marca está na resposta ou não está. Não existe "posição 7"; existe citado ou invisível.
 
 ### A Diferença Entre "Ser Encontrado no Google" e "Ser a Resposta da IA"
 
@@ -24,7 +24,7 @@ No Google, você compete por posição. O usuário vê sua página na lista, dec
 
 Na IA generativa, a mecânica é diferente. O usuário faz uma pergunta. A IA sintetiza informações de múltiplas fontes e entrega uma resposta em linguagem natural. Sua marca pode ser citada como fonte, recomendada como referência ou completamente ignorada. Não há segunda página. Não há "próximos resultados". A IA entrega a resposta e o usuário segue.
 
-Isso muda a equação de visibilidade. No Google, estar no Top 10 já é valioso. Na IA, estar fora da resposta é como não existir. E com 60% das buscas no Google já terminando sem clique (zero-click searches) e o AI Overview reduzindo o CTR na posição 1 orgânica para apenas 2,6%, a tendência é clara: o tráfego está migrando para respostas diretas. Quem não se adapta, perde.
+Isso muda a equação de visibilidade. No Google, estar no Top 10 já é valioso. Na IA, estar fora da resposta é como não existir. E com boa parte das buscas no Google já terminando sem clique e o AI Overview derrubando em 61% o CTR orgânico nas buscas em que aparece ([Seer Interactive](https://www.seerinteractive.com/insights/aio-impact-on-google-ctr-september-2025-update)), a tendência é clara: o tráfego está migrando para respostas diretas. Quem não se adapta, perde.
 
 ---
 
@@ -72,7 +72,7 @@ A forma mais direta de ser citado por uma IA é oferecer a melhor resposta dispo
 
 Na prática, isso significa abrir cada seção com uma definição clara e direta ("SEO para IA é o conjunto de práticas que..."), usar formato de pergunta e resposta naturalmente no texto, estruturar o conteúdo com headings que refletem as perguntas que usuários fazem às IAs, e garantir que cada parágrafo possa funcionar como snippet, uma resposta completa que faz sentido isoladamente.
 
-Pesquisas demonstram que técnicas específicas de otimização para citabilidade podem aumentar a visibilidade em respostas de IAs generativas em até 40%. A diferença entre ser citado e ser ignorado frequentemente está na estrutura do conteúdo, não na qualidade da informação. Duas páginas podem ter a mesma informação, a IA cita aquela que apresenta de forma mais clara e direta.
+O [estudo que formalizou o termo GEO](https://doi.org/10.1145/3637528.3671900) demonstrou que técnicas específicas de otimização para citabilidade podem aumentar a visibilidade em respostas de IAs generativas em até 40%. A diferença entre ser citado e ser ignorado frequentemente está na estrutura do conteúdo, não na qualidade da informação. Duas páginas podem ter a mesma informação, a IA cita aquela que apresenta de forma mais clara e direta.
 
 Na TRIWI, cada peça de [conteúdo citável](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md) que produzimos para clientes segue esse princípio: definição primeiro, aprofundamento depois. É uma inversão da lógica jornalística tradicional, e funciona tanto para IAs quanto para leitores humanos.
 
@@ -116,30 +116,30 @@ Nem toda LLM funciona da mesma forma. Cada plataforma tem seu próprio modelo de
 
 ### Como Cada LLM Busca e Cita Informações
 
-**ChatGPT (OpenAI):** O modelo mais utilizado, com mais de 800 milhões de usuários semanais e 60,7% do tráfego de busca via IA. Combina conhecimento treinado com busca web via RAG, acionada em aproximadamente 31% dos prompts. Suas citações variam por setor, em alguns nichos, favorece sites oficiais; em outros, puxa de fóruns e reviews. A acurácia de citação do GPT-5.2 é de aproximadamente 87%.
+**ChatGPT (OpenAI):** O modelo mais utilizado, com mais de 800 milhões de usuários semanais em 2025. Combina conhecimento treinado com busca web, acionada quando a pergunta pede informação atual. Suas citações variam por setor, em alguns nichos, favorece sites oficiais; em outros, puxa de fóruns e reviews.
 
-**Google Gemini:** Integrado diretamente ao Google Search através do AI Overview, que já aparece em mais de 50% das buscas. Gemini tem acesso ao índice completo do Google, a maior vantagem competitiva. Tende a favorecer sites oficiais e fontes com alta autoridade de domínio. Porém, apresenta taxa de alucinação em citações de 18%, a mais alta entre as principais plataformas.
+**Google Gemini:** Integrado diretamente ao Google Search através dos AI Overviews e do AI Mode. Gemini tem acesso ao índice completo do Google, a maior vantagem competitiva. Tende a favorecer sites oficiais e fontes com alta autoridade de domínio.
 
-**Anthropic Claude:** Diferencia-se pela abordagem de Constitutional AI, priorizando conteúdo validado por usuários, reviews e fontes com consenso verificável. Tem a menor taxa de alucinação em citações entre as grandes LLMs, apenas 3%. Para empresas, isso significa que Claude tende a citar marcas com presença consolidada em reviews e validação de terceiros.
+**Anthropic Claude:** Diferencia-se pela abordagem de Constitutional AI, priorizando conteúdo validado por usuários, reviews e fontes com consenso verificável. Para empresas, isso significa que Claude tende a citar marcas com presença consolidada em reviews e validação de terceiros.
 
-**Perplexity:** Opera como um motor de busca generativo; cada consulta aciona busca web em tempo real. É a plataforma com maior transparência de citação (94,3% de acurácia) e inclui links para fontes em todas as respostas. O comportamento de citação é consistente entre setores: puxa de sites oficiais, diretórios e publicações especializadas com estabilidade.
+**Perplexity:** Opera como um motor de busca generativo; cada consulta aciona busca web em tempo real. Inclui links para fontes em todas as respostas. O comportamento de citação é consistente entre setores: puxa de sites oficiais, diretórios e publicações especializadas com estabilidade.
 
-| Plataforma | Busca em tempo real | Acurácia de citação | Tendência de fonte |
-|---|---|---|---|
-| ChatGPT | ~31% dos prompts | ~87% | Varia por setor |
-| Gemini | Via Google Search | ~82% | Sites oficiais, alta DA |
-| Claude | Seletiva | ~97% | Reviews, consenso verificável |
-| Perplexity | 100% das consultas | ~94% | Mix estável: oficiais + diretórios |
+| Plataforma | Busca em tempo real | Tendência de fonte |
+|---|---|---|
+| ChatGPT | Quando a pergunta pede informação atual | Varia por setor |
+| Gemini | Via Google Search | Sites oficiais, alta autoridade |
+| Claude | Seletiva | Reviews, consenso verificável |
+| Perplexity | Em todas as consultas | Mix estável: oficiais e diretórios |
 
 ### Onde Focar Primeiro
 
 A resposta depende do seu público e do seu setor, mas a recomendação geral para empresas B2B e de serviços no Brasil segue esta prioridade:
 
-**Primeiro: ChatGPT.** Volume dominante (60,7% do tráfego de busca via IA) e base de usuários massiva. É onde a maioria dos decisores está fazendo consultas. Otimize para citabilidade geral, definições claras, dados quantitativos, presença em fontes diversas.
+**Primeiro: ChatGPT.** Volume dominante e base de usuários massiva. É onde a maioria dos decisores está fazendo consultas. Otimize para citabilidade geral, definições claras, dados quantitativos, presença em fontes diversas.
 
-**Segundo: Google Gemini / AI Overview.** Integrado ao Google, que ainda domina 90% das buscas tradicionais. [AI Overviews](ai-overviews-o-que-sao-e-como-otimizar.md) aparecem em mais de 50% das buscas, otimizar para eles é otimizar para o futuro do Google. A boa notícia: o que funciona para SEO tende a funcionar para o AI Overview.
+**Segundo: Google Gemini / AI Overview.** Integrado ao Google, que concentra cerca de 90% das buscas. Os [AI Overviews](ai-overviews-o-que-sao-e-como-otimizar.md) aparecem em uma parte crescente das buscas, e otimizar para eles é otimizar para o futuro do Google. A boa notícia: o que funciona para SEO tende a funcionar para o AI Overview.
 
-**Terceiro: Perplexity.** Crescimento acelerado (45 milhões de usuários ativos, 780 milhões de consultas mensais), com o público mais orientado a pesquisa e comparação. Excelente para empresas que vendem via conteúdo consultivo. Como busca na web em tempo real para cada consulta, conteúdo atualizado e bem indexado é diretamente recompensado.
+**Terceiro: Perplexity.** Crescimento acelerado, com o público mais orientado a pesquisa e comparação. Excelente para empresas que vendem via conteúdo consultivo. Como busca na web em tempo real para cada consulta, conteúdo atualizado e bem indexado é diretamente recompensado.
 
 **Quarto: Claude.** Público mais técnico e especializado. A menor taxa de alucinação o torna referência para consultas que exigem precisão. Otimize presença em reviews e fontes com validação de terceiros.
 
@@ -172,6 +172,16 @@ Além disso, plataformas de analytics como o Google Analytics já permitem ident
 A fórmula conceitual é direta: de todas as vezes que um usuário pergunta a uma IA sobre o seu setor, em quantas respostas sua marca é citada? Se são 100 queries relevantes e sua marca aparece em 15 respostas, seu Share of Model é 15%. Se o concorrente aparece em 40, o Share of Model dele é 40%.
 
 A TRIWI utiliza o Share of Model como métrica central de GEO desde o início da operação com cada cliente. É a métrica que traduz "visibilidade nas IAs" em um número gerenciável, e que permite definir metas, acompanhar evolução e comparar com concorrentes. Quando reportamos que o Sem Parar teve +350% de tráfego de LLMs ou que a Valid teve +700%, o Share of Model é o indicador que sustenta esses resultados.
+
+## Fontes
+
+- [GEO: Generative Engine Optimization (KDD 2024)](https://doi.org/10.1145/3637528.3671900): o estudo que formalizou o termo
+- [Business Insider: usuários e volume de mensagens do ChatGPT (2025)](https://www.aol.com/articles/3-years-old-800-million-090107388.html)
+- [Seer Interactive: impacto dos AI Overviews no CTR do Google (novembro de 2025)](https://www.seerinteractive.com/insights/aio-impact-on-google-ctr-september-2025-update)
+- [StatCounter: participação no mercado de buscas](https://gs.statcounter.com/search-engine-market-share)
+- [Google Search Central: recursos de IA e o seu site](https://developers.google.com/search/docs/appearance/ai-features?hl=pt-br)
+- [OpenAI: robôs de rastreamento](https://developers.openai.com/api/docs/bots)
+- Resultados de clientes citados: [página de cases da TRIWI](https://triwi.com.br/cases/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 

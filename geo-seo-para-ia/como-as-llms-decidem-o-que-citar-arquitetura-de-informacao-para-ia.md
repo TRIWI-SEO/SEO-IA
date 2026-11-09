@@ -16,7 +16,7 @@ O conhecimento de uma LLM tem duas origens distintas: o treinamento (pre-trainin
 
 No pre-training, o modelo "lê" trilhões de tokens de texto da internet e aprende padrões de linguagem, relações entre conceitos e informações factuais. É nesse estágio que a LLM adquire a maioria do seu conhecimento factual e de senso comum.
 
-As fontes de treinamento incluem: Common Crawl (corpus aberto com centenas de terabytes de texto da web, o crawl de março de 2026 contém ~344,6 TiB de texto de 1,97 bilhão de páginas), Wikipedia (5,08 bilhões de palavras em inglês em janeiro de 2026, fonte canônica de conhecimento enciclopédico), repositórios de código (GitHub e similares), publicações acadêmicas e livros, artigos de imprensa e publicações setoriais, e fóruns e comunidades (Reddit, Stack Overflow, Quora).
+As fontes de treinamento incluem: [Common Crawl](https://commoncrawl.org/) (corpus aberto com bilhões de páginas da web a cada coleta), Wikipedia (fonte canônica de conhecimento enciclopédico), repositórios de código (GitHub e similares), publicações acadêmicas e livros, artigos de imprensa e publicações setoriais, e fóruns e comunidades (Reddit, Stack Overflow, Quora).
 
 Os modelos mais recentes, DeepSeek v3, Gemma 3, Llama 4, Qwen 3, foram treinados em 14 a 36 trilhões de tokens. É um volume massivo que determina o "conhecimento base" do modelo: tudo o que ele sabe sem precisar buscar na web.
 
@@ -28,7 +28,7 @@ RAG é o mecanismo que permite que LLMs complementem o conhecimento treinado com
 
 O processo RAG opera em três etapas. **Recuperação (Retrieval):** o sistema converte a query em embeddings semânticos e busca documentos com alta similaridade semântica, não apenas correspondência de keywords, mas proximidade de significado. **Re-rankeamento (Reranking):** os documentos recuperados são avaliados por relevância, autoridade e qualidade. Nem todo documento recuperado será utilizado, o re-rankeamento filtra os melhores candidatos. **Geração (Generation):** a LLM sintetiza a resposta usando os documentos selecionados, podendo citar diretamente a fonte ou parafrasear a informação.
 
-Plataformas diferentes usam RAG de formas distintas: o [Perplexity](otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md) busca na web para 100% das consultas, o ChatGPT aciona busca em ~31% dos prompts, o Gemini busca via Google Search para queries com AI Overview, e o Claude aciona busca de forma seletiva. Essas diferenças impactam diretamente a estratégia de otimização.
+Plataformas diferentes usam RAG de formas distintas: o [Perplexity](otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md) busca na web para 100% das consultas, o ChatGPT aciona busca quando a pergunta pede informação atual, o Gemini busca via Google Search para queries com AI Overview, e o Claude aciona busca de forma seletiva. Essas diferenças impactam diretamente a estratégia de otimização.
 
 ### A Combinação de Memória Treinada + Busca ao Vivo
 
@@ -54,17 +54,17 @@ Além do volume de busca, sinais de autoridade incluem: autoridade de domínio (
 
 Quando múltiplas fontes independentes afirmam o mesmo fato ou mencionam a mesma marca em contexto similar, a LLM atribui maior confiança a essa informação. É o princípio de "validação por consenso": se 10 fontes diferentes dizem que a empresa X é referência no setor Y, a LLM incorpora essa associação com alta confiança.
 
-Marcas presentes em 4 ou mais plataformas diferentes têm 2,8x mais probabilidade de aparecer nas respostas do ChatGPT do que marcas com presença em uma única plataforma. A diversificação de presença, site próprio, LinkedIn, publicações setoriais, diretórios, fóruns, imprensa, é um multiplicador de consenso.
+Marcas presentes em várias plataformas diferentes tendem a aparecer mais nas respostas do ChatGPT do que marcas com presença em uma única plataforma. A diversificação de presença, site próprio, LinkedIn, publicações setoriais, diretórios, fóruns, imprensa, é um multiplicador de consenso.
 
 ### Estrutura e Clareza do Conteúdo
 
-A forma como o conteúdo é estruturado impacta diretamente a citabilidade. Fontes com chunks autossuficientes de 50 a 150 palavras recebem 2,3x mais citações do que conteúdo longo e não estruturado. A razão é mecânica: o sistema de RAG avalia chunks semânticos (trechos de conteúdo), não páginas inteiras. Se o chunk é claro, completo e responde à query, ele é selecionado. Se é ambíguo, fragmentado ou dependente do contexto, é descartado.
+A forma como o conteúdo é estruturado impacta diretamente a citabilidade. Trechos autossuficientes, de 50 a 150 palavras, são mais fáceis de citar do que conteúdo longo e não estruturado. A razão é mecânica: o sistema de RAG avalia chunks semânticos (trechos de conteúdo), não páginas inteiras. Se o chunk é claro, completo e responde à query, ele é selecionado. Se é ambíguo, fragmentado ou dependente do contexto, é descartado.
 
 [Conteúdo citável](conteudo-citavel-como-escrever-para-ser-referenciado-por-llms.md), com definições claras, parágrafos autossuficientes, headings descritivos e formato Q&A, é estruturalmente otimizado para o mecanismo de seleção de chunks das LLMs.
 
 ### Recência e Atualidade
 
-Para queries que exigem informação atualizada, a recência é sinal decisivo. No Perplexity, conteúdo atualizado nos últimos 30 dias recebe 2,5x mais citações. Modelos que usam RAG priorizam fontes frescas quando a query implica necessidade de dados recentes.
+Para queries que exigem informação atualizada, a recência é sinal decisivo. Plataformas que buscam em tempo real, como o Perplexity, favorecem conteúdo atualizado recentemente. Modelos que usam RAG priorizam fontes frescas quando a query implica necessidade de dados recentes.
 
 Manter conteúdo atualizado, com `dateModified` no [Schema markup](dados-estruturados-para-ia-schema-markup-na-era-generativa.md), dados revisados periodicamente e referências atuais, é requisito para visibilidade contínua. Conteúdo "evergreen" em conceito mas desatualizado em dados perde citabilidade progressivamente.
 
@@ -72,7 +72,7 @@ Manter conteúdo atualizado, com `dateModified` no [Schema markup](dados-estrutu
 
 A IA efetivamente distingue entre afirmações com e sem evidência. "A empresa X é líder no mercado" é menos citável que "A empresa X influenciou R$ 2 bilhões+ em receita e tem 100% dos clientes no Top 3 do Google". Dados concretos são informação verificável que a LLM pode extrair e apresentar com confiança. Afirmações vagas são ruído que a LLM descarta em favor de fontes mais substanciadas.
 
-Pesquisa original é especialmente valorizada: o Perplexity cita dados de pesquisa original em 73% das respostas a perguntas de negócios. Empresas que produzem dados próprios, benchmarks, estudos, métricas consolidadas, têm vantagem estrutural na citabilidade.
+Pesquisa original é especialmente valorizada, porque traz informação que não existe em outra fonte. Empresas que produzem dados próprios, benchmarks, estudos, métricas consolidadas, têm vantagem estrutural na citabilidade.
 
 ---
 
@@ -126,6 +126,15 @@ A [estratégia de E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para
 LLMs atribuem maior confiança a informações que aparecem de forma consistente em múltiplas fontes ao longo do tempo. Se sua marca é mencionada como referência no setor Y em um artigo de imprensa em janeiro, em uma publicação setorial em março, em um post de LinkedIn em maio e em um fórum em julho, a LLM acumula esses sinais e constrói uma associação sólida: "marca X = referência em Y".
 
 Consistência é diferente de repetição mecânica. Não é publicar o mesmo texto em 10 lugares. É estar presente em contextos diversos, imprensa, setor, comunidade, academia, diretórios, com informação coerente e complementar. Cada menção reforça as demais. É construção de autoridade de entidade ao longo do tempo, e é uma das razões pelas quais os clientes da TRIWI permanecem conosco por 3,5 anos em média: os resultados em SEO e GEO são cumulativos.
+
+## Fontes
+
+- [GEO: Generative Engine Optimization (KDD 2024)](https://doi.org/10.1145/3637528.3671900): o estudo que formalizou o termo
+- [Common Crawl](https://commoncrawl.org/)
+- [Google Search Central: recursos de IA e o seu site](https://developers.google.com/search/docs/appearance/ai-features?hl=pt-br)
+- [OpenAI: robôs de rastreamento](https://developers.openai.com/api/docs/bots)
+- [Perplexity: robôs de rastreamento](https://docs.perplexity.ai/guides/bots)
+- Resultados de clientes citados: [página de cases da TRIWI](https://triwi.com.br/cases/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 

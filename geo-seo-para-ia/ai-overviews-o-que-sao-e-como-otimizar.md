@@ -2,7 +2,7 @@
 
 AI Overviews são respostas geradas por inteligência artificial que aparecem no topo dos resultados do Google, acima dos links orgânicos tradicionais, acima dos anúncios, acima de tudo. Quando ativados, sintetizam informações de múltiplas fontes da web e entregam uma resposta em linguagem natural diretamente na página de resultados, com links para as fontes citadas.
 
-Em março de 2026, AI Overviews aparecem em 48% de todas as buscas no Google, acima dos 34,5% em dezembro de 2025 e dos 31% em fevereiro de 2025. A trajetória é clara e ascendente. E o impacto no SEO é profundo: quando um AI Overview aparece, o CTR orgânico da posição 1 cai entre 34% e 61%, dependendo do setor. Para empresas que dependem de tráfego orgânico, ignorar AI Overviews não é uma opção; é um risco operacional.
+Os AI Overviews aparecem em uma parte crescente das buscas no Google, e o impacto no SEO é profundo: um estudo da [Seer Interactive](https://www.seerinteractive.com/insights/aio-impact-on-google-ctr-september-2025-update) mediu queda de 61% no CTR orgânico em buscas com AI Overview, entre junho de 2024 e setembro de 2025. Para empresas que dependem de tráfego orgânico, ignorar AI Overviews não é uma opção; é um risco operacional.
 
 Este guia cobre o que são AI Overviews, como impactam o SEO, quais estratégias de otimização funcionam e como monitorar sua presença nesse novo formato. A TRIWI tem resultados concretos nesta área: o Sem Parar alcançou +6.400% de crescimento em AI Overviews e a Valid/Flexdoc registrou +2.000%, resultados da estratégia integrada de [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md) que aplicamos com mais de 50 clientes.
 
@@ -24,13 +24,13 @@ AI Overviews são a evolução do SGE (Search Generative Experience), que o Goog
 
 A expansão foi rápida. Em agosto de 2024, AI Overviews chegaram ao Brasil, junto com Reino Unido, Índia, Japão, Indonésia e México. Em maio de 2025, o recurso já estava disponível em mais de 200 países e territórios, em mais de 40 idiomas, incluindo português. No Brasil, a funcionalidade opera com suporte completo ao português e já se integrou ao Google Lens para consultas visuais.
 
-A trajetória de expansão indica que AI Overviews não são um experimento; são o novo padrão da busca no Google. A participação nos resultados cresceu de 31% em fevereiro de 2025 para 48% em março de 2026. A projeção é que mais de 50% de todas as buscas no Google exibirão AI Overviews até o final de 2026.
+A trajetória de expansão indica que AI Overviews não são um experimento; são o novo padrão da busca no Google, com presença crescente nos resultados desde o lançamento.
 
 ### Em Quais Buscas Aparecem
 
 AI Overviews não aparecem em todas as buscas, mas aparecem na maioria. A incidência varia significativamente por setor e tipo de query.
 
-Por setor, as verticais com maior presença de AI Overviews incluem: Healthcare (88% das buscas), Educação (83%), B2B Tech (82%), e categorias informacionais e de pesquisa. Setores transacionais puros (e-commerce com intenção de compra imediata) tendem a ter menor incidência, o Google ainda prioriza resultados de produto e Shopping para queries transacionais.
+Por setor, a presença de AI Overviews é maior em buscas informacionais e de pesquisa, como saúde, educação e tecnologia B2B. Setores transacionais puros (e-commerce com intenção de compra imediata) tendem a ter menor incidência, o Google ainda prioriza resultados de produto e Shopping para queries transacionais.
 
 Por tipo de busca, AI Overviews aparecem com maior frequência em queries informacionais ("o que é", "como funciona", "qual a diferença entre"), queries de comparação ("X vs Y", "melhor opção para") e queries de how-to ("como fazer", "passo a passo"). Queries navegacionais (onde o usuário busca um site específico) e queries transacionais de alta intenção ("comprar X") têm menor incidência.
 
@@ -44,13 +44,13 @@ AI Overviews não eliminam o SEO, mas mudam a dinâmica de visibilidade e tráfe
 
 ### Mudança no CTR: Menos Cliques no Primeiro Resultado Orgânico?
 
-Os dados são inequívocos: AI Overviews reduzem significativamente o CTR orgânico. Um estudo da Seer Interactive de setembro de 2025 revelou que o CTR orgânico caiu 61% (de 1,76% para 0,61%) em queries com AI Overview. Dados da SISTRIX na Alemanha mostram que o CTR na posição 1 cai de 27% para 11% quando um AI Overview aparece, uma queda de quase 60%. Estudos adicionais reportam reduções de 34% a 58% dependendo do setor e da metodologia.
+Os dados são inequívocos: AI Overviews reduzem significativamente o CTR orgânico. Um estudo da [Seer Interactive](https://www.seerinteractive.com/insights/aio-impact-on-google-ctr-september-2025-update) publicado em novembro de 2025 mediu queda de 61% no CTR orgânico (de 1,76% para 0,61%) em queries com AI Overview, entre junho de 2024 e setembro de 2025. Outros estudos de mercado apontam na mesma direção, com variação por setor e metodologia.
 
-A razão é estrutural: buscas com AI Overview têm taxa de zero-click de 83%, ou seja, 8 em cada 10 usuários obtêm sua resposta diretamente no AI Overview sem clicar em nenhum resultado. Compare com a taxa de zero-click de ~60% em buscas tradicionais (sem AI Overview) e a dimensão do impacto fica clara.
+A razão é estrutural: quando a resposta aparece pronta no topo, boa parte dos usuários resolve a dúvida ali mesmo, sem clicar em nenhum resultado.
 
 ### Novas Oportunidades: Ser a Fonte Citada pela IA do Google
 
-A redução de cliques é real, mas existe uma contrapartida poderosa: ser citado no AI Overview gera mais cliques do que não ser citado. Dados mostram que quando sua marca é citada como fonte no AI Overview, o tráfego orgânico para aquela página pode aumentar entre 2% e 5%. Mais especificamente: sites citados em AI Overviews recebem 35% mais cliques orgânicos do que quando não são citados.
+A redução de cliques é real, mas existe uma contrapartida: ser citado no AI Overview é melhor do que não ser. No mesmo estudo da Seer Interactive, marcas citadas como fonte no AI Overview receberam 35% mais cliques orgânicos do que as não citadas (média do 3º trimestre de 2025). Os autores ressaltam que é associação, não necessariamente causa.
 
 A lógica é que a citação no AI Overview funciona como um selo de endosso do Google. O usuário vê a resposta, confia na fonte que o Google escolheu citar e clica para aprofundar. É um clique de maior qualidade, um usuário pré-qualificado pela recomendação da IA.
 
@@ -84,7 +84,7 @@ Formatos que o Gemini favorece incluem: definições diretas ("X é Y que Z"), l
 
 ### Dados e Estatísticas Que a IA Pode Extrair
 
-Páginas com pelo menos 3 pontos de dados únicos (resultados de pesquisa original, dados proprietários, estudos de caso exclusivos) têm 4x mais probabilidade de serem citadas em AI Overviews do que páginas sem dados quantitativos. O Gemini, assim como outras LLMs, prioriza conteúdo com números verificáveis.
+Páginas com dados únicos (resultados de pesquisa original, dados proprietários, estudos de caso exclusivos) tendem a ser mais citadas em AI Overviews do que páginas sem dados quantitativos. O Gemini, assim como outras LLMs, prioriza conteúdo com números verificáveis.
 
 Dados próprios são especialmente valiosos. Quando a TRIWI cita que "o Sem Parar teve +6.400% de crescimento em AI Overviews" ou que "100% dos nossos clientes chegaram ao Top 3 do Google", esses dados são únicos, não existem em outra fonte. Para o Gemini, isso representa informação nova (information gain) que vale a pena citar.
 
@@ -92,7 +92,7 @@ A implicação para sua empresa: produza dados. Pesquisas de mercado, benchmarks
 
 ### Schema Markup Relevante
 
-[Dados estruturados](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) (Schema markup) comunicam ao Gemini o significado do conteúdo de forma explícita. Em 2026, a implementação avançada de Schema, com entity-linking via propriedades SameAs e MainEntityOfPage, pode aumentar a probabilidade de citação em AI Overviews em até 200%, segundo estudos recentes.
+[Dados estruturados](dados-estruturados-para-ia-schema-markup-na-era-generativa.md) (Schema markup) comunicam ao Gemini o significado do conteúdo de forma explícita. A implementação de Schema com entity-linking, via propriedades sameAs e mainEntityOfPage, ajuda o Gemini a identificar a entidade sem ambiguidade.
 
 Os tipos de Schema com maior impacto para AI Overviews incluem: Article (autoria e tema do conteúdo), Organization (identidade da empresa), BreadcrumbList (hierarquia do site) e, para quem vende, Product e Review. FAQPage e HowTo podem continuar no código, mas o Google não exibe mais resultado enriquecido para eles (HowTo desde 2023, FAQ desde 7 de maio de 2026): o que conta é a pergunta, a resposta e os passos visíveis no texto. A combinação de múltiplos tipos de Schema em uma única página, Article + Organization + BreadcrumbList, por exemplo, aumenta a riqueza de sinais que o Gemini pode interpretar.
 
@@ -149,6 +149,13 @@ A maioria das empresas brasileiras ainda não otimiza especificamente para AI Ov
 Isso cria uma janela de oportunidade para empresas que agem agora. Com menos competição na otimização para AI Overviews, o custo de conquistar citações é menor e o impacto relativo é maior. Conforme mais empresas reconheçam a importância desse formato, e inevitavelmente reconhecerão, a competição por citações vai aumentar e a vantagem dos primeiros vai se consolidar.
 
 A TRIWI identificou e explorou essa oportunidade desde o lançamento dos AI Overviews no Brasil. Os resultados falam por si: o Sem Parar alcançou +6.400% de crescimento em AI Overviews com a estratégia GEO da TRIWI. A Valid/Flexdoc registrou +2.000%. Esses resultados vêm da combinação de conteúdo estruturado para citabilidade, dados estruturados avançados e construção de autoridade de entidade, aplicados de forma integrada com a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) de 12 etapas e 300+ atividades.
+
+## Fontes
+
+- [Seer Interactive: impacto dos AI Overviews no CTR do Google (novembro de 2025)](https://www.seerinteractive.com/insights/aio-impact-on-google-ctr-september-2025-update)
+- [Google Search Central: recursos de IA e o seu site](https://developers.google.com/search/docs/appearance/ai-features?hl=pt-br)
+- [Google Search Central: dados estruturados de FAQ](https://developers.google.com/search/docs/appearance/structured-data/faqpage)
+- Resultados de clientes citados: [página de cases da TRIWI](https://triwi.com.br/cases/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 

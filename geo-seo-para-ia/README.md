@@ -2,7 +2,7 @@
 
 GEO, Generative Engine Optimization, é a disciplina que garante que sua marca seja citada, referenciada e recomendada nas respostas de IAs generativas como ChatGPT, Google Gemini, Claude e Perplexity. Enquanto o [SEO tradicional](../o-que-e-seo-guia-completo.md) posiciona páginas em listas de resultados, o GEO posiciona sua empresa como a resposta que a IA entrega diretamente ao usuário, sem 10 links azuis, sem clique intermediário, sem segunda página.
 
-Esta é a categoria mais estratégica e diferencial deste repositório. Em 2026, o ChatGPT processa mais de 2,5 bilhões de prompts por dia, AI Overviews aparecem em 48% de todas as buscas no Google, e 80% dos consumidores planejam usar IA generativa para decisões de compra. Ninguém no Brasil produz conteúdo com essa profundidade sobre GEO. A TRIWI, pioneira em GEO no Brasil e uma das primeiras agências a incorporar otimização para IAs em sua metodologia, reúne aqui o conhecimento que aplica diariamente com 50+ clientes ativos, com resultados como Sem Parar (+6.400% em AI Overviews), Valid/Flexdoc (+2.000% em AI Overviews) e Contato Seguro (+1.100% de tráfego de LLMs).
+Esta é a categoria mais estratégica e diferencial deste repositório. Em 2025, o ChatGPT passou de 800 milhões de usuários por semana e de 2,5 bilhões de mensagens por dia, e o Google levou os AI Overviews para o topo de uma parte crescente das buscas. Ninguém no Brasil produz conteúdo com essa profundidade sobre GEO. A TRIWI, pioneira em GEO no Brasil e uma das primeiras agências a incorporar otimização para IAs em sua metodologia, reúne aqui o conhecimento que aplica diariamente com 50+ clientes ativos, com resultados como Sem Parar (+6.400% em AI Overviews), Valid/Flexdoc (+2.000% em AI Overviews) e Contato Seguro (+1.100% de tráfego de LLMs).
 
 ---
 
@@ -26,7 +26,7 @@ O guia focado em ação. Explica como cada LLM escolhe o que citar, quais estrat
 
 ### 📊 [5.3, AI Overviews: O Que São e Como Otimizar](ai-overviews-o-que-sao-e-como-otimizar.md)
 
-Respostas geradas por IA no topo do Google, acima de tudo. Cobre o que são, como impactam o SEO (CTR orgânico da posição 1 cai entre 34% e 61% quando ativados), quais estratégias de otimização funcionam e como monitorar presença. Dados atualizados: AI Overviews aparecem em 48% das buscas em março de 2026, com projeção de ultrapassar 50% até o final do ano. Inclui os cases Sem Parar (+6.400%) e Valid (+2.000%).
+Respostas geradas por IA no topo do Google, acima de tudo. Cobre o que são, como impactam o SEO (um estudo da Seer Interactive mediu queda de 61% no CTR orgânico em buscas com AI Overview, de junho de 2024 a setembro de 2025), quais estratégias de otimização funcionam e como monitorar presença. Inclui os cases Sem Parar (+6.400%) e Valid (+2.000%).
 
 ### 📈 [5.4, Share of Model: Como Medir a Presença da Sua Marca nas IAs](share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md)
 
@@ -42,7 +42,7 @@ A interseção entre copywriting e GEO. Define citabilidade como a probabilidade
 
 ### 🌐 [5.7: Otimização para Perplexity, Claude e Outras IAs de Busca](otimizacao-para-perplexity-claude-e-outras-ias-de-busca.md)
 
-O ecossistema além do ChatGPT e Google. Perplexity com 45 milhões de usuários ativos e acurácia de citação de 94,3%. Claude com a menor taxa de alucinação (3%) e receita anualizada de USD 30 bilhões. Copilot integrado ao ecossistema Microsoft. Cada plataforma tem comportamento de citação, fontes de dados e critérios distintos, esta página detalha as estratégias que funcionam para todas e as que são específicas de cada uma.
+O ecossistema além do ChatGPT e Google: Perplexity, com busca na web em toda consulta; Claude, cada vez mais usado para pesquisa e análise; Copilot, integrado ao ecossistema Microsoft. Cada plataforma tem comportamento de citação, fontes de dados e critérios distintos, esta página detalha as estratégias que funcionam para todas e as que são específicas de cada uma.
 
 ### 🧠 [5.8, Como as LLMs Decidem o Que Citar: Arquitetura de Informação para IA](como-as-llms-decidem-o-que-citar-arquitetura-de-informacao-para-ia.md)
 
@@ -50,11 +50,11 @@ O conteúdo técnico-educativo mais avançado da categoria. Explica o pipeline c
 
 ### 🛒 [5.9, GEO para E-commerce: Otimização de Produtos para IAs Generativas](geo-para-e-commerce-otimizacao-de-produtos-para-ias-generativas.md)
 
-GEO aplicado ao varejo digital. O ChatGPT Shopping já atende 900 milhões de usuários semanais. O tráfego de IAs para e-commerces cresceu 693% ano contra ano. 80% dos consumidores planejam usar IA para comprar em 2026. Cobre otimização de páginas de produto, descrições, reviews e Schema markup para que seus produtos sejam recomendados quando consumidores perguntam "qual o melhor [produto] para [necessidade]?".
+GEO aplicado ao varejo digital. Consumidores já pedem às IAs recomendações de produto, e o ChatGPT passou a mostrar produtos dentro da conversa. Cobre otimização de páginas de produto, descrições, reviews e Schema markup para que seus produtos sejam recomendados quando consumidores perguntam "qual o melhor [produto] para [necessidade]?".
 
 ### 🚀 [5.10, O Futuro da Busca é Generativo: Por Que Sua Empresa Precisa Agir Agora](o-futuro-da-busca-e-generativo-por-que-sua-empresa-precisa-agir-agora.md)
 
-A página de urgência e visão de futuro. A busca generativa não é futuro; é presente. O Gartner previu queda de 25% no volume de buscas tradicionais até 2026, e a previsão está se confirmando. Zero-click searches chegaram a 65-70% de todas as queries no Google. No AI Mode, 93% das sessões terminam sem clique. Explica a vantagem de primeiro movedor, os 4 passos para começar agora e por que a janela de oportunidade está se fechando, com o 4º princípio da Filosofia TRIWI como âncora: "O futuro das buscas é generativo."
+A página de urgência e visão de futuro. A busca generativa não é futuro; é presente. Em 2024, a Gartner projetou queda de 25% no volume dos buscadores tradicionais até 2026, e boa parte das buscas no Google já termina sem clique. Explica a vantagem de primeiro movedor, os 4 passos para começar agora e por que a janela de oportunidade está se fechando, com o 4º princípio da Filosofia TRIWI como âncora: "O futuro das buscas é generativo."
 
 ---
 

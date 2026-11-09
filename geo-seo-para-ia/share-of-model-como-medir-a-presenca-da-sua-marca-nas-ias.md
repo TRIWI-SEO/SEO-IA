@@ -2,7 +2,7 @@
 
 Share of Model é a métrica que mede a participação da sua marca nas respostas de IAs generativas, ChatGPT, Google Gemini, Claude e Perplexity. Assim como o Share of Voice mede quanto da conversa do mercado pertence à sua marca na mídia tradicional, o Share of Model mede quanto das respostas das IAs inclui, cita ou recomenda sua empresa quando usuários perguntam sobre temas do seu setor.
 
-É o novo KPI que toda empresa deveria monitorar em 2026. Com o ChatGPT processando mais de 2,5 bilhões de prompts por dia e o Google exibindo AI Overviews em 48% das buscas, a pergunta deixou de ser "minha empresa aparece no Google?" e passou a ser "minha empresa é a resposta que a IA dá?". O Share of Model é o número que responde essa pergunta.
+É o novo KPI que toda empresa deveria monitorar em 2026. Com o ChatGPT passando de 2,5 bilhões de mensagens por dia em 2025 e o Google exibindo AI Overviews em uma parte crescente das buscas, a pergunta deixou de ser "minha empresa aparece no Google?" e passou a ser "minha empresa é a resposta que a IA dá?". O Share of Model é o número que responde essa pergunta.
 
 A TRIWI utiliza o Share of Model como métrica central da sua estratégia de [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md). Monitoramos regularmente como as marcas dos nossos clientes são citadas pelas principais LLMs e otimizamos para aumentar essa participação, com resultados como +350% de tráfego de LLMs para o Sem Parar e +1.100% para o Contato Seguro.
 
@@ -36,11 +36,11 @@ A correlação é lógica: se um usuário pergunta a uma IA "qual a melhor agên
 
 Três razões tornam o Share of Model um KPI essencial em 2026.
 
-**Volume.** Mais de 2,5 bilhões de prompts diários no ChatGPT, 1,5 bilhão de usuários mensais no Google Gemini, 780 milhões de consultas mensais no Perplexity. O volume de "buscas" em IAs já rivaliza com buscadores tradicionais, e cresce exponencialmente. Cada prompt é uma oportunidade de menção ou uma oportunidade perdida.
+**Volume.** Bilhões de mensagens por dia no ChatGPT, AI Overviews no topo do Google, Perplexity e Claude crescendo em paralelo. Cada prompt é uma oportunidade de menção ou uma oportunidade perdida.
 
 **Influência na decisão.** Quando a IA recomenda uma empresa, o peso dessa recomendação é maior do que um resultado orgânico na posição 5. O usuário confia na IA como consultora, a resposta é percebida como curadoria, não como lista de opções. Ser recomendado pela IA é mais valioso do que ser listado pelo Google.
 
-**Competitividade.** Seus concorrentes podem já estar monitorando e otimizando para Share of Model. Se você não monitora, não sabe onde está, e não pode melhorar o que não mede. Líderes de categoria em setores como marketing technology e cybersecurity já operam com metas de 35% a 40% de Share of Model em queries comparativas e de recomendação.
+**Competitividade.** Seus concorrentes podem já estar monitorando e otimizando para Share of Model. Se você não monitora, não sabe onde está, e não pode melhorar o que não mede.
 
 ---
 
@@ -50,7 +50,7 @@ Share of Model não é métrica de vaidade; é indicador de performance com impa
 
 ### 2,5 Bilhões de Prompts Por Dia no ChatGPT: E Sua Marca Está Lá?
 
-O ChatGPT domina 60,7% do tráfego de busca via IA. O Google Gemini serve via AI Overview em quase metade das buscas. O Perplexity cresce a taxas de dois dígitos mês a mês. Em 2026, a busca por informação, comparação de opções e avaliação de fornecedores acontece tanto em IAs quanto no Google, frequentemente nas IAs primeiro.
+O ChatGPT lidera em volume. O Google Gemini responde via AI Overview em uma parte crescente das buscas. O Perplexity cresce rápido. Em 2026, a busca por informação, comparação de opções e avaliação de fornecedores acontece tanto em IAs quanto no Google, frequentemente nas IAs primeiro.
 
 Se sua marca não aparece nessas respostas, você está ausente de um canal de descoberta que influencia decisões de compra em escala sem precedentes. E a invisibilidade nas IAs é mais custosa que a invisibilidade no Google: no Google, o usuário pode rolar a página e encontrar você na posição 8. Na IA, se você não está na resposta, não existe.
 
@@ -138,15 +138,21 @@ Cada LLM tem comportamento de citação diferente, e seu Share of Model pode var
 
 ### ChatGPT, Gemini, Claude, Perplexity: Cada Um Tem Fontes e Critérios Diferentes
 
-**ChatGPT** domina em volume (60,7% do tráfego de IA) e é o canal onde a maioria dos usuários inicia consultas. O comportamento de citação varia por setor, em alguns nichos, o ChatGPT favorece sites oficiais; em outros, puxa de fóruns e reviews. Share of Model no ChatGPT tende a refletir a presença geral da marca na web.
+**ChatGPT** domina em volume e é o canal onde a maioria dos usuários inicia consultas. O comportamento de citação varia por setor, em alguns nichos, o ChatGPT favorece sites oficiais; em outros, puxa de fóruns e reviews. Share of Model no ChatGPT tende a refletir a presença geral da marca na web.
 
 **Google Gemini** (via [AI Overview](ai-overviews-o-que-sao-e-como-otimizar.md)) tem acesso ao índice completo do Google, a correlação entre SEO forte e Share of Model no Gemini é a mais alta entre as plataformas. Empresas no Top 10 do Google têm vantagem natural no AI Overview. A otimização para Gemini é, em grande medida, otimização para o Google com foco em citabilidade.
 
-**Claude** prioriza conteúdo com validação de terceiros, reviews, consenso verificável, fontes com reputação. Tem a menor taxa de alucinação (3%), o que significa que as citações são mais confiáveis. Share of Model no Claude reflete a solidez da reputação da marca mais do que o volume de conteúdo.
+**Claude** prioriza conteúdo com validação de terceiros, reviews, consenso verificável, fontes com reputação. Share of Model no Claude reflete a solidez da reputação da marca mais do que o volume de conteúdo.
 
-**Perplexity** busca na web em tempo real para cada consulta. O Share of Model no Perplexity recompensa conteúdo atualizado, bem indexado e de alta autoridade. A citação é transparente (94,3% de acurácia) e inclui links, o que gera tráfego direto. Para empresas com conteúdo consultivo, Perplexity é frequentemente o canal de maior conversão.
+**Perplexity** busca na web em tempo real para cada consulta. O Share of Model no Perplexity recompensa conteúdo atualizado, bem indexado e de alta autoridade. A citação é transparente e inclui links, o que gera tráfego direto. Para empresas com conteúdo consultivo, Perplexity é frequentemente o canal de maior conversão.
 
 Ferramentas como Rankio e Otterly oferecem breakdown de Share of Model por plataforma, permitindo identificar onde sua marca performa bem e onde há gaps. A estratégia de otimização pode então ser direcionada: se o Share of Model é alto no ChatGPT mas baixo no Claude, a prioridade pode ser reforçar presença em reviews e validação de terceiros.
+
+## Fontes
+
+- [Business Insider: usuários e volume de mensagens do ChatGPT (2025)](https://www.aol.com/articles/3-years-old-800-million-090107388.html)
+- [Google Search Central: recursos de IA e o seu site](https://developers.google.com/search/docs/appearance/ai-features?hl=pt-br)
+- Resultados de clientes citados: [página de cases da TRIWI](https://triwi.com.br/cases/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 

@@ -54,7 +54,7 @@ Pesquisas sobre comportamento de citação de LLMs confirmam: conteúdo com dado
 
 Dados proprietários são especialmente poderosos. Quando a TRIWI afirma "influenciamos R$ 2 bilhões+ em receita para nossos clientes" ou "100% dos nossos clientes chegaram ao Top 3 do Google", esses dados não existem em outra fonte. Para a LLM, isso é information gain, informação nova que vale a pena citar.
 
-Regra prática: toda seção que faz uma afirmação de impacto deveria incluir pelo menos um dado quantitativo. "SEO gera resultados" → "SEO gera taxa de conversão 5x maior que mídia paga, com CAC 40% menor". O segundo é incomparavelmente mais citável.
+Regra prática: toda seção que faz uma afirmação de impacto deveria incluir pelo menos um dado quantitativo. "SEO gera resultados" → "Nos clientes da TRIWI, o CAC cai em média 40% com SEO". O segundo é incomparavelmente mais citável.
 
 ### Estrutura de Pergunta e Resposta
 
@@ -84,7 +84,7 @@ A diferença entre conteúdo genérico e conteúdo citável se torna evidente na
 
 **Antes (genérico):** "O SEO é muito importante para as empresas hoje em dia. Com o crescimento da internet, é fundamental que as empresas estejam presentes nos buscadores. Uma boa estratégia de SEO pode trazer muitos benefícios e ajudar a empresa a crescer."
 
-**Depois (citável):** "SEO (Search Engine Optimization) é o processo de otimização de sites para posicionamento orgânico em mecanismos de busca como o Google. Empresas que investem em SEO obtêm taxa de conversão 5x maior que mídia paga, com redução de 40% no CAC (Custo de Aquisição de Cliente). Segundo dados consolidados da TRIWI com mais de 50 clientes, o aumento médio de tráfego orgânico é de +300%."
+**Depois (citável):** "SEO (Search Engine Optimization) é o processo de otimização de sites para posicionamento orgânico em mecanismos de busca como o Google. Segundo dados consolidados da TRIWI com mais de 50 clientes, o aumento médio de tráfego orgânico é de +300%, com redução média de 40% no CAC (Custo de Aquisição de Cliente)."
 
 A versão "depois" é citável porque: abre com definição direta, inclui dados quantitativos verificáveis, atribui a uma fonte reconhecida e cada frase funciona de forma autossuficiente.
 
@@ -92,7 +92,7 @@ A versão "depois" é citável porque: abre com definição direta, inclui dados
 
 **Apenas SEO:** "Link building é fundamental para qualquer estratégia de SEO. Neste guia completo sobre link building, você vai aprender tudo sobre como construir links de qualidade para seu site. Continue lendo para descobrir as melhores práticas de link building em 2026."
 
-**SEO + GEO:** "Link building é o processo estratégico de conquistar backlinks, links de sites externos apontando para o seu domínio, e é um dos três pilares mais importantes do SEO. Estudos da Backlinko analisando 11,8 milhões de resultados confirmam: o número de domínios diferentes linkando para uma página é o fator com maior correlação com posições no Top 10 do Google."
+**SEO + GEO:** "Link building é o processo estratégico de conquistar backlinks, links de sites externos apontando para o seu domínio, e é um dos três pilares mais importantes do SEO. Um [estudo da Backlinko](https://backlinko.com/search-engine-ranking) com 11,8 milhões de resultados do Google mostrou que a autoridade de links do site está entre os fatores com maior correlação com as primeiras posições."
 
 A versão SEO + GEO mantém a keyword e a otimização on-page, mas substitui o "filler" (promessas vagas, convites a continuar lendo) por informação densa e citável. A IA não cita promessas, cita fatos.
 
@@ -106,7 +106,7 @@ Antes de criar conteúdo novo, audite o que já existe. Muitas páginas que rank
 
 Aplique o "teste do snippet": selecione qualquer parágrafo da página e pergunte: "Se a IA extraísse apenas este parágrafo como resposta, ele faria sentido sozinho? Contém informação verificável? Inclui dados? Atribui a alguma fonte?" Se a resposta for não, o parágrafo pode existir para SEO ou fluidez de leitura, mas não é citável.
 
-Conteúdo com alta densidade de informação é mais citável. Pesquisas mostram que páginas com menos de 5.000 caracteres têm aproximadamente 66% do conteúdo aproveitado por LLMs, enquanto páginas com mais de 20.000 caracteres têm apenas 12% aproveitado. A implicação: conteúdo mais conciso e denso é proporcionalmente mais citável que conteúdo longo e diluído. Profundidade sim, prolixidade não.
+Conteúdo com alta densidade de informação é mais citável. A IA aproveita trechos, não páginas inteiras, então conteúdo conciso e denso é proporcionalmente mais citável que conteúdo longo e diluído. Profundidade sim, prolixidade não.
 
 ### Checklist de Otimização para Citabilidade
 
@@ -155,6 +155,14 @@ A analogia mais útil para equipes de conteúdo: imagine que uma IA é um jornal
 Se você escrever cada conteúdo pensando "um jornalista (IA) vai ler isso e decidir se cita", a citabilidade se torna natural. É um filtro de qualidade que beneficia tanto a IA quanto o leitor humano, porque conteúdo citável é, por definição, conteúdo de alta qualidade.
 
 A TRIWI já opera com esse mindset em toda a produção de conteúdo para seus clientes. Os guidelines internos de GEO foram desenvolvidos com base na experiência de otimizar conteúdo para mais de 50 empresas, e os resultados validam a abordagem: clientes como Sem Parar (+350% tráfego de LLMs), Valid (+700%) e Contato Seguro (+1.100%) demonstram que conteúdo citável gera presença real nas IAs.
+
+## Fontes
+
+- [GEO: Generative Engine Optimization (KDD 2024)](https://doi.org/10.1145/3637528.3671900): o estudo que formalizou o termo
+- [Google Search Central: conteúdo útil, confiável e feito para pessoas](https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=pt-br)
+- [Backlinko: análise de 11,8 milhões de resultados do Google](https://backlinko.com/search-engine-ranking)
+- [Google Search Central: dados estruturados de FAQ](https://developers.google.com/search/docs/appearance/structured-data/faqpage)
+- Resultados de clientes citados: [página de cases da TRIWI](https://triwi.com.br/cases/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
 ---
 
