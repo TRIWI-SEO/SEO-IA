@@ -6,7 +6,7 @@ Este guia cobre as técnicas fundamentais de otimização on-page: do title tag 
 
 ---
 
-## 🔍 O Que é SEO On-Page
+## O Que é SEO On-Page
 
 SEO on-page (ou on-site SEO) abrange todas as otimizações que acontecem dentro da página, elementos que o Google lê e avalia para entender sobre o que a página trata, para quais buscas ela é relevante e qual a qualidade do conteúdo oferecido.
 
@@ -20,7 +20,7 @@ O SEO on-page interage diretamente com os [fatores de rankeamento](fatores-de-ra
 
 ---
 
-## 🏷️ Title Tag e Meta Description
+## Title Tag e Meta Description
 
 Title tag e meta description são os dois elementos que aparecem diretamente nos resultados de busca do Google. Juntos, eles determinam se o usuário vai clicar no seu resultado ou no do concorrente.
 
@@ -54,7 +54,7 @@ Se você não define uma meta description, o Google gera uma automaticamente a p
 
 ---
 
-## 📑 Headings (H1, H2, H3)
+## Headings (H1, H2, H3)
 
 A estrutura de headings organiza o conteúdo hierarquicamente, tanto para o usuário quanto para o Google. Headings bem estruturados facilitam a leitura, melhoram a acessibilidade e ajudam o algoritmo a identificar os tópicos abordados na página.
 
@@ -74,7 +74,7 @@ A abordagem recomendada é: usar a keyword principal no H1, variações semânti
 
 ---
 
-## 📝 Conteúdo da Página
+## Conteúdo da Página
 
 O conteúdo é o coração do SEO on-page. Title tags, headings e URLs são sinais, mas o conteúdo é a substância que o Google avalia para determinar se a página merece rankear.
 
@@ -104,7 +104,7 @@ A regra de ouro: se ao ler o texto em voz alta as keywords soam forçadas, estã
 
 ---
 
-## 🔗 URLs, Imagens e Links Internos
+## URLs, Imagens e Links Internos
 
 Três elementos frequentemente subestimados em SEO on-page, mas que, juntos, fazem diferença significativa no rastreamento, indexação e rankeamento.
 
@@ -130,7 +130,7 @@ A estratégia de pilarização, conceito central da [estratégia de conteúdo da
 
 ---
 
-## ⚠️ Erros Comuns em SEO On-Page
+## Erros Comuns em SEO On-Page
 
 Mesmo profissionais experientes cometem erros de SEO on-page que custam posições. Identificar e corrigir esses erros é frequentemente a ação com maior retorno imediato em um projeto de SEO.
 
@@ -144,11 +144,13 @@ Mesmo profissionais experientes cometem erros de SEO on-page que custam posiçõ
 
 Na TRIWI, a otimização on-page é uma das 12 entregas do escopo, não uma ação pontual, mas um processo contínuo com revisões mensais dentro do Ciclo PDCA. Cada página é analisada individualmente, com checklist completo de elementos on-page, e as otimizações são priorizadas por impacto potencial em tráfego e conversão. Essa disciplina operacional, aplicada sistematicamente com a [Metodologia TRIWI](../metodologia-triwi.md), é o que transforma SEO on-page de "ajuste técnico" em motor de resultados de negócio.
 
+**Ver também no Glossário da TRIWI:** [Conteúdo duplicado](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-on-page-otimizacao-dentro-do-seu-site#seo-conteudo-duplicado), [Intenção de busca](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-on-page-otimizacao-dentro-do-seu-site#seo-intencao-de-busca), [Keyword stuffing](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-on-page-otimizacao-dentro-do-seu-site#seo-keyword-stuffing), [Meta description](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-on-page-otimizacao-dentro-do-seu-site#seo-meta-description), [SEO on-page](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-on-page-otimizacao-dentro-do-seu-site#seo-seo-on-page).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 SEO on-page é o ponto de partida mais acessível e controlável de qualquer estratégia de SEO. Cada otimização aplicada dentro da página é um sinal a mais para o Google, e a soma desses sinais define se o seu site aparece ou desaparece nos resultados.
 
@@ -156,12 +158,12 @@ Conheça como a TRIWI aplica otimizações on-page de forma integrada à estrat�
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
-- 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Todos os critérios que o Google avalia.
-- 🔗 [SEO Off-Page](seo-off-page-autoridade-alem-do-seu-site.md): Construção de autoridade além do seu site.
-- 🛠️ [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance que sustentam o on-page.
-- 📑 [Estratégia de Conteúdo para SEO](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo que rankeia.
-- 📘 [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework de qualidade do Google.
-- 🔑 [Pesquisa de Palavras-Chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md): Como encontrar as oportunidades certas.
+- [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Todos os critérios que o Google avalia.
+- [SEO Off-Page](seo-off-page-autoridade-alem-do-seu-site.md): Construção de autoridade além do seu site.
+- [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance que sustentam o on-page.
+- [Estratégia de Conteúdo para SEO](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo que rankeia.
+- [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework de qualidade do Google.
+- [Pesquisa de Palavras-Chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md): Como encontrar as oportunidades certas.
 
 **Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

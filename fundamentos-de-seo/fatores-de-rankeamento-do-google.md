@@ -6,7 +6,7 @@ Esta página detalha os principais fatores de rankeamento organizados em cinco c
 
 ---
 
-## 🔍 Como o Google Decide Quem Aparece Primeiro
+## Como o Google Decide Quem Aparece Primeiro
 
 Quando um usuário digita uma busca no Google, o algoritmo consulta um índice com bilhões de páginas e retorna resultados ordenados em frações de segundo. Esse processo, detalhado na página [como funciona o Google](como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md), depende de um sistema de pontuação complexo que avalia cada página candidata em centenas de dimensões.
 
@@ -18,7 +18,7 @@ A metodologia da TRIWI cobre sistematicamente todos esses fatores em suas 300+ a
 
 ---
 
-## 📝 Fatores de Conteúdo
+## Fatores de Conteúdo
 
 O conteúdo é o fator mais fundamental do rankeamento. Sem conteúdo relevante, nenhuma otimização técnica ou estratégia de backlinks compensará. O Google existe para entregar a melhor resposta ao usuário, e o conteúdo é essa resposta.
 
@@ -62,7 +62,7 @@ A prática recomendada é manter um calendário de revisão: conteúdo temporal 
 
 ---
 
-## ⚙️ Fatores Técnicos
+## Fatores Técnicos
 
 Os fatores técnicos compõem a fundação sobre a qual o conteúdo e a autoridade se apoiam. Um site com problemas técnicos graves limita o potencial de rankeamento, o Google precisa conseguir acessar, renderizar e entender o site antes de posicioná-lo. O [SEO Técnico](../seo-tecnico/README.md) aborda essa dimensão em profundidade.
 
@@ -108,7 +108,7 @@ Os tipos de schema mais relevantes para SEO incluem: Organization, Article, Prod
 
 ---
 
-## 🔗 Fatores de Autoridade
+## Fatores de Autoridade
 
 Autoridade é o terceiro pilar do SEO, e frequentemente o mais difícil de construir. Enquanto conteúdo e técnica estão sob controle direto, autoridade depende de como o ecossistema digital externo reconhece e valida o seu site.
 
@@ -138,7 +138,7 @@ Na prática, ser mencionado em publicações do setor, reportagens, fóruns e re
 
 ---
 
-## 👤 Fatores de Experiência do Usuário
+## Fatores de Experiência do Usuário
 
 A experiência do usuário (UX) ganhou peso crescente nos fatores de rankeamento. O Google quer entregar não apenas conteúdo relevante, mas conteúdo em páginas que proporcionem uma boa experiência de uso.
 
@@ -164,7 +164,7 @@ O Google confirmou que Page Experience é fator de rankeamento, mas com uma nuan
 
 ---
 
-## 🤖 O Novo Fator: Presença em IAs Generativas
+## O Novo Fator: Presença em IAs Generativas
 
 A dimensão mais recente dos fatores de rankeamento não está nos documentos oficiais do Google, mas está transformando o cenário competitivo de forma irreversível. A presença em IAs generativas está se tornando um diferencial que separa marcas visíveis de marcas invisíveis.
 
@@ -186,11 +186,13 @@ Os fatores que favorecem citação em LLMs incluem: conteúdo com definições c
 
 A TRIWI monitora o Share of Model, a participação da marca do cliente nas respostas das LLMs, como métrica operacional. Os resultados validam a abordagem: a Valid/Flexdoc alcançou +700% em tráfego de LLMs e +2.000% em AI Overview, demonstrando que otimizar para IAs generativas não é teoria; é resultado mensurável quando executado com metodologia.
 
+**Ver também no Glossário da TRIWI:** [Autoridade de domínio](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=fatores-de-rankeamento-do-google#seo-autoridade-de-dominio), [Mobile-first indexing](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=fatores-de-rankeamento-do-google#seo-mobile-first-indexing), [Dados estruturados](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=fatores-de-rankeamento-do-google#seo-dados-estruturados), [Intenção de busca](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=fatores-de-rankeamento-do-google#seo-intencao-de-busca), [Core Web Vitals](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=fatores-de-rankeamento-do-google#seo-core-web-vitals).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Os fatores de rankeamento do Google não são estáticos, evoluem a cada atualização do algoritmo. O que permanece constante é o princípio: o Google quer entregar a melhor resposta, da melhor fonte, com a melhor experiência. Alinhar seu site a esse princípio, com conteúdo denso, infraestrutura técnica sólida e autoridade reconhecida; é a estratégia que resiste ao tempo.
 
@@ -198,14 +200,14 @@ Conheça como a TRIWI aplica esses fatores de forma integrada em cada projeto: [
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
-- 🔄 [Como Funciona o Google](como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md): Rastreamento, indexação e rankeamento explicados.
-- 🛠️ [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance para rankeamento.
-- 📊 [Schema Markup e Dados Estruturados](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): Como ajudar o Google a entender seu conteúdo.
-- 🔍 [Crawling e Indexação](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Garantindo que o Google encontre e armazene suas páginas.
-- 📑 [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework de qualidade do Google.
-- 🔗 [Link Building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade com backlinks de qualidade.
-- 🤖 [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas.
-- 🌐 [AI Overviews](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md): Como otimizar para as respostas de IA do Google.
+- [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- [Como Funciona o Google](como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md): Rastreamento, indexação e rankeamento explicados.
+- [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance para rankeamento.
+- [Schema Markup e Dados Estruturados](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md): Como ajudar o Google a entender seu conteúdo.
+- [Crawling e Indexação](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Garantindo que o Google encontre e armazene suas páginas.
+- [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework de qualidade do Google.
+- [Link Building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Construção de autoridade com backlinks de qualidade.
+- [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas.
+- [AI Overviews](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md): Como otimizar para as respostas de IA do Google.
 
 **Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

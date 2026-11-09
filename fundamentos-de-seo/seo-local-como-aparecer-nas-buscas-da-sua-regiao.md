@@ -4,7 +4,7 @@ SEO local é o conjunto de estratégias de otimização voltadas para posicionar
 
 ---
 
-## 🔍 O Que é SEO Local
+## O Que é SEO Local
 
 SEO local é a disciplina de otimização focada em aumentar a visibilidade de um negócio nos resultados de busca georreferenciados do Google. Enquanto o SEO orgânico tradicional compete por posições nos resultados globais, o SEO local compete por posições no Local Pack (os 3 resultados com mapa) e no Google Maps.
 
@@ -28,7 +28,7 @@ O ecossistema de SEO local gira em torno de três elementos:
 
 ---
 
-## 📊 Fatores de Rankeamento Local
+## Fatores de Rankeamento Local
 
 O algoritmo de busca local do Google funciona de forma diferente do algoritmo orgânico tradicional. Embora compartilhem fundamentos, como qualidade do conteúdo e autoridade, o rankeamento local adiciona fatores específicos ligados à geolocalização e à reputação local do negócio.
 
@@ -71,7 +71,7 @@ Auditar e corrigir inconsistências de NAP em todos os diretórios e plataformas
 
 ---
 
-## ⚖️ SEO Local vs. SEO Orgânico Tradicional
+## SEO Local vs. SEO Orgânico Tradicional
 
 SEO local e SEO orgânico tradicional são disciplinas complementares, não concorrentes. Entender quando priorizar cada um (e como combiná-los) é essencial para maximizar resultados.
 
@@ -91,7 +91,7 @@ A TRIWI foca em SEO orgânico e GEO para operações de médio e grande porte. P
 
 ---
 
-## ⚠️ Erros Comuns em SEO Local
+## Erros Comuns em SEO Local
 
 SEO local é mais acessível que o orgânico tradicional, mas isso não significa que seja simples. Erros básicos custam posições no Local Pack e, consequentemente, ligações, visitas e receita.
 
@@ -107,11 +107,13 @@ SEO local é mais acessível que o orgânico tradicional, mas isso não signific
 
 **Não publicar no perfil:** O Google Business Profile permite postagens regulares, e negócios que publicam frequentemente sinalizam atividade e atualização, fatores positivos para o rankeamento local.
 
+**Ver também no Glossário da TRIWI:** [Google Business Profile](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-local-como-aparecer-nas-buscas-da-sua-regiao#seo-google-business-profile), [Citações locais](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-local-como-aparecer-nas-buscas-da-sua-regiao#seo-citacoes-locais), [Local pack](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-local-como-aparecer-nas-buscas-da-sua-regiao#seo-local-pack), [SEO local](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-local-como-aparecer-nas-buscas-da-sua-regiao#seo-seo-local).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 SEO local é a estratégia mais direta para negócios com presença física que querem converter buscas em visitas, ligações e vendas. Mesmo para empresas com foco nacional, entender os princípios de SEO local complementa e fortalece a visibilidade digital como um todo.
 
@@ -119,9 +121,9 @@ Conheça como a TRIWI integra estratégias de visibilidade local e nacional para
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
-- 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que o Google avalia.
-- 📝 [SEO On-Page](seo-on-page-otimizacao-dentro-do-seu-site.md): Otimização dentro do seu site.
-- 🛠️ [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance para rankeamento.
+- [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que o Google avalia.
+- [SEO On-Page](seo-on-page-otimizacao-dentro-do-seu-site.md): Otimização dentro do seu site.
+- [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance para rankeamento.
 
 **Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

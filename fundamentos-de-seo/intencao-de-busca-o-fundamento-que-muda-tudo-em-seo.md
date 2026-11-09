@@ -6,7 +6,7 @@ Intenção de busca (search intent) é o objetivo real por trás de cada pesquis
 
 ---
 
-## 🔍 O Que é Intenção de Busca
+## O Que é Intenção de Busca
 
 Intenção de busca é o "porquê" por trás de cada pesquisa. Quando alguém digita algo no Google, existe uma necessidade específica, aprender algo, encontrar um site, comparar opções ou realizar uma ação. Identificar e atender essa necessidade é a essência do SEO de conteúdo.
 
@@ -26,7 +26,7 @@ Alinhar o conteúdo à intenção do usuário é mais importante do que inserir 
 
 ---
 
-## 📋 Os 4 Tipos de Intenção de Busca
+## Os 4 Tipos de Intenção de Busca
 
 A classificação mais aceita na indústria de SEO divide a intenção de busca em quatro categorias. Cada uma exige um formato, tom e profundidade de conteúdo diferente.
 
@@ -58,7 +58,7 @@ O conteúdo ideal para intenção transacional são páginas de conversão: land
 
 ---
 
-## 🔎 Como Identificar a Intenção de Busca de Uma Keyword
+## Como Identificar a Intenção de Busca de Uma Keyword
 
 Identificar a intenção correta não é adivinhação; existem métodos práticos e confiáveis para determinar o que o Google (e o usuário) espera para cada busca.
 
@@ -86,7 +86,7 @@ A [pesquisa de palavras-chave](../seo-de-conteudo/pesquisa-de-palavras-chave-com
 
 ---
 
-## ✅ Como Alinhar Conteúdo à Intenção de Busca
+## Como Alinhar Conteúdo à Intenção de Busca
 
 Identificar a intenção é metade do trabalho. A outra metade é criar conteúdo que corresponda precisamente ao que o usuário espera encontrar.
 
@@ -114,7 +114,7 @@ Essa análise de canibalização é parte fundamental do trabalho de [qualidade 
 
 ---
 
-## 🗺️ Intenção de Busca na Jornada do Cliente
+## Intenção de Busca na Jornada do Cliente
 
 Intenção de busca não existe isoladamente; ela se conecta diretamente à jornada de compra do cliente. Cada estágio da jornada corresponde a um tipo predominante de intenção.
 
@@ -142,11 +142,13 @@ A [Metodologia TRIWI](../metodologia-triwi.md) integra a análise de intenção 
 
 > **Versão completa no site:** o [Guia de Palavras-chave e Intenção de Busca](https://triwi.com.br/guias/palavras-chave/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=intencao-de-busca-o-fundamento-que-muda-tudo-em-seo) da TRIWI aprofunda este tema e é atualizado continuamente.
 
+**Ver também no Glossário da TRIWI:** [Intenção de busca](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=intencao-de-busca-o-fundamento-que-muda-tudo-em-seo#seo-intencao-de-busca), [Análise da SERP](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=intencao-de-busca-o-fundamento-que-muda-tudo-em-seo#seo-analise-da-serp), [SERP](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=intencao-de-busca-o-fundamento-que-muda-tudo-em-seo#seo-serp), [Jornada do cliente](https://triwi.com.br/glossario/marketing/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=intencao-de-busca-o-fundamento-que-muda-tudo-em-seo#marketing-jornada-do-cliente).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Intenção de busca é o fundamento que conecta keywords, conteúdo, formato e conversão. Dominar esse conceito transforma a forma como você planeja, cria e otimiza cada página do seu site, do topo ao fundo do funil.
 
@@ -154,11 +156,11 @@ Conheça como a TRIWI mapeia intenções de busca para gerar resultados de negó
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
-- 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que o Google avalia.
-- 📑 [Estratégia de Conteúdo para SEO](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo que rankeia e converte.
-- 📘 [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework de qualidade do Google.
-- 🔑 [Pesquisa de Palavras-Chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md): Como encontrar as oportunidades certas.
-- 📈 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir resultados que importam.
+- [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que o Google avalia.
+- [Estratégia de Conteúdo para SEO](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo que rankeia e converte.
+- [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md): O framework de qualidade do Google.
+- [Pesquisa de Palavras-Chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md): Como encontrar as oportunidades certas.
+- [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir resultados que importam.
 
 **Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

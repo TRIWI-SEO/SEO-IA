@@ -4,7 +4,7 @@ Entender como funciona o Google é o primeiro passo para qualquer estratégia de
 
 ---
 
-## 🔄 Os 3 Processos do Google: Rastreamento, Indexação, Rankeamento
+## Os 3 Processos do Google: Rastreamento, Indexação, Rankeamento
 
 O Google funciona em três etapas sequenciais e interdependentes. Cada uma precisa funcionar corretamente para que seu site apareça nos resultados de busca:
 
@@ -16,7 +16,7 @@ Se o Google não consegue rastrear seu site, ele não será indexado. Se não fo
 
 ---
 
-## 🕷️ Rastreamento (Crawling)
+## Rastreamento (Crawling)
 
 O rastreamento é o processo pelo qual o Google descobre páginas na web. É o ponto de partida de tudo: antes de posicionar qualquer página, o Google precisa encontrá-la e lê-la.
 
@@ -52,7 +52,7 @@ O [SEO Técnico](../seo-tecnico/README.md) trata diretamente dessas questões, e
 
 ---
 
-## 📂 Indexação
+## Indexação
 
 Após o rastreamento, vem a indexação, o processo em que o Google analisa, processa e armazena o conteúdo das páginas rastreadas em seu índice. O índice do Google é essencialmente o "catálogo" gigantesco que o algoritmo consulta a cada busca para encontrar resultados relevantes.
 
@@ -92,7 +92,7 @@ A TRIWI utiliza essas ferramentas combinadas com análise de logs de servidor e 
 
 ---
 
-## 🏆 Rankeamento
+## Rankeamento
 
 O rankeamento é o processo final, e o mais complexo. Quando um usuário faz uma busca, o Google consulta seu índice (bilhões de páginas) e ordena os resultados em frações de segundo, determinando quais páginas aparecem primeiro.
 
@@ -128,7 +128,7 @@ A abordagem estratégica é maximizar a visibilidade total: rankear para o maior
 
 ---
 
-## 🤖 O Papel da IA no Google Atual
+## O Papel da IA no Google Atual
 
 O Google de hoje não é o mesmo de cinco anos atrás. A inteligência artificial passou de componente auxiliar a peça central da experiência de busca, e isso muda fundamentalmente como o SEO precisa ser pensado e executado.
 
@@ -150,11 +150,13 @@ Essa evolução significa que a competição por visibilidade no Google vai muit
 
 Paralelamente, IAs generativas como ChatGPT, Gemini, Claude e Perplexity estão criando um novo canal de busca. O ChatGPT processa 600 milhões de buscas diárias. Milhões de usuários estão fazendo perguntas a assistentes de IA para descobrir produtos, comparar soluções e tomar decisões. A otimização para esses ambientes, conhecida como [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md), é a evolução natural do SEO que empresas com visão de futuro já estão implementando.
 
+**Ver também no Glossário da TRIWI:** [AI Overviews](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=como-funciona-o-google-rastreamento-indexacao-e-rankeamento#seo-ai-overviews), [Crawl budget](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=como-funciona-o-google-rastreamento-indexacao-e-rankeamento#seo-crawl-budget), [Rastreamento](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=como-funciona-o-google-rastreamento-indexacao-e-rankeamento#seo-rastreamento), [Googlebot](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=como-funciona-o-google-rastreamento-indexacao-e-rankeamento#seo-googlebot), [Indexação](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=como-funciona-o-google-rastreamento-indexacao-e-rankeamento#seo-indexacao).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 O Google é um sistema em constante evolução, de crawlers simples a algoritmos de IA que entendem contexto, intenção e qualidade. Para quem investe em SEO, entender esses mecanismos é a base que sustenta todas as decisões estratégicas.
 
@@ -162,12 +164,12 @@ Aprofunde-se nos fundamentos técnicos que impactam diretamente como o Google tr
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
-- 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que definem a ordem dos resultados.
-- 🛠️ [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance que impactam rastreamento e indexação.
-- ⚡ [Core Web Vitals](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md): As métricas de experiência que o Google mede.
-- 🏗️ [Arquitetura de Site para SEO](../seo-tecnico/arquitetura-de-site-para-seo.md): Como a estrutura do site define o que o Google encontra.
-- 🔍 [Crawling e Indexação](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Guia aprofundado para garantir que o Google encontre seu site.
-- 🤖 [AI Overviews](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md): Como otimizar para as respostas de IA do Google.
+- [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que definem a ordem dos resultados.
+- [SEO Técnico](../seo-tecnico/README.md): Infraestrutura e performance que impactam rastreamento e indexação.
+- [Core Web Vitals](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md): As métricas de experiência que o Google mede.
+- [Arquitetura de Site para SEO](../seo-tecnico/arquitetura-de-site-para-seo.md): Como a estrutura do site define o que o Google encontra.
+- [Crawling e Indexação](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Guia aprofundado para garantir que o Google encontre seu site.
+- [AI Overviews](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md): Como otimizar para as respostas de IA do Google.
 
 **Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

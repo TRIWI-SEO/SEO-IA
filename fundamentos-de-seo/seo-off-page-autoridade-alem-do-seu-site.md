@@ -4,7 +4,7 @@ SEO off-page é o conjunto de estratégias realizadas fora do seu site para aume
 
 ---
 
-## 🔍 O Que é SEO Off-Page
+## O Que é SEO Off-Page
 
 SEO off-page abrange todas as ações de otimização que acontecem fora das páginas do seu site e que influenciam como o Google avalia sua relevância e confiabilidade. Se o on-page diz ao Google "sobre o que meu site trata", o off-page diz "por que o mercado confia no meu site".
 
@@ -24,7 +24,7 @@ Na prática, isso significa que um [projeto de SEO](../o-que-e-seo-guia-completo
 
 ---
 
-## 🔗 Backlinks: A Base do Off-Page
+## Backlinks: A Base do Off-Page
 
 Backlinks são links de outros sites apontando para páginas do seu domínio. Continuam sendo um dos sinais mais fortes que o Google utiliza para avaliar autoridade, e são o componente central de qualquer estratégia de SEO off-page.
 
@@ -56,7 +56,7 @@ Existem três categorias de backlinks, cada uma com um nível diferente de valor
 
 ---
 
-## 🌐 Além dos Backlinks
+## Além dos Backlinks
 
 SEO off-page evoluiu além da obsessão exclusiva com backlinks. O Google e as IAs generativas avaliam a presença da marca no ecossistema digital de forma mais ampla, e estratégias modernas de off-page refletem essa evolução.
 
@@ -82,7 +82,7 @@ Essa dimensão é o que conecta SEO off-page com [GEO (Generative Engine Optimiz
 
 ---
 
-## 🏗️ Construção de Autoridade: A Visão da TRIWI
+## Construção de Autoridade: A Visão da TRIWI
 
 A forma como uma agência aborda o off-page revela muito sobre sua filosofia e ética. A TRIWI escolheu deliberadamente usar o termo "construção de autoridade" em vez de "compra de links", e essa escolha reflete uma diferença fundamental de abordagem.
 
@@ -104,11 +104,13 @@ Link building estratégico envolve: identificar sites de alta autoridade e relev
 
 A [Metodologia TRIWI](../metodologia-triwi.md) integra construção de autoridade a cada fase do processo, do diagnóstico inicial (análise do perfil de backlinks) à otimização contínua (monitoramento e ações mensais). Essa integração é o que garante que o off-page não seja uma ação isolada, mas parte de uma estratégia coerente que potencializa os resultados de conteúdo e técnico.
 
+**Ver também no Glossário da TRIWI:** [Sinais sociais](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-off-page-autoridade-alem-do-seu-site#seo-sinais-sociais), [Link building](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-off-page-autoridade-alem-do-seu-site#seo-link-building), [SEO off-page](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-off-page-autoridade-alem-do-seu-site#seo-seo-off-page).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 SEO off-page é o pilar que transforma um site bem otimizado em uma referência reconhecida pelo mercado. Construir autoridade exige tempo, consistência e estratégia, mas é o investimento que gera o retorno mais duradouro em SEO.
 
@@ -116,12 +118,12 @@ Conheça como a TRIWI integra construção de autoridade à estratégia completa
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
-- 📊 [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que o Google avalia.
-- 📝 [SEO On-Page](seo-on-page-otimizacao-dentro-do-seu-site.md): Otimização dentro do seu site.
-- 🔗 [Link Building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Guia completo de construção de autoridade com backlinks.
-- 🏛️ [Autoridade de Domínio](../link-building/autoridade-de-dominio-o-que-e-e-como-construir.md): O que é e como construir.
-- 📣 [Menções de Marca e Digital PR](../link-building/mencoes-de-marca-e-digital-pr-para-seo.md): Como menções sem link impactam o SEO.
-- 📈 [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md): Como medir a presença da sua marca nas IAs.
+- [O Que é SEO](../o-que-e-seo-guia-completo.md): O guia completo dos fundamentos de SEO.
+- [Fatores de Rankeamento do Google](fatores-de-rankeamento-do-google.md): Os critérios que o Google avalia.
+- [SEO On-Page](seo-on-page-otimizacao-dentro-do-seu-site.md): Otimização dentro do seu site.
+- [Link Building](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md): Guia completo de construção de autoridade com backlinks.
+- [Autoridade de Domínio](../link-building/autoridade-de-dominio-o-que-e-e-como-construir.md): O que é e como construir.
+- [Menções de Marca e Digital PR](../link-building/mencoes-de-marca-e-digital-pr-para-seo.md): Como menções sem link impactam o SEO.
+- [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md): Como medir a presença da sua marca nas IAs.
 
 **Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
