@@ -52,6 +52,8 @@ Para tomar **decisões operacionais**, foque em [IA e conteúdo](ia-e-producao-d
 
 Para quem quer ir mais fundo na fronteira entre SEO e IA, esta categoria se conecta diretamente à [GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md), onde o futuro da busca generativa é coberto em 10 páginas dedicadas.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Fale com a TRIWI

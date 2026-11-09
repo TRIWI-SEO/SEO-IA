@@ -100,6 +100,8 @@ A trajetória é clara: em 2-3 anos, a distinção entre "busca por voz" e "inte
 
 Isso torna a otimização para busca por voz uma extensão natural do trabalho de GEO. A TRIWI reconhece essa convergência na prática: conteúdo estruturado, dados estruturados e definições citáveis, tudo que otimiza para LLMs também otimiza para assistentes virtuais. A [Filosofia TRIWI](../filosofia-triwi.md) sustenta que "o futuro das buscas é generativo", e esse futuro inclui a voz como interface primária para bilhões de usuários. Os clientes que já investem em [SEO para IA](../geo-seo-para-ia/seo-para-ia-como-aparecer-nas-respostas-do-chatgpt-gemini-e-claude.md) estão, simultaneamente, se posicionando para a busca por voz generativa.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Próximos Passos

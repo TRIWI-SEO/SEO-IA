@@ -130,6 +130,8 @@ A proteção real vem da diversificação: SEO técnico impecável (velocidade, 
 
 A metodologia TRIWI com 300+ atividades é projetada para ser resistente a updates, porque foca em qualidade real (conteúdo, técnica, autoridade), não em atalhos que funcionam temporariamente. Quando um Core Update chega, clientes TRIWI tipicamente mantêm ou melhoram posições. Os resultados do Sem Parar (+194% palavras no Top 10), Valid (+240%) e Contato Seguro (+430%) foram construídos durante um período de múltiplos Core Updates, e se sustentaram ou cresceram após cada atualização. A [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) não é à prova de updates porque prevê cada mudança, é resiliente porque os fundamentos que ela constrói são os mesmos que o Google valoriza a cada atualização.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Próximos Passos

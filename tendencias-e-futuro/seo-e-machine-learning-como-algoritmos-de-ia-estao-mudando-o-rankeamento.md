@@ -102,6 +102,8 @@ A [tendência](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md) é que IA g
 
 A [Filosofia TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) materializa esse entendimento no 4º princípio: "O futuro das buscas é generativo." Com a metodologia de 12 etapas e 300+ atividades, a TRIWI alinha a estratégia dos clientes não apenas com o algoritmo de hoje, mas com a direção em que ML e IA generativa estão levando a busca amanhã.
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
+
 ---
 
 ## 📩 Próximos Passos
