@@ -6,7 +6,7 @@ Esta página explica o que são dados estruturados, por que importam para SEO e 
 
 ---
 
-## 🔍 O Que São Dados Estruturados
+## O Que São Dados Estruturados
 
 Dados estruturados são um formato padronizado de fornecer informações sobre uma página e classificar seu conteúdo. Eles funcionam como uma camada de metadados que o Google lê em paralelo ao conteúdo visível, uma tradução do conteúdo humano para uma linguagem que máquinas processam com precisão.
 
@@ -28,7 +28,7 @@ O Schema.org contém centenas de tipos e milhares de propriedades, mas na práti
 
 ---
 
-## 🚀 Por Que Schema Markup Importa para SEO
+## Por Que Schema Markup Importa para SEO
 
 Dados estruturados não são um fator de rankeamento direto, o Google já esclareceu isso. Mas seu impacto indireto no SEO é significativo e mensurável, especialmente com a integração de IA nos resultados de busca.
 
@@ -62,7 +62,7 @@ O efeito combinado é um resultado de busca que se destaca, comunica valor e ger
 
 ---
 
-## 📋 Tipos de Schema Mais Importantes
+## Tipos de Schema Mais Importantes
 
 O Schema.org oferece centenas de tipos, mas para SEO e otimização para IAs, um conjunto específico concentra a maior parte do valor.
 
@@ -100,7 +100,7 @@ A regra prática: comece pelos tipos que identificam a entidade (Organization, A
 
 ---
 
-## ⚙️ Como Implementar Schema Markup
+## Como Implementar Schema Markup
 
 A implementação correta de Schema markup requer atenção técnica, um erro no código pode invalidar todo o markup e eliminar os benefícios.
 
@@ -140,7 +140,7 @@ O ciclo correto: implementar → validar com Schema Validator → testar com Ric
 
 ---
 
-## ⚠️ Erros Comuns na Implementação
+## Erros Comuns na Implementação
 
 Dados estruturados mal implementados podem ser ignorados pelo Google, ou, em casos graves, gerar ações manuais (penalidades) que prejudicam todo o site.
 
@@ -160,11 +160,13 @@ A regra de ouro: dados estruturados devem refletir fielmente o conteúdo visíve
 
 A implementação de dados estruturados é parte da otimização técnica avançada da TRIWI. Dentro da [metodologia com 300+ atividades](../metodologia-triwi.md), Schema markup é implementado, validado e monitorado como um processo contínuo, não uma configuração pontual. Conteúdo estruturado para IA é um dos diferenciais que permitiu ao Sem Parar alcançar +6.400% em AI Overviews e à Valid/Flexdoc registrar +2.000% em AI Overviews. Quando a IA do Google monta uma resposta, ela prioriza fontes que falam sua linguagem, e dados estruturados são essa linguagem.
 
+**Ver também no Glossário da TRIWI:** [Dados estruturados](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=schema-markup-e-dados-estruturados-para-seo#seo-dados-estruturados), [AI Overviews](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=schema-markup-e-dados-estruturados-para-seo#seo-ai-overviews), [Schema.org](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=schema-markup-e-dados-estruturados-para-seo#seo-schema-org), [JSON-LD](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=schema-markup-e-dados-estruturados-para-seo#seo-json-ld), [SERP](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=schema-markup-e-dados-estruturados-para-seo#seo-serp).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Dados estruturados são a ponte entre o conteúdo do seu site e a compreensão dos mecanismos de busca e IAs generativas. Com AI Overviews integrados aos resultados do Google e milhões de decisões passando por ChatGPT, Gemini e Claude, implementar Schema markup não é mais uma otimização avançada; é uma necessidade competitiva.
 
@@ -172,11 +174,11 @@ Se sua empresa quer garantir que o Google e as IAs entendam, destaquem e citem o
 
 Explore as páginas relacionadas:
 
-- 🛠️ [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
-- 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia para posicionar seu site.
-- ⚡ [Core Web Vitals](core-web-vitals-performance-que-impacta-rankeamento.md): As métricas de performance que completam a experiência da página.
-- 🤖 [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: onde dados estruturados ganham nova dimensão.
-- 🔎 [Como Aparecer nos AI Overviews do Google](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md): Estratégias para ser citado nas respostas de IA do Google.
-- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
+- [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia para posicionar seu site.
+- [Core Web Vitals](core-web-vitals-performance-que-impacta-rankeamento.md): As métricas de performance que completam a experiência da página.
+- [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: onde dados estruturados ganham nova dimensão.
+- [Como Aparecer nos AI Overviews do Google](../geo-seo-para-ia/ai-overviews-o-que-sao-e-como-otimizar.md): Estratégias para ser citado nas respostas de IA do Google.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
 **Seu site fala a linguagem das IAs?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

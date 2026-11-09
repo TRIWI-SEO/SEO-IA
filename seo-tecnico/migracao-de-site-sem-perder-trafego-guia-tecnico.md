@@ -6,7 +6,7 @@ Esta página é o guia técnico completo para executar migrações sem compromet
 
 ---
 
-## 🔍 Tipos de Migração e Seus Riscos
+## Tipos de Migração e Seus Riscos
 
 Nem toda migração carrega o mesmo nível de risco. Entender a natureza da mudança é o primeiro passo para dimensionar o esforço de proteção necessário.
 
@@ -35,7 +35,7 @@ A regra de ouro: quanto mais elementos mudam simultaneamente (domínio + URLs + 
 
 ---
 
-## 📋 Planejamento Pré-Migração
+## Planejamento Pré-Migração
 
 O sucesso de uma migração é determinado antes da execução. O planejamento pré-migração é a fase mais importante, e a mais frequentemente negligenciada.
 
@@ -67,7 +67,7 @@ Sem baseline, é impossível saber se uma queda de tráfego pós-migração é u
 
 ---
 
-## ⚙️ Execução da Migração
+## Execução da Migração
 
 A execução é onde o planejamento se materializa. Cada etapa deve ser verificada e documentada, não há "desfazer" em uma migração ao vivo.
 
@@ -87,7 +87,7 @@ O staging deve replicar o ambiente de produção o mais fielmente possível, mes
 
 ---
 
-## 📡 Pós-Migração: Monitoramento Crítico
+## Pós-Migração: Monitoramento Crítico
 
 A migração não termina no lançamento. O período pós-migração é onde problemas se manifestam, e onde a velocidade de resposta determina se a perda de tráfego será temporária (dias) ou prolongada (meses).
 
@@ -111,7 +111,7 @@ O tempo de recuperação depende do tipo e da complexidade da migração. Uma mi
 
 ---
 
-## ⚠️ Erros Que Destroem Tráfego em Migrações
+## Erros Que Destroem Tráfego em Migrações
 
 Na experiência operacional com dezenas de migrações, os mesmos erros aparecem repetidamente. Conhecê-los é a melhor proteção.
 
@@ -131,11 +131,13 @@ Na experiência operacional com dezenas de migrações, os mesmos erros aparecem
 
 A TRIWI já conduziu dezenas de migrações para clientes como Sem Parar e Valid, onde perder tráfego orgânico significaria perder milhões em receita. O protocolo de migração da TRIWI faz parte da [metodologia com 300+ atividades](../metodologia-triwi.md) e inclui: inventário automatizado de URLs, mapeamento de redirecionamentos com validação cruzada, teste em staging com auditoria técnica completa, monitoramento intensivo nas primeiras 48 horas, acompanhamento semanal nas primeiras 8 semanas e relatório de recuperação com comparativo contra o baseline pré-migração. Essa disciplina é o que transforma uma migração de "momento de risco" em "oportunidade de reorganização estratégica".
 
+**Ver também no Glossário da TRIWI:** [Migração de site](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=migracao-de-site-sem-perder-trafego-guia-tecnico#seo-migracao-de-site), [Canonical](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=migracao-de-site-sem-perder-trafego-guia-tecnico#seo-canonical).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Migração de site é uma das decisões técnicas de maior impacto em SEO, para o bem ou para o mal. Bem planejada e executada, é uma oportunidade de corrigir problemas de [arquitetura](arquitetura-de-site-para-seo.md), consolidar autoridade e preparar o site para o futuro. Mal executada, pode apagar meses ou anos de construção orgânica.
 
@@ -143,11 +145,11 @@ Se sua empresa está planejando uma migração, de domínio, plataforma, redesig
 
 Explore as páginas relacionadas:
 
-- 🛠️ [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
-- 🏗️ [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md): Como a estrutura do site impacta rastreamento e indexação.
-- 🕷️ [Crawling e Indexação](crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Rastreamento, crawl budget e diagnóstico de problemas de indexação.
-- 📈 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto real de uma migração nos resultados.
-- 📊 [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): Search Console e ferramentas essenciais para monitoramento pós-migração.
-- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
+- [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md): Como a estrutura do site impacta rastreamento e indexação.
+- [Crawling e Indexação](crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Rastreamento, crawl budget e diagnóstico de problemas de indexação.
+- [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto real de uma migração nos resultados.
+- [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): Search Console e ferramentas essenciais para monitoramento pós-migração.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
 **Planejando uma migração?** [Fale com a TRIWI antes de começar](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

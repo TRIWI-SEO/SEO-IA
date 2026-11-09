@@ -6,7 +6,7 @@ Esta página conecta velocidade com resultados de negócio, explica o que torna 
 
 ---
 
-## 🚀 Por Que Velocidade Importa para SEO e para Negócios
+## Por Que Velocidade Importa para SEO e para Negócios
 
 Velocidade de carregamento opera em duas frentes simultâneas: afeta diretamente o rankeamento no Google e afeta diretamente a conversão do visitante. Um site lento perde nos dois lados, ranqueia pior e converte menos quem chega.
 
@@ -28,7 +28,7 @@ O efeito combinado é um ciclo negativo: site lento → menos rastreamento → i
 
 ---
 
-## 🐌 O Que Torna um Site Lento
+## O Que Torna um Site Lento
 
 A maioria dos problemas de velocidade se concentra em quatro categorias. Identificá-las é o primeiro passo para corrigi-las.
 
@@ -58,7 +58,7 @@ O problema se agrava porque scripts de terceiros estão fora do controle da equi
 
 ---
 
-## 📊 Como Medir e Diagnosticar
+## Como Medir e Diagnosticar
 
 Medir velocidade exige entender a diferença entre dados de campo (experiência real dos usuários) e dados de laboratório (simulação controlada). Ambos são necessários, para finalidades diferentes.
 
@@ -80,7 +80,7 @@ A armadilha: otimizar apenas para dados de laboratório e ignorar dados de campo
 
 ---
 
-## ⚡ Otimizações Práticas
+## Otimizações Práticas
 
 As otimizações a seguir são organizadas por impacto, começando pelas que tipicamente geram os maiores ganhos.
 
@@ -108,11 +108,13 @@ Além do formato: redimensionar imagens para o tamanho real de exibição (não 
 
 Na experiência da TRIWI com e-commerces e sites enterprise, otimizações de velocidade frequentemente geram ganhos de conversão de 15-30%, antes mesmo de impactar o rankeamento. Essa é uma das áreas onde o retorno é mais rápido e mensurável: diferente de estratégias de conteúdo ou link building (que levam meses para maturar), melhorias de velocidade impactam a conversão imediatamente após a implementação. Por isso, na [metodologia com 300+ atividades](../metodologia-triwi.md), performance é uma das primeiras frentes atacadas na Fase 3 (Implementação), gerando quick wins que demonstram valor enquanto as estratégias de longo prazo ganham tração.
 
+**Ver também no Glossário da TRIWI:** [PageSpeed Insights](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=velocidade-do-site-impacto-no-seo-e-nas-conversoes#seo-pagespeed-insights), [Velocidade do site](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=velocidade-do-site-impacto-no-seo-e-nas-conversoes#seo-velocidade-do-site), [Lazy loading](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=velocidade-do-site-impacto-no-seo-e-nas-conversoes#seo-lazy-loading).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Velocidade é o fator de SEO onde técnica e negócio se encontram com mais clareza. Otimizar a performance do site melhora o rankeamento, reduz abandono, aumenta conversões e gera receita incremental, tudo ao mesmo tempo. É a rara otimização que não exige trade-off: site mais rápido é melhor para o Google, melhor para o usuário e melhor para o resultado financeiro.
 
@@ -120,10 +122,10 @@ Se sua empresa quer transformar performance em vantagem competitiva, tanto no ra
 
 Explore as páginas relacionadas:
 
-- 🛠️ [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
-- ⚡ [Core Web Vitals](core-web-vitals-performance-que-impacta-rankeamento.md): LCP, INP, CLS: as métricas de performance que o Google usa para rankeamento.
-- 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia, incluindo velocidade e Page Experience.
-- 📈 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto real do SEO no negócio.
-- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
+- [Core Web Vitals](core-web-vitals-performance-que-impacta-rankeamento.md): LCP, INP, CLS: as métricas de performance que o Google usa para rankeamento.
+- [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia, incluindo velocidade e Page Experience.
+- [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto real do SEO no negócio.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
 **Seu site está perdendo conversões por causa da velocidade?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

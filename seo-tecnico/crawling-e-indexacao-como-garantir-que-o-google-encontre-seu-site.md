@@ -6,7 +6,7 @@ Esta página cobre em profundidade como o rastreamento funciona, o que é crawl 
 
 ---
 
-## 🕷️ Rastreamento: Como o Google Encontra Suas Páginas
+## Rastreamento: Como o Google Encontra Suas Páginas
 
 Rastreamento (crawling) é o processo pelo qual o [Google](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md) descobre páginas novas e atualizadas na web. O Googlebot, o crawler do Google, visita URLs, analisa o conteúdo e segue os links encontrados para descobrir mais páginas. Esse processo é contínuo: o Googlebot está constantemente revisitando páginas já conhecidas (para detectar atualizações) e descobrindo páginas novas (por meio de links ou sitemaps).
 
@@ -44,7 +44,7 @@ Incluir apenas URLs que devem ser indexadas, páginas com noindex, redirecioname
 
 ---
 
-## 📊 Crawl Budget: O Recurso Que Grandes Sites Não Podem Ignorar
+## Crawl Budget: O Recurso Que Grandes Sites Não Podem Ignorar
 
 Crawl budget é a combinação de dois fatores: o crawl rate limit (quantas requisições simultâneas o Googlebot pode fazer sem sobrecarregar o servidor) e o crawl demand (o interesse do Google em rastrear as URLs do site). Juntos, determinam quantas páginas do seu site o Google rastreia em um período de tempo.
 
@@ -80,7 +80,7 @@ Quando o crawl budget é desperdiçado em páginas de baixo valor (parâmetros d
 
 ---
 
-## 📑 Indexação: De Crawling para o Índice do Google
+## Indexação: De Crawling para o Índice do Google
 
 Depois de rastrear uma página, o Google decide se ela merece entrar no índice, a base de dados gigantesca de todas as páginas que podem aparecer nos resultados de busca. A indexação não é automática: o Google aplica critérios de qualidade, relevância e unicidade antes de incluir uma página.
 
@@ -114,7 +114,7 @@ A diferença entre robots.txt e meta robots: robots.txt impede o rastreamento (o
 
 ---
 
-## 🔧 Diagnóstico de Problemas de Indexação
+## Diagnóstico de Problemas de Indexação
 
 Problemas de indexação são silenciosos: você publica conteúdo, o site parece funcionar normalmente, mas o Google simplesmente não mostra suas páginas nos resultados. Sem monitoramento ativo, esses problemas podem persistir por meses, desperdiçando investimento em conteúdo e link building.
 
@@ -150,11 +150,13 @@ Ações para resolver: melhorar a qualidade do conteúdo das páginas afetadas, 
 
 A TRIWI monitora a saúde de indexação como parte do escopo de "Aumento das Palavras Indexadas no Google", a 8ª das 12 entregas da [metodologia](../metodologia-triwi.md), com acompanhamento mensal. Esse monitoramento contínuo permite identificar regressões de indexação antes que se tornem problemas de rankeamento: uma queda de 500 páginas indexadas em um mês pode significar um robots.txt mal configurado, uma canonical errada em massa ou uma instabilidade de servidor que precisa de correção imediata.
 
+**Ver também no Glossário da TRIWI:** [Google Search Console](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site#seo-google-search-console), [Crawl budget](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site#seo-crawl-budget), [Rastreamento](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site#seo-rastreamento), [Meta robots](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site#seo-meta-robots), [Sitemap XML](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site#seo-sitemap-xml).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Crawling e indexação são os processos invisíveis que determinam se o seu conteúdo sequer participa do jogo do rankeamento. Um site com milhares de páginas bem escritas mas mal indexadas é como uma biblioteca com livros trancados em uma sala sem porta, o conteúdo existe, mas ninguém consegue acessá-lo.
 
@@ -162,11 +164,11 @@ Se sua empresa quer garantir que cada página relevante do site seja rastreada, 
 
 Explore as páginas relacionadas:
 
-- 🛠️ [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
-- 🔎 [Como Funciona o Google](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md): Rastreamento, indexação e rankeamento: o pipeline completo.
-- 🏗️ [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md): Como a estrutura do site impacta a eficiência do rastreamento.
-- 📱 [Velocidade do Site](velocidade-do-site-impacto-no-seo-e-nas-conversoes.md): Performance de servidor e seu impacto no crawl rate.
-- 📈 [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): Google Search Console e outras ferramentas essenciais para monitoramento.
-- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
+- [Como Funciona o Google](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md): Rastreamento, indexação e rankeamento: o pipeline completo.
+- [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md): Como a estrutura do site impacta a eficiência do rastreamento.
+- [Velocidade do Site](velocidade-do-site-impacto-no-seo-e-nas-conversoes.md): Performance de servidor e seu impacto no crawl rate.
+- [Ferramentas de SEO](../metricas-e-ferramentas/ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md): Google Search Console e outras ferramentas essenciais para monitoramento.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
 **Seu conteúdo está chegando ao índice do Google?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

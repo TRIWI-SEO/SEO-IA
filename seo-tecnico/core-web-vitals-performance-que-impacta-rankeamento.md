@@ -6,7 +6,7 @@ Esta página explica cada métrica em profundidade, com metas claras, causas de 
 
 ---
 
-## 🔍 O Que São Core Web Vitals
+## O Que São Core Web Vitals
 
 Core Web Vitals (CWV) são um conjunto de métricas definidas pelo Google que quantificam aspectos essenciais da experiência do usuário em uma página web. Elas medem três dimensões da interação: velocidade de carregamento (LCP), responsividade a interações (INP) e estabilidade visual (CLS).
 
@@ -34,7 +34,7 @@ Os dados do próprio Google confirmam o impacto: páginas que atendem os limites
 
 ---
 
-## ⚡ LCP: Largest Contentful Paint
+## LCP: Largest Contentful Paint
 
 O LCP mede o tempo, em segundos, que leva para o maior elemento visível na viewport ser completamente renderizado. Esse "maior elemento" geralmente é uma imagem hero, um vídeo de capa, um bloco de texto grande ou um elemento gráfico de destaque.
 
@@ -46,9 +46,9 @@ O LCP captura a percepção do usuário sobre "quando a página carregou". Não 
 
 | Faixa | Classificação |
 |---|---|
-| ≤ 2,5 segundos | ✅ Bom |
+| ≤ 2,5 segundos | Bom |
 | 2,5, 4,0 segundos | Precisa melhorar |
-| > 4,0 segundos | ❌ Ruim |
+| > 4,0 segundos | Ruim |
 
 **Causas mais comuns de LCP alto:**
 
@@ -68,7 +68,7 @@ Na prática, mirar em LCP abaixo de 2 segundos dá margem de segurança. Picos d
 
 ---
 
-## 🖱️ INP: Interaction to Next Paint
+## INP: Interaction to Next Paint
 
 O INP mede a latência de resposta da página às interações do usuário. Ele captura o tempo entre o momento em que o usuário interage (clica, toca, digita) e o momento em que o navegador exibe a atualização visual resultante.
 
@@ -80,9 +80,9 @@ O INP substituiu oficialmente o FID (First Input Delay) como métrica de respons
 
 | Faixa | Classificação |
 |---|---|
-| ≤ 200 milissegundos | ✅ Bom |
+| ≤ 200 milissegundos | Bom |
 | 200, 500 milissegundos | Precisa melhorar |
-| > 500 milissegundos | ❌ Ruim |
+| > 500 milissegundos | Ruim |
 
 O INP é particularmente relevante para sites com muita interatividade: e-commerces (filtros, adição ao carrinho), ferramentas web (formulários, dashboards), e aplicações SPA (Single Page Applications). Um INP alto significa que o usuário clica e nada acontece, a frustração que mais gera abandono.
 
@@ -98,7 +98,7 @@ O INP é particularmente relevante para sites com muita interatividade: e-commer
 
 ---
 
-## 📐 CLS: Cumulative Layout Shift
+## CLS: Cumulative Layout Shift
 
 O CLS mede a soma de todos os deslocamentos inesperados de elementos visíveis que ocorrem durante a vida da página. Em termos simples: quanto o conteúdo "pula" sem que o usuário tenha causado esse movimento.
 
@@ -110,9 +110,9 @@ Você já tentou clicar em um botão e, no exato momento do clique, o conteúdo 
 
 | Faixa | Classificação |
 |---|---|
-| ≤ 0,1 | ✅ Bom |
+| ≤ 0,1 | Bom |
 | 0,1, 0,25 | Precisa melhorar |
-| > 0,25 | ❌ Ruim |
+| > 0,25 | Ruim |
 
 As causas mais comuns de CLS alto:
 
@@ -134,7 +134,7 @@ Para diagnóstico, o Chrome DevTools oferece a aba "Performance" com um marcador
 
 ---
 
-## 📊 Como Medir Core Web Vitals
+## Como Medir Core Web Vitals
 
 Medir Core Web Vitals requer duas abordagens complementares: dados de campo (usuários reais) e dados de laboratório (simulação controlada). Ambos são necessários, e medem coisas diferentes.
 
@@ -154,7 +154,7 @@ A diferença crucial entre dados de campo e laboratório: dados de campo reflete
 
 ---
 
-## 🎯 CWV e o Impacto Real no Rankeamento
+## CWV e o Impacto Real no Rankeamento
 
 Entender o papel dos Core Web Vitals no rankeamento exige nuance. CWV é um fator de rankeamento real, mas não funciona da forma que muitos imaginam.
 
@@ -184,11 +184,13 @@ Na TRIWI, o monitoramento de Core Web Vitals é contínuo, não uma verificaçã
 
 Essa disciplina operacional é parte da [metodologia com 300+ atividades](../metodologia-triwi.md). Core Web Vitals não são um checklist pontual; são uma métrica viva que precisa de monitoramento contínuo. Empresas como Sem Parar (+31% tráfego orgânico), Valid/Flexdoc (+47% tráfego orgânico) e Contato Seguro (+654% tráfego orgânico) mantêm CWV saudáveis como parte de uma estratégia integrada que combina [performance técnica](README.md), conteúdo estratégico e construção de autoridade.
 
+**Ver também no Glossário da TRIWI:** [PageSpeed Insights](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=core-web-vitals-performance-que-impacta-rankeamento#seo-pagespeed-insights), [Core Web Vitals](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=core-web-vitals-performance-que-impacta-rankeamento#seo-core-web-vitals).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Core Web Vitals são a dimensão mensurável da experiência do usuário, e o Google recompensa quem investe nessa dimensão. LCP, INP e CLS não são métricas abstratas: são reflexos diretos de como seu site funciona para pessoas reais, com impacto comprovado em rankeamento, retenção e conversão.
 
@@ -196,11 +198,11 @@ Se sua empresa quer garantir que a performance do site esteja trabalhando a favo
 
 Explore as páginas relacionadas:
 
-- 🛠️ [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
-- 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia, incluindo Page Experience.
-- 🏗️ [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md): Como a estrutura do site impacta rastreamento, indexação e performance.
-- 📈 [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto real do SEO no negócio.
-- 🤖 [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): A otimização para IAs generativas e AI Overviews.
-- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
+- [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia, incluindo Page Experience.
+- [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md): Como a estrutura do site impacta rastreamento, indexação e performance.
+- [Métricas e KPIs de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medir o impacto real do SEO no negócio.
+- [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): A otimização para IAs generativas e AI Overviews.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
 **Seu site está aprovado nos Core Web Vitals?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

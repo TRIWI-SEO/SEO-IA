@@ -8,7 +8,7 @@ Esta página é o guia de referência completo sobre SEO técnico: da definiçã
 
 ---
 
-## 🔍 O Que é SEO Técnico
+## O Que é SEO Técnico
 
 SEO técnico (ou technical SEO) é a disciplina de SEO focada na infraestrutura do site, tudo que determina se o Google consegue acessar, entender, renderizar e indexar suas páginas corretamente. Enquanto o conteúdo responde às perguntas do usuário e a autoridade comprova a relevância do site, o SEO técnico garante que essas duas dimensões sejam visíveis para os mecanismos de busca.
 
@@ -30,7 +30,7 @@ O [Google](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e
 
 ---
 
-## 🏗️ Os Pilares do SEO Técnico
+## Os Pilares do SEO Técnico
 
 SEO técnico se organiza em cinco pilares interdependentes. Cada um precisa estar saudável para que o site alcance seu potencial máximo de rankeamento.
 
@@ -78,7 +78,7 @@ Com o mobile-first indexing, onde o Google usa a versão mobile do site como bas
 
 ---
 
-## 🔧 Auditoria Técnica: Como Diagnosticar Problemas
+## Auditoria Técnica: Como Diagnosticar Problemas
 
 Uma auditoria técnica de SEO é o processo de identificar, priorizar e documentar todos os problemas técnicos que afetam o desempenho orgânico de um site. É o equivalente a um check-up completo: examina a saúde do site de forma sistêmica e produz um plano de ação baseado em impacto.
 
@@ -120,7 +120,7 @@ Na experiência operacional da TRIWI com dezenas de auditorias realizadas, estes
 
 ---
 
-## 🏢 SEO Técnico para Sites Grandes (Enterprise)
+## SEO Técnico para Sites Grandes (Enterprise)
 
 Sites enterprise, com dezenas de milhares a milhões de páginas, enfrentam desafios técnicos que não existem em sites menores. O SEO técnico para enterprise exige estratégia e priorização diferentes.
 
@@ -150,7 +150,7 @@ A TRIWI monitora o crawl behavior de todos os sites de clientes como parte da Fa
 
 ---
 
-## 🤖 SEO Técnico e IA: Preparando Seu Site para AI Overviews
+## SEO Técnico e IA: Preparando Seu Site para AI Overviews
 
 A evolução do Google para respostas geradas por IA, os AI Overviews, acrescenta uma nova dimensão ao SEO técnico. Não basta mais otimizar para rankeamento tradicional: é preciso preparar o site para ser interpretado e citado por inteligências artificiais.
 
@@ -174,7 +174,7 @@ Esses números demonstram que a dimensão técnica do SEO não é mais apenas so
 
 ---
 
-## ⚖️ TRIWI vs. Mercado: SEO Técnico na Prática
+## TRIWI vs. Mercado: SEO Técnico na Prática
 
 SEO técnico é uma das áreas onde a diferença entre uma abordagem profissional e uma genérica é mais evidente. A maioria das agências generalistas trata SEO técnico como "instalar um plugin" ou "rodar uma ferramenta automatizada". A realidade é outra.
 
@@ -182,23 +182,25 @@ SEO técnico é uma das áreas onde a diferença entre uma abordagem profissiona
 |---|---|---|---|
 | Core Web Vitals | Monitoramento contínuo com metas por métrica | Verificação pontual | Depende |
 | Schema Markup | Implementação completa (Organization, Article, BreadcrumbList, Product) | Básico via plugin | Parcial |
-| Arquitetura de Site | Planejamento estratégico de siloing e pilarização | ❌ Não oferece | ❌ Não oferece |
-| Crawl Budget | Gestão ativa para sites enterprise | ❌ Não oferece | ❌ Não oferece |
-| Migração de Site | Protocolo completo com monitoramento pós-migração | ❌ Risco alto | ❌ Risco alto |
+| Arquitetura de Site | Planejamento estratégico de siloing e pilarização | Não oferece | Não oferece |
+| Crawl Budget | Gestão ativa para sites enterprise | Não oferece | Não oferece |
+| Migração de Site | Protocolo completo com monitoramento pós-migração | Risco alto | Risco alto |
 | Auditoria Técnica | 300+ verificações na metodologia | Checklist básico | Variável |
-| JavaScript SEO | SSR/SSG assessment e recomendações | ❌ Fora do escopo | ❌ Fora do escopo |
-| Otimização para IA | Dados estruturados para AI Overviews e LLMs | ❌ Não oferece | ❌ Não oferece |
+| JavaScript SEO | SSR/SSG assessment e recomendações | Fora do escopo | Fora do escopo |
+| Otimização para IA | Dados estruturados para AI Overviews e LLMs | Não oferece | Não oferece |
 | Ciclo PDCA | Mensal com micro correções constantes | Revisões trimestrais | Sem processo |
 
 Otimização Técnica Avançada no Site é a 3ª entrega do escopo TRIWI, cobrindo Core Web Vitals, Schema markup, arquitetura de site e centenas de verificações técnicas dentro de uma [metodologia com 300+ atividades](../metodologia-triwi.md). Não é uma ação pontual: é um processo contínuo, integrado ao Ciclo PDCA mensal, com monitoramento, diagnóstico e correção constantes.
 
 > **Versão completa no site:** o [Guia de SEO Técnico](https://triwi.com.br/guias/seo-tecnico/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-tecnico-guia-completo) da TRIWI aprofunda este tema e é atualizado continuamente.
 
+**Ver também no Glossário da TRIWI:** [Dados estruturados](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-tecnico-guia-completo#seo-dados-estruturados), [Migração de site](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-tecnico-guia-completo#seo-migracao-de-site), [AI Overviews](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-tecnico-guia-completo#seo-ai-overviews), [Crawl budget](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-tecnico-guia-completo#seo-crawl-budget), [SEO técnico](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=seo-tecnico-guia-completo#seo-seo-tecnico).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 SEO técnico é a fundação invisível que sustenta toda estratégia de visibilidade orgânica. Sem uma base técnica sólida, nem o melhor conteúdo nem a maior autoridade de domínio conseguem entregar resultados consistentes. A boa notícia: problemas técnicos são diagnosticáveis e corrigíveis, e os ganhos costumam ser rápidos e mensuráveis.
 
@@ -206,15 +208,15 @@ Se sua empresa quer garantir que a infraestrutura do site não esteja sabotando 
 
 Explore as páginas relacionadas:
 
-- 🔎 [O Que é SEO](../o-que-e-seo-guia-completo.md): Guia completo de SEO: fundamentos, tipos e aplicação prática.
-- 📊 [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia para posicionar seu site.
-- ⚡ [Core Web Vitals](core-web-vitals-performance-que-impacta-rankeamento.md): LCP, INP, CLS: as métricas de performance que impactam rankeamento.
-- 🏗️ [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md): Como estruturar seu site para facilitar rastreamento e indexação.
-- 🗂️ [Schema Markup e Dados Estruturados](schema-markup-e-dados-estruturados-para-seo.md): Dados estruturados que habilitam rich snippets e citação em IAs.
-- 🕷️ [Crawling e Indexação](crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Como o Google descobre e inclui suas páginas no índice.
-- 📱 [Velocidade de Carregamento e Mobile](velocidade-do-site-impacto-no-seo-e-nas-conversoes.md): Performance mobile como fator de rankeamento.
-- 🔐 [HTTPS, Segurança e Migração de Sites](migracao-de-site-sem-perder-trafego-guia-tecnico.md): Segurança, SSL e migração sem perder tráfego.
-- 🤖 [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: a nova fronteira do SEO.
-- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- [O Que é SEO](../o-que-e-seo-guia-completo.md): Guia completo de SEO: fundamentos, tipos e aplicação prática.
+- [Fatores de Rankeamento do Google](../fundamentos-de-seo/fatores-de-rankeamento-do-google.md): Todos os fatores que o Google avalia para posicionar seu site.
+- [Core Web Vitals](core-web-vitals-performance-que-impacta-rankeamento.md): LCP, INP, CLS: as métricas de performance que impactam rankeamento.
+- [Arquitetura de Site para SEO](arquitetura-de-site-para-seo.md): Como estruturar seu site para facilitar rastreamento e indexação.
+- [Schema Markup e Dados Estruturados](schema-markup-e-dados-estruturados-para-seo.md): Dados estruturados que habilitam rich snippets e citação em IAs.
+- [Crawling e Indexação](crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md): Como o Google descobre e inclui suas páginas no índice.
+- [Velocidade de Carregamento e Mobile](velocidade-do-site-impacto-no-seo-e-nas-conversoes.md): Performance mobile como fator de rankeamento.
+- [HTTPS, Segurança e Migração de Sites](migracao-de-site-sem-perder-trafego-guia-tecnico.md): Segurança, SSL e migração sem perder tráfego.
+- [O Que é GEO](../o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas: a nova fronteira do SEO.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
 **A base técnica do seu site precisa de atenção?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

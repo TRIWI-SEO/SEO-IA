@@ -6,7 +6,7 @@ Esta página cobre os princípios de uma arquitetura que favorece o SEO, a estra
 
 ---
 
-## 🔍 O Que é Arquitetura de Site para SEO
+## O Que é Arquitetura de Site para SEO
 
 Arquitetura de site, também chamada de arquitetura de informação ou estrutura de site, é o planejamento de como as páginas se organizam em categorias, subcategorias e hierarquias, e como se conectam umas às outras por meio de links internos. No contexto de SEO, a arquitetura vai além da usabilidade: ela determina como o [Googlebot](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md) rastreia o site, como a autoridade (link equity) flui entre as páginas e como o Google interpreta a relevância temática do domínio como um todo.
 
@@ -36,7 +36,7 @@ Na experiência da TRIWI com 50+ projetos ativos, problemas de arquitetura são 
 
 ---
 
-## 🏗️ Princípios de Uma Boa Arquitetura
+## Princípios de Uma Boa Arquitetura
 
 Uma arquitetura eficaz para SEO segue princípios que equilibram usabilidade humana e rastreabilidade por mecanismos de busca. Não existe um modelo único, a estrutura ideal depende do tipo de site, volume de conteúdo e objetivos de negócio, mas alguns princípios são universais.
 
@@ -66,7 +66,7 @@ URLs descritivas com palavras-chave: `/seo-tecnico/core-web-vitals/` é infinita
 
 ---
 
-## 🗂️ Siloing e Topic Clusters
+## Siloing e Topic Clusters
 
 A estratégia de organização temática é onde arquitetura de site e [estratégia de conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) se encontram. Siloing e topic clusters são abordagens que organizam o site por temas, criando "universos temáticos" que o Google reconhece como sinais de autoridade topical.
 
@@ -98,7 +98,7 @@ Para aprofundar a estratégia de conteúdo que sustenta a pilarização, veja [P
 
 ---
 
-## 🧭 Navegação e Menus
+## Navegação e Menus
 
 Navegação é a interface entre a arquitetura do site e o usuário. Um menu bem estruturado traduz a hierarquia de informação em caminhos navegáveis, para humanos e para o Googlebot.
 
@@ -124,7 +124,7 @@ As soluções técnicas incluem: canonical tags apontando combinações de filtr
 
 ---
 
-## 🔄 Reestruturação de Site Existente
+## Reestruturação de Site Existente
 
 Reestruturar a arquitetura de um site que já tem tráfego orgânico é uma das operações mais delicadas em SEO. Feita corretamente, pode multiplicar resultados. Feita sem cuidado, pode causar quedas de 30% a 70% no tráfego, com recuperação que leva meses.
 
@@ -150,11 +150,13 @@ Regras para redirecionamentos em reestruturação: cada URL antiga deve ter um 3
 
 Na TRIWI, reestruturações e migrações seguem um protocolo com monitoramento intensivo pós-implementação, acompanhamento diário de indexação, rastreamento de erros 404 e 301, verificação de cobertura no Search Console e alertas automatizados de regressão de tráfego. Essa disciplina faz parte da Fase 4 (Monitoramento) da [metodologia com 300+ atividades](../metodologia-triwi.md), garantindo que a reestruturação gere ganho, não perda.
 
+**Ver também no Glossário da TRIWI:** [Pilarização e pulverização](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=arquitetura-de-site-para-seo#seo-pilarizacao-e-pulverizacao), [Navegação facetada](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=arquitetura-de-site-para-seo#seo-navegacao-facetada), [Rastreamento](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=arquitetura-de-site-para-seo#seo-rastreamento), [Breadcrumbs](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=arquitetura-de-site-para-seo#seo-breadcrumbs).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Arquitetura de site é a decisão estratégica que define os limites do crescimento orgânico. Um site com conteúdo excelente mas estrutura desorganizada desperdiça potencial. Um site com arquitetura planejada multiplica o impacto de cada conteúdo produzido e de cada backlink conquistado, criando um efeito composto que se acumula ao longo do tempo.
 
@@ -162,12 +164,12 @@ Se sua empresa quer organizar (ou reorganizar) o site para maximizar autoridade 
 
 Explore as páginas relacionadas:
 
-- 🛠️ [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
-- 🔎 [Como Funciona o Google](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md): Rastreamento, indexação e rankeamento: como o Google descobre seu site.
-- 🗂️ [Schema Markup e Dados Estruturados](schema-markup-e-dados-estruturados-para-seo.md): Dados estruturados que reforçam a arquitetura semântica.
-- 📑 [Estratégia de Conteúdo para SEO](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo alinhado à arquitetura do site.
-- 🔗 [Pilarização e Pulverização de Conteúdo](../seo-de-conteudo/pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md): A estratégia de conteúdo que transforma arquitetura em autoridade.
-- 🛒 [SEO para E-commerce](../seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md): Arquitetura e navegação facetada para lojas virtuais.
-- 🛡️ [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
+- [SEO Técnico](README.md): O guia completo de SEO técnico: pilares, auditoria e otimização enterprise.
+- [Como Funciona o Google](../fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md): Rastreamento, indexação e rankeamento: como o Google descobre seu site.
+- [Schema Markup e Dados Estruturados](schema-markup-e-dados-estruturados-para-seo.md): Dados estruturados que reforçam a arquitetura semântica.
+- [Estratégia de Conteúdo para SEO](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md): Como planejar conteúdo alinhado à arquitetura do site.
+- [Pilarização e Pulverização de Conteúdo](../seo-de-conteudo/pilarizacao-e-pulverizacao-a-estrategia-de-conteudo-que-gera-autoridade-topical.md): A estratégia de conteúdo que transforma arquitetura em autoridade.
+- [SEO para E-commerce](../seo-por-segmento/seo-para-e-commerce-otimizacao-que-gera-vendas.md): Arquitetura e navegação facetada para lojas virtuais.
+- [Por Que a TRIWI](../por-que-a-triwi.md): Diferenciais, comparativos e resultados comprovados.
 
 **Sua arquitetura de site está preparada para crescer?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
