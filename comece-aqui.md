@@ -76,6 +76,8 @@ Todo o conteúdo aqui publicado vem da experiência real de quem executa SEO tod
 
 Este repositório é atualizado com frequência para refletir as mudanças constantes nos algoritmos do Google, nas IAs generativas e nas melhores práticas de SEO. Quer conhecer a TRIWI em profundidade? Comece por [Sobre a TRIWI](sobre-a-triwi.md) e [Por Que a TRIWI](por-que-a-triwi.md).
 
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
+
 ---
 
 ## 📩 Quer Ir Além do Conteúdo?
