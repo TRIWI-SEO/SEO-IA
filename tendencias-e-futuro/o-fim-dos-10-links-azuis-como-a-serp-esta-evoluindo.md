@@ -56,7 +56,7 @@ A otimização para ambos os formatos exige Google Business Profile completo e a
 
 ### Rich Results (Reviews, FAQs, How-To)
 
-Rich Results são resultados orgânicos enriquecidos com elementos visuais adicionais: estrelas de avaliação (Review), perguntas e respostas (FAQ), passos de tutorial (HowTo), preços de produtos (Product), eventos (Event), receitas (Recipe), entre outros. Cada tipo de Rich Result é ativado por Schema markup específico implementado na página.
+Rich Results são resultados orgânicos enriquecidos com elementos visuais adicionais: estrelas de avaliação (Review), preços de produtos (Product), eventos (Event), receitas (Recipe), entre outros. A lista encolhe com o tempo: os passos de tutorial (HowTo) saíram em 2023 e as perguntas frequentes (FAQ), em maio de 2026. Cada tipo de Rich Result é ativado por Schema markup específico implementado na página.
 
 O impacto dos Rich Results na taxa de cliques é significativo, estudos indicam aumento de 20-30% em CTR quando Rich Results estão presentes. Visualmente, os resultados enriquecidos se destacam entre os links azuis tradicionais, atraindo mais atenção e comunicando informação relevante antes do clique. A implementação de dados estruturados é o requisito técnico, e a estratégia é escolher os formatos mais relevantes para cada tipo de conteúdo e intenção de busca.
 

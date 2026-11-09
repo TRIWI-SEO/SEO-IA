@@ -48,11 +48,13 @@ O **Helpful Content Update** (2022, atualizado em 2023 e integrado ao ranking pr
 
 O Helpful Content Update introduziu um sinal de classificação em nível de site, não apenas de página. Isso significa que se uma parte significativa do conteúdo de um domínio for avaliada como "unhelpful", todo o site pode ser penalizado. O impacto foi devastador para sites que dependiam de volume sobre qualidade. E reforçou o princípio que o [framework E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md) já articulava: expertise e experiência real são insubstituíveis.
 
-### Updates de 2024-2025 e Foco em IA
+### Updates Recentes e o Foco em IA
 
 Os Core Updates de 2024 e 2025 consolidaram as tendências anteriores com foco adicional em dois vetores: conteúdo gerado por IA e qualidade de experiência do usuário. O March 2024 Core Update foi o mais abrangente da história recente, combinando core update, spam update e ajustes no Helpful Content em uma única atualização. O Google estimou que a combinação reduziria conteúdo de baixa qualidade nos resultados em 40%.
 
 Os updates de 2025 aprofundaram a integração entre busca tradicional e IA. Com os AI Overviews aparecendo em 48% das buscas, o algoritmo passou a avaliar não apenas se o conteúdo é bom para rankeamento tradicional, mas se é adequado para citação em respostas geradas por IA. Sites com definições claras, dados verificáveis e autoridade reconhecida ganharam vantagem dupla: nos resultados orgânicos e nas respostas por IA. As [tendências de SEO](tendencias-de-seo-o-que-esperar-nos-proximos-anos.md) atuais refletem essa convergência.
+
+Em 2026, o Google seguiu enxugando os resultados enriquecidos: desde 7 de maio deixou de exibir o resultado de FAQ para todos os sites ([Google Search Central](https://developers.google.com/search/docs/appearance/structured-data/faqpage)). A marcação continua válida, mas o destaque visual acabou, e o que pesa para o Google e para as IAs é a pergunta e a resposta visíveis no texto.
 
 ---
 

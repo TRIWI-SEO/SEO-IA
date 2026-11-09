@@ -22,7 +22,7 @@ A página-pilar da categoria. Analisa as 6 tendências que mais impactam o SEO: 
 
 ### 🔄 [8.2, Atualizações do Google: Guia de Core Updates e Seus Impactos](atualizacoes-do-google-guia-de-core-updates-e-seus-impactos.md)
 
-O histórico completo das atualizações que redefiniram o SEO, do Panda (2011) aos updates focados em IA (2024-2025). Explica a diferença entre Core Updates, Spam Updates, Product Reviews Updates e Helpful Content Updates, como identificar se seu site foi impactado, o que fazer para se recuperar e, o mais estratégico, como construir fundamentos que resistam a updates futuros. A melhor defesa não é reagir: é ter qualidade desde o início.
+O histórico completo das atualizações que redefiniram o SEO, do Panda (2011) aos updates focados em IA (de 2024 em diante). Explica a diferença entre Core Updates, Spam Updates, Product Reviews Updates e Helpful Content Updates, como identificar se seu site foi impactado, o que fazer para se recuperar e, o mais estratégico, como construir fundamentos que resistam a updates futuros. A melhor defesa não é reagir: é ter qualidade desde o início.
 
 ### 🤖 [8.3, IA e Produção de Conteúdo: Oportunidades e Riscos para SEO](ia-e-producao-de-conteudo-oportunidades-e-riscos-para-seo.md)
 

@@ -58,11 +58,11 @@ Essa distribuição tem implicação direta: empresas com presença física prec
 
 A otimização para busca por voz não exige reinventar a estratégia de SEO, exige adaptar e complementar. As táticas a seguir funcionam em sinergia com SEO tradicional e com GEO.
 
-### FAQ Structured Data
+### Perguntas e Respostas no Texto
 
-Dados estruturados de FAQ (FAQPage schema) comunicam diretamente ao Google e aos assistentes virtuais que uma página contém perguntas e respostas sobre um tema. Quando um usuário faz uma pergunta por voz, o assistente prioriza fontes que já estão estruturadas em formato Q&A, porque a extração da resposta é mais confiável.
+Perguntas e respostas visíveis no texto mostram ao Google e aos assistentes virtuais que a página responde dúvidas sobre um tema. O schema FAQPage pode acompanhar, mas desde maio de 2026 não gera mais resultado enriquecido no Google. Quando um usuário faz uma pergunta por voz, o assistente prioriza fontes que já estão estruturadas em formato Q&A, porque a extração da resposta é mais confiável.
 
-A implementação de [Schema markup](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md) de FAQ deve cobrir as perguntas mais frequentes do público sobre cada tema. Cada par pergunta-resposta precisa ser autocontido: a resposta deve fazer sentido sem precisar do contexto ao redor. Respostas concisas (40-60 palavras) têm maior probabilidade de serem selecionadas como resposta por voz.
+A seção de perguntas (e o [Schema markup](../seo-tecnico/schema-markup-e-dados-estruturados-para-seo.md), se usado) deve cobrir as perguntas mais frequentes do público sobre cada tema. Cada par pergunta-resposta precisa ser autocontido: a resposta deve fazer sentido sem precisar do contexto ao redor. Respostas concisas (40-60 palavras) têm maior probabilidade de serem selecionadas como resposta por voz.
 
 ### Conteúdo em Formato de Pergunta e Resposta
 
