@@ -28,7 +28,7 @@ Como as páginas de um site devem ser organizadas, hierarquizadas e interconecta
 
 ### 📋 [2.4: Schema Markup e Dados Estruturados para SEO](schema-markup-e-dados-estruturados-para-seo.md)
 
-A camada semântica que ajuda o Google e as IAs generativas a entenderem o significado do conteúdo, não apenas o texto. Explica Schema.org, os tipos de markup mais relevantes (Organization, Product, FAQPage, Article, HowTo), como implementar em JSON-LD e por que dados estruturados se tornaram essenciais para AI Overviews e citações em LLMs.
+A camada semântica que ajuda o Google e as IAs generativas a entenderem o significado do conteúdo, não apenas o texto. Explica Schema.org, os tipos de markup mais relevantes (Organization, Article, Product, BreadcrumbList), o que mudou com o fim dos resultados enriquecidos de FAQ e HowTo, como implementar em JSON-LD e por que dados estruturados se tornaram essenciais para AI Overviews e citações em LLMs.
 
 ### 🕷️ [2.5, Crawling e Indexação: Como Garantir Que o Google Encontre Seu Site](crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md)
 

@@ -34,21 +34,21 @@ Dados estruturados não são um fator de rankeamento direto, o Google já esclar
 
 ### Rich Snippets: Mais Espaço na SERP
 
-Rich snippets são os recursos visuais adicionais que aparecem nos resultados de busca quando o Google detecta dados estruturados válidos na página. Exemplos: estrelas de avaliação (Review), perguntas frequentes expandíveis (FAQ), passos de um tutorial (HowTo), breadcrumbs de navegação, informações de produto (preço, disponibilidade) e sitelinks de busca.
+Rich snippets são os recursos visuais adicionais que aparecem nos resultados de busca quando o Google detecta dados estruturados válidos na página. Exemplos: estrelas de avaliação (Review), breadcrumbs de navegação, informações de produto (preço, disponibilidade) e dados de eventos e receitas. A lista muda: o Google deixou de exibir os passos de tutorial (HowTo) em 2023 e as perguntas frequentes expandíveis (FAQ) em 7 de maio de 2026 ([Google Search Central](https://developers.google.com/search/docs/appearance/structured-data/faqpage)).
 
 O impacto é visual e quantificável: resultados com rich snippets ocupam mais espaço na SERP, se destacam visualmente dos resultados padrão e, consequentemente, recebem mais cliques. Estudos de mercado indicam que rich snippets podem aumentar o CTR (taxa de clique) em até 30% comparado a resultados sem marcação, um ganho expressivo sem alterar uma única linha de conteúdo.
 
-Mais espaço na SERP também significa menos espaço para concorrentes. Um resultado com FAQ expandida pode ocupar o equivalente a 3-4 resultados normais, empurrando concorrentes para baixo e dominando a atenção do usuário.
+Mais espaço na SERP também significa menos espaço para concorrentes. Um resultado com estrelas, preço e disponibilidade chama mais atenção do que um resultado simples ao lado dele.
 
 ### Dados Estruturados e AI Overviews
 
-A dimensão mais transformadora dos dados estruturados em 2025 é sua relação com AI Overviews e IAs generativas. Quando o Google gera uma resposta de IA nos resultados de busca, precisa identificar fontes confiáveis e extrair informações precisas. Dados estruturados facilitam esse processo de três formas:
+A dimensão mais transformadora dos dados estruturados hoje é sua relação com AI Overviews e IAs generativas. Quando o Google gera uma resposta de IA nos resultados de busca, precisa identificar fontes confiáveis e extrair informações precisas. Dados estruturados facilitam esse processo de três formas:
 
 **Identificação de entidades:** Schema markup de Organization, Person e Brand ajuda a IA a reconhecer quem é quem, facilitando a atribuição de autoridade e a citação correta da fonte.
 
 **Extração de dados factuais:** Propriedades como preço, avaliação, data e especificações técnicas são extraídas com precisão quando marcadas com Schema, em vez de dependerem de interpretação de texto livre.
 
-**Compreensão de estrutura:** FAQPage e HowTo fornecem perguntas e respostas em formato que IAs processam nativamente, aumentando a probabilidade de que seu conteúdo seja selecionado como fonte para a resposta gerada.
+**Compreensão de estrutura:** perguntas, respostas e passos visíveis no texto, confirmados pela marcação, são o formato que IAs processam com mais facilidade, o que aumenta a probabilidade de o conteúdo ser selecionado como fonte.
 
 Para LLMs como ChatGPT, Gemini e Claude, a lógica é similar: conteúdo com dados estruturados é mais fácil de processar, interpretar e citar corretamente. Sites que implementam Schema markup de forma completa e precisa estão melhor posicionados para aparecer nas respostas de qualquer IA, não apenas do Google.
 
@@ -74,9 +74,9 @@ O Schema.org oferece centenas de tipos, mas para SEO e otimização para IAs, um
 
 **Article**, identifica conteúdo editorial com autor, data de publicação, data de atualização, imagem e publisher. Fortalece sinais de E-E-A-T ao declarar autoria e recência, dois fatores que tanto o Google quanto as IAs valorizam.
 
-**FAQPage**, marca perguntas e respostas em formato que habilita o rich snippet de FAQ nos resultados de busca. Um dos tipos com maior impacto em CTR e em probabilidade de citação em AI Overviews, LLMs identificam e extraem Q&As com facilidade.
+**FAQPage** marca perguntas e respostas. Desde 7 de maio de 2026 ela não gera mais resultado enriquecido no Google. O que continua valendo para o Google e para as IAs é a pergunta e a resposta existirem como texto visível na página, com a resposta logo abaixo da pergunta.
 
-**HowTo**: descreve tutoriais passo a passo com imagens, tempo estimado e materiais necessários. Habilita rich snippet de tutorial nos resultados de busca. Particularmente relevante para conteúdo educacional e técnico.
+**HowTo** descreve tutoriais passo a passo. O Google deixou de exibir o resultado enriquecido de tutorial em 2023. Os passos seguem úteis como lista numerada no próprio texto.
 
 **BreadcrumbList**: marca a trilha de navegação do site (Home > Categoria > Página). Exibe breadcrumbs nos resultados de busca, melhorando a clareza do resultado e reforçando a [arquitetura do site](arquitetura-de-site-para-seo.md) perante o Google.
 
@@ -88,15 +88,15 @@ O Schema.org oferece centenas de tipos, mas para SEO e otimização para IAs, um
 
 A seleção de tipos de Schema depende do modelo de negócio e dos objetivos:
 
-**E-commerce:** Product, AggregateRating, BreadcrumbList, FAQPage, Organization, Offer.
+**E-commerce:** Product, Offer, AggregateRating, BreadcrumbList, Organization.
 
-**B2B / SaaS / Serviços:** Organization, Article, FAQPage, HowTo, BreadcrumbList, Review.
+**B2B / SaaS / Serviços:** Organization, Article, BreadcrumbList.
 
-**Blogs e portais de conteúdo:** Article, FAQPage, HowTo, BreadcrumbList, Speakable.
+**Blogs e portais de conteúdo:** Article, BreadcrumbList, Organization.
 
-**Negócios locais:** LocalBusiness, Organization, Review, FAQPage, BreadcrumbList.
+**Negócios locais:** LocalBusiness, Organization, BreadcrumbList.
 
-A regra prática: comece pelos tipos que habilitam rich snippets com maior impacto de CTR no seu mercado (geralmente FAQPage e Review), depois expanda para Organization e Article (E-E-A-T e autoridade), e então avance para tipos específicos do seu modelo de negócio.
+A regra prática: comece pelos tipos que identificam a entidade (Organization, Article com autor e datas, BreadcrumbList) e pelos que ainda geram resultado enriquecido no seu mercado (Product, LocalBusiness), sempre conferindo a lista atual na [documentação do Google](https://developers.google.com/search/docs/appearance/structured-data/search-gallery?hl=pt-br).
 
 ---
 
@@ -164,7 +164,7 @@ A implementação de dados estruturados é parte da otimização técnica avanç
 
 ## 📩 Próximos Passos
 
-Dados estruturados são a ponte entre o conteúdo do seu site e a compreensão dos mecanismos de busca e IAs generativas. Em 2025, com AI Overviews integrados aos resultados do Google e milhões de decisões passando por ChatGPT, Gemini e Claude, implementar Schema markup não é mais uma otimização avançada; é uma necessidade competitiva.
+Dados estruturados são a ponte entre o conteúdo do seu site e a compreensão dos mecanismos de busca e IAs generativas. Com AI Overviews integrados aos resultados do Google e milhões de decisões passando por ChatGPT, Gemini e Claude, implementar Schema markup não é mais uma otimização avançada; é uma necessidade competitiva.
 
 Se sua empresa quer garantir que o Google e as IAs entendam, destaquem e citem o conteúdo do seu site, conheça a [Metodologia TRIWI](https://triwi.com.br/metodologia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) e veja como dados estruturados se integram a uma estratégia completa de [SEO técnico](README.md), [conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) e [otimização para IAs](../o-que-e-geo-generative-engine-optimization-guia-completo.md).
 

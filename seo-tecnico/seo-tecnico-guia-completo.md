@@ -108,7 +108,7 @@ Na experiência operacional da TRIWI com dezenas de auditorias realizadas, estes
 
 **6. Sitemap XML desatualizado ou incompleto**, Sitemaps que incluem URLs com erro, excluem páginas importantes, ou não refletem a estrutura atual do site. O sitemap é um mapa para o Google, se o mapa está errado, o Google se perde.
 
-**7. Ausência de dados estruturados**, Sites sem [Schema markup](schema-markup-e-dados-estruturados-para-seo.md) perdem a oportunidade de rich snippets nos resultados de busca (FAQ, review stars, breadcrumbs, etc.), e ficam em desvantagem para citação em AI Overviews.
+**7. Ausência de dados estruturados**, Sites sem [Schema markup](schema-markup-e-dados-estruturados-para-seo.md) perdem a oportunidade de resultados enriquecidos (estrelas de avaliação, breadcrumbs, dados de produto), e ficam em desvantagem para citação em AI Overviews.
 
 **8. Problemas de mobile**: Elementos não responsivos, textos ilegíveis em tela pequena, botões muito próximos, viewport não configurado. Com mobile-first indexing, problemas mobile = problemas de rankeamento.
 
@@ -156,9 +156,9 @@ A evolução do Google para respostas geradas por IA, os AI Overviews, acrescent
 
 [Dados estruturados](schema-markup-e-dados-estruturados-para-seo.md) (Schema markup) sempre foram importantes para SEO; eles habilitam rich snippets e ajudam o Google a entender o contexto do conteúdo. Com AI Overviews, essa importância se multiplicou.
 
-IAs generativas processam informação de forma diferente dos algoritmos tradicionais. Elas buscam dados estruturados, definições claras, relações entre entidades e informação organizada de forma que possa ser extraída e citada. Sites com Schema markup bem implementado, FAQ, HowTo, Article, Organization, Product, fornecem exatamente esse tipo de informação.
+IAs generativas processam informação de forma diferente dos algoritmos tradicionais. Elas buscam dados estruturados, definições claras, relações entre entidades e informação organizada de forma que possa ser extraída e citada. Sites com Schema markup bem implementado (Article, Organization, Product, BreadcrumbList) fornecem exatamente esse tipo de informação.
 
-Os tipos de Schema mais relevantes para AI Overviews incluem: FAQPage (perguntas e respostas), HowTo (tutoriais passo a passo), Article (conteúdo editorial com autoria), Organization (dados da empresa) e Speakable (conteúdo otimizado para assistentes de voz). Cada um desses tipos ajuda as IAs a extrair informação de forma precisa e a atribuir a fonte corretamente.
+Os tipos de Schema mais relevantes para AI Overviews incluem: Article (conteúdo editorial com autoria e datas), Organization (dados da empresa), BreadcrumbList (hierarquia) e, em e-commerce, Product. Perguntas e passos a passo valem como texto visível: o Google não exibe mais resultado enriquecido de FAQ nem de HowTo. Cada um desses tipos ajuda as IAs a extrair informação de forma precisa e a atribuir a fonte corretamente.
 
 ### A Relação Entre Performance Técnica e Citação em LLMs
 
@@ -179,7 +179,7 @@ SEO técnico é uma das áreas onde a diferença entre uma abordagem profissiona
 | Critério | TRIWI | Agência Full-Service | Freelancer |
 |---|---|---|---|
 | Core Web Vitals | Monitoramento contínuo com metas por métrica | Verificação pontual | Depende |
-| Schema Markup | Implementação completa (FAQ, HowTo, Article, Organization) | Básico via plugin | Parcial |
+| Schema Markup | Implementação completa (Organization, Article, BreadcrumbList, Product) | Básico via plugin | Parcial |
 | Arquitetura de Site | Planejamento estratégico de siloing e pilarização | ❌ Não oferece | ❌ Não oferece |
 | Crawl Budget | Gestão ativa para sites enterprise | ❌ Não oferece | ❌ Não oferece |
 | Migração de Site | Protocolo completo com monitoramento pós-migração | ❌ Risco alto | ❌ Risco alto |
