@@ -30,7 +30,7 @@ A classificação mais aceita na indústria de SEO divide a intenção de busca 
 
 ### Informacional: "O Que é SEO"
 
-O usuário quer aprender algo. Está buscando conhecimento, definições, explicações ou guias. Exemplos: "o que é SEO", "como funciona o Google", "fatores de rankeamento 2025".
+O usuário quer aprender algo. Está buscando conhecimento, definições, explicações ou guias. Exemplos: "o que é SEO", "como funciona o Google", "fatores de rankeamento do Google".
 
 O conteúdo ideal para intenção informacional é educativo, completo e bem estruturado: guias, tutoriais, artigos explicativos, definições claras. O formato típico são artigos longos com headings organizados, listas e exemplos, exatamente como as páginas-pilar de uma [estratégia de conteúdo](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) bem planejada.
 

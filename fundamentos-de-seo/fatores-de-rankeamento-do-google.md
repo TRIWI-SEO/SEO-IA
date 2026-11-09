@@ -88,7 +88,7 @@ Na prática, mobile-first indexing exige: design responsivo ou equivalente funci
 
 HTTPS é fator de rankeamento confirmado pelo Google desde 2014. Sites sem certificado SSL (que usam HTTP em vez de HTTPS) recebem penalização e são marcados como "Não seguros" nos navegadores, o que também impacta a confiança do usuário e as taxas de conversão.
 
-Em 2025, HTTPS é requisito mínimo, não diferencial. Mais de 95% dos sites nas primeiras posições do Google utilizam HTTPS.
+Hoje, HTTPS é requisito mínimo, não diferencial. Mais de 95% dos sites nas primeiras posições do Google utilizam HTTPS.
 
 ### Estrutura de URLs e Arquitetura de Site
 
@@ -104,7 +104,7 @@ A estrutura de links internos é igualmente crítica: cada página importante de
 
 Dados estruturados não são fator direto de rankeamento, o Google já afirmou isso. Mas o impacto indireto é significativo: rich results ocupam mais espaço na página de resultados, aumentam a taxa de cliques (CTR) e sinalizam ao Google que o site é bem estruturado e confiável. Além disso, dados estruturados facilitam que IAs generativas extraiam informações do conteúdo de forma precisa.
 
-Os tipos de schema mais relevantes para SEO incluem: Organization, Article, FAQ, HowTo, Product, Review, BreadcrumbList e LocalBusiness.
+Os tipos de schema mais relevantes para SEO incluem: Organization, Article, Product, Review, BreadcrumbList e LocalBusiness. FAQPage e HowTo seguem válidos no Schema.org, mas o Google não exibe mais resultado enriquecido para eles: HowTo saiu em 2023 e FAQ, em 7 de maio de 2026.
 
 ---
 

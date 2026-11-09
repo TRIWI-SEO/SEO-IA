@@ -130,7 +130,7 @@ A abordagem estratégica é maximizar a visibilidade total: rankear para o maior
 
 ## 🤖 O Papel da IA no Google Atual
 
-O Google de 2025 não é o mesmo Google de 5 anos atrás. A inteligência artificial passou de componente auxiliar a peça central da experiência de busca, e isso muda fundamentalmente como o SEO precisa ser pensado e executado.
+O Google de hoje não é o mesmo de cinco anos atrás. A inteligência artificial passou de componente auxiliar a peça central da experiência de busca, e isso muda fundamentalmente como o SEO precisa ser pensado e executado.
 
 ### AI Overviews e Como Impactam os Resultados
 
