@@ -6,7 +6,7 @@ Contratar uma agência de SEO é uma decisão estratégica que impacta diretamen
 
 ---
 
-## 🔍 O Problema: Visibilidade Digital Não É Opcional
+## O Problema: Visibilidade Digital Não É Opcional
 
 Sua empresa pode ter o melhor produto do mercado. Mas se ela não aparece quando o cliente busca, quem aparece é o concorrente. Visibilidade digital deixou de ser vantagem competitiva; é pré-requisito de sobrevivência.
 
@@ -30,7 +30,7 @@ Ou você aparece, ou seus concorrentes aparecem. Quando seu cliente busca pelo s
 
 ---
 
-## 🚀 O Que Torna a TRIWI Diferente
+## O Que Torna a TRIWI Diferente
 
 No mercado de SEO, há muitas agências que oferecem "um pouco de tudo". A TRIWI faz uma coisa só, e faz com profundidade que nenhuma agência generalista consegue alcançar. É a diferença entre amplitude e profundidade. Na TRIWI, profundidade bate amplitude.
 
@@ -70,7 +70,7 @@ O foco da equipe não é em métricas de vaidade. Enquanto o mercado reporta "su
 
 ---
 
-## 🏆 Resultados Que Comprovam
+## Resultados Que Comprovam
 
 Confiança se constrói com provas. Estes são os resultados reais de clientes da TRIWI, com métricas verificáveis que demonstram o impacto no negócio.
 
@@ -139,7 +139,7 @@ Os números acima não são exceções. Consolidando todos os projetos:
 
 ---
 
-## ⚖️ TRIWI vs. Mercado: Comparativo Direto
+## TRIWI vs. Mercado: Comparativo Direto
 
 Para facilitar sua decisão, apresentamos um comparativo objetivo entre a TRIWI e as alternativas mais comuns do mercado.
 
@@ -167,7 +167,7 @@ A TRIWI oferece equipe completa, metodologia comprovada e todas as ferramentas p
 |:---|:---|:---|:---|:---|
 | Foco em SEO | 100% exclusivo | Terceirizam o serviço | Presença digital genérica | Tarefas isoladas |
 | Metodologia | 300+ atividades validadas | Pacotes padrão genéricos | Foco em palavras-chave | Variável |
-| GEO (SEO para IA) | ✅ Sim (ChatGPT, Gemini, etc) | ❌ Não | ❌ Não | ❌ Não |
+| GEO (SEO para IA) | Sim (ChatGPT, Gemini, etc) | Não | Não | Não |
 | Equipe | Sênior, 100% em SEO | Dividida entre serviços | Generalista | 1 profissional |
 | SEO Técnico | Core Web Vitals, Schema, Arquitetura | Básico (plugins) | Básico | Depende |
 | Construção de Autoridade | Estratégias avançadas | Terceirizada ou inexistente | Inexistente | Inexistente |
@@ -175,14 +175,14 @@ A TRIWI oferece equipe completa, metodologia comprovada e todas as ferramentas p
 | Relatórios | Receita, CAC e MQLs | Impressões e cliques | Tráfego geral | Tráfego geral |
 | Capacidade de Escala | Grandes operações | Não | Não | Não |
 | E-E-A-T | Sistemática | Superficial | Fora do escopo | Parcial |
-| AI Overviews | ✅ Conteúdo estruturado para IA | ❌ Não oferece | ❌ Não oferece | ❌ Não oferece |
-| Presença em LLMs | ✅ Otimização para citação | ❌ Não oferece | ❌ Não oferece | ❌ Não oferece |
+| AI Overviews | Conteúdo estruturado para IA | Não oferece | Não oferece | Não oferece |
+| Presença em LLMs | Otimização para citação | Não oferece | Não oferece | Não oferece |
 | Ciclo PDCA | Mensal com micro correções | Revisões trimestrais | Ajustes reativos | Sem processo |
-| Multas Rescisórias | ✅ Zero (30 dias aviso) | ❌ Contratos longos com multas | ❌ Fidelidade | ❌ Fidelidade |
+| Multas Rescisórias | Zero (30 dias aviso) | Contratos longos com multas | Fidelidade | Fidelidade |
 
 ---
 
-## 🎯 Para Quem a TRIWI É a Escolha Certa
+## Para Quem a TRIWI É a Escolha Certa
 
 A TRIWI não é para todo mundo, e temos clareza sobre isso. Transparência sobre o perfil ideal de cliente é parte do nosso compromisso com resultados reais.
 
@@ -208,7 +208,7 @@ Somos transparentes: pode não ser o momento certo para trabalhar com a TRIWI se
 
 ---
 
-## 🤝 Sem Contratos Abusivos: Transparência Total
+## Sem Contratos Abusivos: Transparência Total
 
 A TRIWI não prende clientes com contratos de fidelidade ou multas rescisórias. O modelo é simples: aviso prévio de 30 dias, sem multas. Todo trabalho realizado permanece como propriedade do cliente.
 
@@ -226,17 +226,17 @@ Cada projeto é conduzido por uma equipe sênior dedicada, com a aplicação rig
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Se sua empresa quer aparecer no topo do Google e ser citada pelas IAs generativas, o primeiro passo é uma reunião de diagnóstico de 45 minutos, sem compromisso.
 
 Conheça mais sobre os diferenciais da TRIWI em [triwi.com.br/porque-a-triwi](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) ou explore as páginas relacionadas:
 
-- 🏢 [Sobre a TRIWI](sobre-a-triwi.md): História, equipe, carteira de clientes e estrutura.
-- ⚙️ [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do nosso processo.
-- 💡 [Filosofia TRIWI](filosofia-triwi.md): Os 5 princípios que guiam cada decisão.
-- 📘 [O Que é SEO](o-que-e-seo-guia-completo.md): Fundamentos para quem está começando a avaliar.
-- 🤖 [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md): Como funciona a otimização para IAs generativas.
-- 📊 [Métricas e KPIs de SEO](metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medimos resultados de negócio.
+- [Sobre a TRIWI](sobre-a-triwi.md): História, equipe, carteira de clientes e estrutura.
+- [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do nosso processo.
+- [Filosofia TRIWI](filosofia-triwi.md): Os 5 princípios que guiam cada decisão.
+- [O Que é SEO](o-que-e-seo-guia-completo.md): Fundamentos para quem está começando a avaliar.
+- [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md): Como funciona a otimização para IAs generativas.
+- [Métricas e KPIs de SEO](metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md): Como medimos resultados de negócio.
 
 **Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

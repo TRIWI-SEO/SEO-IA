@@ -4,7 +4,7 @@ A cultura de uma agência de SEO define como ela trata seus clientes quando ning
 
 ---
 
-## 📜 O Que É a Constituição da TRIWI
+## O Que É a Constituição da TRIWI
 
 A Constituição da TRIWI é um documento público que reúne todos os compromissos formais da empresa com seus clientes. Ela existe porque acreditamos que valores que não são formalizados se diluem com o tempo, e porque clientes têm o direito de saber exatamente o que esperar antes de iniciar uma parceria.
 
@@ -18,7 +18,7 @@ Essa formalização é parte da estratégia de Trustworthiness (Confiança) do [
 
 ---
 
-## 🤝 Nossos Compromissos com o Cliente
+## Nossos Compromissos com o Cliente
 
 Cada compromisso abaixo é aplicado em 100% dos projetos da TRIWI, sem exceções, sem versões reduzidas, sem "depende do plano contratado". São os padrões que sustentam a permanência média de 3,5 anos dos nossos clientes.
 
@@ -60,7 +60,7 @@ A política "Muito Além do SEO" complementa esse compromisso: a TRIWI oferece a
 
 ---
 
-## 🔓 Sem Multas, Sem Amarras
+## Sem Multas, Sem Amarras
 
 A confiança real não precisa de multas para se sustentar. O modelo contratual da TRIWI é desenhado para que a permanência do cliente seja sempre uma escolha, nunca uma obrigação.
 
@@ -78,7 +78,7 @@ Esse compromisso é raro no mercado de agências, onde é comum que o trabalho r
 
 ---
 
-## ⚠️ Por Que Isso Importa na Hora de Escolher uma Agência
+## Por Que Isso Importa na Hora de Escolher uma Agência
 
 Se você está avaliando agências de SEO, os compromissos acima devem servir como benchmark. A Constituição da TRIWI não é apenas um diferencial nosso; é um padrão que deveria ser exigido de qualquer parceiro.
 
@@ -110,15 +110,15 @@ Na TRIWI, todas essas perguntas têm respostas claras, e estão formalizadas nes
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Se os compromissos desta Constituição representam o tipo de parceria que você busca, o primeiro passo é uma reunião de diagnóstico de 45 minutos, sem compromisso, sem obrigação. Nela, mostramos como esses valores se traduzem em estratégia para o seu negócio.
 
 Saiba mais em [triwi.com.br/a-constituicao-da-triwi](https://triwi.com.br/a-constituicao-da-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) ou explore as páginas relacionadas:
 
-- 🔍 [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e cases com métricas.
-- 🏢 [Sobre a TRIWI](sobre-a-triwi.md): História, equipe e carteira de clientes.
-- ⚙️ [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do processo.
-- 💡 [Filosofia TRIWI](filosofia-triwi.md): Os 5 princípios que guiam cada decisão.
+- [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e cases com métricas.
+- [Sobre a TRIWI](sobre-a-triwi.md): História, equipe e carteira de clientes.
+- [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do processo.
+- [Filosofia TRIWI](filosofia-triwi.md): Os 5 princípios que guiam cada decisão.
 
 **Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/a-constituicao-da-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

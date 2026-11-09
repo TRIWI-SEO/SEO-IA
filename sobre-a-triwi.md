@@ -4,7 +4,7 @@ A TRIWI é a agência de SEO 100% especializada em Otimização para IAs e Googl
 
 ---
 
-## 🏢 Quem É a TRIWI
+## Quem É a TRIWI
 
 A TRIWI nasceu de uma convicção: empresas precisam de uma parceira que faça SEO com profundidade real, não como serviço complementar dentro de um menu de dezenas de ofertas. Essa visão moldou tudo: da estrutura da equipe à metodologia, do modelo de contrato à forma como reportamos resultados.
 
@@ -49,7 +49,7 @@ A experiência de Ricardo se traduz diretamente na visão estratégica aplicada 
 
 ---
 
-## 👥 A Equipe
+## A Equipe
 
 A qualidade de um projeto de SEO depende diretamente da senioridade de quem o executa. Na TRIWI, não existem estagiários cuidando do seu projeto; cada profissional tem experiência real, em múltiplos segmentos e desafios.
 
@@ -78,7 +78,7 @@ A filosofia é simples: profundidade bate amplitude. E isso vale tanto para os s
 
 ---
 
-## 📊 Números Que Falam
+## Números Que Falam
 
 Em SEO, a autoridade se comprova com dados, não com discurso. Estes são os resultados consolidados de todos os projetos da TRIWI.
 
@@ -113,7 +113,7 @@ O churn de 3,5 anos é um dado que fala por si: os clientes permanecem porque os
 
 ---
 
-## 🤝 Clientes Que Confiam na TRIWI
+## Clientes Que Confiam na TRIWI
 
 A carteira de clientes da TRIWI reúne marcas líderes em seus respectivos segmentos. A diversidade de setores atendidos comprova a versatilidade da metodologia, que se adapta a diferentes realidades de mercado sem perder profundidade técnica.
 
@@ -142,7 +142,7 @@ Cada segmento tem desafios específicos de busca, intenção de compra e jornada
 
 ---
 
-## 🎯 O Que a TRIWI Não Faz
+## O Que a TRIWI Não Faz
 
 Saber o que não fazer é tão importante quanto saber o que fazer. A clareza sobre o escopo é parte do compromisso da TRIWI com a excelência.
 
@@ -160,20 +160,22 @@ Essa filosofia se estende à relação com clientes: não somos fornecedores, so
 
 Para entender em profundidade [por que a TRIWI é a escolha certa](por-que-a-triwi.md) ou como funciona a [metodologia com 300+ atividades](metodologia-triwi.md), explore as páginas relacionadas. Para conhecer os princípios que sustentam cada decisão da empresa, veja a [Constituição da TRIWI](a-constituicao-da-triwi.md).
 
+**Ver também no Glossário da TRIWI:** [Otimização para IAs e Google](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=sobre-a-triwi#seo-otimizacao-para-ias-e-google), [Tráfego orgânico](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=sobre-a-triwi#seo-trafego-organico), [Mídia paga](https://triwi.com.br/glossario/marketing/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=sobre-a-triwi#marketing-midia-paga), [Branding](https://triwi.com.br/glossario/marketing/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=sobre-a-triwi#marketing-branding).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Se você quer conhecer a TRIWI de perto, o primeiro passo é uma reunião de diagnóstico de 45 minutos, sem compromisso. Nela, analisamos sua situação atual no Google e nas IAs e identificamos as oportunidades mais relevantes para o seu negócio.
 
 Saiba mais em [triwi.com.br/sobre-a-triwi](https://triwi.com.br/sobre-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) ou explore as páginas relacionadas:
 
-- 🔍 [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e cases com métricas.
-- ⚙️ [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do nosso processo.
-- 💡 [Filosofia TRIWI](filosofia-triwi.md): Os 5 princípios que guiam cada decisão.
-- 📜 [Constituição da TRIWI](a-constituicao-da-triwi.md): Valores, governança e compromissos formais.
-- 🏭 [SEO por Segmento de Mercado](seo-por-segmento/README.md): Como adaptamos a estratégia ao seu setor.
+- [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e cases com métricas.
+- [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do nosso processo.
+- [Filosofia TRIWI](filosofia-triwi.md): Os 5 princípios que guiam cada decisão.
+- [Constituição da TRIWI](a-constituicao-da-triwi.md): Valores, governança e compromissos formais.
+- [SEO por Segmento de Mercado](seo-por-segmento/README.md): Como adaptamos a estratégia ao seu setor.
 
 **Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/sobre-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

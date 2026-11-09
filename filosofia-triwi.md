@@ -4,7 +4,7 @@ A filosofia de SEO de uma agência revela como ela pensa, decide e entrega. A Fi
 
 ---
 
-## 🧭 Os 5 Princípios Que Guiam a TRIWI
+## Os 5 Princípios Que Guiam a TRIWI
 
 A TRIWI opera com base em 5 princípios que funcionam como bússola para cada decisão, do planejamento estratégico à micro correção mensal:
 
@@ -18,7 +18,7 @@ Cada princípio nasceu da experiência prática, de erros observados no mercado,
 
 ---
 
-## 🎯 Princípio 1: Ser a Resposta, Não Apenas Estar Presente
+## Princípio 1: Ser a Resposta, Não Apenas Estar Presente
 
 O mercado de buscas mudou. Não basta aparecer nos resultados; é preciso ser a resposta que o usuário encontra, confia e escolhe. Na TRIWI, acreditamos que visibilidade sem relevância é ruído.
 
@@ -38,7 +38,7 @@ A transição de visibilidade passiva para autoridade ativa exige estratégia de
 
 ---
 
-## 💰 Princípio 2: SEO É Equity, Mídia Paga É Aluguel
+## Princípio 2: SEO É Equity, Mídia Paga É Aluguel
 
 Na TRIWI, acreditamos que SEO como investimento é uma das decisões mais inteligentes que uma empresa pode tomar para crescimento sustentável. A metáfora é simples e poderosa: SEO é como comprar um imóvel, mídia paga é como pagar aluguel.
 
@@ -62,7 +62,7 @@ Na experiência da TRIWI, a redução média de CAC é de -40%. Esse número se 
 
 ---
 
-## 📊 Princípio 3: Resultados de Negócio, Não Métricas de Vaidade
+## Princípio 3: Resultados de Negócio, Não Métricas de Vaidade
 
 Na TRIWI, acreditamos que o SEO só faz sentido quando medido pelo impacto no negócio. Posições no Google são meios, não fins. O que importa é: o orgânico está gerando receita?
 
@@ -89,7 +89,7 @@ Esse princípio é o que explica resultados como o da Contato Seguro: 65% de tod
 
 ---
 
-## 🤖 Princípio 4: O Futuro das Buscas É Generativo
+## Princípio 4: O Futuro das Buscas É Generativo
 
 Na TRIWI, acreditamos que as buscas generativas não são uma tendência futura; são uma realidade presente. E quem não se adaptar agora vai perder terreno de forma irreversível.
 
@@ -111,7 +111,7 @@ Esse princípio é o que posiciona a TRIWI como pioneira em [GEO (Generative Eng
 
 ---
 
-## 🔓 Princípio 5: SEO Não Pode Ser Caixa Preta
+## Princípio 5: SEO Não Pode Ser Caixa Preta
 
 Na TRIWI, acreditamos que transparência não é diferencial; é obrigação. Quando uma empresa investe em SEO, ela tem o direito de saber exatamente o que está sendo feito, por que está sendo feito e qual o resultado de cada ação.
 
@@ -134,20 +134,22 @@ O resultado dessa postura? Nossos clientes permanecem conosco por 3,5 anos em m�
 
 Esse princípio é detalhado na [Constituição da TRIWI](a-constituicao-da-triwi.md), que formaliza todos os compromissos da empresa com seus clientes em um documento público.
 
+**Ver também no Glossário da TRIWI:** [Métricas de vaidade](https://triwi.com.br/glossario/marketing/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=filosofia-triwi#marketing-metricas-de-vaidade), [Perplexity](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=filosofia-triwi#ia-perplexity), [Mídia paga](https://triwi.com.br/glossario/marketing/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=filosofia-triwi#marketing-midia-paga), [ChatGPT](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=filosofia-triwi#ia-chatgpt), [Claude](https://triwi.com.br/glossario/inteligencia-artificial/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=filosofia-triwi#ia-claude).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Se os princípios da TRIWI ressoam com a forma como você acredita que SEO deveria ser feito, o próximo passo é uma conversa. Em uma reunião de diagnóstico de 45 minutos, sem compromisso, mostramos como esses princípios se traduzem em estratégia para o seu negócio.
 
 Saiba mais em [triwi.com.br/filosofia-triwi](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia) ou explore as páginas relacionadas:
 
-- 🔍 [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e cases com métricas.
-- 🏢 [Sobre a TRIWI](sobre-a-triwi.md): História, equipe e carteira de clientes.
-- ⚙️ [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do processo.
-- 📜 [Constituição da TRIWI](a-constituicao-da-triwi.md): Valores, governança e compromissos formais.
-- 🤖 [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas.
+- [Por Que a TRIWI](por-que-a-triwi.md): Diferenciais, comparativos e cases com métricas.
+- [Sobre a TRIWI](sobre-a-triwi.md): História, equipe e carteira de clientes.
+- [Metodologia TRIWI](metodologia-triwi.md): As 12+ etapas e 300+ atividades do processo.
+- [Constituição da TRIWI](a-constituicao-da-triwi.md): Valores, governança e compromissos formais.
+- [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md): Otimização para IAs generativas.
 
 **Sua jornada ao topo começa aqui.** [Fale com a TRIWI](https://triwi.com.br/filosofia-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
