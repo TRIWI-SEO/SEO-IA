@@ -8,7 +8,7 @@ Esta página detalha o que é pilarização e pulverização, como estruturar p�
 
 ---
 
-## O Que É Pilarização e Pulverização
+## O que é pilarização e pulverização?
 
 Pilarização e pulverização é um framework de organização de conteúdo que evolui o conceito de topic clusters para uma metodologia operacional completa. Não é apenas "criar uma página grande e linkar para páginas menores"; é um processo de mapeamento de domínio de conhecimento, definição de hierarquias temáticas, priorização por retorno de negócio e execução em ciclos de criação e otimização contínua.
 
@@ -30,7 +30,7 @@ Pilarização e pulverização vai além em três dimensões fundamentais. Prime
 
 ---
 
-## Página-Pilar: O Centro do Cluster
+## O que é uma página-pilar?
 
 A página-pilar é o conteúdo mais importante do cluster. É a página que compete pelas keywords de maior volume e que serve como referência central para todo o tema. Acertar a pilar é decisivo, uma pilar fraca compromete todo o cluster.
 
@@ -60,9 +60,15 @@ A página [SEO Técnico](../seo-tecnico/README.md) segue a mesma lógica: cobre 
 
 O padrão é consistente: a pilar é o mapa, os satélites são o território.
 
+| Peça | Papel | Palavra-chave |
+|:---|:---|:---|
+| Página-pilar | Cobre o tema de forma ampla e aponta para os detalhes | Termo principal, de volume alto |
+| Páginas-satélite | Aprofundam cada subtema e voltam para o pilar | Cauda média e longa |
+| Links internos | Ligam pilar e satélites nos dois sentidos | Âncoras descritivas |
+
 ---
 
-## Páginas-Satélite: Pulverização do Tema
+## O que são páginas-satélite?
 
 Páginas-satélite são os conteúdos especializados que aprofundam cada faceta do tema central. Enquanto a pilar cobre em amplitude, os satélites mergulham em profundidade, atacando palavras-chave específicas, atendendo intenções de busca distintas e acumulando autoridade individual que reflui para o cluster.
 
@@ -94,7 +100,7 @@ Na dúvida, o teste é: se a pilar existente pode introduzir o novo tema em um p
 
 ---
 
-## A Malha de Links Internos
+## Como montar a malha de links internos?
 
 Links internos são a infraestrutura invisível que transforma conteúdo solto em autoridade topical. Sem uma malha de links estratégica, as melhores páginas do mundo não formam cluster; são ilhas isoladas competindo individualmente.
 

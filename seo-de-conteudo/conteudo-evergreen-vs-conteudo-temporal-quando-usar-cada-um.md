@@ -8,7 +8,7 @@ Esta página explica a diferença entre os dois tipos, quando usar cada um, como
 
 ---
 
-## O Que É Conteúdo Evergreen
+## O que é conteúdo evergreen?
 
 Conteúdo evergreen (ou perene) é conteúdo cuja utilidade não expira com o tempo. O tema permanece relevante, a informação continua válida e a demanda de busca se mantém estável mês após mês. É o tipo de conteúdo que, bem otimizado, gera tráfego orgânico previsível e crescente, o equivalente a um ativo financeiro que rende juros compostos.
 
@@ -26,7 +26,7 @@ Toda a estrutura de [pilarização e pulverização](pilarizacao-e-pulverizacao-
 
 ---
 
-## Conteúdo Temporal: Quando Faz Sentido
+## Quando o conteúdo temporal faz sentido?
 
 Conteúdo temporal é atrelado a um contexto de tempo: uma notícia, uma atualização de algoritmo, um evento do setor, uma tendência emergente. Tem prazo de validade, a relevância decai conforme o momento passa. Mas durante o pico, pode gerar volumes de tráfego que conteúdo evergreen não alcança.
 
@@ -48,7 +48,7 @@ Entender onde freshness importa orienta a estratégia: para temas estáveis, inv
 
 ---
 
-## Como Equilibrar os Dois Tipos
+## Como equilibrar os dois tipos?
 
 A proporção ideal entre evergreen e temporal varia por setor e objetivo, mas o princípio é universal: evergreen como base, temporal como complemento.
 
@@ -64,9 +64,16 @@ A estrutura de conteúdo de um site orientado a SEO se assemelha a uma pirâmide
 
 Essa pirâmide garante estabilidade: mesmo que a produção temporal diminua ou pause, a base evergreen mantém o tráfego orgânico. E quando o temporal performa bem, amplifica o tráfego total sem que a base seja comprometida.
 
+| Aspecto | Evergreen | Temporal |
+|:---|:---|:---|
+| Vida útil | Anos, com atualizações | Dias ou semanas |
+| Tráfego | Constante e acumulativo | Pico rápido e queda |
+| Exemplo | "O que é SEO" | "O que mudou no core update de março" |
+| Manutenção | Revisão periódica | Pouca, ou consolidação depois |
+
 ---
 
-## Atualização de Conteúdo Como Estratégia de SEO
+## Por que atualizar conteúdo é estratégia de SEO?
 
 A atualização de conteúdo existente é uma das estratégias de SEO com melhor relação esforço-resultado. Em muitos casos, atualizar uma página que já tem alguma autoridade e histórico de indexação gera mais retorno do que criar uma página nova do zero.
 

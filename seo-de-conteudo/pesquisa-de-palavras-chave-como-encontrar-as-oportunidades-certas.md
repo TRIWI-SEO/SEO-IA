@@ -10,7 +10,7 @@ Esta página é o guia prático de pesquisa de palavras-chave: da definição ao
 
 ---
 
-## O Que É Pesquisa de Palavras-Chave
+## O que é pesquisa de palavras-chave?
 
 Pesquisa de palavras-chave (keyword research) é a disciplina de SEO que mapeia a demanda real de busca do seu público. Não é uma atividade técnica isolada; é um estudo de mercado digital: o que as pessoas buscam é o que precisam, o que querem comprar, o que não entendem, o que estão comparando.
 
@@ -32,7 +32,7 @@ Essa perspectiva, keywords como perguntas do cliente, não como termos técnicos
 
 ---
 
-## Tipos de Palavras-Chave
+## Quais são os tipos de palavras-chave?
 
 Nem todas as palavras-chave são iguais. Classificá-las corretamente é essencial para priorizar esforços e alinhar conteúdo à estratégia.
 
@@ -66,9 +66,16 @@ A priorização inteligente equilibra os quatro tipos: informacional para volume
 
 Uma estratégia de SEO madura equilibra ambas: protege as branded (garantir posição 1 para o próprio nome) e conquista non-branded progressivamente para expandir a base de tráfego.
 
+| Tipo | Característica | Exemplo |
+|:---|:---|:---|
+| Cabeça (head tail) | Curta, volume alto, intenção ampla | "seo" |
+| Cauda média | Mais específica, volume moderado | "seo para e-commerce" |
+| Cauda longa (long tail) | Muito específica, volume baixo, intenção clara | "como fazer seo para loja na vtex" |
+| Marca | Inclui o nome da empresa ou produto | "triwi seo" |
+
 ---
 
-## Como Fazer Pesquisa de Palavras-Chave
+## Como fazer pesquisa de palavras-chave?
 
 O processo de pesquisa de palavras-chave segue quatro etapas sequenciais; cada uma alimenta a próxima.
 
@@ -134,7 +141,7 @@ O [copywriting para SEO](copywriting-para-seo-como-escrever-conteudo-que-rankeia
 
 ---
 
-## Erros Comuns em Keyword Research
+## Quais são os erros comuns na pesquisa de palavras-chave?
 
 Os mesmos erros se repetem em empresas de todos os tamanhos. Reconhecê-los é o primeiro passo para evitá-los.
 

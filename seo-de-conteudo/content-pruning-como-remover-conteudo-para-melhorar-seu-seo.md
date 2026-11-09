@@ -8,7 +8,7 @@ Esta página é o guia prático de content pruning: quando fazer, como executar,
 
 ---
 
-## O Que É Content Pruning
+## O que é content pruning?
 
 Content pruning é o processo sistemático de auditar todo o conteúdo de um site, identificar páginas que não geram valor (tráfego, backlinks, conversões ou suporte a outras páginas) e tomar uma ação: atualizar, consolidar, redirecionar ou remover. Não é "deletar posts antigos" aleatoriamente; é uma decisão estratégica baseada em dados.
 
@@ -30,7 +30,7 @@ O paradoxo do content pruning: remover páginas e ganhar tráfego. A explicaçã
 
 ---
 
-## Quando Fazer Content Pruning
+## Quando fazer content pruning?
 
 Content pruning não é uma ação de manutenção casual; é uma decisão estratégica que deve ser baseada em diagnóstico. Os sinais de que um site precisa de pruning são identificáveis por dados.
 
@@ -56,7 +56,7 @@ Nem toda página sem tráfego deve ser removida. Exceções: páginas de suporte
 
 ---
 
-## Como Executar Content Pruning
+## Como executar o content pruning?
 
 A execução de content pruning segue um processo de três etapas: auditoria, decisão e implementação.
 
@@ -86,9 +86,16 @@ A regra: redirecionar para a página tematicamente mais próxima. Se três artig
 
 A [arquitetura do site](../seo-tecnico/arquitetura-de-site-para-seo.md) deve ser revisada após o pruning para garantir que links internos atualizem as referências, removendo links para páginas que não existem mais e fortalecendo os links para as páginas consolidadas.
 
+| Situação da página | Ação |
+|:---|:---|
+| Conteúdo útil, mas desatualizado | Atualizar e manter na mesma URL |
+| Várias páginas sobre o mesmo tema | Consolidar em uma e redirecionar as demais com 301 |
+| Sem tráfego, sem links e sem valor para o negócio | Remover e redirecionar para a página mais próxima |
+| Útil para o usuário, mas sem valor de busca | Manter com noindex |
+
 ---
 
-## Resultados de Content Pruning
+## Que resultados o content pruning traz?
 
 Content pruning bem executado gera resultados mensuráveis, frequentemente nas primeiras semanas após a implementação.
 

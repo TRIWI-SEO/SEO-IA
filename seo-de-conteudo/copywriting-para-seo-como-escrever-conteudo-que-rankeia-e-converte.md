@@ -8,7 +8,7 @@ Esta página é o guia prático de copywriting para SEO: estrutura, uso de keywo
 
 ---
 
-## O Que É Copywriting para SEO
+## O que é copywriting para SEO?
 
 Copywriting para SEO é escrever conteúdo com dois objetivos simultâneos: convencer o leitor (persuasão) e ser encontrado pelo Google (otimização). Não são objetivos conflitantes; são complementares quando executados corretamente.
 
@@ -28,7 +28,7 @@ A abordagem correta: escreva para o leitor primeiro. Estruture o argumento, dese
 
 ---
 
-## Estrutura de Um Conteúdo Que Rankeia
+## Como estruturar um conteúdo que rankeia?
 
 A estrutura é tão importante quanto o texto. O Google avalia a organização do conteúdo, e o leitor decide em segundos se a página merece sua atenção.
 
@@ -64,9 +64,16 @@ A regra prática: parágrafos de 2 a 4 linhas. Uma ideia por parágrafo. Abrir c
 
 Essa formatação não é "simplificação"; é respeito pelo comportamento real do leitor. Conteúdo denso pode (e deve) ter parágrafos curtos. Profundidade está na qualidade dos argumentos, não no tamanho dos blocos de texto.
 
+| Parte do conteúdo | O que precisa ter |
+|:---|:---|
+| Abertura | Resposta direta à pergunta nas primeiras linhas |
+| Subtítulos | Perguntas reais do público, na ordem da dúvida |
+| Corpo | Exemplos, dados com fonte e tabelas onde há comparação |
+| Chamada para ação | Próximo passo coerente com a intenção de quem lê |
+
 ---
 
-## Uso de Keywords no Texto
+## Como usar palavras-chave no texto?
 
 A integração de keywords é o aspecto mais técnico do copywriting para SEO, e o mais frequentemente mal executado. Tanto por excesso (keyword stuffing) quanto por omissão (keywords ausentes das posições críticas).
 
@@ -90,7 +97,7 @@ Garantir presença da keyword principal nessas posições é o mínimo da otimiz
 
 ---
 
-## CTAs e Conversão Dentro do Conteúdo SEO
+## Como converter dentro do conteúdo de SEO?
 
 Conteúdo que rankeia mas não converte é meio caminho andado. O objetivo final do copywriting para SEO não é posição no Google; é resultado de negócio: leads, contatos, vendas.
 
@@ -110,7 +117,7 @@ A TRIWI tem uma equipe dedicada de conteúdo SEO que produz textos alinhados à 
 
 ---
 
-## Escrevendo para SEO e para IAs Simultaneamente
+## Como escrever para SEO e para IAs ao mesmo tempo?
 
 Com a ascensão dos AI Overviews do Google e de LLMs com acesso a busca (ChatGPT, Gemini, Perplexity), o copywriting para SEO ganha uma terceira dimensão: além de rankear no Google e converter o leitor, o conteúdo precisa ser citável por IAs generativas.
 

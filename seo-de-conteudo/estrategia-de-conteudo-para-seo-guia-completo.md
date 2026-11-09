@@ -10,7 +10,7 @@ Esta página é o guia completo de estratégia de conteúdo para SEO: do planeja
 
 ---
 
-## O Que É Estratégia de Conteúdo para SEO
+## O que é estratégia de conteúdo para SEO?
 
 Estratégia de conteúdo para SEO é a disciplina que conecta o que seu público busca no Google ao que sua empresa oferece, através de conteúdo planejado, estruturado e otimizado para conquistar posições orgânicas e gerar valor comercial.
 
@@ -40,7 +40,7 @@ Essa diferença explica por que duas empresas podem investir o mesmo valor em co
 
 ---
 
-## Pesquisa de Palavras-Chave Como Ponto de Partida
+## Por que a pesquisa de palavras-chave é o ponto de partida?
 
 Toda estratégia de conteúdo para SEO começa pela pesquisa de palavras-chave. Não como exercício acadêmico, mas como levantamento de demanda real, o que seu público está buscando, com que frequência, com que intenção e com que nível de competição.
 
@@ -108,7 +108,7 @@ Na experiência da TRIWI com 50+ clientes ativos, a construção de clusters de 
 
 ---
 
-## Mapeando Conteúdo para a Jornada do Cliente
+## Como mapear o conteúdo para a jornada do cliente?
 
 Conteúdo estratégico não serve apenas para atrair tráfego, serve para guiar o visitante da descoberta do problema até a decisão de compra. Cada estágio da jornada do cliente demanda conteúdo com propósito, tom e profundidade diferentes.
 
@@ -130,9 +130,15 @@ O alinhamento exige análise da SERP: antes de criar qualquer página, pesquise 
 
 Criar um artigo informacional para uma keyword de intenção transacional é desperdiçar esforço, o Google não vai posicionar, porque não atende a intenção. E vice-versa. A pesquisa de intenção é tão importante quanto a pesquisa de volume.
 
+| Etapa da jornada | Pergunta do público | Formato de conteúdo |
+|:---|:---|:---|
+| Topo | "O que é...?", "Por que...?" | Guias, definições, artigos explicativos |
+| Meio | "Como escolher...?", "Qual a diferença...?" | Comparativos, checklists, estudos de caso |
+| Fundo | "Quanto investir...?", "Quem contratar...?" | Páginas de serviço, cases e demonstrações |
+
 ---
 
-## Calendário Editorial Orientado a SEO
+## Como montar um calendário editorial orientado a SEO?
 
 Um calendário editorial de SEO não é uma lista de "temas para o mês". É um plano de execução priorizado por impacto de negócio, com sequência lógica de produção e publicação.
 
@@ -158,7 +164,7 @@ A TRIWI aplica essa lógica de priorização em cada projeto, alinhada à [metod
 
 ---
 
-## Métricas de Conteúdo Que Importam
+## Quais métricas de conteúdo importam?
 
 Medir conteúdo por pageviews é como medir vendas por número de visitantes na loja, conta uma parte da história e ignora o que importa. As métricas de conteúdo para SEO devem conectar produção a resultado de negócio.
 

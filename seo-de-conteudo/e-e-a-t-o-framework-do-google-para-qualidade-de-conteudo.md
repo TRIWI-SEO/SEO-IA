@@ -8,7 +8,7 @@ Esta página é o guia completo sobre E-E-A-T para SEO: o que cada dimensão sig
 
 ---
 
-## O Que É E-E-A-T
+## O que é E-E-A-T?
 
 E-E-A-T é o modelo de avaliação de qualidade de conteúdo definido pelo Google nas Search Quality Rater Guidelines, o documento de mais de 170 páginas que orienta os avaliadores humanos do Google sobre como julgar a qualidade de páginas e resultados de busca. Esses avaliadores não controlam diretamente o rankeamento, mas seus julgamentos alimentam o treinamento dos algoritmos do Google.
 
@@ -39,6 +39,13 @@ Essa distinção é importante. [Fatores de rankeamento](../fundamentos-de-seo/f
 Não existe um "score de E-E-A-T" que o Google calcula para cada página. O que existe é um conjunto de sinais, autoria identificável, profundidade de conteúdo, backlinks de fontes autoritativas, reputação do site, dados estruturados de autor, que, combinados, comunicam ao Google se o conteúdo merece confiança.
 
 Essa compreensão muda a abordagem: em vez de tentar "otimizar para E-E-A-T" como se fosse uma meta tag, a estratégia correta é construir sinais de experiência, expertise, autoridade e confiança em cada aspecto do site, do conteúdo à arquitetura, da autoria aos backlinks.
+
+| Pilar | Pergunta que responde | Como demonstrar |
+|:---|:---|:---|
+| Experience (experiência) | Quem escreve viveu o tema na prática? | Cases, relatos, dados de projetos reais |
+| Expertise (conhecimento) | Quem escreve domina o assunto? | Autoria identificada e profundidade técnica |
+| Authoritativeness (autoridade) | Outros reconhecem a fonte? | Menções, links e citações de terceiros |
+| Trustworthiness (confiança) | A fonte é confiável e transparente? | Fontes citadas, dados verificáveis, contato claro |
 
 ---
 
@@ -124,7 +131,7 @@ Uma reputação negativa, reclamações não respondidas, processos judiciais, a
 
 ---
 
-## E-E-A-T para Conteúdo YMYL (Your Money or Your Life)
+## Como o E-E-A-T pesa em conteúdo YMYL?
 
 YMYL, Your Money or Your Life, é a classificação do Google para temas que podem impactar significativamente a saúde, segurança financeira, segurança pessoal ou bem-estar do leitor. Para conteúdo YMYL, o padrão de E-E-A-T exigido é drasticamente mais alto.
 
@@ -138,7 +145,7 @@ Empresas que atuam em segmentos YMYL, seguros, saúde, finanças, jurídico, pre
 
 ---
 
-## E-E-A-T e as IAs Generativas
+## Qual a relação entre E-E-A-T e as IAs generativas?
 
 A relevância do E-E-A-T se expandiu para além do Google. Com a integração de resultados de busca em LLMs (ChatGPT com browsing, Gemini com Google Search, Perplexity, AI Overviews), os mesmos sinais que o Google usa para avaliar qualidade de conteúdo influenciam quais fontes as IAs citam e recomendam.
 
