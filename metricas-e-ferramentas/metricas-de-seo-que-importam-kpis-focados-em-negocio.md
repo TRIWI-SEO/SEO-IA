@@ -10,7 +10,7 @@ O 3º princípio da [Filosofia da TRIWI](../filosofia-triwi.md) é: "Resultados 
 
 ---
 
-## 📊 Métricas de Negócio vs. Métricas de Vaidade em SEO
+## Métricas de Negócio vs. Métricas de Vaidade em SEO
 
 A distinção entre métricas de negócio e métricas de vaidade é o ponto de partida para qualquer operação de SEO orientada a resultado. Confundir as duas categorias é o erro mais comum, e mais caro, que empresas cometem ao avaliar suas estratégias de busca orgânica.
 
@@ -34,7 +34,7 @@ A diretoria não quer saber quantas keywords estão no Top 10. Quer saber se o i
 
 ---
 
-## 💰 Métricas de Negócio Essenciais
+## Métricas de Negócio Essenciais
 
 Estas são as métricas que conectam SEO diretamente ao crescimento da empresa. Todo programa de SEO maduro deve rastrear, reportar e otimizar para esses indicadores.
 
@@ -74,7 +74,7 @@ Essa métrica é especialmente relevante para SaaS e modelos de recorrência. Qu
 
 ---
 
-## ⚙️ Métricas de SEO Operacionais (Importantes, Mas Não Fins)
+## Métricas de SEO Operacionais (Importantes, Mas Não Fins)
 
 Métricas operacionais são os indicadores que a equipe técnica usa para calibrar a execução. Elas são importantes, mas como meios, não como fins. O erro é reportá-las como resultado do programa de SEO.
 
@@ -110,7 +110,7 @@ Essas métricas são pré-requisitos. Um site com Core Web Vitals ruins perde po
 
 ---
 
-## 🤖 Métricas de GEO: Os Novos KPIs
+## Métricas de GEO: Os Novos KPIs
 
 Com a ascensão das IAs generativas como canal de descoberta, um novo conjunto de métricas se tornou essencial. As métricas de [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md) medem a visibilidade da marca nas respostas de ChatGPT, Gemini, Claude, Perplexity e nos AI Overviews do Google. Empresas que ignoram essas métricas estão medindo apenas metade da equação de visibilidade digital.
 
@@ -140,7 +140,7 @@ O monitoramento envolve queries regulares às principais LLMs para rastrear como
 
 ---
 
-## 📋 Como Montar um Dashboard de SEO Orientado a Negócio
+## Como Montar um Dashboard de SEO Orientado a Negócio
 
 Um dashboard de SEO orientado a negócio não é uma lista de métricas; é uma ferramenta de decisão. Deve responder às perguntas que diretores e gestores fazem: o investimento está dando retorno? O canal está crescendo? Onde devemos investir mais?
 
@@ -170,11 +170,13 @@ A separação entre os dois relatórios é fundamental. Entregar o relatório op
 
 > **Versão completa no site:** o [Guia de Métricas de SEO e IA](https://triwi.com.br/guias/metricas-de-seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=metricas-de-seo-que-importam-kpis-focados-em-negocio) da TRIWI aprofunda este tema e é atualizado continuamente.
 
+**Ver também no Glossário da TRIWI:** [Taxa de conversão orgânica](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=metricas-de-seo-que-importam-kpis-focados-em-negocio#seo-taxa-de-conversao-organica), [Conversão orgânica](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=metricas-de-seo-que-importam-kpis-focados-em-negocio#seo-conversao-organica), [Tráfego orgânico](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=metricas-de-seo-que-importam-kpis-focados-em-negocio#seo-trafego-organico), [Core Web Vitals](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=metricas-de-seo-que-importam-kpis-focados-em-negocio#seo-core-web-vitals), [Share of Model](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=metricas-de-seo-que-importam-kpis-focados-em-negocio#seo-share-of-model).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Métricas de SEO que importam são as que conectam a operação técnica ao crescimento do negócio. Receita influenciada, CAC orgânico, leads qualificados, taxa de conversão, esses são os indicadores que justificam o investimento e orientam a estratégia. Posições, tráfego e backlinks são ferramentas de diagnóstico, não objetivos finais.
 
@@ -184,13 +186,13 @@ A TRIWI opera com relatórios orientados a negócio desde o primeiro mês, recei
 
 Explore as páginas relacionadas:
 
-- 🔧 [Ferramentas de SEO: Guia Completo das Melhores Ferramentas](ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md), As ferramentas essenciais para rastrear cada métrica.
-- 💵 [ROI de SEO: Como Calcular o Retorno Sobre Investimento](roi-de-seo-como-calcular-o-retorno-sobre-investimento.md), Como calcular e comunicar o retorno financeiro de SEO.
-- 🔎 [Google Search Console: Guia Completo Para SEO](google-search-console-guia-completo-para-seo.md): Guia prático da ferramenta mais importante do SEO.
-- 📊 [Análise de Concorrência em SEO: Como Identificar Oportunidades](analise-de-concorrencia-em-seo-como-identificar-oportunidades.md), Como medir sua performance relativa ao mercado.
-- 📈 [Share of Model: Como Medir a Presença da Sua Marca nas IAs](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A métrica que quantifica visibilidade nas IAs.
-- 🏗️ [Metodologia de SEO, O Processo Proprietário da TRIWI com 300+ Atividades](../metodologia-triwi.md), O processo que garante resultados de negócio.
-- 🏛️ [Filosofia de SEO, Os 5 Princípios Que Guiam a TRIWI](../filosofia-triwi.md), O princípio "Resultados de negócio, não métricas de vaidade."
-- 🏠 [Por Que Contratar uma Agência de SEO, E Por Que a TRIWI](../por-que-a-triwi.md), Os diferenciais de uma agência orientada a resultados.
+- [Ferramentas de SEO: Guia Completo das Melhores Ferramentas](ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md), As ferramentas essenciais para rastrear cada métrica.
+- [ROI de SEO: Como Calcular o Retorno Sobre Investimento](roi-de-seo-como-calcular-o-retorno-sobre-investimento.md), Como calcular e comunicar o retorno financeiro de SEO.
+- [Google Search Console: Guia Completo Para SEO](google-search-console-guia-completo-para-seo.md): Guia prático da ferramenta mais importante do SEO.
+- [Análise de Concorrência em SEO: Como Identificar Oportunidades](analise-de-concorrencia-em-seo-como-identificar-oportunidades.md), Como medir sua performance relativa ao mercado.
+- [Share of Model: Como Medir a Presença da Sua Marca nas IAs](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), A métrica que quantifica visibilidade nas IAs.
+- [Metodologia de SEO, O Processo Proprietário da TRIWI com 300+ Atividades](../metodologia-triwi.md), O processo que garante resultados de negócio.
+- [Filosofia de SEO, Os 5 Princípios Que Guiam a TRIWI](../filosofia-triwi.md), O princípio "Resultados de negócio, não métricas de vaidade."
+- [Por Que Contratar uma Agência de SEO, E Por Que a TRIWI](../por-que-a-triwi.md), Os diferenciais de uma agência orientada a resultados.
 
 **Quer relatórios de SEO que a diretoria entenda, e que movam o ponteiro do negócio?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

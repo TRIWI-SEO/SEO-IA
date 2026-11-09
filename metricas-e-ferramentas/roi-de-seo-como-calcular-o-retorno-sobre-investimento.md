@@ -8,7 +8,7 @@ A [filosofia da TRIWI](../filosofia-triwi.md) trata SEO como equity, não como a
 
 ---
 
-## 💡 Por Que Calcular ROI de SEO É Essencial
+## Por Que Calcular ROI de SEO É Essencial
 
 Calcular o ROI de SEO não é um exercício acadêmico; é a base para decisões de investimento. Sem um cálculo claro de retorno, SEO compete por orçamento com canais que apresentam resultados de forma mais imediata e visível, como mídia paga e eventos. O resultado é subinvestimento crônico no canal com maior potencial de retorno a longo prazo.
 
@@ -26,7 +26,7 @@ A consequência é que muitas empresas cortam SEO no primeiro trimestre sem resu
 
 ---
 
-## 📐 Fórmula de ROI de SEO
+## Fórmula de ROI de SEO
 
 O cálculo de ROI de SEO segue a fórmula padrão de retorno sobre investimento, adaptada para as particularidades do canal orgânico.
 
@@ -48,7 +48,7 @@ Para e-commerce, o ROI pode ser calculado por transação: receita de vendas org
 
 ---
 
-## 🔄 Como Atribuir Receita ao Orgânico
+## Como Atribuir Receita ao Orgânico
 
 A atribuição de receita é o desafio técnico do cálculo de ROI de SEO. O usuário raramente converte na primeira visita; ele pode descobrir a marca via busca orgânica, retornar por um anúncio de remarketing e converter por um email. Qual canal "merece" o crédito pela receita?
 
@@ -80,7 +80,7 @@ A recomendação é reportar ambas: receita direta (conservadora) e receita infl
 
 ---
 
-## ⏳ O Fator Tempo: ROI de SEO É Cumulativo
+## O Fator Tempo: ROI de SEO É Cumulativo
 
 O ROI de SEO não se comporta como o ROI de uma campanha de mídia paga. Não é linear, não é imediato e não para quando o investimento para. Entender a dinâmica temporal é fundamental para calcular, e comunicar, o retorno corretamente.
 
@@ -110,7 +110,7 @@ A TRIWI registra redução média de -40% no CAC dos seus clientes. Essa reduç�
 
 ---
 
-## 📊 Como Apresentar ROI de SEO Para a Diretoria
+## Como Apresentar ROI de SEO Para a Diretoria
 
 Calcular o ROI é metade do trabalho. Comunicar de forma que a diretoria entenda, e aprove a continuidade do investimento, é a outra metade. O formato de apresentação importa tanto quanto o conteúdo.
 
@@ -136,7 +136,7 @@ Projeções devem ser conservadoras e transparentes sobre as premissas. Usar cen
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 ROI de SEO é a métrica que transforma o canal orgânico de "iniciativa de marketing" em "investimento estratégico aprovado pela diretoria." A fórmula é simples, (receita orgânica, investimento) / investimento. O desafio está na atribuição correta de receita, no entendimento da dinâmica temporal (efeito composto) e na comunicação eficaz para decisores.
 
@@ -144,11 +144,11 @@ A TRIWI opera com relatórios mensais focados em ROI e métricas de negócio, n�
 
 Explore as páginas relacionadas:
 
-- 📊 [Métricas de SEO Que Importam: KPIs Focados em Negócio](metricas-de-seo-que-importam-kpis-focados-em-negocio.md), Os KPIs que alimentam o cálculo de ROI.
-- 🔎 [Google Search Console: Guia Completo Para SEO](google-search-console-guia-completo-para-seo.md): A ferramenta base para rastrear performance orgânica.
-- 🏛️ [Filosofia de SEO, Os 5 Princípios Que Guiam a TRIWI](../filosofia-triwi.md), O princípio "SEO é equity, não aluguel."
-- 🏠 [Por Que Contratar uma Agência de SEO, E Por Que a TRIWI](../por-que-a-triwi.md), Como a TRIWI justifica o investimento com resultados.
-- 📖 [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos do canal que gera o maior ROI do marketing digital.
-- 🏗️ [Metodologia de SEO, O Processo Proprietário da TRIWI com 300+ Atividades](../metodologia-triwi.md), O processo que garante retorno consistente.
+- [Métricas de SEO Que Importam: KPIs Focados em Negócio](metricas-de-seo-que-importam-kpis-focados-em-negocio.md), Os KPIs que alimentam o cálculo de ROI.
+- [Google Search Console: Guia Completo Para SEO](google-search-console-guia-completo-para-seo.md): A ferramenta base para rastrear performance orgânica.
+- [Filosofia de SEO, Os 5 Princípios Que Guiam a TRIWI](../filosofia-triwi.md), O princípio "SEO é equity, não aluguel."
+- [Por Que Contratar uma Agência de SEO, E Por Que a TRIWI](../por-que-a-triwi.md), Como a TRIWI justifica o investimento com resultados.
+- [O Que é SEO: Guia Completo](../o-que-e-seo-guia-completo.md): Os fundamentos do canal que gera o maior ROI do marketing digital.
+- [Metodologia de SEO, O Processo Proprietário da TRIWI com 300+ Atividades](../metodologia-triwi.md), O processo que garante retorno consistente.
 
 **Quer saber exatamente quanto o SEO pode retornar para a sua empresa?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).

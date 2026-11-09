@@ -8,7 +8,7 @@ O Google Search Console é a base do monitoramento técnico da TRIWI. A equipe c
 
 ---
 
-## 🔧 O Que É o Google Search Console
+## O Que É o Google Search Console
 
 O Google Search Console é a interface oficial do Google para webmasters e profissionais de SEO. Lançado originalmente como "Google Webmaster Tools" em 2006, foi reformulado e renomeado em 2015. A plataforma fornece relatórios, ferramentas de diagnóstico e alertas que permitem entender como o Google interage com o site, desde o rastreamento inicial até a exibição nos resultados de busca.
 
@@ -30,7 +30,7 @@ Após a verificação, o GSC começa a coletar dados. Os dados de desempenho lev
 
 ---
 
-## 📊 Relatório de Desempenho
+## Relatório de Desempenho
 
 O Relatório de Desempenho é o módulo mais utilizado do Search Console. Mostra como o site performa nos resultados de busca do Google: quais queries geram impressões, quantos cliques o site recebe, qual a posição média e qual a taxa de cliques (CTR) para cada query e página.
 
@@ -60,7 +60,7 @@ A TRIWI utiliza a análise de quick wins do Search Console como parte das primei
 
 ---
 
-## 📑 Relatório de Indexação (Cobertura)
+## Relatório de Indexação (Cobertura)
 
 O Relatório de Indexação mostra o status de todas as páginas do site no índice do Google: quais estão indexadas (aparecem nos resultados), quais foram excluídas (e por quê) e quais têm erros que impedem a indexação.
 
@@ -86,7 +86,7 @@ A Inspeção de URL também permite "Solicitar indexação", pedindo ao Google p
 
 ---
 
-## ⚡ Core Web Vitals no Search Console
+## Core Web Vitals no Search Console
 
 O relatório de [Core Web Vitals](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md) no Search Console mostra a performance de experiência do usuário do site usando dados reais de campo (CrUX, Chrome User Experience Report). Diferente de testes de laboratório (Lighthouse, PageSpeed Insights), esses dados vêm de usuários reais navegando no site.
 
@@ -108,7 +108,7 @@ Na prática, a maioria dos problemas de Core Web Vitals em mobile está relacion
 
 ---
 
-## 🗺️ Sitemaps e Remoções
+## Sitemaps e Remoções
 
 O módulo de Sitemaps permite submeter e monitorar os mapas do site, arquivos XML que listam todas as URLs que você quer que o Google rastreie e indexe. O módulo de Remoções permite solicitar a remoção temporária de URLs dos resultados de busca.
 
@@ -130,7 +130,7 @@ Usar a ferramenta de remoção como atalho para "limpar" o índice é um erro co
 
 ---
 
-## 🔗 Links (Internos e Externos)
+## Links (Internos e Externos)
 
 O relatório de Links do Search Console mostra o perfil de links do site, tanto os links que outros sites fazem para o seu (externos) quanto a estrutura de links entre as próprias páginas do site (internos).
 
@@ -150,11 +150,13 @@ Páginas estratégicas (páginas de produto, categorias principais, landing page
 
 O relatório também revela problemas de arquitetura: se páginas irrelevantes (termos de uso, política de privacidade) aparecem como as mais linkadas internamente, porque estão no rodapé de todas as páginas, enquanto páginas estratégicas têm poucos links, a distribuição de autoridade interna está subótima. Ajustar a [arquitetura de links internos](../seo-tecnico/arquitetura-de-site-para-seo.md) é uma das otimizações com melhor relação esforço/retorno em SEO.
 
+**Ver também no Glossário da TRIWI:** [Google Search Console](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=google-search-console-guia-completo-para-seo#seo-google-search-console), [Core Web Vitals](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=google-search-console-guia-completo-para-seo#seo-core-web-vitals), [Inspeção de URL](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=google-search-console-guia-completo-para-seo#seo-inspecao-de-url), [Posição média](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=google-search-console-guia-completo-para-seo#seo-posicao-media), [Impressões](https://triwi.com.br/glossario/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=google-search-console-guia-completo-para-seo#seo-impressoes).
+
 *Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 27/08/2026.*
 
 ---
 
-## 📩 Próximos Passos
+## Próximos Passos
 
 Google Search Console é a ferramenta que todo profissional de SEO precisa dominar, do Relatório de Desempenho (queries, cliques, posições) ao Relatório de Indexação (cobertura e erros), passando por Core Web Vitals (performance), Sitemaps (rastreamento) e Links (autoridade). Os dados são reais, diretos do Google e gratuitos. Ignorá-los é tomar decisões no escuro.
 
@@ -162,11 +164,11 @@ A TRIWI utiliza o Search Console como base do monitoramento técnico de todos os
 
 Explore as páginas relacionadas:
 
-- 📊 [Métricas de SEO Que Importam: KPIs Focados em Negócio](metricas-de-seo-que-importam-kpis-focados-em-negocio.md), Como traduzir dados do GSC em métricas de negócio.
-- 🔧 [Ferramentas de SEO: Guia Completo das Melhores Ferramentas](ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md), O stack completo que complementa o Search Console.
-- 📐 [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): O contexto técnico onde o GSC opera.
-- 🕷️ [Crawling e Indexação: Como Garantir Que o Google Encontre Seu Site](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md), Aprofundamento nos conceitos de indexação.
-- ⚡ [Core Web Vitals: Performance Que Impacta Rankeamento](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md): Tudo sobre as métricas de performance que o GSC reporta.
-- 📈 [Análise de Concorrência em SEO: Como Identificar Oportunidades](analise-de-concorrencia-em-seo-como-identificar-oportunidades.md), Como usar dados do GSC para análise competitiva.
+- [Métricas de SEO Que Importam: KPIs Focados em Negócio](metricas-de-seo-que-importam-kpis-focados-em-negocio.md), Como traduzir dados do GSC em métricas de negócio.
+- [Ferramentas de SEO: Guia Completo das Melhores Ferramentas](ferramentas-de-seo-guia-completo-das-melhores-ferramentas.md), O stack completo que complementa o Search Console.
+- [SEO Técnico: Guia Completo](../seo-tecnico/seo-tecnico-guia-completo.md): O contexto técnico onde o GSC opera.
+- [Crawling e Indexação: Como Garantir Que o Google Encontre Seu Site](../seo-tecnico/crawling-e-indexacao-como-garantir-que-o-google-encontre-seu-site.md), Aprofundamento nos conceitos de indexação.
+- [Core Web Vitals: Performance Que Impacta Rankeamento](../seo-tecnico/core-web-vitals-performance-que-impacta-rankeamento.md): Tudo sobre as métricas de performance que o GSC reporta.
+- [Análise de Concorrência em SEO: Como Identificar Oportunidades](analise-de-concorrencia-em-seo-como-identificar-oportunidades.md), Como usar dados do GSC para análise competitiva.
 
 **Quer extrair o máximo do Google Search Console, com uma equipe que transforma dados em resultado?** [Fale com a TRIWI](https://triwi.com.br/porque-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
