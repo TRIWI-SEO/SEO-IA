@@ -10,7 +10,7 @@ A TRIWI atende empresas SaaS como Contato Seguro e Flexdoc, onde a estratégia d
 
 ---
 
-## Por Que SEO é o Canal #1 para SaaS
+## Por que SEO é o principal canal para SaaS?
 
 Em um mercado onde empresas SaaS competem globalmente por atenção e conversão, o SEO se consolidou como o canal de aquisição mais eficiente e escalável. Três dinâmicas explicam por quê.
 
@@ -38,7 +38,7 @@ O SaaS que publica 10 artigos otimizados por mês durante 2 anos constrói um at
 
 ---
 
-## Estratégia de Keywords para SaaS
+## Como escolher palavras-chave para SaaS?
 
 A [pesquisa de palavras-chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md) para SaaS segue padrões específicos que refletem a jornada do comprador de software. Quatro categorias de keywords cobrem o funil completo.
 
@@ -66,9 +66,16 @@ Keywords segmentadas por vertical capturam prospects que buscam soluções espec
 
 A estratégia de [SEO segmentado](seo-por-segmento-de-mercado-por-que-cada-setor-exige-uma-estrategia-diferente.md) para SaaS cria páginas específicas por vertical, cada uma otimizada para as keywords e dores daquele setor. A Contato Seguro, cliente da TRIWI, aplicou esse modelo com pilarização por temas, compliance, LGPD, canal de denúncias, ética corporativa, posicionando-se como referência em cada vertical.
 
+| Tipo de página | Busca que captura | Exemplo |
+|:---|:---|:---|
+| Problema | Quem ainda não conhece a solução | "como organizar pedidos de compra" |
+| Categoria | Quem procura um tipo de software | "software de gestão de compras" |
+| Alternativa | Quem compara ou quer trocar | "alternativa ao software X" |
+| Integração | Quem já usa outra ferramenta | "integração com ERP Y" |
+
 ---
 
-## Conteúdo Que Converte em SaaS
+## Que conteúdo converte em SaaS?
 
 O conteúdo SaaS precisa fazer mais do que ranquear, precisa converter visitantes em leads e leads em usuários. Quatro formatos compõem a estratégia completa.
 
@@ -156,7 +163,7 @@ A estratégia combina presença ativa nesses sites (solicitar reviews, responder
 
 ---
 
-## Métricas de SEO para SaaS Que Importam
+## Quais métricas de SEO para SaaS importam?
 
 As [métricas de SEO](../metricas-e-ferramentas/metricas-de-seo-que-importam-kpis-focados-em-negocio.md) para SaaS devem refletir o modelo de negócio de receita recorrente. Tráfego é um indicador intermediário, o que importa é o impacto no funil de aquisição e no unit economics.
 

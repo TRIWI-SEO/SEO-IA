@@ -10,7 +10,7 @@ A TRIWI atende empresas B2B como Valid, John Deere, B3, Contato Seguro e AX4B; c
 
 ---
 
-## O Cenário de SEO para B2B
+## Como está o SEO para B2B?
 
 O SEO para B2B opera em um ambiente fundamentalmente diferente do B2C. Três características definem essa diferença e moldam toda a estratégia: o ciclo de venda, a multiplicidade de decisores e a relação entre volume de busca e valor por lead.
 
@@ -40,7 +40,7 @@ A métrica que importa não é tráfego. É receita influenciada pelo orgânico.
 
 ---
 
-## Estratégia de Keywords para B2B
+## Como escolher palavras-chave em B2B?
 
 A [pesquisa de palavras-chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md) para B2B exige uma abordagem que vai além de volume de busca. O mapeamento precisa considerar a intenção do decisor, o estágio da jornada e o valor econômico de cada conversão.
 
@@ -72,7 +72,7 @@ Mapear keywords por persona garante que o conteúdo orgânico alcance todos os d
 
 ---
 
-## Conteúdo B2B Que Rankeia e Converte
+## Que conteúdo B2B rankeia e converte?
 
 Conteúdo B2B eficaz serve dois objetivos simultâneos: ranquear no Google (e nas IAs) e gerar leads qualificados. Conteúdo que só ranqueia gera tráfego sem valor. Conteúdo que só converte não tem alcance. A estratégia precisa equilibrar ambos.
 
@@ -99,6 +99,13 @@ Cases com dados quantitativos são particularmente poderosos para SEO e para GEO
 A estratégia de pilarização para B2B organiza o conteúdo em hubs temáticos; cada hub cobre uma vertical, um problema ou um caso de uso. Essa estrutura constrói [autoridade topical](../link-building/autoridade-de-dominio-o-que-e-e-como-construir.md): o Google (e as LLMs) reconhecem que seu site é referência naquele tema específico.
 
 Na prática, uma empresa de software B2B pode ter hubs para "compliance", "LGPD", "gestão de riscos" e "ética corporativa"; cada um com página-pilar, artigos satélites e páginas de caso de uso. A interligação entre essas páginas via [links internos estratégicos](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md) amplifica a autoridade de todas.
+
+| Quem participa da compra | O que procura | Conteúdo que atende |
+|:---|:---|:---|
+| Quem tem o problema | Entender a dor e as saídas | Guias e artigos explicativos |
+| Quem avalia a solução | Comparar abordagens e fornecedores | Comparativos, cases, especificações |
+| Quem aprova o investimento | Retorno e risco | Estudos de ROI e cases com números |
+| Quem compra | Condições e processo | Páginas de serviço claras e contato direto |
 
 ---
 
@@ -160,7 +167,7 @@ A [Metodologia TRIWI](../metodologia-triwi.md) integra GEO ao SEO desde o primei
 
 ---
 
-## Métricas de SEO B2B Que Importam
+## Quais métricas de SEO B2B importam?
 
 O erro mais comum em SEO para B2B é mensurar pelo tráfego. Tráfego é uma métrica de vaidade no B2B, o que importa é o que o tráfego gera em pipeline e receita.
 

@@ -10,7 +10,7 @@ A própria TRIWI é uma empresa de serviços que aplica na operação o que impl
 
 ---
 
-## O Desafio de SEO para Serviços
+## Qual o desafio do SEO para serviços?
 
 Empresas de serviços enfrentam um desafio que produtos físicos e softwares não enfrentam: o que vendem é invisível até ser entregue. O SEO precisa superar essa barreira, construindo credibilidade e tangibilizando valor antes da venda.
 
@@ -34,7 +34,7 @@ Do ponto de vista do SEO, prova social também é um ativo de rankeamento. Pági
 
 ---
 
-## Estratégia de Keywords para Serviços
+## Como escolher palavras-chave para serviços?
 
 A [pesquisa de palavras-chave](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md) para serviços opera em três camadas que refletem a jornada do prospect: busca pelo serviço, busca pelo problema e busca pela melhor empresa.
 
@@ -56,9 +56,16 @@ Keywords de autoridade capturam a fase de seleção: "melhores escritórios de a
 
 Essas keywords são particularmente relevantes para GEO, quando o prospect pergunta ao ChatGPT "qual a melhor empresa de [serviço]?", a IA gera uma resposta que funciona como um ranking. Estar presente nessa resposta é o equivalente digital de estar no shortlist do prospect.
 
+| Busca | Intenção | Página que atende |
+|:---|:---|:---|
+| "o que é [serviço]" | Entender | Artigo explicativo |
+| "como escolher [serviço]" | Avaliar | Guia de contratação |
+| "[serviço] em [cidade]" | Contratar perto | Página local do serviço |
+| "empresa de [serviço]" | Contratar | Página do serviço com cases e contato |
+
 ---
 
-## Conteúdo Que Gera Leads para Serviços
+## Que conteúdo gera leads para serviços?
 
 O conteúdo para empresas de serviços precisa equilibrar quatro funções: ranquear no Google, ser citável por IAs, demonstrar expertise e converter visitantes em leads.
 
@@ -88,7 +95,7 @@ Guias completos ("Como Escolher uma Empresa de [Serviço]") capturam o topo do f
 
 ---
 
-## Autoridade e Confiança para Empresas de Serviços
+## Como construir autoridade e confiança em serviços?
 
 A construção de [autoridade](../link-building/link-building-guia-completo-de-construcao-de-autoridade.md) para empresas de serviços combina presença em canais do setor, autoria qualificada e otimização local.
 

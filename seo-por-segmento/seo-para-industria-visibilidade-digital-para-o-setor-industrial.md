@@ -10,7 +10,7 @@ A TRIWI atende indústrias como John Deere, Tigre, Pirelli, CAT e Lorenzetti, on
 
 ---
 
-## O Cenário Digital da Indústria Brasileira
+## Como está o cenário digital da indústria brasileira?
 
 O setor industrial brasileiro vive um paradoxo digital: o comprador já é digital, mas a maioria dos fornecedores ainda não. Essa assimetria cria uma janela de oportunidade enorme para empresas industriais que investem em visibilidade orgânica.
 
@@ -30,7 +30,7 @@ Isso significa que o primeiro contato do comprador com sua empresa não é a lig
 
 ---
 
-## Particularidades de SEO para Indústria
+## O que muda no SEO para indústria?
 
 O SEO industrial opera com regras diferentes de outros segmentos. As keywords, o conteúdo e as métricas exigem uma abordagem que reflita a realidade do comprador técnico.
 
@@ -54,9 +54,16 @@ O [ciclo de venda B2B](seo-para-b2b-como-gerar-leads-qualificados-via-organico.m
 
 O SEO precisa cobrir toda essa jornada: conteúdo técnico para o engenheiro (fichas, datasheets, aplicações), conteúdo comparativo para o comprador (especificações lado a lado, certificações), conteúdo de confiança para o gerente (cases, referências, tempo de mercado). A atribuição é multi-touch, o lead orgânico de hoje pode fechar em 12 meses, e o CRM precisa rastrear essa influência.
 
+| Particularidade | Como o SEO responde |
+|:---|:---|
+| Busca de baixo volume e alto valor | Priorizar valor do lead, não volume de busca |
+| Comprador técnico | Especificações, normas e aplicações em texto |
+| Catálogo extenso | Páginas por produto e por aplicação |
+| Ciclo de compra longo | Conteúdo para cada etapa, do problema à cotação |
+
 ---
 
-## Conteúdo para o Setor Industrial
+## Que conteúdo funciona no setor industrial?
 
 O conteúdo industrial precisa falar a língua do comprador técnico, com profundidade, precisão e dados que nenhum conteúdo genérico consegue oferecer.
 

@@ -10,7 +10,7 @@ A TRIWI atende e-commerces como Polishop, Lupo e Grendene, onde SEO precisa gera
 
 ---
 
-## Por Que SEO é o Canal Mais Rentável para E-commerce
+## Por que SEO é o canal mais rentável para e-commerce?
 
 Em um setor onde margens são apertadas e o CAC de mídia paga cresce ano a ano, o SEO se destaca como o canal de aquisição com melhor relação custo-resultado a médio e longo prazo.
 
@@ -74,7 +74,7 @@ Para [GEO](../geo-seo-para-ia/dados-estruturados-para-ia-schema-markup-na-era-ge
 
 ---
 
-## Otimização de Páginas de Produto
+## Como otimizar páginas de produto?
 
 Páginas de produto são o destino final da jornada de compra orgânica, e, frequentemente, as mais negligenciadas em termos de SEO.
 
@@ -104,7 +104,7 @@ Reviews também geram rich snippets (estrelas de avaliação na SERP), aumentand
 
 ---
 
-## Otimização de Páginas de Categoria
+## Como otimizar páginas de categoria?
 
 Páginas de categoria são, frequentemente, as páginas mais valiosas de um e-commerce em termos de SEO, ranqueiam para keywords de alto volume e direcionam tráfego para múltiplos produtos.
 
@@ -117,6 +117,13 @@ Esse conteúdo editorial também é valioso para [GEO](../o-que-e-geo-generative
 ### Links Internos Entre Categorias Relacionadas
 
 A [estratégia de linkagem interna](../seo-de-conteudo/estrategia-de-conteudo-para-seo-guia-completo.md) entre categorias distribui autoridade e ajuda o Google a entender a relação entre seções do site. "Tênis Masculino" deve linkar para "Meias Esportivas", "Acessórios para Corrida" e "Roupas de Treino", e vice-versa. Essa rede de links internos constrói autoridade topical e melhora o rankeamento de todas as categorias envolvidas.
+
+| Tipo de página | Busca que captura | Prioridade de SEO |
+|:---|:---|:---|
+| Categoria | Buscas amplas ("tênis de corrida") | Texto útil, filtros rastreáveis com critério, links internos |
+| Produto | Buscas específicas ("modelo X tamanho 42") | Descrição própria, Schema Product, avaliações |
+| Guia ou comparativo | Buscas de pesquisa ("qual o melhor tênis de corrida") | Conteúdo citável que leva à categoria |
+| Marca | Buscas pela loja ou pelo fabricante | Páginas de marca bem estruturadas |
 
 ---
 
@@ -140,7 +147,7 @@ Nem todo e-commerce precisa de blog. Vale a pena quando: há keywords informacio
 
 ---
 
-## Sazonalidade e SEO
+## Como lidar com a sazonalidade no SEO?
 
 A sazonalidade é uma das dinâmicas mais desafiadoras do SEO para e-commerce. Black Friday, Natal, Dia das Mães, Dia dos Namorados; cada data representa um pico de buscas e vendas que o e-commerce precisa capturar.
 

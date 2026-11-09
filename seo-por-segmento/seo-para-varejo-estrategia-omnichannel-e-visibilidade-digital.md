@@ -10,7 +10,7 @@ A TRIWI atende marcas de varejo como O Boticário, Lupo e Lorenzetti, onde a est
 
 ---
 
-## O Varejo na Era da Busca Digital
+## Como o varejo mudou com a busca digital?
 
 A transformação digital do varejo não é sobre abandonar a loja física; é sobre garantir que a presença digital direcione consumidores para todos os pontos de venda, físicos e digitais.
 
@@ -28,7 +28,7 @@ A convergência online-offline é o diferencial do varejo. Um consumidor que pes
 
 ---
 
-## SEO para Varejo vs. SEO para E-commerce
+## Qual a diferença entre SEO para varejo e para e-commerce?
 
 Varejo e [e-commerce](seo-para-e-commerce-otimizacao-que-gera-vendas.md) compartilham fundamentos, mas as dinâmicas operacionais criam diferenças estratégicas importantes.
 
@@ -48,9 +48,16 @@ O varejo opera em ciclos sazonais mais intensos que a maioria dos setores. Black
 
 A [pesquisa de keywords sazonais](../seo-de-conteudo/pesquisa-de-palavras-chave-como-encontrar-as-oportunidades-certas.md) mapeia tendências de busca de anos anteriores para antecipar volumes e criar conteúdo com antecedência. Quem começa a otimizar para o Natal em dezembro já perdeu, o rankeamento exige preparo.
 
+| Aspecto | Varejo com lojas | E-commerce puro |
+|:---|:---|:---|
+| Objetivo da busca | Visita à loja ou compra online | Compra online |
+| Peças-chave | Perfil de cada loja e páginas locais | Categorias e produtos |
+| Sinais locais | Essenciais | Pouco relevantes |
+| Sazonalidade | Nacional e regional | Nacional |
+
 ---
 
-## SEO Local para Redes de Varejo
+## Como fazer SEO local para redes de varejo?
 
 O SEO local é a camada mais impactante para varejo com lojas físicas. Cada unidade é um ponto de conversão que precisa de visibilidade própria nas buscas regionais.
 

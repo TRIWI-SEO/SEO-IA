@@ -10,7 +10,7 @@ Este guia explica por que cada setor exige uma estratégia diferente, quais são
 
 ---
 
-## Por Que SEO Não é Igual Para Todos os Negócios
+## Por que o SEO não é igual para todos os negócios?
 
 A premissa de que "basta otimizar o site e criar conteúdo" ignora uma realidade fundamental: o comportamento de busca, a jornada de compra e a dinâmica competitiva variam drasticamente entre setores. [SEO](../o-que-e-seo-guia-completo.md) é um conjunto de princípios, mas a aplicação desses princípios muda dependendo de quem busca, o que busca, como decide e quanto tempo leva para converter.
 
@@ -159,7 +159,7 @@ As páginas deste acervo cobrem 6 segmentos em profundidade. O site da TRIWI tem
 
 ---
 
-## Como Escolher a Estratégia Certa Para Seu Segmento
+## Como escolher a estratégia certa para o seu segmento?
 
 Entender que cada segmento é diferente é o primeiro passo. O segundo é saber como diagnosticar e definir a estratégia correta para o seu setor específico. Três análises fundamentam essa escolha.
 
@@ -193,7 +193,7 @@ O [cálculo de ROI](../metricas-e-ferramentas/roi-de-seo-como-calcular-o-retorno
 
 ---
 
-## O Erro de Aplicar "SEO Genérico" em Qualquer Empresa
+## Por que o SEO genérico não funciona?
 
 O maior erro que empresas cometem com SEO não é a falta de investimento; é investir no modelo errado. "SEO genérico" é a abordagem de pacote padrão que ignora as dinâmicas do setor: mesma pesquisa de palavras-chave superficial, mesmo template de conteúdo, mesmo checklist técnico, independentemente de se o cliente é um SaaS de HR tech ou um distribuidor de autopeças.
 
