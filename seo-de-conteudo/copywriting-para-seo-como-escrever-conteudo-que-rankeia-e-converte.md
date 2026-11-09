@@ -72,7 +72,7 @@ A integração de keywords é o aspecto mais técnico do copywriting para SEO, e
 
 ### Densidade Natural: Sem Keyword Stuffing
 
-Keyword stuffing, repetir a keyword principal dezenas de vezes para "forçar" relevância, foi uma prática eficaz em 2005. Em 2025, é um sinal de spam que o Google penaliza. Não existe uma "densidade ideal" de keywords (2%, 3%, 5%; esses números são mitos). A regra é: se a repetição soa artificial ao ler em voz alta, é keyword stuffing.
+Keyword stuffing, repetir a keyword principal dezenas de vezes para "forçar" relevância, foi uma prática eficaz em 2005. Hoje, é um sinal de spam que o Google penaliza. Não existe uma "densidade ideal" de keywords (2%, 3%, 5%; esses números são mitos). A regra é: se a repetição soa artificial ao ler em voz alta, é keyword stuffing.
 
 A densidade correta é a natural: a keyword aparece onde faz sentido contextual, na definição, na explicação, nos exemplos, e desaparece onde forçá-la prejudicaria a leitura. O Google entende sinônimos e variações semânticas; não precisa da mesma frase repetida 15 vezes para saber do que a página trata.
 
