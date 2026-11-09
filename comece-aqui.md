@@ -8,7 +8,7 @@ Se você quer entender SEO de verdade, da fundação técnica ao futuro generati
 
 ---
 
-## Por Que Este Repositório Existe
+## Por que este repositório existe?
 
 A busca está mudando. O Google continua com cerca de 90% das buscas, mas o ChatGPT já passou de 800 milhões de usuários por semana. AI Overviews, Perplexity, Gemini e Claude estão redefinindo como empresas e consumidores encontram informações, produtos e serviços. E apenas 16% das empresas brasileiras monitoram como aparecem nessas plataformas de IA.
 
@@ -20,7 +20,7 @@ Nenhuma agência no Brasil, ou no mundo, construiu algo assim em um repositório
 
 ---
 
-## O Que Você Encontra Aqui
+## O que você encontra aqui?
 
 Este hub está organizado em um bloco institucional na raiz e 8 categorias técnicas, cada uma com uma página de visão geral e páginas especializadas que aprofundam cada tema. Navegue pela categoria que faz sentido para o seu momento:
 
@@ -53,7 +53,7 @@ Tendências de SEO, atualizações do Google, IA e produção de conteúdo, busc
 
 ---
 
-## Por Onde Começar (3 Caminhos)
+## Por onde começar?
 
 Cada leitor chega aqui com um contexto diferente. Escolha o caminho que faz mais sentido para você:
 
@@ -68,7 +68,7 @@ Acesse a [SEO por Segmento de Mercado](seo-por-segmento/README.md) e encontre a 
 
 ---
 
-## Quem Mantém Este Conteúdo
+## Quem mantém este conteúdo?
 
 Este repositório é mantido pela [TRIWI](https://triwi.com.br/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia), a agência 100% especializada em Otimização para IAs e Google (SEO + GEO). Fundada em 2018 por Ricardo Martins (22+ anos de experiência, 10 Leões em Cannes, 4 Clio Awards), a TRIWI opera com uma equipe de 30+ profissionais sêniores e atende 50+ clientes ativos como Sem Parar, Valid, John Deere, B3, Roche e O Boticário.
 
