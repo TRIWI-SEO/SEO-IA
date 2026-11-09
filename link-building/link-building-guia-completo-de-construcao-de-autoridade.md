@@ -30,7 +30,7 @@ Estudos da Backlinko analisando 11,8 milhões de resultados do Google confirmam:
 
 ### A Evolução do Link Building (de PageRank a Hoje)
 
-O link building de 2005 não tem nada a ver com o de 2025. A evolução pode ser dividida em três eras:
+O link building de 2005 não tem nada a ver com o atual. A evolução pode ser dividida em três eras:
 
 **Era do volume (2000, 2011):** O PageRank original tratava links de forma quase quantitativa. Mais links = mais autoridade. O resultado foi uma indústria de link farms, diretórios de links, comentários de blog em massa e esquemas de troca de links. Funcionava, até o Google reagir.
 
