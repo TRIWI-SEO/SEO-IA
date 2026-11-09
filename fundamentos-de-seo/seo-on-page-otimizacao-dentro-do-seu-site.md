@@ -6,7 +6,7 @@ Este guia cobre as técnicas fundamentais de otimização on-page: do title tag 
 
 ---
 
-## O Que é SEO On-Page
+## O que é SEO on-page?
 
 SEO on-page (ou on-site SEO) abrange todas as otimizações que acontecem dentro da página, elementos que o Google lê e avalia para entender sobre o que a página trata, para quais buscas ela é relevante e qual a qualidade do conteúdo oferecido.
 
@@ -18,9 +18,18 @@ A lógica é simples: o Google precisa entender o que sua página oferece antes 
 
 O SEO on-page interage diretamente com os [fatores de rankeamento](fatores-de-rankeamento-do-google.md): a relevância do conteúdo, a correspondência com a intenção de busca, a qualidade editorial e os sinais de [E-E-A-T](../seo-de-conteudo/e-e-a-t-o-framework-do-google-para-qualidade-de-conteudo.md) são todos avaliados a partir dos elementos on-page.
 
+| Elemento | Boa prática |
+|:---|:---|
+| Title tag | Palavra-chave no início, marca no fim, sem cortar no resultado |
+| Meta description | Resumo que convida ao clique, com a palavra-chave |
+| H1 | Um por página, dizendo o tema principal |
+| URL | Curta, legível, com a palavra-chave |
+| Imagens | Texto alternativo descritivo e arquivo leve |
+| Links internos | Texto âncora descritivo apontando para páginas relacionadas |
+
 ---
 
-## Title Tag e Meta Description
+## Como escrever title tag e meta description?
 
 Title tag e meta description são os dois elementos que aparecem diretamente nos resultados de busca do Google. Juntos, eles determinam se o usuário vai clicar no seu resultado ou no do concorrente.
 
@@ -54,7 +63,7 @@ Se você não define uma meta description, o Google gera uma automaticamente a p
 
 ---
 
-## Headings (H1, H2, H3)
+## Como usar headings (H1, H2, H3)?
 
 A estrutura de headings organiza o conteúdo hierarquicamente, tanto para o usuário quanto para o Google. Headings bem estruturados facilitam a leitura, melhoram a acessibilidade e ajudam o algoritmo a identificar os tópicos abordados na página.
 
@@ -104,7 +113,7 @@ A regra de ouro: se ao ler o texto em voz alta as keywords soam forçadas, estã
 
 ---
 
-## URLs, Imagens e Links Internos
+## Como otimizar URLs, imagens e links internos?
 
 Três elementos frequentemente subestimados em SEO on-page, mas que, juntos, fazem diferença significativa no rastreamento, indexação e rankeamento.
 
@@ -130,7 +139,7 @@ A estratégia de pilarização, conceito central da [estratégia de conteúdo da
 
 ---
 
-## Erros Comuns em SEO On-Page
+## Quais são os erros comuns em SEO on-page?
 
 Mesmo profissionais experientes cometem erros de SEO on-page que custam posições. Identificar e corrigir esses erros é frequentemente a ação com maior retorno imediato em um projeto de SEO.
 

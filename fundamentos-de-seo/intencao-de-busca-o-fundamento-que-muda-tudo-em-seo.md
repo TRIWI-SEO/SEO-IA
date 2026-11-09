@@ -6,7 +6,7 @@ Intenção de busca (search intent) é o objetivo real por trás de cada pesquis
 
 ---
 
-## O Que é Intenção de Busca
+## O que é intenção de busca?
 
 Intenção de busca é o "porquê" por trás de cada pesquisa. Quando alguém digita algo no Google, existe uma necessidade específica, aprender algo, encontrar um site, comparar opções ou realizar uma ação. Identificar e atender essa necessidade é a essência do SEO de conteúdo.
 
@@ -26,7 +26,7 @@ Alinhar o conteúdo à intenção do usuário é mais importante do que inserir 
 
 ---
 
-## Os 4 Tipos de Intenção de Busca
+## Quais são os 4 tipos de intenção de busca?
 
 A classificação mais aceita na indústria de SEO divide a intenção de busca em quatro categorias. Cada uma exige um formato, tom e profundidade de conteúdo diferente.
 
@@ -56,9 +56,16 @@ O usuário quer agir: comprar, contratar, assinar, baixar. Está no momento de a
 
 O conteúdo ideal para intenção transacional são páginas de conversão: landing pages, páginas de serviço, páginas de produto, formulários de contato. Textos longos e educativos não funcionam aqui, o usuário quer encontrar como agir, não aprender o conceito.
 
+| Intenção | O que o usuário quer | Exemplo de busca | Formato que atende |
+|:---|:---|:---|:---|
+| Informacional | Aprender ou entender algo | "o que é SEO" | Guia, artigo explicativo, definição |
+| Navegacional | Chegar a um site ou marca | "login search console" | Página da marca ou do produto |
+| Comercial | Comparar antes de decidir | "melhor ferramenta de SEO" | Comparativo, lista, análise |
+| Transacional | Comprar ou contratar | "contratar agência de SEO" | Página de serviço ou de produto |
+
 ---
 
-## Como Identificar a Intenção de Busca de Uma Keyword
+## Como identificar a intenção de busca de uma palavra-chave?
 
 Identificar a intenção correta não é adivinhação; existem métodos práticos e confiáveis para determinar o que o Google (e o usuário) espera para cada busca.
 
@@ -86,7 +93,7 @@ A [pesquisa de palavras-chave](../seo-de-conteudo/pesquisa-de-palavras-chave-com
 
 ---
 
-## Como Alinhar Conteúdo à Intenção de Busca
+## Como alinhar o conteúdo à intenção de busca?
 
 Identificar a intenção é metade do trabalho. A outra metade é criar conteúdo que corresponda precisamente ao que o usuário espera encontrar.
 

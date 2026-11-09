@@ -6,7 +6,7 @@ Esta página detalha os principais fatores de rankeamento organizados em cinco c
 
 ---
 
-## Como o Google Decide Quem Aparece Primeiro
+## Como o Google decide quem aparece primeiro?
 
 Quando um usuário digita uma busca no Google, o algoritmo consulta um índice com bilhões de páginas e retorna resultados ordenados em frações de segundo. Esse processo, detalhado na página [como funciona o Google](como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md), depende de um sistema de pontuação complexo que avalia cada página candidata em centenas de dimensões.
 
@@ -16,9 +16,16 @@ A implicação prática é clara: não existe um "truque" que garanta a primeira
 
 A metodologia da TRIWI cobre sistematicamente todos esses fatores em suas 300+ atividades, do técnico ao conteúdo, da autoridade à otimização para IAs. Essa cobertura completa é o que permite entregar resultados como 100% dos clientes no Top 3 do Google e aumento médio de tráfego de +300%.
 
+| Grupo de fatores | Exemplos | Onde trabalhar |
+|:---|:---|:---|
+| Conteúdo | Relevância para a intenção, profundidade, atualização | Pesquisa de palavras-chave e produção editorial |
+| Técnicos | Rastreabilidade, indexação, velocidade, HTTPS, mobile | SEO técnico |
+| Autoridade | Backlinks de qualidade, menções, E-E-A-T | SEO off-page e digital PR |
+| Experiência do usuário | Core Web Vitals, navegação, ausência de intrusões | Desenvolvimento e UX |
+
 ---
 
-## Fatores de Conteúdo
+## Quais são os fatores de conteúdo?
 
 O conteúdo é o fator mais fundamental do rankeamento. Sem conteúdo relevante, nenhuma otimização técnica ou estratégia de backlinks compensará. O Google existe para entregar a melhor resposta ao usuário, e o conteúdo é essa resposta.
 
@@ -62,7 +69,7 @@ A prática recomendada é manter um calendário de revisão: conteúdo temporal 
 
 ---
 
-## Fatores Técnicos
+## Quais são os fatores técnicos?
 
 Os fatores técnicos compõem a fundação sobre a qual o conteúdo e a autoridade se apoiam. Um site com problemas técnicos graves limita o potencial de rankeamento, o Google precisa conseguir acessar, renderizar e entender o site antes de posicioná-lo. O [SEO Técnico](../seo-tecnico/README.md) aborda essa dimensão em profundidade.
 
@@ -108,7 +115,7 @@ Os tipos de schema mais relevantes para SEO incluem: Organization, Article, Prod
 
 ---
 
-## Fatores de Autoridade
+## Quais são os fatores de autoridade?
 
 Autoridade é o terceiro pilar do SEO, e frequentemente o mais difícil de construir. Enquanto conteúdo e técnica estão sob controle direto, autoridade depende de como o ecossistema digital externo reconhece e valida o seu site.
 
@@ -138,7 +145,7 @@ Na prática, ser mencionado em publicações do setor, reportagens, fóruns e re
 
 ---
 
-## Fatores de Experiência do Usuário
+## Quais são os fatores de experiência do usuário?
 
 A experiência do usuário (UX) ganhou peso crescente nos fatores de rankeamento. O Google quer entregar não apenas conteúdo relevante, mas conteúdo em páginas que proporcionem uma boa experiência de uso.
 

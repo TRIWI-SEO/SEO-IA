@@ -4,7 +4,7 @@ SEO off-page é o conjunto de estratégias realizadas fora do seu site para aume
 
 ---
 
-## O Que é SEO Off-Page
+## O que é SEO off-page?
 
 SEO off-page abrange todas as ações de otimização que acontecem fora das páginas do seu site e que influenciam como o Google avalia sua relevância e confiabilidade. Se o on-page diz ao Google "sobre o que meu site trata", o off-page diz "por que o mercado confia no meu site".
 
@@ -24,7 +24,7 @@ Na prática, isso significa que um [projeto de SEO](../o-que-e-seo-guia-completo
 
 ---
 
-## Backlinks: A Base do Off-Page
+## Por que os backlinks são a base do off-page?
 
 Backlinks são links de outros sites apontando para páginas do seu domínio. Continuam sendo um dos sinais mais fortes que o Google utiliza para avaliar autoridade, e são o componente central de qualquer estratégia de SEO off-page.
 
@@ -56,7 +56,7 @@ Existem três categorias de backlinks, cada uma com um nível diferente de valor
 
 ---
 
-## Além dos Backlinks
+## O que conta no off-page além dos backlinks?
 
 SEO off-page evoluiu além da obsessão exclusiva com backlinks. O Google e as IAs generativas avaliam a presença da marca no ecossistema digital de forma mais ampla, e estratégias modernas de off-page refletem essa evolução.
 
@@ -79,6 +79,13 @@ A fronteira mais recente do SEO off-page é a presença em IAs generativas. Quan
 Monitorar o [Share of Model](../geo-seo-para-ia/share-of-model-como-medir-a-presenca-da-sua-marca-nas-ias.md), a participação da marca nas respostas das LLMs, é a forma de medir essa nova dimensão de autoridade. Marcas que aparecem consistentemente nas respostas de IAs generativas tendem a acumular sinais de autoridade que se retroalimentam: mais citações geram mais visitas, mais visitas geram mais conteúdo compartilhado, mais conteúdo compartilhado gera mais citações.
 
 Essa dimensão é o que conecta SEO off-page com [GEO (Generative Engine Optimization)](../o-que-e-geo-generative-engine-optimization-guia-completo.md), a otimização para IAs generativas não é uma disciplina separada, mas uma extensão natural do trabalho de construção de autoridade.
+
+| Sinal | O que é | Como construir |
+|:---|:---|:---|
+| Backlinks | Links de outros sites para o seu | Conteúdo referência e relacionamento com veículos |
+| Menções de marca | Citações da empresa sem link | Digital PR, eventos, entrevistas |
+| Avaliações | Opiniões de clientes em plataformas | Pedir avaliação no pós-venda e responder todas |
+| Perfis consistentes | Mesmos dados da empresa em toda a web | Revisar diretórios, redes e cadastros |
 
 ---
 

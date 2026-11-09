@@ -4,7 +4,7 @@ Entender como funciona o Google é o primeiro passo para qualquer estratégia de
 
 ---
 
-## Os 3 Processos do Google: Rastreamento, Indexação, Rankeamento
+## Quais são os 3 processos do Google?
 
 O Google funciona em três etapas sequenciais e interdependentes. Cada uma precisa funcionar corretamente para que seu site apareça nos resultados de busca:
 
@@ -14,9 +14,15 @@ O Google funciona em três etapas sequenciais e interdependentes. Cada uma preci
 
 Se o Google não consegue rastrear seu site, ele não será indexado. Se não for indexado, não existe para o algoritmo de rankeamento. E sem rankeamento, nenhum usuário encontrará sua página via busca orgânica. Cada etapa é pré-requisito para a seguinte, e falhas em qualquer uma delas comprometem todo o resultado de [SEO](../o-que-e-seo-guia-completo.md).
 
+| Processo | O que o Google faz | Como influenciar |
+|:---|:---|:---|
+| Rastreamento | O Googlebot descobre e visita as páginas | Links internos, sitemap XML e robots.txt corretos |
+| Indexação | O Google entende e armazena o conteúdo | Conteúdo único, canonical certo, sem noindex indevido |
+| Rankeamento | O Google ordena os resultados para cada busca | Relevância para a intenção, qualidade e autoridade |
+
 ---
 
-## Rastreamento (Crawling)
+## Como funciona o rastreamento (crawling)?
 
 O rastreamento é o processo pelo qual o Google descobre páginas na web. É o ponto de partida de tudo: antes de posicionar qualquer página, o Google precisa encontrá-la e lê-la.
 
@@ -52,7 +58,7 @@ O [SEO Técnico](../seo-tecnico/README.md) trata diretamente dessas questões, e
 
 ---
 
-## Indexação
+## Como funciona a indexação?
 
 Após o rastreamento, vem a indexação, o processo em que o Google analisa, processa e armazena o conteúdo das páginas rastreadas em seu índice. O índice do Google é essencialmente o "catálogo" gigantesco que o algoritmo consulta a cada busca para encontrar resultados relevantes.
 
@@ -92,7 +98,7 @@ A TRIWI utiliza essas ferramentas combinadas com análise de logs de servidor e 
 
 ---
 
-## Rankeamento
+## Como o Google decide o ranking?
 
 O rankeamento é o processo final, e o mais complexo. Quando um usuário faz uma busca, o Google consulta seu índice (bilhões de páginas) e ordena os resultados em frações de segundo, determinando quais páginas aparecem primeiro.
 
@@ -128,7 +134,7 @@ A abordagem estratégica é maximizar a visibilidade total: rankear para o maior
 
 ---
 
-## O Papel da IA no Google Atual
+## Qual o papel da IA no Google hoje?
 
 O Google de hoje não é o mesmo de cinco anos atrás. A inteligência artificial passou de componente auxiliar a peça central da experiência de busca, e isso muda fundamentalmente como o SEO precisa ser pensado e executado.
 

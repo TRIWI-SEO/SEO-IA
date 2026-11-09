@@ -4,7 +4,7 @@ SEO internacional é a disciplina de otimização que garante que o Google exiba
 
 ---
 
-## O Que é SEO Internacional
+## O que é SEO internacional?
 
 SEO internacional abrange o conjunto de estratégias técnicas, de conteúdo e de autoridade necessárias para posicionar um site em resultados de busca de múltiplos países ou idiomas. É uma extensão do [SEO](../o-que-e-seo-guia-completo.md) tradicional que adiciona camadas de complexidade: estrutura de domínio, tags hreflang, localização de conteúdo e construção de autoridade por mercado.
 
@@ -32,7 +32,7 @@ Na prática, muitas empresas precisam de ambos: versões por país E por idioma.
 
 ---
 
-## Estrutura de Domínio para SEO Internacional
+## Qual estrutura de domínio usar no SEO internacional?
 
 A decisão de como estruturar o domínio é uma das mais impactantes em SEO internacional, e uma das mais difíceis de reverter depois de implementada. Existem três abordagens principais, cada uma com trade-offs significativos.
 
@@ -54,9 +54,15 @@ A decisão de como estruturar o domínio é uma das mais impactantes em SEO inte
 
 A decisão depende de fatores como: tamanho da operação, investimento disponível por mercado, maturidade do [SEO técnico](../seo-tecnico/README.md) da equipe e estratégia de longo prazo. Para a maioria das empresas, subpastas com hreflang correto oferecem o melhor equilíbrio entre praticidade e resultado.
 
+| Estrutura | Exemplo | Vantagem | Ponto de atenção |
+|:---|:---|:---|:---|
+| Domínio por país (ccTLD) | empresa.com.br, empresa.pt | Sinal geográfico mais forte | Cada domínio constrói autoridade do zero |
+| Subdomínio | br.empresa.com | Separação técnica simples | Autoridade dividida com o domínio principal |
+| Subdiretório | empresa.com/br/ | Concentra a autoridade em um domínio | Exige hreflang e organização cuidadosa |
+
 ---
 
-## Hreflang: O Tag Que Conecta Versões do Seu Site
+## Para que serve o hreflang?
 
 Hreflang é o atributo HTML que informa ao Google qual versão de uma página serve qual combinação de idioma e país. É a peça técnica central do SEO internacional, sem hreflang correto, o Google não sabe como diferenciar e direcionar as versões do seu site.
 
@@ -92,7 +98,7 @@ A auditoria de hreflang é uma atividade técnica que exige ferramentas específ
 
 ---
 
-## Conteúdo para Múltiplos Mercados
+## Como adaptar o conteúdo para vários mercados?
 
 A dimensão de conteúdo do SEO internacional vai muito além da tradução. Cada mercado tem seu próprio comportamento de busca, suas próprias referências culturais e suas próprias expectativas de conteúdo.
 

@@ -4,7 +4,7 @@ SEO local é o conjunto de estratégias de otimização voltadas para posicionar
 
 ---
 
-## O Que é SEO Local
+## O que é SEO local?
 
 SEO local é a disciplina de otimização focada em aumentar a visibilidade de um negócio nos resultados de busca georreferenciados do Google. Enquanto o SEO orgânico tradicional compete por posições nos resultados globais, o SEO local compete por posições no Local Pack (os 3 resultados com mapa) e no Google Maps.
 
@@ -28,7 +28,7 @@ O ecossistema de SEO local gira em torno de três elementos:
 
 ---
 
-## Fatores de Rankeamento Local
+## Quais fatores definem o ranking local?
 
 O algoritmo de busca local do Google funciona de forma diferente do algoritmo orgânico tradicional. Embora compartilhem fundamentos, como qualidade do conteúdo e autoridade, o rankeamento local adiciona fatores específicos ligados à geolocalização e à reputação local do negócio.
 
@@ -71,7 +71,7 @@ Auditar e corrigir inconsistências de NAP em todos os diretórios e plataformas
 
 ---
 
-## SEO Local vs. SEO Orgânico Tradicional
+## Qual a diferença entre SEO local e SEO orgânico tradicional?
 
 SEO local e SEO orgânico tradicional são disciplinas complementares, não concorrentes. Entender quando priorizar cada um (e como combiná-los) é essencial para maximizar resultados.
 
@@ -89,9 +89,16 @@ A combinação eficaz envolve: manter o Google Business Profile otimizado para c
 
 A TRIWI foca em SEO orgânico e GEO para operações de médio e grande porte. Para empresas com forte componente local, os princípios de otimização são complementares à estratégia orgânica. A [Metodologia TRIWI](../metodologia-triwi.md) integra análise do cenário local quando relevante para o cliente, identificando oportunidades de visibilidade regional que reforçam a presença digital como um todo. Para conhecer mais sobre a abordagem e os segmentos atendidos, veja a página [Sobre a TRIWI](https://triwi.com.br/sobre-a-triwi/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia).
 
+| Aspecto | SEO local | SEO orgânico tradicional |
+|:---|:---|:---|
+| Onde aparece | Pacote de mapas e resultados com localização | Resultados orgânicos em geral |
+| Base principal | Perfil da Empresa no Google | Páginas do site |
+| Sinais fortes | Proximidade, avaliações, dados consistentes | Relevância, autoridade, técnica |
+| Para quem é mais crítico | Negócios com atendimento físico ou regional | Qualquer negócio que vende pela busca |
+
 ---
 
-## Erros Comuns em SEO Local
+## Quais são os erros comuns em SEO local?
 
 SEO local é mais acessível que o orgânico tradicional, mas isso não significa que seja simples. Erros básicos custam posições no Local Pack e, consequentemente, ligações, visitas e receita.
 
