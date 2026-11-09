@@ -8,7 +8,7 @@ Esta página é o ponto de partida para entender SEO de forma completa: da defin
 
 ---
 
-## O Que é SEO: Definição Completa
+## O que é SEO?
 
 SEO é a disciplina do marketing digital focada em aumentar a quantidade e a qualidade do tráfego orgânico de um site por meio da otimização para mecanismos de busca. O termo vem do inglês Search Engine Optimization e abrange desde ajustes técnicos na estrutura do site até a criação de conteúdo estratégico e a construção de autoridade digital.
 
@@ -68,7 +68,7 @@ Na experiência da TRIWI com 50+ clientes ativos, o retorno acumulado de SEO sup
 
 ---
 
-## Como Funciona o SEO na Prática
+## Como funciona o SEO na prática?
 
 Entender SEO na prática exige ir além da teoria. SEO funciona como um sistema integrado de otimizações que, juntas, sinalizam aos mecanismos de busca que seu site é a melhor resposta para determinadas consultas. O [Google](fundamentos-de-seo/como-funciona-o-google-rastreamento-indexacao-e-rankeamento.md) avalia centenas de fatores para determinar quem merece as primeiras posições, e o trabalho de SEO é otimizar sistematicamente esses fatores.
 
@@ -94,7 +94,7 @@ A [Metodologia TRIWI](metodologia-triwi.md) opera exatamente nesse modelo: ciclo
 
 ---
 
-## Tipos de SEO
+## Quais são os tipos de SEO?
 
 SEO não é uma disciplina monolítica. Existem diferentes vertentes, cada uma com foco e técnicas específicas. Entender os tipos de SEO ajuda a identificar onde estão as maiores oportunidades para o seu negócio, e onde a estratégia precisa de mais atenção.
 
@@ -132,9 +132,18 @@ Além das IAs generativas, o próprio Google integrou respostas de IA nos result
 
 A TRIWI é pioneira em GEO no Brasil e monitora o Share of Model, a participação da marca do cliente nas respostas das LLMs. Os resultados são concretos: o Sem Parar teve +6.400% em AI Overview e +350% em tráfego de LLMs; a Valid/Flexdoc alcançou +2.000% em AI Overview e +700% em tráfego de LLMs. Para entender a estratégia completa, veja [O Que é GEO](o-que-e-geo-generative-engine-optimization-guia-completo.md).
 
+| Tipo | O que cobre | Exemplo de ação |
+|:---|:---|:---|
+| On-page | Elementos dentro de cada página | Title, headings, conteúdo e links internos |
+| Técnico | Infraestrutura que permite rastrear e indexar | Velocidade, sitemap, canonical, dados estruturados |
+| Off-page | Sinais de autoridade fora do site | Backlinks, menções de marca, digital PR |
+| Conteúdo | Planejamento e produção para a intenção de busca | Clusters temáticos, pilares e conteúdos de apoio |
+| Local | Presença nas buscas da região | Perfil da Empresa no Google e avaliações |
+| GEO | Presença nas respostas das IAs generativas | Conteúdo citável e autoridade de entidade |
+
 ---
 
-## SEO para Diferentes Tipos de Negócio
+## Como o SEO muda para cada tipo de negócio?
 
 SEO não é "tamanho único". A estratégia, as prioridades e as métricas de sucesso variam significativamente de acordo com o modelo de negócio, o segmento de mercado e o comportamento do público-alvo.
 
@@ -164,7 +173,7 @@ A TRIWI atende todos esses segmentos, com cases e resultados comprovados em cada
 
 ---
 
-## Quanto Tempo Leva para Ter Resultados com SEO
+## Quanto tempo leva para ter resultados com SEO?
 
 Uma das perguntas mais frequentes, e uma onde a transparência é essencial. SEO é uma estratégia de médio e longo prazo, e qualquer profissional ou agência que prometa "resultado imediato" está omitindo a realidade de como os mecanismos de busca funcionam.
 
@@ -192,7 +201,7 @@ O melhor momento para começar um projeto de SEO foi há 12 meses. O segundo mel
 
 ---
 
-## Erros Mais Comuns em SEO
+## Quais são os erros mais comuns em SEO?
 
 Depois de mais de 50 projetos ativos e centenas de auditorias realizadas, a TRIWI identificou padrões recorrentes de erros que comprometem resultados de SEO. Conhecê-los é o primeiro passo para evitá-los.
 
