@@ -2,6 +2,8 @@
 
 GEO, Generative Engine Optimization, é a disciplina de otimização que garante que sua marca, seus produtos e seu conteúdo sejam citados nas respostas de IAs generativas como ChatGPT, Gemini, Claude e Perplexity. Enquanto o SEO tradicional posiciona páginas nos resultados de busca do Google, o GEO posiciona sua empresa como a resposta que as IAs entregam diretamente ao usuário, sem lista de links, sem 10 resultados azuis, sem clique intermediário.
 
+> **Versão completa no site:** o [Guia de GEO: Otimização para IAs](https://triwi.com.br/guias/geo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-geo-generative-engine-optimization-guia-completo) da TRIWI aprofunda este tema e é atualizado continuamente.
+
 O conceito surgiu da necessidade: em 2025 o ChatGPT passou de 800 milhões de usuários por semana e de 2,5 bilhões de mensagens por dia ([Business Insider](https://www.aol.com/articles/3-years-old-800-million-090107388.html)), e o Google levou os AI Overviews para o topo de uma parte crescente das buscas. A forma como as pessoas buscam informação mudou, e a forma como as empresas precisam ser encontradas mudou junto.
 
 Este é o guia completo sobre GEO: o que é, por que existe, como funciona, quais são os pilares da otimização para IAs generativas e como implementar uma estratégia que coloque sua marca nas respostas das LLMs. A TRIWI, pioneira em GEO no Brasil e uma das primeiras agências a incorporar otimização para IAs em sua metodologia, compartilha aqui o conhecimento que aplica diariamente com mais de 50 clientes ativos.
@@ -264,6 +266,10 @@ Na experiência da TRIWI com 50+ clientes, os resultados de GEO mais expressivos
 **Contato Seguro:** Especializada em soluções de contato, alcançou 65% das vendas via orgânico, +654% de tráfego orgânico, +1.100% de tráfego proveniente de LLMs e +430% de palavras no Top 10 do Google. O caso demonstra como GEO pode ser especialmente impactante para empresas com ciclo de venda consultivo, onde a confiança construída pela presença nas IAs influencia diretamente a conversão.
 
 Esses resultados não são pontos fora da curva. São o que acontece quando uma estratégia de GEO é executada com profundidade, consistência e integração com SEO. 100% dos clientes da TRIWI chegaram ao Top 3 do Google, e os resultados em GEO seguem a mesma trajetória ascendente.
+
+> **Versão completa no site:** o [Guia de GEO: Otimização para IAs](https://triwi.com.br/guias/geo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-geo-generative-engine-optimization-guia-completo) da TRIWI aprofunda este tema e é atualizado continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ## Fontes
 

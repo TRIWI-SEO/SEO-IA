@@ -2,6 +2,8 @@
 
 SEO (Search Engine Optimization), ou Otimização para Mecanismos de Busca, é o conjunto de estratégias, técnicas e práticas que posiciona sites nas primeiras posições dos resultados orgânicos do Google e de outros buscadores. Diferente da mídia paga, onde você paga por cada clique, o SEO constrói visibilidade sustentável que gera tráfego orgânico qualificado de forma contínua, sem custo por acesso. Em um cenário onde 90% das buscas acontecem no Google e 55% dos cliques vão para resultados orgânicos, dominar SEO é dominar o canal de aquisição mais rentável do marketing digital.
 
+> **Versão completa no site:** o [Guia de SEO](https://triwi.com.br/guias/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-seo-guia-completo) da TRIWI aprofunda este tema e é atualizado continuamente.
+
 Esta página é o ponto de partida para entender SEO de forma completa: da definição à aplicação prática, dos pilares fundamentais aos erros mais comuns, dos tipos de SEO ao tempo real de resultado. Se você busca construir presença digital que gera resultados de negócio, leads, vendas, redução de CAC, este guia foi escrito para você.
 
 ---
@@ -213,6 +215,10 @@ Hoje, ignorar a dimensão de IA no SEO é tão arriscado quanto ignorar mobile h
 Empresas que otimizam apenas para o Google "tradicional" estão deixando uma fatia crescente de visibilidade, e de receita, na mesa. [GEO (Generative Engine Optimization)](o-que-e-geo-generative-engine-optimization-guia-completo.md) não é futuro: é presente. E os dados da TRIWI comprovam: clientes com estratégia de GEO integrada ao SEO apresentam crescimento médio de +350% a +1.100% em tráfego de LLMs.
 
 Poucas empresas brasileiras monitoram como aparecem nas plataformas de IA. Isso representa uma janela de oportunidade enorme para quem agir agora.
+
+> **Versão completa no site:** o [Guia de SEO](https://triwi.com.br/guias/seo/?utm_source=github&utm_medium=referral&utm_campaign=repo-seo-ia&utm_content=o-que-e-seo-guia-completo) da TRIWI aprofunda este tema e é atualizado continuamente.
+
+*Por equipe de SEO da TRIWI, com revisão de Ricardo Martins, fundador. Publicado em 25/08/2026. Atualizado em 09/11/2026.*
 
 ## Fontes
 
